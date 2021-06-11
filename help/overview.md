@@ -1,16 +1,16 @@
 ---
-title: Journey OptimizerTutorials — 概述
-description: 这是文章概述。
+title: Journey Optimizer视频和Tutorials
+description: 本用户指南包含有关AdobeJourney Optimizer的特性和功能的视频和教程。
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: ebef937be65cfd99deea15f91534627a05e7a61e
+source-git-commit: 379f3781e8d594fe7be4d9fdfabd4bcbe5a132a9
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 36%
+source-wordcount: '77'
+ht-degree: 31%
 
 ---
 
 
-# Journey OptimizerTutorials — 概述
+# Journey Optimizer视频和Tutorials
 
 ![](./assets/ajo-banner.png)
 
