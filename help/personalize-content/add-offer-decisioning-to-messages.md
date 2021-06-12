@@ -1,17 +1,17 @@
 ---
-title: '[AJO]将选件添加为个性化'
+title: 将选件添加为个性化
 description: 了解如何向Journey Optimizer中的消息添加offer decisioning组件。
-KT: 8033
+kt: 8033
 thumbnail: 334086.jpg
 feature: 个性化
 doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
-source-git-commit: 155488b1969cdd7ecea090daf77bac63a62de893
+source-git-commit: b2088add97c592d1d9d1f360217370630214cbfa
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 22%
+source-wordcount: '60'
+ht-degree: 23%
 
 ---
 
