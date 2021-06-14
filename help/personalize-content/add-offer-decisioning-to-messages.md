@@ -8,10 +8,10 @@ doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
-source-git-commit: bad49acacba7c110fceecc4d21b8d2b2d2c9befd
+source-git-commit: 1debd81aa3cc2fa8d20a514b07a4278f1a02f13a
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 23%
+source-wordcount: '71'
+ht-degree: 19%
 
 ---
 
@@ -26,3 +26,4 @@ ht-degree: 23%
 
 * [Offer Decisioning 视频和教程](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html?lang=zh-Hans)
 * [关于决策管理（文档）](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/starting-offer-decisioning.html)
+* [添加个性化优惠（文档）](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/deliver-personalized-offers.html)
