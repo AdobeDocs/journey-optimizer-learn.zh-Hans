@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer学习Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 以下是Journey Optimizer学习Tutorials。
-source-git-commit: fd49b5aa72d3e23ebadedb67a19e1e16be7f390e
+source-git-commit: 4089dacbf87aa7eca7900ecf50ec2389e8338fe2
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 14%
+source-wordcount: '66'
+ht-degree: 15%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 14%
    + 决策管理配置{#decision-management-configuration}
    + 历程配置{#journey-configuration}
 + 创建消息 {#create-messages}
-   + [使用消息编辑器导入和创作电子邮件内容](/help/create-messages/import-and-author-html-email-content.md)
+   + [导入和创作HTML电子邮件内容](/help/create-messages/import-and-author-html-email-content.md)
 + 个性化内容{#personalize-content}
    + [基于用户档案和区段成员资格的个性化](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
    + [将选件添加为个性化](/help/personalize-content/add-offer-decisioning-to-messages.md)
