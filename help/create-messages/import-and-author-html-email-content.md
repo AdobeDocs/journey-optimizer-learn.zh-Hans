@@ -8,10 +8,10 @@ doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
-source-git-commit: fd49b5aa72d3e23ebadedb67a19e1e16be7f390e
+source-git-commit: 486159fbdacf5e209f6e173a4b44854fd41e088a
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 2%
+source-wordcount: '113'
+ht-degree: 6%
 
 ---
 
@@ -24,4 +24,6 @@ ht-degree: 2%
 
 ## 其他资源
 
-[导入或编码电子邮件内容（文档）](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/existing-content.html)
+* [导入或编码电子邮件内容（文档）](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/existing-content.html)
+* [电子邮件设计入门 — Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/design-emails.html)
+* [使用电子邮件设计器内容组件](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/design-emails.html)
