@@ -2,10 +2,10 @@
 title: Journey Optimizer视频和Tutorials
 description: 本用户指南包含有关Adobe Journey Optimizer特性和功能的视频和教程。
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: ea9765d4cc39c5d5346c0a3f120c6d109f8d1052
+source-git-commit: d2f39bb7d8e1688f6b6f20096cc6cda4242366c8
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 17%
+source-wordcount: '146'
+ht-degree: 16%
 
 ---
 
@@ -18,7 +18,6 @@ Journey Optimizer可帮助公司为客户提供连接、情境式和个性化的
 
 本用户指南包含有关Adobe Journey Optimizer特性和功能的视频和教程。
 
-## 员工精选
 <table>
 <tr>
   <td>
