@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer学习Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 以下是Journey Optimizer学习Tutorials。
-source-git-commit: cd5b1ca18650e4b79564753e52fe7bc00d37bcbe
+source-git-commit: f885d20058826ac9e9c004c8d3544676c36a6e5c
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 12%
+source-wordcount: '98'
+ht-degree: 11%
 
 ---
 
@@ -33,5 +33,7 @@ ht-degree: 12%
    + [将选件添加为个性化](/help/personalize-content/add-offer-decisioning-to-messages.md)
    + [使用上下文事件信息进行个性化](/help/personalize-content/use-contextual-event-information-for-personalization.md)
 + 创建历程{#create-journeys}
+   + [用例 — 事务型历程](/help/create-journeys/use-case-transactional-journey.md)
+   + [用例 — 读取区段](/help/create-journeys/use-case-read-segment.md)
 + 报告和监视{#report-and-monitor}
    + [实时和全局报表](/help/report-and-monitor/live-and-global-reports.md)
