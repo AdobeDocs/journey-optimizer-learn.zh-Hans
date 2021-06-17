@@ -1,6 +1,6 @@
 ---
-title: 用例 — 读取区段历程
-description: 了解事务性历程的适用用例。 了解如何构建事务性历程以及要应用的最佳实践。
+title: 用例 — 读取区段
+description: 了解读取区段历程的适用用例。 了解如何构建基于批处理的历程以及应用哪些最佳实践。
 kt: 7964
 thumbnail: 334206.jpg
 feature: 历程
@@ -8,15 +8,15 @@ doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
-source-git-commit: f885d20058826ac9e9c004c8d3544676c36a6e5c
+source-git-commit: 07b06306507534f793b0950a586925c34c6a2062
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
-# 用例 — 读取区段历程
+# 用例 — 读取区段
 
 了解读取区段历程的适用用例。 了解如何构建基于批处理的历程以及应用哪些最佳实践。
 
