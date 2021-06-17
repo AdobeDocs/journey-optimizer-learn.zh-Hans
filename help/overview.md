@@ -2,10 +2,10 @@
 title: Journey Optimizer视频和Tutorials
 description: 本用户指南包含有关Adobe Journey Optimizer特性和功能的视频和教程。
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: d2f39bb7d8e1688f6b6f20096cc6cda4242366c8
+source-git-commit: 59a67f82a74618305ea1447f2be824173538b0e3
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 16%
+source-wordcount: '148'
+ht-degree: 17%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 16%
 Journey Optimizer可帮助公司为客户提供连接、情境式和个性化的体验。 客户历程是客户与品牌互动的整个过程，从接触的第一刻起直到客户离开。
 
 本用户指南包含有关Adobe Journey Optimizer特性和功能的视频和教程。
+
+## 员工精选
 
 <table>
 <tr>
