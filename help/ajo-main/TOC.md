@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer学习Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 以下是Journey Optimizer学习Tutorials。
-source-git-commit: 1b001cbc9d83d5cc73c7ebb74182d3f359f39d9e
+source-git-commit: cd5b1ca18650e4b79564753e52fe7bc00d37bcbe
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 11%
+source-wordcount: '90'
+ht-degree: 12%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 11%
    + [Journey Optimizer简介](/help/introduction/introduction.md)
    + [Journey Optimizer概述第1部分](/help/introduction/journey-optimizer-overview-part-1.md)
    + [Journey Optimizer概述第2部分](/help/introduction/journey-optimizer-overview-part-2.md)
+   + [架构](/help/introduction/architecture.md)
 + 入门指南 {#get-started}
    + [访问管理](/help/set-up-access/access-management.md)
    + 数据源配置 {#data-source-configuration}
