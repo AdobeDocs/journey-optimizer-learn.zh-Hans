@@ -2,9 +2,9 @@
 user-guide-title: Journey Optimizer学习Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 以下是Journey Optimizer学习Tutorials。
-source-git-commit: f10e783ce8a830fd41da567ddadbf6b17b55a1af
+source-git-commit: 638d5d7727d0e653d8f31cefdf8a5c311f11eec9
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '143'
 ht-degree: 9%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 9%
    + [架构](/help/introduction/architecture.md)
 + 入门指南 {#get-started}
    + [访问管理](/help/set-up-access/access-management.md)
+   + [创建和管理沙箱](/help/set-up-access/create-and-manage-sandboxes.md)
    + 数据配置{#data-configuration}
       + [创建数据集并摄取数据](/help/set-up-data/create-datasets-and-ingest-data.md)
    + 通道配置{#channel-configuration}
