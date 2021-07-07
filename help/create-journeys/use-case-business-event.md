@@ -1,6 +1,6 @@
 ---
-title: 用例 — 业务事件
-description: 了解业务事件的适用用例。 了解如何使用业务事件构建历程以及要应用的最佳实践。
+title: 用例 - 商业事件
+description: 了解商业事件的适用用例。 了解如何使用商业事件构建历程以及可以应用的最佳实践。
 kt: 7703
 thumbnail: 334234.jpg
 feature: 历程
@@ -8,16 +8,16 @@ doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
-source-git-commit: fed061df079725072387b24ed57303f66791c2bf
-workflow-type: tm+mt
+exl-id: 38be6d24-2760-4fb4-b5d4-c9be53419e6e
+source-git-commit: ea5e6412db4fae88122c7c17d8432dcea4997ad3
+workflow-type: ht
 source-wordcount: '57'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
+# 用例 - 商业事件
 
-# 用例 — 业务事件
-
-了解业务事件的适用用例。 了解如何使用业务事件构建历程以及要应用的最佳实践。
+了解商业事件的适用用例。 了解如何使用商业事件构建历程以及可以应用的最佳实践。
 
 >[!VIDEO](https://video.tv.adobe.com/v/334234?quality=12)
