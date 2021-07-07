@@ -1,6 +1,6 @@
 ---
-title: 使用用户档案和区段成员资格进行个性化
-description: 了解如何向消息添加基于用户档案的个性化，以及如何将区段成员资格用作个性化块的先决条件。
+title: 使用用户档案和区段会员资格进行个性化
+description: 了解如何在消息中添加基于用户档案的个性化设置，以及如何将区段会员资格用作个性化块的先决条件。
 kt: 8024
 thumbnail: 334078.jpg
 feature: 个性化
@@ -8,23 +8,23 @@ doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
-source-git-commit: cd5b1ca18650e4b79564753e52fe7bc00d37bcbe
-workflow-type: tm+mt
+exl-id: 3a11a1ac-9bc7-4485-a1c2-a6b1beabcce4
+source-git-commit: ea5e6412db4fae88122c7c17d8432dcea4997ad3
+workflow-type: ht
 source-wordcount: '117'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
+# 使用用户档案和区段会员资格进行个性化
 
-# 使用用户档案和区段成员资格进行个性化
-
-了解如何向消息添加基于用户档案的个性化，以及如何将区段成员资格用作个性化块的先决条件。
+了解如何在消息中添加基于用户档案的个性化设置，以及如何将区段会员资格用作个性化块的先决条件。
 
 >[!VIDEO](https://video.tv.adobe.com/v/334078?quality=12)
 
 ## 其他资源
 
-* [开始在Journey Optimizer中进行个性化](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalize.html)
-* [用例：在推送通知中添加个性化](https://experienceleague.corp.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalization-use-case.html)
-* [了解个性化语法](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalization-syntax.html)
-* [使用帮助程序函数](https://experienceleague-review.corp.adobe.com/docs/journey-optimizer/using/create-messages/personalization/functions/functions.html)
+* [ Journey Optimizer 中的个性化操作入门](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalize.html?lang=zh-Hans)
+* [用例：在推送通知中添加个性化设置](https://experienceleague.corp.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalization-use-case.html?lang=zh-Hans)
+* [了解个性化语法](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalization-syntax.html?lang=zh-Hans)
+* [使用辅助函数](https://experienceleague-review.corp.adobe.com/docs/journey-optimizer/using/create-messages/personalization/functions/functions.html?lang=zh-Hans)
