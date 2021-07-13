@@ -6,11 +6,11 @@ thumbnail: 334239.jpg
 feature: 电子邮件设计、收件箱呈现、电子邮件呈现
 doc-type: feature video
 team: PM
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 01c15f13-a804-45c3-94b0-ecd46586cc4f
-source-git-commit: ea5e6412db4fae88122c7c17d8432dcea4997ad3
-workflow-type: ht
+source-git-commit: 55cb22765457ad34f7deb45114d06aaa5c4466fc
+workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 100%
 
