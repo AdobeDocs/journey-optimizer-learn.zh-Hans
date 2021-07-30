@@ -2,10 +2,10 @@
 title: Journey Optimizer 视频和教程
 description: 本用户指南包含有关 Adobe Journey Optimizer 特性和功能的视频和教程。
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 59a67f82a74618305ea1447f2be824173538b0e3
-workflow-type: ht
-source-wordcount: '148'
-ht-degree: 100%
+source-git-commit: 2799f18144fc994e47f63368655006e8d1f09f79
+workflow-type: tm+mt
+source-wordcount: '177'
+ht-degree: 84%
 
 ---
 
@@ -17,6 +17,12 @@ ht-degree: 100%
 Journey Optimizer 帮助企业为其客户提供贴合心意的、情境式和个性化的体验。客户历程是客户与品牌互动的整个过程，从接触的第一刻起直到客户离开。
 
 本用户指南包含有关 Adobe Journey Optimizer 特性和功能的视频和教程。
+
+## 新增功能
+
+* **[用例 — 突发消息](/help/create-journeys/use-case-read-burst-message.md)**
+
+   *了解突发消息的适用用例。了解如何配置突发消息的历程以及要应用的最佳实践。*
 
 ## 员工精选
 
