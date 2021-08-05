@@ -2,10 +2,10 @@
 title: Journey Optimizer 视频和教程
 description: 本用户指南包含有关 Adobe Journey Optimizer 特性和功能的视频和教程。
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 666a96d7fb4650f108ecbc947f6da73f5c1f2a15
+source-git-commit: 766a1eb9bfdfd65c08f1c6a442d7f731df22f346
 workflow-type: tm+mt
-source-wordcount: '193'
-ht-degree: 77%
+source-wordcount: '265'
+ht-degree: 57%
 
 ---
 
@@ -19,6 +19,18 @@ Journey Optimizer 帮助企业为其客户提供贴合心意的、情境式和�
 本用户指南包含有关 Adobe Journey Optimizer 特性和功能的视频和教程。
 
 ## 新增功能
+
+* **[设置数据 — 概述](/help/set-up-data/set-up-data-overview.md)**
+
+   *了解实时客户配置文件数据以及为Journey Optimizer设置客户配置文件数据所需的步骤。*
+
+* **[映射标识](/help/set-up-data/map-identities.md)**
+
+   *了解如何以及何时将架构字段标记为身份，如何创建命名空间，何时将身份设为主标识，以及如何摄取和验证身份数据。*
+
+* **[配置数据源](/help/set-up-data/configure-data-sources.md)**
+
+   *了解源连接器以及如何在Journey Optimizer中配置它们*
 
 * **[构建历程的简介](/help/create-journeys/introduction-to-building-a-journey.md)**
 
