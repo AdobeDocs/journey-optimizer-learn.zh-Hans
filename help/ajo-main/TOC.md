@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 学习教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 以下是 Journey Optimizer 学习教程。
-source-git-commit: 0098487cdb38c4acaedfc8608ce0d2f53b2dfe45
+source-git-commit: dcd0c4342392f4eed800d8a03b1ff21fe9d76e84
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 87%
+source-wordcount: '161'
+ht-degree: 88%
 
 ---
 
@@ -24,10 +24,10 @@ ht-degree: 87%
    + [创建和管理沙箱](/help/set-up-access/create-and-manage-sandboxes.md)
    + 数据配置{#data-configuration}
       + [概述](/help/set-up-data/set-up-data-overview.md)
-      + [[创建架构](/help/set-up-data/create-schema.md)
+      + [创建架构](/help/set-up-data/create-schema.md)
       + [映射标识](/help/set-up-data/map-identities.md)
       + [创建数据集并摄取数据](/help/set-up-data/create-datasets-and-ingest-data.md)
-      + [配置源](/help/set-up-data/configure-sources.md)
+      + [配置数据源](/help/set-up-data/configure-data-sources.md)
    + 渠道配置{#channel-configuration}
       + [设置电子邮件渠道](/help/set-up-email-channel/set-up-email-channel.md)
    + 决策管理配置{#decision-management-configuration}
