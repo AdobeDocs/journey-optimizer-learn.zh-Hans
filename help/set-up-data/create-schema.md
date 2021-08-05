@@ -8,10 +8,10 @@ doc-type: feature video
 team: PM
 role: Developer
 level: Beginner
-source-git-commit: e920c13276400fbb69467818cf49c2dfa46f28ca
+source-git-commit: 0098487cdb38c4acaedfc8608ce0d2f53b2dfe45
 workflow-type: tm+mt
 source-wordcount: '59'
-ht-degree: 5%
+ht-degree: 38%
 
 ---
 
@@ -24,4 +24,4 @@ ht-degree: 5%
 
 ## 其他资源
 
-* [创建架构、数据集并摄取数据以添加测试用户档案](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/about-journeys/creating-test-profiles.html)
+* [创建架构、数据集并摄取数据以添加测试用户档案](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/about-journeys/creating-test-profiles.html?lang=zh-Hans)
