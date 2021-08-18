@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 学习教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 以下是 Journey Optimizer 学习教程。
 source-git-commit: dcd0c4342392f4eed800d8a03b1ff21fe9d76e84
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '161'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 88%
    + 数据配置{#data-configuration}
       + [概述](/help/set-up-data/set-up-data-overview.md)
       + [创建架构](/help/set-up-data/create-schema.md)
-      + [映射标识](/help/set-up-data/map-identities.md)
+      + [映射身份](/help/set-up-data/map-identities.md)
       + [创建数据集并摄取数据](/help/set-up-data/create-datasets-and-ingest-data.md)
       + [配置数据源](/help/set-up-data/configure-data-sources.md)
    + 渠道配置{#channel-configuration}
@@ -50,7 +50,7 @@ ht-degree: 88%
    + [用例 - 读取区段](/help/create-journeys/use-case-read-segment.md)
    + [用例 - 商业事件](/help/create-journeys/use-case-business-event.md)
    + [用例 - 区段鉴别](/help/create-journeys/use-case-read-segment-qualification.md)
-   + [用例 — 突发消息](/help/create-journeys/use-case-read-burst-message.md)
+   + [用例：突发消息](/help/create-journeys/use-case-read-burst-message.md)
    + [测试历程](/help/create-journeys/test-a-journey.md)
    + [发布历程](/help/create-journeys/publish-a-journey.md)
 + 报告和监测{#report-and-monitor}
