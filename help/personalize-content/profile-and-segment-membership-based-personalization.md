@@ -12,7 +12,7 @@ exl-id: 3a11a1ac-9bc7-4485-a1c2-a6b1beabcce4
 source-git-commit: 4d8bf022ca43aa219719140f5b72bccf50c700d7
 workflow-type: tm+mt
 source-wordcount: '114'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -25,6 +25,6 @@ ht-degree: 92%
 ## 其他资源
 
 * [ Journey Optimizer 中的个性化操作入门](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalization/personalize.html?lang=zh-Hans)
-* [用例：在推送通知中添加个性化设置](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalization/personalization-use-cases/personalization-use-case.html)
+* [用例：在推送通知中添加个性化设置](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalization/personalization-use-cases/personalization-use-case.html?lang=zh-Hans)
 * [了解个性化语法](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalization/personalization-syntax.html?lang=zh-Hans)
 * [使用辅助函数](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalization/functions/functions.html?lang=zh-Hans)
