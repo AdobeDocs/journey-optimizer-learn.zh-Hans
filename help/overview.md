@@ -2,10 +2,10 @@
 title: Journey Optimizer 视频和教程
 description: 本用户指南包含有关 Adobe Journey Optimizer 特性和功能的视频和教程。
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 16d5e81f4fc19c62dbc700ff1dfdb06cd9d01662
+source-git-commit: 21123c70cfc929dccb8dcf65e1939e2dd367a0ec
 workflow-type: tm+mt
-source-wordcount: '283'
-ht-degree: 93%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -20,25 +20,13 @@ Journey Optimizer 帮助企业为其客户提供贴合心意的、情境式和�
 
 ## 新增功能
 
-* ** [创建事件](/help/set-up-journeys/create-events.md)**
+* **[创建事件](/help/set-up-journeys/create-events.md)**
 
    *了解如何配置事件、指定流端点和事件的有效负载。*
-
-* **[设置数据：概述](/help/set-up-data/set-up-data-overview.md)**
-
-   *了解实时客户配置文件数据以及为 Journey Optimizer 设置客户配置文件数据所需的步骤。*
-
-* **[映射身份](/help/set-up-data/map-identities.md)**
-
-   *了解如何以及何时将模式字段标记为身份，如何创建命名空间，何时将某个身份设为主要身份，以及如何摄取和验证身份数据。*
 
 * **[配置数据源](/help/set-up-data/configure-data-sources.md)**
 
    *了解源连接器以及如何在 Journey Optimizer 中配置它们*
-
-* **[构建历程的简介](/help/create-journeys/introduction-to-building-a-journey.md)**
-
-   *了解在历程画布中构建历程的基础知识。*
 
 * **[用例：突发消息](/help/create-journeys/use-case-read-burst-message.md)**
 
