@@ -2,10 +2,10 @@
 title: Journey Optimizer 视频和教程
 description: 本用户指南包含有关 Adobe Journey Optimizer 特性和功能的视频和教程。
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 766a1eb9bfdfd65c08f1c6a442d7f731df22f346
-workflow-type: ht
-source-wordcount: '265'
-ht-degree: 100%
+source-git-commit: 16d5e81f4fc19c62dbc700ff1dfdb06cd9d01662
+workflow-type: tm+mt
+source-wordcount: '283'
+ht-degree: 93%
 
 ---
 
@@ -19,6 +19,10 @@ Journey Optimizer 帮助企业为其客户提供贴合心意的、情境式和�
 本用户指南包含有关 Adobe Journey Optimizer 特性和功能的视频和教程。
 
 ## 新增功能
+
+* ** [创建事件](/help/set-up-journeys/create-events.md)**
+
+   *了解如何配置事件、指定流端点和事件的有效负载。*
 
 * **[设置数据：概述](/help/set-up-data/set-up-data-overview.md)**
 
