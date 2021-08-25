@@ -2,7 +2,7 @@
 user-guide-title: Journey Optimizer 学习教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 以下是 Journey Optimizer 学习教程。
-source-git-commit: c60c70732efc32ff18137b56fc54bbfd43ef256b
+source-git-commit: 4e7a0aadefdc9b48b189aface23f97dac819c758
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 98%
@@ -19,22 +19,22 @@ ht-degree: 98%
    + [Journey Optimizer 概述第 2 部分](/help/introduction/journey-optimizer-overview-part-2.md)
    + [主要功能和用户界面](/help/introduction/key-capabilities-and-user-interface.md)
    + [架构](/help/introduction/architecture.md)
-+ 入门 {#get-started}
++ 访问控制 {#access-control}
    + [访问管理](/help/set-up-access/access-management.md)
    + [创建和管理沙箱](/help/set-up-access/create-and-manage-sandboxes.md)
-   + 数据配置{#data-configuration}
-      + [概述](/help/set-up-data/set-up-data-overview.md)
-      + [创建架构](/help/set-up-data/create-schema.md)
-      + [映射身份](/help/set-up-data/map-identities.md)
-      + [创建数据集并摄取数据](/help/set-up-data/create-datasets-and-ingest-data.md)
-      + [配置数据源](/help/set-up-data/configure-data-sources.md)
-   + 渠道配置{#channel-configuration}
-      + [设置电子邮件渠道](/help/set-up-email-channel/set-up-email-channel.md)
-   + 决策管理配置{#decision-management-configuration}
-   + 历程配置{#journey-configuration}
-      + [配置数据源](/help/set-up-journeys/configure-data-sources.md)
-      + [创建事件](/help/set-up-journeys/create-events.md)
-      + [创建操作](/help/set-up-journeys/create-actions.md)
++ 数据配置{#data-configuration}
+   + [概述](/help/set-up-data/set-up-data-overview.md)
+   + [创建架构](/help/set-up-data/create-schema.md)
+   + [映射身份](/help/set-up-data/map-identities.md)
+   + [创建数据集并摄取数据](/help/set-up-data/create-datasets-and-ingest-data.md)
+   + [配置数据源](/help/set-up-data/configure-data-sources.md)
++ 渠道配置{#channel-configuration}
+   + [设置电子邮件渠道](/help/set-up-email-channel/set-up-email-channel.md)
++ 决策管理配置{#decision-management-configuration}
++ 历程配置{#journey-configuration}
+   + [配置数据源](/help/set-up-journeys/configure-data-sources.md)
+   + [创建事件](/help/set-up-journeys/create-events.md)
+   + [创建操作](/help/set-up-journeys/create-actions.md)
 + [创建区段](/help/set-up-resources/create-segments.md)
 + 创建消息{#create-messages}
    + [使用消息编辑器创建电子邮件内容](/help/create-messages/create-email-content-with-the-message-editor.md)
