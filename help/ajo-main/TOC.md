@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 学习教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 以下是 Journey Optimizer 学习教程。
-source-git-commit: a62665e1dc7151370e2edfed7607a890bfc97192
+source-git-commit: f20dcf654fc2e552b4936860a99b825e40c0e2c6
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '163'
+ht-degree: 96%
 
 ---
 
@@ -51,7 +51,7 @@ ht-degree: 0%
    + [用例 - 读取区段](/help/create-journeys/use-case-read-segment.md)
    + [用例 - 商业事件](/help/create-journeys/use-case-business-event.md)
    + [用例 - 区段鉴别](/help/create-journeys/use-case-read-segment-qualification.md)
-   + [用例：突发消息](/help/create-journeys/use-case-read-burst-message.md)
+   + [用例：突发消息](/help/create-journeys/use-case-burst-message.md)
    + [测试历程](/help/create-journeys/test-a-journey.md)
    + [发布历程](/help/create-journeys/publish-a-journey.md)
 + 报告和监测{#report-and-monitor}
