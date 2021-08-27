@@ -2,10 +2,10 @@
 title: Journey Optimizer 视频和教程
 description: 本用户指南包含有关 Adobe Journey Optimizer 特性和功能的视频和教程。
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 21123c70cfc929dccb8dcf65e1939e2dd367a0ec
+source-git-commit: 5e8737fdbc77b5f664795209708a5d3b5b6a566f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '210'
+ht-degree: 91%
 
 ---
 
@@ -24,7 +24,7 @@ Journey Optimizer 帮助企业为其客户提供贴合心意的、情境式和�
 
    *了解如何配置事件、指定流端点和事件的有效负载。*
 
-* **[配置数据源](/help/set-up-data/configure-data-sources.md)**
+* **[配置数据源](/help/set-up-data/configure-source-connectors.md)**
 
    *了解源连接器以及如何在 Journey Optimizer 中配置它们*
 
