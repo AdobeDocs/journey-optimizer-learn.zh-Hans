@@ -2,7 +2,7 @@
 user-guide-title: Journey Optimizer 学习教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 以下是 Journey Optimizer 学习教程。
-source-git-commit: 117d45eabe14fdb736fb82d77c30467487b66816
+source-git-commit: a3ac85cfb438b37c36bf97af41d6c41dc666e92d
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 96%
@@ -32,7 +32,7 @@ ht-degree: 96%
    + [设置电子邮件渠道](/help/set-up-email-channel/set-up-email-channel.md)
 + 决策管理配置{#decision-management-configuration}
 + 历程配置{#journey-configuration}
-   + [配置数据源](/help/set-up-journeys/configure-source-connectors.md)
+   + [配置数据源](/help/set-up-journeys/configure-data-sources.md)
    + [创建事件](/help/set-up-journeys/create-events.md)
    + [创建操作](/help/set-up-journeys/create-actions.md)
 + [创建区段](/help/set-up-resources/create-segments.md)
