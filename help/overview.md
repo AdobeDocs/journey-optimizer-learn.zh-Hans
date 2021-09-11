@@ -2,10 +2,10 @@
 title: Journey Optimizer 视频和教程
 description: 本用户指南包含有关 Adobe Journey Optimizer 特性和功能的视频和教程。
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: f20dcf654fc2e552b4936860a99b825e40c0e2c6
+source-git-commit: a32d0d147fb6cd2fde1bc6052f2684d21be883da
 workflow-type: tm+mt
-source-wordcount: '210'
-ht-degree: 91%
+source-wordcount: '212'
+ht-degree: 79%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 91%
 
 ![](./assets/ajo-banner.png)
 
-Journey Optimizer 帮助企业为其客户提供贴合心意的、情境式和个性化的体验。客户历程是客户与品牌互动的整个过程，从接触的第一刻起直到客户离开。
+Journey Optimizer 帮助企业为其客户提供贴合心意的、情境式和个性化的体验。客户历程是客户与品牌交互的整个过程，从联系的第一刻到客户退出网站。
 
 本用户指南包含有关 Adobe Journey Optimizer 特性和功能的视频和教程。
 
