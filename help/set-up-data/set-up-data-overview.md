@@ -8,15 +8,15 @@ doc-type: feature video
 team: PM
 role: Developer
 level: Beginner
-source-git-commit: 5e8737fdbc77b5f664795209708a5d3b5b6a566f
+exl-id: e2e9c2be-5c60-4f6f-ae62-8e07f008318d
+source-git-commit: bc298a397e468032f9cef76b2be1faca41366e5e
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-
-# 设置数据：概述
+# 概述
 
 了解实时客户个人资料数据以及为 Journey Optimizer 设置客户个人资料数据所需的步骤。
 
