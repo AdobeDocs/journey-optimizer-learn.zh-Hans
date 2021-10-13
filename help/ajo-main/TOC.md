@@ -4,8 +4,8 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 以下是 Journey Optimizer 学习教程。
 source-git-commit: 73c14dba1d95e0bdd369ee5530fc0c3f763be385
 workflow-type: tm+mt
-source-wordcount: '191'
-ht-degree: 97%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 97%
    + [Journey Optimizer 概述第 2 部分](/help/introduction/journey-optimizer-overview-part-2.md)
    + [主要功能和用户界面](/help/introduction/key-capabilities-and-user-interface.md)
    + [架构](/help/introduction/architecture.md)
-+ 访问控制 {#access-control}
++ 访问控制{#access-control}
    + [访问管理](/help/set-up-access/access-management.md)
    + [创建和管理沙箱](/help/set-up-access/create-and-manage-sandboxes.md)
 + 数据配置{#data-configuration}
@@ -32,7 +32,7 @@ ht-degree: 97%
    + [设置电子邮件渠道](/help/set-up-email-channel/set-up-email-channel.md)
 + 决策管理配置{#decision-management-configuration}
    + [ [!DNL Offer Decisioning] 简介](/help/set-up-decision-management/introduction-to-offer-decisioning.md)
-   + [演示 [!DNL Offer Decisioning]](/help/set-up-decision-management/demo-of-offer-decisioning.md)
+   + [ [!DNL Offer Decisioning] 演示](/help/set-up-decision-management/demo-of-offer-decisioning.md)
    + [创建投放位置](/help/set-up-decision-management/create-placements.md)
    + [创建规则](/help/set-up-decision-management/create-rules.md)
    + [创建标记](/help/set-up-decision-management/create-tags.md)
