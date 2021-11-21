@@ -3,15 +3,15 @@ title: 访问管理
 description: 了解 Adobe Journey Optimizer 的访问控制系统和八种自定义用户档案。了解如何管理产品配置文件和权限，以及如何添加和管理用户。
 kt: 7677
 thumbnail: 333998.jpg
-feature: 访问管理
+feature: Access Management
 doc-type: feature video
 team: PM
 role: Admin
 level: Beginner
 exl-id: c1b3f804-7c41-4856-ba87-4d8e22abc5a9
 source-git-commit: 55cb22765457ad34f7deb45114d06aaa5c4466fc
-workflow-type: ht
-source-wordcount: '74'
+workflow-type: tm+mt
+source-wordcount: '72'
 ht-degree: 100%
 
 ---

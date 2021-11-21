@@ -4,8 +4,8 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 以下是 Journey Optimizer 学习教程。
 source-git-commit: 73c14dba1d95e0bdd369ee5530fc0c3f763be385
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '191'
+ht-degree: 100%
 
 ---
 

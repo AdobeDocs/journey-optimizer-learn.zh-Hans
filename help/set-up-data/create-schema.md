@@ -3,18 +3,18 @@ title: 创建架构
 description: 了解如何创建架构、添加字段组、创建和配置自定义字段组。
 kt: 7565
 thumbnail: 334461.jpg
-feature: 架构
+feature: Schemas
 doc-type: feature video
 team: PM
 role: Developer
 level: Beginner
-source-git-commit: 0098487cdb38c4acaedfc8608ce0d2f53b2dfe45
-workflow-type: ht
-source-wordcount: '59'
+exl-id: 168550e9-e304-4a1a-96da-8aab9e4af4dd
+source-git-commit: 9e2e92007783b714200a8a37e3144436cb96d6dc
+workflow-type: tm+mt
+source-wordcount: '58'
 ht-degree: 100%
 
 ---
-
 
 # 创建架构
 
