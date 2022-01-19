@@ -2,10 +2,10 @@
 title: Journey Optimizer 视频和教程
 description: 本用户指南包含有关 Adobe Journey Optimizer 特性和功能的视频和教程。
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: a32d0d147fb6cd2fde1bc6052f2684d21be883da
+source-git-commit: 6c3fb260c034d7c4f536ca76d19f302d7ba0980f
 workflow-type: tm+mt
-source-wordcount: '212'
-ht-degree: 100%
+source-wordcount: '201'
+ht-degree: 92%
 
 ---
 
@@ -20,6 +20,10 @@ Journey Optimizer 帮助企业为其客户提供贴合心意的、情境式和�
 
 ## 新增功能
 
+* **[委派CName子域](/help/set-up-email-channel/delegate-cname-subdomains.md)**
+
+   *了解如何使用CNAME创建子域以指向特定于Adobe的记录。*
+
 * **[创建事件](/help/set-up-journeys/create-events.md)**
 
    *了解如何配置事件、指定事件的流端点和有效负载。*
@@ -28,9 +32,6 @@ Journey Optimizer 帮助企业为其客户提供贴合心意的、情境式和�
 
    *了解源连接器以及如何在 Journey Optimizer 中配置它们*
 
-* **[用例：突发消息](/help/create-journeys/use-case-burst-message.md)**
-
-   *了解突发消息传递的适用用例。了解如何配置突发消息的历程以及要应用的最佳实践。*
 
 ## 员工精选
 
