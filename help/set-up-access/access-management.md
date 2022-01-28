@@ -1,6 +1,6 @@
 ---
 title: 访问管理
-description: 了解 Adobe Journey Optimizer 的访问控制系统和八种自定义用户档案。了解如何管理产品配置文件和权限，以及如何添加和管理用户。
+description: 了解Adobe Journey Optimizer的访问控制系统和八个自定义产品配置文件。 了解如何管理产品配置文件和权限，以及如何添加和管理用户。
 kt: 7677
 thumbnail: 333998.jpg
 feature: Access Management
@@ -9,19 +9,15 @@ team: PM
 role: Admin
 level: Beginner
 exl-id: c1b3f804-7c41-4856-ba87-4d8e22abc5a9
-source-git-commit: 55cb22765457ad34f7deb45114d06aaa5c4466fc
+source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 100%
+source-wordcount: '69'
+ht-degree: 59%
 
 ---
 
 # 访问管理
 
-了解 Adobe Journey Optimizer 的访问控制系统和八种自定义用户档案。了解如何管理产品配置文件和权限，以及如何添加和管理用户。
+了解Adobe Journey Optimizer的访问控制系统和 [自定义产品配置文件](https://experienceleague.adobe.com/docs/journey-optimizer/using/administration/ootb-product-profiles.html?lang=zh-Hans). 了解如何管理产品配置文件和权限，以及如何添加和管理用户。
 
 >[!VIDEO](https://video.tv.adobe.com/v/333998?quality=12)
-
-## 其他资源
-
-* [产品配置文件（文档）](https://experienceleague.adobe.com/docs/journey-optimizer/using/administration/ootb-product-profiles.html?lang=zh-Hans)

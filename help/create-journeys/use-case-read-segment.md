@@ -9,9 +9,9 @@ team: PM
 role: User
 level: Beginner
 exl-id: 7116a20e-f46a-4676-8b16-21699723828a
-source-git-commit: 4e7a0aadefdc9b48b189aface23f97dac819c758
+source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '50'
 ht-degree: 100%
 
 ---
@@ -21,9 +21,3 @@ ht-degree: 100%
 了解读取区段历程的适用用例。了解如何构建基于批次的历程以及可以应用的最佳实践。
 
 >[!VIDEO](https://video.tv.adobe.com/v/334206?quality=12)
-
-## 其他资源
-
-* [生成区段](https://experienceleague.adobe.com/docs/journey-optimizer/using/segment/segments/creating-a-segment.html?lang=zh-Hans)
-* [在历程中使用区段](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/read-segment.html?lang=zh-Hans)
-* [了解如何设计历程](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/create-journey/using-the-journey-designer.html?lang=zh-Hans)

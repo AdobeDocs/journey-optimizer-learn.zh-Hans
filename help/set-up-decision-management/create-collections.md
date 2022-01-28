@@ -1,13 +1,13 @@
 ---
 title: 创建收藏集
 description: 了解如何在  [!DNL Offer Decisioning] 中创建收藏集。收藏集具有与其关联的资格规则，可帮助您仅向相关客户显示这些收藏集。
-feature: Offers
+feature: Offers, Collections
 kt: 6747
 thumbnail: 329376.jpg
 exl-id: a255a0cd-b4ab-46a9-9c49-a4588ae12ea4
-source-git-commit: 0ce7477bdcf1bdff8b83977791267e8afe92b57c
+source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '92'
 ht-degree: 100%
 
 ---
@@ -21,9 +21,3 @@ ht-degree: 100%
 >[!INFO]
 >
 > 此视频是[面向营销人员的 Offer Decisioning 快速入门](https://experienceleague.adobe.com/?lang=zh-Hans?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)课程的一部分，可在 Experience League 上免费观看！
-
-
-## 其他资源
-
-* [创建收藏集（文档）](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/managing-offers-in-the-offer-library/creating-collections.html?lang=zh-Hans)
-* [使用 API 创建收藏集（文档）](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/collections/create.html?lang=zh-Hans)
