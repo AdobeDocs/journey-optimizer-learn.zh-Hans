@@ -6,7 +6,7 @@ kt: 6747
 thumbnail: 329376.jpg
 exl-id: a255a0cd-b4ab-46a9-9c49-a4588ae12ea4
 source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '92'
 ht-degree: 100%
 
@@ -20,4 +20,4 @@ ht-degree: 100%
 
 >[!INFO]
 >
-> 此视频是[面向营销人员的 Offer Decisioning 快速入门](https://experienceleague.adobe.com/?lang=zh-Hans?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)课程的一部分，可在 Experience League 上免费观看！
+> 此视频是[面向营销人员的 Offer Decisioning 快速入门](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning?lang=zh-Hans)课程的一部分，可在 Experience League 上免费观看！
