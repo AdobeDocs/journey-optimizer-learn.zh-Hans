@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 学习教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 以下是 Journey Optimizer 学习教程。
 source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '194'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 88%
    + [配置源连接器](/help/set-up-data/configure-source-connectors.md)
 + 渠道配置{#channel-configuration}
    + [设置电子邮件渠道](/help/set-up-email-channel/set-up-email-channel.md)
-   + [委派CName子域](/help/set-up-email-channel/delegate-cname-subdomains.md)
+   + [委派 CName 子域](/help/set-up-email-channel/delegate-cname-subdomains.md)
 + 决策管理配置{#decision-management-configuration}
    + [ [!DNL Offer Decisioning] 简介](/help/set-up-decision-management/introduction-to-offer-decisioning.md)
    + [ [!DNL Offer Decisioning] 演示](/help/set-up-decision-management/demo-of-offer-decisioning.md)
@@ -58,11 +58,11 @@ ht-degree: 88%
    + [使用辅助函数进行个性化](/help/personalize-content/use-helper-functions-for-personalization.md)
 + 创建历程{#create-journeys}
    + [构建历程的简介](/help/create-journeys/introduction-to-building-a-journey.md)
-   + [用例 — 事务型历程](/help/create-journeys/use-case-transactional-journey.md)
-   + [用例 — 读取区段](/help/create-journeys/use-case-read-segment.md)
-   + [用例 — 业务事件](/help/create-journeys/use-case-business-event.md)
-   + [用例 — 区段鉴别](/help/create-journeys/use-case-read-segment-qualification.md)
-   + [用例 — 突发消息](/help/create-journeys/use-case-burst-message.md)
+   + [用例 - 事务性历程](/help/create-journeys/use-case-transactional-journey.md)
+   + [用例 - 读取区段](/help/create-journeys/use-case-read-segment.md)
+   + [用例 - 商业事件](/help/create-journeys/use-case-business-event.md)
+   + [用例 - 区段鉴别](/help/create-journeys/use-case-read-segment-qualification.md)
+   + [用例 - 突发消息](/help/create-journeys/use-case-burst-message.md)
    + [创建测试用户档案](/help/create-journeys/test-a-journey.md)
    + [发布历程](/help/create-journeys/publish-a-journey.md)
 + 报告和监测{#report-and-monitor}
