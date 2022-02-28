@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 学习教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 以下是 Journey Optimizer 学习教程。
-source-git-commit: 676f0b268f7f67d179bfa944b72cb68191640c74
+source-git-commit: a663d531061ef343d10b837c447242b89f020eba
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '194'
+ht-degree: 100%
 
 ---
 
@@ -32,16 +32,16 @@ ht-degree: 0%
    + [设置电子邮件渠道](/help/set-up-email-channel/set-up-email-channel.md)
    + [委派 CName 子域](/help/set-up-email-channel/delegate-cname-subdomains.md)
 + 决策管理配置{#decision-management-configuration}
-   + [ [!DNL Offer Decisioning] 简介](/help/set-up-decision-management/introduction-to-offer-decisioning.md)
-   + [ [!DNL Offer Decisioning] 演示](/help/set-up-decision-management/demo-of-offer-decisioning.md)
-   + [创建投放位置](/help/set-up-decision-management/create-placements.md)
-   + [创建规则](/help/set-up-decision-management/create-rules.md)
-   + [创建标记](/help/set-up-decision-management/create-tags.md)
-   + [创建个性化优惠](/help/set-up-decision-management/create-personalized-offers.md)
-   + [创建后备优惠](/help/set-up-decision-management/create-fallback-offers.md)
-   + [创建收藏集](/help/set-up-decision-management/create-collections.md)
-   + [创建优惠活动](/help/set-up-decision-management/create-offer-activities.md)
-   + [通过 Decisions API 提供优惠](/help/set-up-decision-management/deliver-offers-with-the-decisions-api.md)
+   + [ [!DNL Offer Decisioning] 简介](/help/decision-management/introduction-to-offer-decisioning.md)
+   + [ [!DNL Offer Decisioning] 演示](/help/decision-management/demo-of-offer-decisioning.md)
+   + [创建投放位置](/help/decision-management/create-placements.md)
+   + [创建规则](/help/decision-management/create-rules.md)
+   + [创建标记](/help/decision-management/create-tags.md)
+   + [创建个性化优惠](/help/decision-management/create-personalized-offers.md)
+   + [创建后备优惠](/help/decision-management/create-fallback-offers.md)
+   + [创建收藏集](/help/decision-management/create-collections.md)
+   + [创建优惠活动](/help/decision-management/create-offer-activities.md)
+   + [通过 Decisions API 提供优惠](/help/decision-management/deliver-offers-with-the-decisions-api.md)
 + 历程配置{#journey-configuration}
    + [配置数据源](/help/set-up-journeys/configure-data-sources.md)
    + [创建事件](/help/set-up-journeys/create-events.md)
