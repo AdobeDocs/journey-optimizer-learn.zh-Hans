@@ -3,10 +3,10 @@ title: Journey Optimizer 视频和教程
 description: 本用户指南包含有关 Adobe Journey Optimizer 特性和功能的视频和教程。
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 676f0b268f7f67d179bfa944b72cb68191640c74
+source-git-commit: 9af3eb252d38eb94cc81d4fd8723af8d44fd90da
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '214'
+ht-degree: 86%
 
 ---
 
@@ -21,6 +21,10 @@ Journey Optimizer 帮助企业为其客户提供贴合心意的、情境式和�
 
 ## 新增功能
 
+* **[使用和管理个性化库中保存的表达式](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)**
+
+   *了解如何在消息中使用保存的个性化项目，以及如何创建和管理个性化库项目。*
+
 * **[委派 CName 子域](/help/set-up-email-channel/delegate-cname-subdomains.md)**
 
    *了解如何使用 CNAME 创建子域以指向特定于 Adobe 的记录。*
@@ -28,10 +32,6 @@ Journey Optimizer 帮助企业为其客户提供贴合心意的、情境式和�
 * **[创建事件](/help/set-up-journeys/create-events.md)**
 
    *了解如何配置事件、指定事件的流端点和有效负载。*
-
-* **[配置数据源](/help/set-up-journeys/configure-data-sources.md)**
-
-   *了解源连接器以及如何在 Journey Optimizer 中配置它们*
 
 
 ## 员工精选
@@ -65,7 +65,3 @@ Journey Optimizer 帮助企业为其客户提供贴合心意的、情境式和�
     <p>
   </td>
 </table>
-
-
-
-
