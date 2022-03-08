@@ -3,9 +3,9 @@ title: Journey Optimizer 视频和教程
 description: 本用户指南包含有关 Adobe Journey Optimizer 特性和功能的视频和教程。
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 9af3eb252d38eb94cc81d4fd8723af8d44fd90da
+source-git-commit: 01781ab4fe33afb8e8c387b53c164428d7bcdff6
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '215'
 ht-degree: 86%
 
 ---
@@ -23,7 +23,7 @@ Journey Optimizer 帮助企业为其客户提供贴合心意的、情境式和�
 
 * **[使用和管理个性化库中保存的表达式](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)**
 
-   *了解如何在消息中使用保存的个性化项目，以及如何创建和管理个性化库项目。*
+   *了解如何在消息中使用保存的个性化库项目，以及如何创建和管理个性化库项目。*
 
 * **[委派 CName 子域](/help/set-up-email-channel/delegate-cname-subdomains.md)**
 
