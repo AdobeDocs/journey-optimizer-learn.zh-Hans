@@ -6,7 +6,7 @@ exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 0f56a25b1254a9f7d66555c2f1a0bb020382876f
 workflow-type: tm+mt
 source-wordcount: '210'
-ht-degree: 81%
+ht-degree: 95%
 
 ---
 
@@ -25,9 +25,9 @@ Journey Optimizer 帮助企业为其客户提供贴合心意的、情境式和�
 
    *了解如何配置订阅和创建登陆页面。*
 
-* **[使用和管理个性化库中保存的表达式](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)**
+* **[使用和管理个性化库中已保存的表达式](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)**
 
-   *了解如何在消息中使用保存的个性化库项目，以及如何创建和管理个性化库项目。*
+   *了解如何在消息中使用已保存的个性化库项目，以及如何创建和管理个性化库项目。*
 
 * **[委派 CName 子域](/help/set-up-email-channel/delegate-cname-subdomains.md)**
 
