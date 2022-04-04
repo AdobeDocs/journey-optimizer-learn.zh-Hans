@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 学习教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 以下是 Journey Optimizer 学习教程。
-source-git-commit: 479a87ca42fb7b6d68334ae1de0dd8ddd378ecbb
+source-git-commit: ca3c1cd1741e2e42a6067013f670e10eb7ae1a2e
 workflow-type: tm+mt
-source-wordcount: '225'
-ht-degree: 92%
+source-wordcount: '236'
+ht-degree: 88%
 
 ---
 
@@ -46,7 +46,10 @@ ht-degree: 92%
    + [配置数据源](/help/set-up-journeys/configure-data-sources.md)
    + [创建事件](/help/set-up-journeys/create-events.md)
    + [创建操作](/help/set-up-journeys/create-actions.md)
-+ [创建区段](/help/set-up-resources/create-segments.md)
++ 客户配置文件、区段和订阅{profiles-segments-subscriptions}
+   + [统一的用户档案和分段 — 概述](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
+   + [创建区段](/help/set-up-resources/create-segments.md)
+   + [订阅和登陆页面](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + 创建消息{#create-messages}
    + [按摩设计人员概述](/help/create-messages/message-designer-overview.md)
@@ -61,7 +64,6 @@ ht-degree: 92%
    + [使用上下文事件信息进行个性化](/help/personalize-content/use-contextual-event-information-for-personalization.md)
    + [使用辅助函数进行个性化](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [使用和管理个性化库中已保存的表达式](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
-+ [订阅和登陆页面](/help/subscriptions-and-landing-pages.md)
 + 创建历程{#create-journeys}
    + [历程画布概述](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [构建历程的简介](/help/create-journeys/introduction-to-building-a-journey.md)
