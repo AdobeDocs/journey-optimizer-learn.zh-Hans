@@ -1,20 +1,20 @@
 ---
-title: Offer Decisioning 演示
-description: 此视频介绍各家品牌可以如何使用 Adobe 的 Offer Decisioning 服务来定义和管理优惠、利用实时客户数据，以及提供与客户预期相符的体验。
+title: 决策管理能力演示
+description: 了解品牌如何使用决策管理功能来定义和管理优惠、应用实时客户数据，以及提供客户期望的正确体验。
 feature: Offers
 kt: 6492
 thumbnail: 326841.jpg
 exl-id: 44136443-a3fd-435f-9f6d-23c7696acabe
-source-git-commit: a663d531061ef343d10b837c447242b89f020eba
-workflow-type: ht
-source-wordcount: '83'
-ht-degree: 100%
+source-git-commit: e8a34a26ce5794c8181537edaac592d8219c0dcd
+workflow-type: tm+mt
+source-wordcount: '91'
+ht-degree: 27%
 
 ---
 
-# [!DNL Offer Decisioning] 演示
+# 决策管理能力演示
 
-此视频介绍各家品牌可以如何使用 Adobe 的 [!DNL Offer Decisioning] 服务来定义和管理优惠、利用实时客户数据，以及提供与客户预期相符的体验。
+了解品牌如何使用决策管理功能来定义和管理优惠、应用实时客户数据，以及提供客户期望的正确体验。
 
 >[!VIDEO](https://video.tv.adobe.com/v/326841?quality=12&learn=on)
 
