@@ -5,7 +5,7 @@ user-guide-description: 以下是 Journey Optimizer 学习教程。
 source-git-commit: 4471e139da3693a2b13ec49c260c87f4787238ac
 workflow-type: tm+mt
 source-wordcount: '239'
-ht-degree: 86%
+ht-degree: 97%
 
 ---
 
@@ -46,18 +46,18 @@ ht-degree: 86%
    + [配置数据源](/help/set-up-journeys/configure-data-sources.md)
    + [创建事件](/help/set-up-journeys/create-events.md)
    + [创建操作](/help/set-up-journeys/create-actions.md)
-+ 客户配置文件、区段和订阅 {#profiles-segments-subscriptions}
-   + [统一的用户档案和分段 — 概述](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
++ 客户用户档案、区段和订阅 {#profiles-segments-subscriptions}
+   + [统一的用户档案和分段 - 概述](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [创建区段](/help/set-up-resources/create-segments.md)
    + [订阅和登陆页面](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
-+ 创建消息{#create-messages}
-   + [按摩设计人员概述](/help/create-messages/message-designer-overview.md)
++ 创建消息 {#create-messages}
+   + [消息设计工具概述](/help/create-messages/message-designer-overview.md)
    + [使用消息编辑器创建电子邮件内容](/help/create-messages/create-email-content-with-the-message-editor.md)
    + [导入和编辑 HTML 电子邮件内容](/help/create-messages/import-and-author-html-email-content.md)
    + [预览、验证和发布](/help/create-messages/preview-proof-and-publish.md)
-   + [Mobile功能（面向营销人员）](/help/create-messages/mobile-capabilities.md)
-   + [Mobile设计人员功能](/help/create-messages/mobile-capabilities-for-developers.md)
+   + [面向营销人员的移动功能](/help/create-messages/mobile-capabilities.md)
+   + [设计工具的移动功能](/help/create-messages/mobile-capabilities-for-developers.md)
 + 个性化内容{#personalize-content}
    + [基于用户档案和区段会员资格的个性化](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
    + [将优惠作为个性化内容添加](/help/personalize-content/add-offer-decisioning-to-messages.md)
