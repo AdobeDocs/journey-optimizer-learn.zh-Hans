@@ -1,20 +1,20 @@
 ---
 title: 创建投放位置
-description: 了解如何在 Offer Decisioning 中创建投放位置。投放位置是优惠的必要构建基块组件之一。
+description: 了解如何创建决策管理版面。 投放位置是优惠的必要构建基块组件之一。
 feature: Offers
 kt: 6736
 thumbnail: 329372.jpg
 exl-id: 71d6fa23-e6e7-49d7-997c-c1b58207dff0
-source-git-commit: a663d531061ef343d10b837c447242b89f020eba
-workflow-type: ht
-source-wordcount: '120'
-ht-degree: 100%
+source-git-commit: 2b1b6690604e0ce31eb2028c3ad6ad39cc8e820e
+workflow-type: tm+mt
+source-wordcount: '122'
+ht-degree: 86%
 
 ---
 
 # 创建投放位置
 
-了解如何在 [!DNL Offer Decisioning] 中创建[投放位置](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-components/creating-placements.html?lang=zh-Hans)。投放位置是优惠的构建基块组件之一。投放位置是内容类型和渠道的组合，如电子邮件中的图像或网站上的 HTML 代码。
+了解如何创建 [投放](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-components/creating-placements.html?lang=zh-Hans) 用于决策管理。 投放位置是优惠的构建基块组件之一。投放位置是内容类型和渠道的组合，如电子邮件中的图像或网站上的 HTML 代码。
 
 >[!VIDEO](https://video.tv.adobe.com/v/329372?quality=12&learn=on)
 
