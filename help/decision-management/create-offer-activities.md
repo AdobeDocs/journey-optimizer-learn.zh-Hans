@@ -1,20 +1,20 @@
 ---
 title: 创建优惠活动
-description: 了解如何在  [!DNL Offer Decisioning] 中创建优惠活动。优惠活动将您的投放位置和收藏集合并为一个实体，以便做出可以为客户提供最相关优惠的决定。
+description: 了解如何创建优惠活动以用于决策管理。 优惠活动将您的投放位置和收藏集合并为一个实体，以便做出可以为客户提供最相关优惠的决定。
 feature: Offers
 kt: 6791
 thumbnail: 329606.jpg
 exl-id: 8921f1b7-ab6a-4a3d-abf9-822af99e4196
-source-git-commit: a663d531061ef343d10b837c447242b89f020eba
-workflow-type: ht
-source-wordcount: '134'
-ht-degree: 100%
+source-git-commit: 307c19ca15e0fd63002c0932713e265824ea2621
+workflow-type: tm+mt
+source-wordcount: '138'
+ht-degree: 86%
 
 ---
 
 # 创建优惠活动
 
-了解如何在 [!DNL Offer Decisioning] 中创建[优惠活动](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-manage-activities/create-offer-activities.html?lang=zh-Hans)。优惠活动将您的投放位置和收藏集合并为一个实体，以便做出可以为客户提供最相关优惠的决策。
+了解如何创建 [选件活动](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-manage-activities/create-offer-activities.html?lang=zh-Hans) 用于决策管理。 优惠活动将您的投放位置和收藏集合并为一个实体，以便做出可以为客户提供最相关优惠的决策。
 
 >[!VIDEO](https://video.tv.adobe.com/v/329606?quality=12&learn=on)
 

@@ -1,20 +1,20 @@
 ---
 title: 创建决策规则
-description: 了解如何在 Offer Decisioning 中创建决策规则。规则是个性化优惠的必需构建基块组件之一。
+description: 了解如何为决策管理创建决策规则。 规则是个性化优惠的必需构建基块组件之一。
 feature: Offers
 kt: 6738
 thumbnail: 329373.jpg
 exl-id: 1b4cd1cd-f082-46ec-a331-9733d7c87bde
-source-git-commit: a663d531061ef343d10b837c447242b89f020eba
-workflow-type: ht
-source-wordcount: '151'
-ht-degree: 100%
+source-git-commit: 307c19ca15e0fd63002c0932713e265824ea2621
+workflow-type: tm+mt
+source-wordcount: '153'
+ht-degree: 88%
 
 ---
 
 # 创建决策规则
 
-了解如何在 [!DNL Offer Decisioning] 中创建[决策规则](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-components/creating-decision-rules.html?lang=zh-Hans)。规则或“决策规则”是个性化优惠的必需构建基块组件之一。规则是使用 Experience Platform 的 Real-time Customer Profile 中的事件和属性构建的，并基于优惠的资格限制。例如，可以使用规则将雪铲优惠限制为仅提供给居住在下雪地区的客户。
+了解如何创建 [决策规则](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-components/creating-decision-rules.html?lang=zh-Hans) 用于决策管理。 规则或“决策规则”是个性化优惠的必需构建基块组件之一。规则是使用 Experience Platform 的 Real-time Customer Profile 中的事件和属性构建的，并基于优惠的资格限制。例如，可以使用规则将雪铲优惠限制为仅提供给居住在下雪地区的客户。
 
 >[!VIDEO](https://video.tv.adobe.com/v/329373?quality=12&learn=on)
 

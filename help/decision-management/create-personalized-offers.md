@@ -1,21 +1,21 @@
 ---
 title: 创建个性化优惠
-seo-title: Create personalized offers in Offer Decisioning
-description: 了解如何在  [!DNL Offer Decisioning] 中创建个性化优惠。个性化优惠具有与其相关联的资格规则，可帮助您仅向相关客户显示这些优惠。
+seo-title: Create personalized offers for decision management
+description: 了解如何为决策管理创建个性化优惠。 个性化优惠具有与其相关联的资格规则，可帮助您仅向相关客户显示这些优惠。
 feature: Offers, Personalization
 kt: 6781
 thumbnail: 329375.jpg
 exl-id: 03428751-340f-4400-9162-b0f3021f1af1
-source-git-commit: a663d531061ef343d10b837c447242b89f020eba
-workflow-type: ht
-source-wordcount: '135'
-ht-degree: 100%
+source-git-commit: 307c19ca15e0fd63002c0932713e265824ea2621
+workflow-type: tm+mt
+source-wordcount: '139'
+ht-degree: 87%
 
 ---
 
 # 创建个性化优惠
 
-了解如何在 [!DNL Offer Decisioning] 中创建[个性化优惠](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/managing-offers-in-the-offer-library/creating-personalized-offers.html?lang=zh-Hans)。个性化优惠具有与其相关联的资格规则，可帮助您仅向相关客户显示这些优惠。例如，您可以将雪铲优惠限制为在下雪地区使用，并且仅限于在冬季期间。
+了解如何创建 [个性化优惠](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/managing-offers-in-the-offer-library/creating-personalized-offers.html?lang=zh-Hans) 用于决策管理。 个性化优惠具有与其相关联的资格规则，可帮助您仅向相关客户显示这些优惠。例如，您可以将雪铲优惠限制为在下雪地区使用，并且仅限于在冬季期间。
 
 >[!VIDEO](https://video.tv.adobe.com/v/329375?quality=12&learn=on)
 
