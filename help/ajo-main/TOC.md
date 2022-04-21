@@ -2,9 +2,9 @@
 user-guide-title: Journey Optimizer 学习教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 以下是 Journey Optimizer 学习教程。
-source-git-commit: 4471e139da3693a2b13ec49c260c87f4787238ac
+source-git-commit: cb938ea72b8d3e7f0e9d080346c605b112a7a23f
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '238'
 ht-degree: 97%
 
 ---
@@ -40,7 +40,7 @@ ht-degree: 97%
    + [创建个性化优惠](/help/decision-management/create-personalized-offers.md)
    + [创建后备优惠](/help/decision-management/create-fallback-offers.md)
    + [创建收藏集](/help/decision-management/create-collections.md)
-   + [创建优惠活动](/help/decision-management/create-offer-activities.md)
+   + [创建决策](/help/decision-management/create-decisions.md)
    + [通过 Decisions API 提供优惠](/help/decision-management/deliver-offers-with-the-decisions-api.md)
 + 历程配置{#journey-configuration}
    + [配置数据源](/help/set-up-journeys/configure-data-sources.md)
