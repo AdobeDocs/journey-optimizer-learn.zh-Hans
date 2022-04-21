@@ -1,20 +1,20 @@
 ---
-title: Offer Decisioning 简介
-description: 此视频概要介绍了 Offer Decisioning，这是一项基于 Adobe Experience Platform 构建的应用程序服务。
+title: 决策管理能力简介
+description: 获取有关Journey Optimizer决策管理功能的概述。
 feature: Offers
 kt: 6417
 thumbnail: 326961.jpg
 exl-id: 551cce3d-58e9-4302-bfbd-fbf86f79e183
-source-git-commit: a663d531061ef343d10b837c447242b89f020eba
-workflow-type: ht
-source-wordcount: '79'
-ht-degree: 100%
+source-git-commit: 8762d5fa187e549df0a6ccda4e42192fda07ebf6
+workflow-type: tm+mt
+source-wordcount: '75'
+ht-degree: 33%
 
 ---
 
-# [!DNL Offer Decisioning] 简介
+# 决策管理能力简介
 
-此视频概要介绍了 [!DNL Offer Decisioning]，这是一项基于 Adobe Experience Platform 构建的应用程序服务。此视频涵盖 [!DNL Offer Decisioning] 可解决的业务挑战，以及其关键功能、基本架构和主要用例。
+获取有关Journey Optimizer决策管理功能的概述。 该视频涵盖解决的业务挑战决策管理功能、关键功能、基本架构和主要用例。
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/326961?quality=12&learn=on)
