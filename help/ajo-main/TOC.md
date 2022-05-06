@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 学习教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 以下是 Journey Optimizer 学习教程。
 source-git-commit: c9b0cea707ec96f4e89c0e0e38b1308f938c15fa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '239'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 95%
    + [委派 CName 子域](/help/set-up-email-channel/delegate-cname-subdomains.md)
 + 决策管理{#decision-management}
    + [决策管理简介](/help/decision-management/introduction-to-decision-management.md)
-   + [决策管理能力演示](/help/decision-management/demo-of-decision-management-capabilities.md)
+   + [决策管理功能演示](/help/decision-management/demo-of-decision-management-capabilities.md)
    + [创建投放位置](/help/decision-management/create-placements.md)
    + [创建规则](/help/decision-management/create-rules.md)
    + [创建标记](/help/decision-management/create-tags.md)
