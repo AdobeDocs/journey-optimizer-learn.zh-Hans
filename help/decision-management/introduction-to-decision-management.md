@@ -1,24 +1,24 @@
 ---
-title: 决策管理能力简介
-description: 获取有关Journey Optimizer决策管理功能的概述。
+title: 决策管理功能简介
+description: 概要了解 Journey Optimizer 的决策管理功能
 feature: Offers
 kt: 6417
 thumbnail: 326961.jpg
 exl-id: 551cce3d-58e9-4302-bfbd-fbf86f79e183
 source-git-commit: a2e8cc18c29df09ccd6ae6d0a54c28a04fe8d7bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '75'
-ht-degree: 33%
+ht-degree: 100%
 
 ---
 
-# 决策管理能力简介
+# 决策管理功能简介
 
-获取有关Journey Optimizer决策管理功能的概述。 该视频涵盖解决的业务挑战决策管理功能、关键功能、基本架构和主要用例。
+概要了解 Journey Optimizer 的决策管理功能。该视频介绍了决策管理功能可解决的业务挑战、关键功能、基本架构和主要使用案例。
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/326961?quality=12&learn=on)
 
 >[!INFO]
 >
-> 此视频是[面向营销人员的 Offer Decisioning 快速入门](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning?lang=zh-Hans)课程的一部分，可在 Experience League 上免费观看！
+> 此视频是[面向营销人员的 Offer Decisioning 快速入门](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)课程的一部分，可在 Experience League 上免费观看！
