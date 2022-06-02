@@ -1,15 +1,15 @@
 ---
 title: 通过 Decisions Hub API 提供优惠
-description: '了解如何使用决策 API 来提供 Offer Decisioning 优惠。 '
+description: '了解如何使用决策API来提供决策管理优惠。 '
 role: Developer
 feature: Offers
 kt: 6819
 thumbnail: 329919.jpg
 exl-id: 3084c52b-adc8-42bc-a203-5e39bcff77ef
-source-git-commit: 9f8c88c0ccbefc5089d41b7389dac54371aaa521
-workflow-type: ht
+source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
+workflow-type: tm+mt
 source-wordcount: '155'
-ht-degree: 100%
+ht-degree: 80%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 >[!INFO]
 >
-> 此视频是[面向营销人员的 Offer Decisioning 快速入门](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)课程的一部分，可在 Experience League 上免费观看！
+> 这个视频是课程的一部分， [营销人员决策管理快速入门](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)，可在Experience League上免费使用！
 
 ## 其他资源
 

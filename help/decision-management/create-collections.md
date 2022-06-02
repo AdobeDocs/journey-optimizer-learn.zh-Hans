@@ -5,10 +5,10 @@ feature: Offers
 kt: 6747
 thumbnail: 329376.jpg
 exl-id: a255a0cd-b4ab-46a9-9c49-a4588ae12ea4
-source-git-commit: 03f9ee020d9193e8c2f2b2d36873af91facdc792
-workflow-type: ht
-source-wordcount: '99'
-ht-degree: 100%
+source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -22,4 +22,4 @@ ht-degree: 100%
 
 >[!INFO]
 >
-> 此视频是[面向营销人员的 Offer Decisioning 快速入门](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)课程的一部分，可在 Experience League 上免费观看！
+> 这个视频是课程的一部分， [营销人员决策管理快速入门](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)，可在Experience League上免费使用！
