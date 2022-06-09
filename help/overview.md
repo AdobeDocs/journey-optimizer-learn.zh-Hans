@@ -3,10 +3,10 @@ title: Journey Optimizer 视频和教程
 description: 我们提供了一系列视频教程来向您展示如何从Journey Optimizer中获益。
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
+source-git-commit: 65d95deead594b27008efa2cf1751b6371f204e6
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '394'
+ht-degree: 74%
 
 ---
 
@@ -21,6 +21,8 @@ Journey Optimizer 帮助企业为其客户提供贴合心意的、情境式和�
 
 ## 新增功能
 
+### 教程
+
 * **[订阅和登陆页面](/help/subscriptions-and-landing-pages.md)**
 
    *了解如何配置订阅和创建登陆页面。*
@@ -32,6 +34,13 @@ Journey Optimizer 帮助企业为其客户提供贴合心意的、情境式和�
 * **[委派 CName 子域](/help/set-up-email-channel/delegate-cname-subdomains.md)**
 
    *了解如何使用 CNAME 创建子域以指向特定于 Adobe 的记录。*
+
+### Experience League Live 活动
+
+* **[推送通知Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html)**
+
+   *在本Experience League实时剧集中，我们介绍了Adobe Journey Optimizer推送通知的常见用例，并深入介绍如何配置由Adobe Experience Platform提供支持的推送应用程序的技术详细信息。*
+
 
 ## 员工精选
 
@@ -63,4 +72,65 @@ Journey Optimizer 帮助企业为其客户提供贴合心意的、情境式和�
     <em>此视频演示各大品牌如何使用Adobe Journey Optimizer的决策管理功能、实时区段鉴别和业务事件管理将其消费者旅程提升到新的高度。</em>
     <p>
   </td>
+  </td>
+    <td>
+    <a href="./decision-management/create-decisions.md">
+      <img alt="决策管理功能简介" src="./assets/326961.jpg"/>
+    </a>
+    <div>
+      <a href="./decision-management/create-decisions.md">
+    <strong>决策管理功能简介 </strong>
+    </a>
+    </div>
+    <p>
+    <em>该视频介绍了决策管理功能可解决的业务挑战、关键功能、基本架构和主要使用案例。
+
+</em>
+    <p>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="./create-journeys/use-case-transactional-journey.md">
+      <img alt="用例 - 事务型历程 " src="./assets/334202.jpeg"/>
+    </a>
+    <div>
+      <a href="./create-journeys/use-case-transactional-journey.md">
+    <strong>用例 - 事务型历程 </strong>
+    </a>
+    </div>
+    <p>
+    <em>了解事务型历程的适用用例。了解如何构建事务型历程以及可以应用的最佳实践。</em>
+    <p>
+  </td>
+    <td>
+    <a href="./personalize-content/use-contextual-event-information-for-personalization.md">
+      <img alt="使用上下文事件信息进行个性化" src="./assets/334165.jpg"/>
+    </a>
+    <div>
+      <a href="./personalize-content/use-contextual-event-information-for-personalization.md">
+    <strong>使用上下文事件信息进行个性化 </strong>
+    </a>
+    </div>
+    <p>
+    <em>了解如何使用历程中的情境式事件信息来对消息进行个性化。</em>
+    <p>
+  </td>
+  </td>
+    <td>
+    <a href="./report-and-monitor/live-and-global-reports.md">
+      <img alt="实时和全局报表" src="./assets/334108.jpg"/>
+    </a>
+    <div>
+      <a href="./report-and-monitor/live-and-global-reports.md">
+    <strong>实时和全局报表 </strong>
+    </a>
+    </div>
+    <p>
+    <em>了解实时报表和全局报表之间的差异，如何访问和分析历程和消息特定报表，以及如何修改报表仪表板。
+
+</em>
+    <p>
+  </td>
+</tr>
 </table>
