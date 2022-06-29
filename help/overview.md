@@ -3,10 +3,10 @@ title: Journey Optimizer 视频和教程
 description: 我们提供了一系列视频教程来向您展示如何从Journey Optimizer中获益。
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 65d95deead594b27008efa2cf1751b6371f204e6
+source-git-commit: e5c8967245409984541e2e0ce9b489fd8d00f14e
 workflow-type: tm+mt
-source-wordcount: '394'
-ht-degree: 74%
+source-wordcount: '406'
+ht-degree: 70%
 
 ---
 
@@ -23,6 +23,10 @@ Journey Optimizer 帮助企业为其客户提供贴合心意的、情境式和�
 
 ### 教程
 
+* **[配置消息频率规则](help/administration/configure-frequency-rules.md)**
+
+   *了解如何创建、激活、测试和报告频度规则。 了解如何确定将继承消息的频率规则*
+
 * **[订阅和登陆页面](/help/subscriptions-and-landing-pages.md)**
 
    *了解如何配置订阅和创建登陆页面。*
@@ -31,16 +35,11 @@ Journey Optimizer 帮助企业为其客户提供贴合心意的、情境式和�
 
    *了解如何在消息中使用已保存的个性化库项目，以及如何创建和管理个性化库项目。*
 
-* **[委派 CName 子域](/help/set-up-email-channel/delegate-cname-subdomains.md)**
-
-   *了解如何使用 CNAME 创建子域以指向特定于 Adobe 的记录。*
-
 ### Experience League Live 活动
 
 * **[推送通知Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html)**
 
    *在本Experience League实时剧集中，我们介绍了Adobe Journey Optimizer推送通知的常见用例，并深入介绍如何配置由Adobe Experience Platform提供支持的推送应用程序的技术详细信息。*
-
 
 ## 员工精选
 
