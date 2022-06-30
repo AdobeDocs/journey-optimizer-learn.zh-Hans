@@ -3,10 +3,10 @@ title: Journey Optimizer 视频和教程
 description: 我们提供了一系列视频教程来向您展示如何从Journey Optimizer中获益。
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 9c867ee84af5f4f58f85e179fb8e1e44a96b3236
+source-git-commit: 5b2c1d5410ed91f35e1cbb93b6c1ff1767cca7c2
 workflow-type: tm+mt
-source-wordcount: '396'
-ht-degree: 65%
+source-wordcount: '413'
+ht-degree: 62%
 
 ---
 
@@ -26,6 +26,10 @@ Journey Optimizer 帮助企业为其客户提供贴合心意的、情境式和�
 * **[配置、创作和投放短信消息](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
 
    *了解如何配置、创作短信消息，并将其包含在客户历程中。*
+
+* **[短信的入站关键词支持](/help/create-messages/inbound-keyword-support-for-sms.md)**
+
+   *了解短信的本机入站关键词支持（开始、停止、停止）的工作方式。*
 
 * **[配置消息频率规则](/help/administration/configure-frequency-rules.md)**
 
