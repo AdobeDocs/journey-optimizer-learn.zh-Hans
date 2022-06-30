@@ -6,9 +6,9 @@ role: User, Administrator
 level: Beginner
 kt: 10616
 thumbnail: 344026.jpg
-source-git-commit: 5b2c1d5410ed91f35e1cbb93b6c1ff1767cca7c2
+source-git-commit: 943414d073b62730da2c559dfe8b4ab7a6f7757a
 workflow-type: tm+mt
-source-wordcount: '34'
+source-wordcount: '46'
 ht-degree: 0%
 
 ---
@@ -18,3 +18,7 @@ ht-degree: 0%
 了解短信的本机入站关键词支持（开始、停止、停止）的工作方式。
 
 >[!VIDEO](https://video.tv.adobe.com/v/344026?quality=12&learn=on)
+
+>[!NOTE]
+>
+>请注意，Sinch和Twilio均支持入站关键词。
