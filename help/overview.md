@@ -3,10 +3,10 @@ title: Journey Optimizer 视频和教程
 description: 我们提供了一系列视频教程来向您展示如何从Journey Optimizer中获益。
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: d4af15677c5c4baacfd6cae88acffa769ee6e401
+source-git-commit: 9c867ee84af5f4f58f85e179fb8e1e44a96b3236
 workflow-type: tm+mt
-source-wordcount: '406'
-ht-degree: 70%
+source-wordcount: '396'
+ht-degree: 65%
 
 ---
 
@@ -23,6 +23,10 @@ Journey Optimizer 帮助企业为其客户提供贴合心意的、情境式和�
 
 ### 教程
 
+* **[配置、创作和投放短信消息](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
+
+   *了解如何配置、创作短信消息，并将其包含在客户历程中。*
+
 * **[配置消息频率规则](/help/administration/configure-frequency-rules.md)**
 
    *了解如何创建、激活、测试和报告频度规则。 了解如何确定将继承消息的频率规则。*
@@ -30,10 +34,6 @@ Journey Optimizer 帮助企业为其客户提供贴合心意的、情境式和�
 * **[订阅和登陆页面](/help/subscriptions-and-landing-pages.md)**
 
    *了解如何配置订阅和创建登陆页面。*
-
-* **[使用和管理个性化库中已保存的表达式](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)**
-
-   *了解如何在消息中使用已保存的个性化库项目，以及如何创建和管理个性化库项目。*
 
 ### Experience League Live 活动
 
