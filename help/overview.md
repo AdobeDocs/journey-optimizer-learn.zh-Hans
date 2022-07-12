@@ -1,12 +1,12 @@
 ---
 title: Journey Optimizer 视频和教程
-description: 我们提供了一系列视频教程来向您展示如何从Journey Optimizer中获益。
+description: 我们提供了一系列视频教程，向您展示如何充分发挥 Journey Optimizer 的优势。
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 943414d073b62730da2c559dfe8b4ab7a6f7757a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '400'
-ht-degree: 61%
+ht-degree: 100%
 
 ---
 
@@ -23,23 +23,23 @@ Journey Optimizer 帮助企业为其客户提供贴合心意的、情境式和�
 
 ### 教程
 
-* **[配置、创作和投放短信消息](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
+* **[配置、创建和投放短信消息](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
 
-   *了解如何配置、创作短信消息，并将其包含在客户历程中。*
+   *了解如何配置、创建短信消息，并将其包含在客户历程中。*
 
 * **[短信的入站关键词支持](/help/create-messages/inbound-keyword-support-for-sms.md)**
 
-   *了解短信的本机入站关键词支持（开始、停止、停止）的工作方式。*
+   *了解对短信的原生入站关键词支持（开始、停止、不停止）是如何发挥作用的。*
 
 * **[配置消息频率规则](/help/administration/configure-frequency-rules.md)**
 
-   *了解如何创建、激活、测试和报告频度规则。 了解如何确定将继承消息的频率规则。*
+   *了解如何创建、激活、测试和报告频率规则。了解如何确定将为消息继承哪些频率规则。*
 
 ### Experience League Live 活动
 
-* **[推送通知Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html)**
+* **[Adobe Journey Optimizer 的推送通知功能](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html?lang=zh-Hans)**
 
-   *在本Experience League实时剧集中，我们介绍了Adobe Journey Optimizer推送通知的常见用例，并深入介绍如何配置由Adobe Experience Platform提供支持的推送应用程序的技术详细信息。*
+   *在本期 Experience League Live 节目中，我们将讨论 Adobe Journey Optimizer 推送通知的常见用例，并深入探索有关如何为 Adobe Experience Platform 支持的推送功能配置应用程序的技术细节。*
 
 ## 员工精选
 
@@ -68,7 +68,7 @@ Journey Optimizer 帮助企业为其客户提供贴合心意的、情境式和�
     </a>
     </div>
     <p>
-    <em>此视频演示各大品牌如何使用Adobe Journey Optimizer的决策管理功能、实时区段鉴别和业务事件管理将其消费者旅程提升到新的高度。</em>
+    <em>此视频演示了各家品牌可以如何使用 Adobe Journey Optimizer 的决策管理、实时区段鉴别和商业事件管理功能将其消费者历程的体验提升到新的高度。</em>
     <p>
   </td>
   </td>
@@ -82,7 +82,7 @@ Journey Optimizer 帮助企业为其客户提供贴合心意的、情境式和�
     </a>
     </div>
     <p>
-    <em>该视频介绍了决策管理功能可解决的业务挑战、关键功能、基本架构和主要使用案例。
+    <em>该视频介绍了决策管理功能可解决的业务挑战、关键功能、基本架构和主要用例。
 
 </em>
     <p>
@@ -112,7 +112,7 @@ Journey Optimizer 帮助企业为其客户提供贴合心意的、情境式和�
     </a>
     </div>
     <p>
-    <em>了解如何使用历程中的情境式事件信息来对消息进行个性化。</em>
+    <em>了解如何使用历程中的上下文事件信息来对消息进行个性化。</em>
     <p>
   </td>
   </td>
