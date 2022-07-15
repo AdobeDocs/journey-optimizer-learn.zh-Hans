@@ -1,6 +1,6 @@
 ---
 title: Adobe Journey Optimizer 简介
-description: 了解Adobe Journey Optimizer是什么，以及它如何帮助各个行业的品牌提高ROI并克服重大营销挑战。
+description: 了解什么是 Adobe Journey Optimizer 以及它如何帮助各行各业的品牌提高 ROI 和应对重大营销挑战。
 kt: 7517
 thumbnail: 333745.jpg
 feature: Overview
@@ -11,8 +11,8 @@ level: Beginner
 exl-id: e48a627a-bd36-4084-a791-78f7a78579c6
 source-git-commit: c487f98b184b5bb1d525293660e82db319af7ce4
 workflow-type: tm+mt
-source-wordcount: '50'
-ht-degree: 58%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
