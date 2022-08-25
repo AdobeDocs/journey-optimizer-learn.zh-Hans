@@ -3,7 +3,7 @@ title: Journey Optimizer 视频和教程
 description: 我们提供了一系列视频教程来向您展示如何从Journey Optimizer中获益。
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: feb1420b297cb880aaf4e679ffeef971623c3912
+source-git-commit: 775549f16b3d7ffc74bca6d26edfe100a80f46f9
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Journey Optimizer 帮助企业为其客户提供贴合心意的、情境式和�
 
 * **[创建营销活动](/help/create-champaigns/create-a-campaign.md)**
 
-   *了解如何通过立即执行操作或按照指定的计划，将一次性内容交付给特定用户区段。*
+   *了解如何通过立即执行操作或按指定的计划向特定受众交付一次性内容。*
 
 
 * **[配置、创建和投放短信消息](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
