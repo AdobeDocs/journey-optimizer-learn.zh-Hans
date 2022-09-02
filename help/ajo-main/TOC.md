@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 学习教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 以下是 Journey Optimizer 学习教程。
-source-git-commit: bddd702254d7b804515723e15862521ff90b32ad
+source-git-commit: 9390fa4f69307f326df5946000240bf397152690
 workflow-type: tm+mt
 source-wordcount: '260'
-ht-degree: 95%
+ht-degree: 94%
 
 ---
 
@@ -58,7 +58,7 @@ ht-degree: 95%
    + [导入和编辑 HTML 电子邮件内容](/help/create-messages/import-and-author-html-email-content.md)
    + [预览、验证和发布](/help/create-messages/preview-proof-and-publish.md)
    + [面向营销人员的移动功能](/help/create-messages/mobile-capabilities.md)
-   + [设计工具的移动功能](/help/create-messages/mobile-capabilities-for-developers.md)
+   + [面向开发人员的移动设备功能](/help/create-messages/mobile-capabilities-for-developers.md)
    + [配置、创作和投放短信消息](/help/create-messages/configure-author-and-deliver-sms-messages.md)
    + [针对短信的入站关键词支持](/help/create-messages/inbound-keyword-support-for-sms.md)
 + 个性化内容{#personalize-content}
