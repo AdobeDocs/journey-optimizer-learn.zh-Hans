@@ -3,10 +3,10 @@ title: Journey OptimizerTutorials — 概述
 description: 我们提供了一系列视频教程，向您展示如何充分发挥 Journey Optimizer 的优势。
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 641050d8a2d3487a042ecf5a5a1b8891797e63a7
+source-git-commit: e7b5e3dbf5ab9c4415320b5bd1ae6f1640a00687
 workflow-type: tm+mt
-source-wordcount: '392'
-ht-degree: 97%
+source-wordcount: '397'
+ht-degree: 92%
 
 ---
 
@@ -23,18 +23,17 @@ Journey Optimizer 帮助企业为其客户提供贴合心意的、情境式和�
 
 ### 教程
 
+* **[掩盖消息中的数据](/help/privacy/mask-data-in-messages.md)**
+
+   *了解数据掩码的含义以及为什么掩盖数据。 了解如何掩盖Journey Optimizer消息中的数据。*
+
 * **[创建营销活动](/help/create-champaigns/create-a-campaign.md)**
 
    *了解如何通过立即执行操作或按指定计划执行操作，向特定受众投放一次性内容。*
 
-
 * **[配置、创建和投放短信消息](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
 
    *了解如何配置、创建短信消息，并将其包含在客户历程中。*
-
-* **[短信的入站关键词支持](/help/create-messages/inbound-keyword-support-for-sms.md)**
-
-   *了解对短信的原生入站关键词支持（开始、停止、不停止）是如何发挥作用的。*
 
 ### Experience League Live 活动
 

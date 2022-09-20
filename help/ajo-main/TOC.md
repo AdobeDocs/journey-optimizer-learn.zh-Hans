@@ -2,9 +2,9 @@
 user-guide-title: Journey Optimizer 学习教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 以下是 Journey Optimizer 学习教程。
-source-git-commit: 9390fa4f69307f326df5946000240bf397152690
+source-git-commit: bd183ad89e6c1b13c28e1345e5130024fd788276
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '265'
 ht-degree: 94%
 
 ---
@@ -67,7 +67,7 @@ ht-degree: 94%
    + [使用上下文事件信息进行个性化](/help/personalize-content/use-contextual-event-information-for-personalization.md)
    + [使用辅助函数进行个性化](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [使用和管理个性化库中已保存的表达式](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
-+ 创建营销活动 {#create-campaigns}
++ 创建营销活动{#create-campaigns}
    + [创建营销活动](/help/create-champaigns/create-a-campaign.md)
 + 创建历程{#create-journeys}
    + [历程画布概述](/help/create-journeys/overview-over-the-journey-canvas.md)
@@ -81,3 +81,5 @@ ht-degree: 94%
    + [发布历程](/help/create-journeys/publish-a-journey.md)
 + 报告和监测{#report-and-monitor}
    + [实时和全局报表](/help/report-and-monitor/live-and-global-reports.md)
++ 隐私权 {#privacy}
+   + [掩盖消息中的数据](/help/privacy/mask-data-in-messages.md)
