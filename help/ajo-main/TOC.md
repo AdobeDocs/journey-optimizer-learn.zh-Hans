@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 学习教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 以下是 Journey Optimizer 学习教程。
-source-git-commit: bd183ad89e6c1b13c28e1345e5130024fd788276
+source-git-commit: 4960b21053d6309cd64b5bb6a0a98e0d044d4afd
 workflow-type: tm+mt
 source-wordcount: '265'
-ht-degree: 94%
+ht-degree: 92%
 
 ---
 
@@ -47,7 +47,7 @@ ht-degree: 94%
    + [配置数据源](/help/set-up-journeys/configure-data-sources.md)
    + [创建事件](/help/set-up-journeys/create-events.md)
    + [创建操作](/help/set-up-journeys/create-actions.md)
-+ 客户用户档案、区段和订阅 {#profiles-segments-subscriptions}
++ 客户配置文件、区段和订阅 {#profiles-segments-subscriptions}
    + [统一的用户档案和分段 - 概述](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [创建区段](/help/set-up-resources/create-segments.md)
    + [订阅和登陆页面](/help/subscriptions-and-landing-pages.md)

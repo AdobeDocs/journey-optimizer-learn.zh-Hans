@@ -3,10 +3,10 @@ title: Journey OptimizerTutorials — 概述
 description: 我们提供了一系列视频教程，向您展示如何充分发挥 Journey Optimizer 的优势。
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: e7b5e3dbf5ab9c4415320b5bd1ae6f1640a00687
+source-git-commit: 8e6534b96e8433b21e2846f7ddfeef73cf5400ea
 workflow-type: tm+mt
-source-wordcount: '397'
-ht-degree: 92%
+source-wordcount: '396'
+ht-degree: 85%
 
 ---
 
@@ -126,7 +126,7 @@ Journey Optimizer 帮助企业为其客户提供贴合心意的、情境式和�
     </a>
     </div>
     <p>
-    <em>了解实时报表和全局报表之间的差异，如何访问和分析历程和消息特定报表，以及如何修改报表仪表板。
+    <em>了解实时报表和全局报表之间的差异，如何访问和分析历程和特定于消息的报表，以及如何修改报表功能板。
 
 </em>
     <p>
