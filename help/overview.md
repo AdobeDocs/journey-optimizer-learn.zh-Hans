@@ -1,17 +1,17 @@
 ---
-title: Journey Optimizer 视频和教程
+title: Journey OptimizerTutorials — 概述
 description: 我们提供了一系列视频教程，向您展示如何充分发挥 Journey Optimizer 的优势。
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 775549f16b3d7ffc74bca6d26edfe100a80f46f9
-workflow-type: ht
-source-wordcount: '394'
-ht-degree: 100%
+source-git-commit: 641050d8a2d3487a042ecf5a5a1b8891797e63a7
+workflow-type: tm+mt
+source-wordcount: '392'
+ht-degree: 97%
 
 ---
 
 
-# Journey Optimizer 视频和教程
+# Journey OptimizerTutorials — 概述
 
 ![](./assets/ajo-banner.png)
 
