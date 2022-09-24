@@ -4,10 +4,10 @@ description: 我们提供了一系列视频教程，向您展示如何充分发�
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: b04f8f49f9b1527aad4e223d7f7df782663a29be
+source-git-commit: 6dd50efeaac9f37bd1e6669d1b15b62f882faff8
 workflow-type: tm+mt
-source-wordcount: '396'
-ht-degree: 85%
+source-wordcount: '417'
+ht-degree: 81%
 
 ---
 
@@ -23,6 +23,10 @@ Journey Optimizer 帮助企业为其客户提供贴合心意的、情境式和�
 ## 新增功能
 
 ### 教程
+
+* **[将历程复制到其他沙盒](/help/create-journeys/copy-a-journey.md)**
+
+   *了解如何将历程及其相关对象从一个沙箱复制到另一个沙箱。*
 
 * **[掩盖消息中的数据](/help/privacy/mask-data-in-messages.md)**
 
