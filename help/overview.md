@@ -4,10 +4,10 @@ description: 我们提供了一系列视频教程，向您展示如何充分发�
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 6dd50efeaac9f37bd1e6669d1b15b62f882faff8
+source-git-commit: 561963022fe2e36f07c54e868a183a9b17d46640
 workflow-type: tm+mt
-source-wordcount: '417'
-ht-degree: 81%
+source-wordcount: '464'
+ht-degree: 66%
 
 ---
 
@@ -24,6 +24,10 @@ Journey Optimizer 帮助企业为其客户提供贴合心意的、情境式和�
 
 ### 教程
 
+* **[使用警报](/help/administration/alerts.md)**
+
+   *了解如何订阅预定义的警报以防发生意外历程行为，并通过电子邮件、在Journey Optimizer内或使用API获取通知。*
+
 * **[将历程复制到其他沙盒](/help/create-journeys/copy-a-journey.md)**
 
    *了解如何将历程及其相关对象从一个沙箱复制到另一个沙箱。*
@@ -32,15 +36,12 @@ Journey Optimizer 帮助企业为其客户提供贴合心意的、情境式和�
 
    *了解数据掩码的含义以及为什么掩盖数据。 了解如何掩盖Journey Optimizer消息中的数据。*
 
-* **[创建营销活动](/help/create-champaigns/create-a-campaign.md)**
-
-   *了解如何通过立即执行操作或按指定计划执行操作，向特定受众投放一次性内容。*
-
-* **[配置、创建和投放短信消息](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
-
-   *了解如何配置、创建短信消息，并将其包含在客户历程中。*
 
 ### Experience League Live 活动
+
+* **[在Adobe Journey Optimizer中执行营销活动](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=zh-Hans)**
+
+   *在最初于2022年9月22日举行的本Experience League实时剧集中，请观看主持人Sandra Hausmann和产品专家Bridgete Darling和Frederic Mary讨论此新功能涵盖的用例，并演示如何在Journey Optimizer轻松设置和执行营销活动。*
 
 * **[Adobe Journey Optimizer 的推送通知功能](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html?lang=zh-Hans)**
 
