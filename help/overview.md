@@ -4,10 +4,10 @@ description: 我们提供了一系列视频教程，向您展示如何充分发�
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 561963022fe2e36f07c54e868a183a9b17d46640
+source-git-commit: 9e0cae3c34550703cdd15bd7f9f096a649fe712f
 workflow-type: tm+mt
-source-wordcount: '464'
-ht-degree: 66%
+source-wordcount: '492'
+ht-degree: 62%
 
 ---
 
@@ -23,6 +23,10 @@ Journey Optimizer 帮助企业为其客户提供贴合心意的、情境式和�
 ## 新增功能
 
 ### 教程
+
+* **[使用条件规则生成器创建动态内容](/help/personalize-content/create-dynamic-content.md)**
+
+   *了解如何创建和保存条件规则，以及如何将这些条件规则应用于所有渠道的内容。*
 
 * **[使用警报](/help/administration/alerts.md)**
 
