@@ -4,7 +4,7 @@ description: 我们提供了一系列视频教程，向您展示如何充分发�
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 9e0cae3c34550703cdd15bd7f9f096a649fe712f
+source-git-commit: 2941ac46f36112f488a0d60e3afeaf2979ddb6f4
 workflow-type: tm+mt
 source-wordcount: '492'
 ht-degree: 62%
@@ -19,6 +19,8 @@ ht-degree: 62%
 Journey Optimizer 帮助企业为其客户提供贴合心意的、情境式和个性化的体验。客户历程是客户与品牌互动的整个过程，从接触的第一刻起直到客户离开。
 
 本用户指南包含有关 Adobe Journey Optimizer 特性和功能的视频和教程。
+
+<div id="whats-new-section">
 
 ## 新增功能
 
@@ -40,6 +42,7 @@ Journey Optimizer 帮助企业为其客户提供贴合心意的、情境式和�
 
    *了解数据掩码的含义以及为什么掩盖数据。 了解如何掩盖Journey Optimizer消息中的数据。*
 
+</div>
 
 ### Experience League Live 活动
 
@@ -50,6 +53,8 @@ Journey Optimizer 帮助企业为其客户提供贴合心意的、情境式和�
 * **[Adobe Journey Optimizer 的推送通知功能](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html?lang=zh-Hans)**
 
    *在本期 Experience League Live 节目中，我们将讨论 Adobe Journey Optimizer 推送通知的常见用例，并深入探索有关如何为 Adobe Experience Platform 支持的推送功能配置应用程序的技术细节。*
+
+<div id="staff-picks-section">
 
 ## 员工精选
 
@@ -143,3 +148,5 @@ Journey Optimizer 帮助企业为其客户提供贴合心意的、情境式和�
   </td>
 </tr>
 </table>
+
+</div>
