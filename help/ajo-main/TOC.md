@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 学习教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 以下是 Journey Optimizer 学习教程。
-source-git-commit: 9e0cae3c34550703cdd15bd7f9f096a649fe712f
+source-git-commit: 990ba063c251df6d0f191e5020937bfd6867634f
 workflow-type: tm+mt
-source-wordcount: '281'
-ht-degree: 87%
+source-wordcount: '274'
+ht-degree: 90%
 
 ---
 
@@ -53,7 +53,6 @@ ht-degree: 87%
    + [订阅和登陆页面](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + 创建消息 {#create-messages}
-   + [消息设计工具概述](/help/create-messages/message-designer-overview.md)
    + [使用Email Designer创建内容](/help/create-messages/create-content-with-the-email-designer.md)
    + [导入和编辑 HTML 电子邮件内容](/help/create-messages/import-and-author-html-email-content.md)
    + [预览、验证和发布](/help/create-messages/preview-proof-and-publish.md)
@@ -77,10 +76,9 @@ ht-degree: 87%
    + [用例 - 读取区段](/help/create-journeys/use-case-read-segment.md)
    + [用例 - 商业事件](/help/create-journeys/use-case-business-event.md)
    + [用例 - 区段鉴别](/help/create-journeys/use-case-read-segment-qualification.md)
-   + [用例 - 突发消息](/help/create-journeys/use-case-burst-message.md)
    + [创建测试用户档案](/help/create-journeys/test-a-journey.md)
    + [发布历程](/help/create-journeys/publish-a-journey.md)
-   + [将历程复制到其他沙盒](/help/create-journeys/copy-a-journey.md)
+   + [将历程复制到另一个沙盒](/help/create-journeys/copy-a-journey.md)
 + 报告和监测{#report-and-monitor}
    + [实时和全局报表](/help/report-and-monitor/live-and-global-reports.md)
    + [使用警报](/help/administration/alerts.md)
