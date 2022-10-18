@@ -4,10 +4,10 @@ description: 我们提供了一系列视频教程，向您展示如何充分发�
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 2941ac46f36112f488a0d60e3afeaf2979ddb6f4
+source-git-commit: c06bfb31fe7964a3bba81873884ee66fd16908a1
 workflow-type: tm+mt
 source-wordcount: '492'
-ht-degree: 62%
+ht-degree: 72%
 
 ---
 
@@ -32,17 +32,20 @@ Journey Optimizer 帮助企业为其客户提供贴合心意的、情境式和�
 
 * **[使用警报](/help/administration/alerts.md)**
 
-   *了解如何订阅预定义的警报以防发生意外历程行为，并通过电子邮件、在Journey Optimizer内或使用API获取通知。*
+   *了解如何订阅针对意外历程行为的预定义警报，并通过电子邮件、Journey Optimizer 或使用 API 获得通知。*
 
-* **[将历程复制到其他沙盒](/help/create-journeys/copy-a-journey.md)**
+* **[将历程复制到另一个沙盒](/help/create-journeys/copy-a-journey.md)**
 
-   *了解如何将历程及其相关对象从一个沙箱复制到另一个沙箱。*
+   *了解如何将历程及其依赖对象从一个沙盒复制到另一个沙盒。*
 
 * **[掩盖消息中的数据](/help/privacy/mask-data-in-messages.md)**
 
    *了解数据掩码的含义以及为什么掩盖数据。 了解如何掩盖Journey Optimizer消息中的数据。*
 
 </div>
+
+
+<div id="events-section">
 
 ### Experience League Live 活动
 
@@ -53,6 +56,15 @@ Journey Optimizer 帮助企业为其客户提供贴合心意的、情境式和�
 * **[Adobe Journey Optimizer 的推送通知功能](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html?lang=zh-Hans)**
 
    *在本期 Experience League Live 节目中，我们将讨论 Adobe Journey Optimizer 推送通知的常见用例，并深入探索有关如何为 Adobe Experience Platform 支持的推送功能配置应用程序的技术细节。*
+
+</div>
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
 
 <div id="staff-picks-section">
 
