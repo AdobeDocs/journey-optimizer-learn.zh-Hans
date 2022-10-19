@@ -4,15 +4,15 @@ description: 我们提供了一系列视频教程，向您展示如何充分发�
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: c06bfb31fe7964a3bba81873884ee66fd16908a1
+source-git-commit: c1416263c925dcd435c2b9aa2af7a897c2b62850
 workflow-type: tm+mt
-source-wordcount: '492'
-ht-degree: 72%
+source-wordcount: '490'
+ht-degree: 71%
 
 ---
 
 
-# Journey OptimizerTutorials — 概述
+# Journey Optimizer教程
 
 ![](./assets/ajo-banner.png)
 
@@ -23,8 +23,6 @@ Journey Optimizer 帮助企业为其客户提供贴合心意的、情境式和�
 <div id="whats-new-section">
 
 ## 新增功能
-
-### 教程
 
 * **[使用条件规则生成器创建动态内容](/help/personalize-content/create-dynamic-content.md)**
 
@@ -47,7 +45,7 @@ Journey Optimizer 帮助企业为其客户提供贴合心意的、情境式和�
 
 <div id="events-section">
 
-### Experience League Live 活动
+## Experience League实时事件
 
 * **[在Adobe Journey Optimizer中执行营销活动](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=zh-Hans)**
 
@@ -68,7 +66,7 @@ Journey Optimizer 帮助企业为其客户提供贴合心意的、情境式和�
 
 <div id="staff-picks-section">
 
-## 员工精选
+## 员工挑选
 
 <table>
 <tr>
