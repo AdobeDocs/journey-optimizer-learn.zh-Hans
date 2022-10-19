@@ -5,7 +5,7 @@ user-guide-description: 以下是 Journey Optimizer 学习教程。
 source-git-commit: 2874a7c5bc9ef8fd553a573069911453f5bc5f2b
 workflow-type: tm+mt
 source-wordcount: '279'
-ht-degree: 88%
+ht-degree: 98%
 
 ---
 
@@ -47,17 +47,17 @@ ht-degree: 88%
    + [配置数据源](/help/set-up-journeys/configure-data-sources.md)
    + [创建事件](/help/set-up-journeys/create-events.md)
    + [创建操作](/help/set-up-journeys/create-actions.md)
-+ 客户配置文件、区段和订阅 {#profiles-segments-subscriptions}
++ 客户个人资料、区段和订阅 {#profiles-segments-subscriptions}
    + [统一的用户档案和分段 - 概述](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [创建区段](/help/set-up-resources/create-segments.md)
    + [订阅和登陆页面](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + 创建消息 {#create-messages}
-   + [使用Email Designer创建内容](/help/create-messages/create-content-with-the-email-designer.md)
+   + [使用电子邮件设计器创建内容](/help/create-messages/create-content-with-the-email-designer.md)
    + [导入和编辑 HTML 电子邮件内容](/help/create-messages/import-and-author-html-email-content.md)
    + [预览、验证和发布](/help/create-messages/preview-proof-and-publish.md)
    + [面向营销人员的移动功能](/help/create-messages/mobile-capabilities.md)
-   + [面向开发人员的移动设备功能](/help/create-messages/mobile-capabilities-for-developers.md)
+   + [面向开发人员的移动功能](/help/create-messages/mobile-capabilities-for-developers.md)
    + [配置、创作和投放短信消息](/help/create-messages/configure-author-and-deliver-sms-messages.md)
    + [针对短信的入站关键词支持](/help/create-messages/inbound-keyword-support-for-sms.md)
    + 应用程序内 {#in-app}
@@ -85,4 +85,4 @@ ht-degree: 88%
    + [实时和全局报表](/help/report-and-monitor/live-and-global-reports.md)
    + [使用警报](/help/administration/alerts.md)
 + 隐私权 {#privacy}
-   + [掩盖消息中的数据](/help/privacy/mask-data-in-messages.md)
+   + [屏蔽消息中的数据](/help/privacy/mask-data-in-messages.md)

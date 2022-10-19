@@ -1,5 +1,5 @@
 ---
-title: Journey OptimizerTutorials — 概述
+title: Journey Optimizer 教程 - 概述
 description: 我们提供了一系列视频教程，向您展示如何充分发挥 Journey Optimizer 的优势。
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
@@ -7,7 +7,7 @@ exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: c1416263c925dcd435c2b9aa2af7a897c2b62850
 workflow-type: tm+mt
 source-wordcount: '490'
-ht-degree: 71%
+ht-degree: 98%
 
 ---
 
@@ -36,9 +36,9 @@ Journey Optimizer 帮助企业为其客户提供贴合心意的、情境式和�
 
    *了解如何将历程及其依赖对象从一个沙盒复制到另一个沙盒。*
 
-* **[掩盖消息中的数据](/help/privacy/mask-data-in-messages.md)**
+* **[屏蔽消息中的数据](/help/privacy/mask-data-in-messages.md)**
 
-   *了解数据掩码的含义以及为什么掩盖数据。 了解如何掩盖Journey Optimizer消息中的数据。*
+   *了解数据屏蔽的含义以及为什么要屏蔽数据。 了解如何屏蔽 Journey Optimizer 消息中的数据。*
 
 </div>
 
@@ -47,9 +47,9 @@ Journey Optimizer 帮助企业为其客户提供贴合心意的、情境式和�
 
 ## Experience League实时事件
 
-* **[在Adobe Journey Optimizer中执行营销活动](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=zh-Hans)**
+* **[在 Adobe Journey Optimizer 中执行营销活动](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=zh-Hans)**
 
-   *在最初于2022年9月22日举行的本Experience League实时剧集中，请观看主持人Sandra Hausmann和产品专家Bridgete Darling和Frederic Mary讨论此新功能涵盖的用例，并演示如何在Journey Optimizer轻松设置和执行营销活动。*
+   *在最初于 2022 年 9 月 22 日举行的 Experience League 直播节目中，主持人 Sandra Hausmann 与产品专家 Bridgete Darling 和 Frederic Mary 讨论了这一新功能涉及的用例，并演示了如何在 Journey Optimizer 中轻松设置和执行营销活动。*
 
 * **[Adobe Journey Optimizer 的推送通知功能](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html?lang=zh-Hans)**
 
@@ -66,7 +66,7 @@ Journey Optimizer 帮助企业为其客户提供贴合心意的、情境式和�
 
 <div id="staff-picks-section">
 
-## 员工挑选
+## 员工精选
 
 <table>
 <tr>
@@ -151,7 +151,7 @@ Journey Optimizer 帮助企业为其客户提供贴合心意的、情境式和�
     </a>
     </div>
     <p>
-    <em>了解实时报表和全局报表之间的差异，如何访问和分析历程和特定于消息的报表，以及如何修改报表功能板。
+    <em>了解实时报表和全局报表之间的差异，如何访问和分析历程和消息特定报表，以及如何修改报表仪表板。
 
 </em>
     <p>
