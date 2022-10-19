@@ -7,9 +7,9 @@ thumbnail: 329606.jpg
 last-substantial-update: 2022-09-30T00:00:00Z
 exl-id: 8921f1b7-ab6a-4a3d-abf9-822af99e4196
 source-git-commit: 2941ac46f36112f488a0d60e3afeaf2979ddb6f4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '131'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -23,4 +23,4 @@ ht-degree: 84%
 
 >[!INFO]
 >
-> 这个视频是课程的一部分， [营销人员决策管理快速入门](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)，可在Experience League上免费使用！
+> 此视频是[面向营销人员的决策管理入门](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)课程的一部分，可在 Experience League 上免费观看！
