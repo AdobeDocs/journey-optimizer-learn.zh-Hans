@@ -2,7 +2,7 @@
 user-guide-title: Journey Optimizer 学习教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 以下是 Journey Optimizer 学习教程。
-source-git-commit: 66f4b0fabea40b5e8f2e5abd42ec89b945dd04e9
+source-git-commit: e8d052ad806f0da48c316921e20a860e74e922b4
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -38,11 +38,11 @@ ht-degree: 0%
    + [创建区段](/help/set-up-resources/create-segments.md)
    + [订阅和登陆页面](/help/subscriptions-and-landing-pages.md)
 + 创建消息 {#create-messages}
-   + [创建电子邮件] {#create-emails}
+   + 创建电子邮件 {#create-emails}
       + [使用电子邮件设计器创建内容](/help/create-messages/create-content-with-the-email-designer.md)
       + [导入和编辑 HTML 电子邮件内容](/help/create-messages/import-and-author-html-email-content.md)
       + [预览、验证和发布](/help/create-messages/preview-proof-and-publish.md)
-   + 创建短信消息 {#create-sms}
+   + 创建短信文本消息 {#create-sms}
       + [配置、创作和投放短信消息](/help/create-messages/configure-author-and-deliver-sms-messages.md)
       + [针对短信的入站关键词支持](/help/create-messages/inbound-keyword-support-for-sms.md)
    + 创建应用程序内消息 {#create-in-app}
