@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 学习教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 以下是 Journey Optimizer 学习教程。
 source-git-commit: e8d052ad806f0da48c316921e20a860e74e922b4
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '292'
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 0%
    + [面向营销人员的移动功能](/help/create-messages/mobile-capabilities.md)
    + [面向开发人员的移动功能](/help/create-messages/mobile-capabilities-for-developers.md)
 + 创建活动 {#create-campaigns}
-   + [创建营销活动](/help/create-champaigns/create-a-campaign.md)
+   + [创建活动](/help/create-champaigns/create-a-campaign.md)
 + 创建历程{#create-journeys}
    + [历程画布概述](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [构建历程的简介](/help/create-journeys/introduction-to-building-a-journey.md)
@@ -46,8 +46,8 @@ ht-degree: 0%
       + [配置、创作和投放短信消息](/help/create-messages/configure-author-and-deliver-sms-messages.md)
       + [针对短信的入站关键词支持](/help/create-messages/inbound-keyword-support-for-sms.md)
    + 创建应用程序内消息 {#create-in-app}
-      + [促销活动的应用程序内消息传送](/help/create-messages/in-app-messaging-for-campaigns.md)
-      + [创作应用程序内消息](/help/create-messages/author-in-app-messages.md)
+      + [活动的应用程序内消息传送](/help/create-messages/in-app-messaging-for-campaigns.md)
+      + [创建应用程序内消息](/help/create-messages/author-in-app-messages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + 个性化内容{#personalize-content}
    + [基于用户档案和区段会员资格的个性化](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
@@ -81,7 +81,7 @@ ht-degree: 0%
       + [设置电子邮件渠道](/help/set-up-email-channel/set-up-email-channel.md)
       + [委派 CName 子域](/help/set-up-email-channel/delegate-cname-subdomains.md)
       + [配置消息频率规则](/help/administration/configure-frequency-rules.md)
-   + 配置历程{#journey-configuration}
+   + 配置历程 {#journey-configuration}
       + [配置数据源](/help/set-up-journeys/configure-data-sources.md)
       + [创建事件](/help/set-up-journeys/create-events.md)
       + [创建操作](/help/set-up-journeys/create-actions.md)
