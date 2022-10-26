@@ -5,14 +5,14 @@ recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: c1416263c925dcd435c2b9aa2af7a897c2b62850
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '490'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
 
-# Journey Optimizer教程
+# Journey Optimizer 教程
 
 ![](./assets/ajo-banner.png)
 
@@ -45,7 +45,7 @@ Journey Optimizer 帮助企业为其客户提供贴合心意的、情境式和�
 
 <div id="events-section">
 
-## Experience League实时事件
+## Experience League 直播活动
 
 * **[在 Adobe Journey Optimizer 中执行营销活动](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=zh-Hans)**
 
