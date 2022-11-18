@@ -4,8 +4,8 @@ description: 我们提供了一系列视频教程，向您展示如何充分发�
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: c1416263c925dcd435c2b9aa2af7a897c2b62850
-workflow-type: ht
+source-git-commit: 2a934b9e833f1dde36a995bcd565fca585e320ec
+workflow-type: tm+mt
 source-wordcount: '490'
 ht-degree: 100%
 
@@ -158,5 +158,4 @@ Journey Optimizer 帮助企业为其客户提供贴合心意的、情境式和�
   </td>
 </tr>
 </table>
-
 </div>
