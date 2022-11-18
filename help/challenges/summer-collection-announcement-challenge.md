@@ -6,7 +6,7 @@ role: User
 level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
-source-git-commit: d1b4aa69e323d9a6112d2273ea5770c42b044d13
+source-git-commit: 3cd8b1a5b98adbe822cd82db8c27137b534c16e3
 workflow-type: tm+mt
 source-wordcount: '1250'
 ht-degree: 2%
@@ -132,7 +132,7 @@ loyalty.tier.equals("diamond", false) or loyalty.tier.equals("gold", false) or l
 使用身份命名空间预览电子邮件： *电子邮件* 和标识值： *Jenna_Palmer9530@emailsim.io*
 
 * 主题行应为：珍娜，新的卢玛系列来了！
-* 电子邮件正文应与您在预览中看到的内容匹配： [新的季节性收集公告](/help/challenges/assets/SeasonalCollectionEmail.html)
+* 电子邮件正文应与您在预览中看到的内容匹配： [新的季节性收集公告](/help/challenges/assets/email-assets/SeasonalCollectionEmail.html)
 
 
 **电子邮件#2 - Luma Men&#39;s Collection**

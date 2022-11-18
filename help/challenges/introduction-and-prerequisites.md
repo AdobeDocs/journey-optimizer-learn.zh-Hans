@@ -5,7 +5,7 @@ feature: Journeys
 role: Admin
 level: Beginner
 hide: true
-source-git-commit: dd2832c1e99ed9b8407a0aa9356335d3bce40622
+source-git-commit: 3cd8b1a5b98adbe822cd82db8c27137b534c16e3
 workflow-type: tm+mt
 source-wordcount: '452'
 ht-degree: 7%
@@ -19,7 +19,7 @@ ht-degree: 7%
 
 挑战提供了一种情景和实施您学到的知识所需的要求。 挑战可帮助您评估您的技能水平并确定知识差距。
 
-此部分中的每个挑战都涉及您将实施的一个唯一用例。 每个挑战的开头列出了目标受众（角色）以及所需的技能。
+此部分中的每个挑战都涉及您将实施的一个唯一用例。 目标受众（角色）和所需技能将列在每个挑战的开头。
 
 ## 先决条件
 
@@ -67,8 +67,8 @@ Luma正寻求推广其最新的服装和装备系列，并推动现有客户的�
       <em>推广新的Luma夏季系列。 </em>
       <p>
       <b>所需技能：</b>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-segments.html"> 创建区段</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/import-and-author-html-email-content.html">导入和编辑 HTML 电子邮件内容</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html"> 创建区段</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html">导入和编辑 HTML 电子邮件内容</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html">用例 - 读取区段</li>
   </td>
   </tr>
@@ -94,7 +94,7 @@ Luma正寻求推广其最新的服装和装备系列，并推动现有客户的�
     <td>
     <div>
     <a href="product-replenishment-challenge.md">
-      <img alt="Luma 网站" src="./assets/email-assets/luma-ProductReplenishment.jpg"/>
+      <img alt="Luma 网站" src="./assets/email-assets/luma-ProductReplenishment.png"/>
     </a>
     </div>
     <td>
