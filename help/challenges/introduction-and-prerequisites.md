@@ -5,13 +5,13 @@ feature: Journeys
 role: Admin
 level: Beginner
 hide: true
-source-git-commit: 3cd8b1a5b98adbe822cd82db8c27137b534c16e3
+exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
+source-git-commit: 8e06a9ac16b3ac77cd9d76f7f81b35592e8606a2
 workflow-type: tm+mt
-source-wordcount: '452'
-ht-degree: 7%
+source-wordcount: '391'
+ht-degree: 8%
 
 ---
-
 
 # Journey Optimizer挑战 — 简介和先决条件
 
@@ -25,22 +25,23 @@ ht-degree: 7%
 
 ### 系统要求
 
-* 访问Journey Optimizer沙盒
-* 建议在专用的培训沙盒中完成该挑战。 请参阅 [设置培训沙盒教程](https://experienceleague.adobe.com//docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html) 中。
-* 您需要以下访问权限：
-   * *历程管理器* 或 *历程管理员* 权利
-   * 查看测试用户档案及其属性
+* 访问Journey Optimizer沙盒 — 我们建议在专用的培训沙盒中完成该挑战。
 * AEM Assets Essentials必须针对您的实例进行配置
 * 必须为事务型消息和营销消息配置电子邮件渠道
 
+### 访问权限
+
+您需要以下访问权限：
+* *历程管理器* 或 *历程管理员*
+* 查看测试用户档案及其属性
+
 >[!NOTE]
-> 这些练习是根据Luma样本数据开发的。 建议设置一个使用示例数据配置的培训沙盒。 请访问教程 [将示例数据导入Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/import-sample-data.html?lang=en) 以了解详细说明。
+> 这些练习是根据Luma样本数据开发的。 建议设置一个使用示例数据配置的培训沙盒。 请访问教程 [配置培训沙盒](/help/tutorial-configure-a-training-sandbox/introduction-and-prerequisites.md) 的详细说明。
 
 ### 必需操作
 
 * 如果您是Adobe Journey Optimizer的新用户，请完成本课程 [面向历程经理和管理员的Journey Optimizer快速入门](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.1).
-* 开始之前，请先下载 [luma-assets.zip](/help/challenges/assets/email-assets/luma-assets.zip) 文件。 它包含完成挑战所需的所有资产
-* 从下载文件夹中，移动 `luma-assets.zip` 文件到计算机上的所需位置，然后将其解压缩。
+
 
 ## 故事
 
