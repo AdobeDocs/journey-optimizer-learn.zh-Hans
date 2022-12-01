@@ -7,10 +7,10 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 52fb90247fa30d5b5c86d5a464d994e8e7075049
+source-git-commit: 30d2e0b2cad59385c8b9bc98f7db671027f7906a
 workflow-type: tm+mt
-source-wordcount: '421'
-ht-degree: 8%
+source-wordcount: '457'
+ht-degree: 7%
 
 ---
 
@@ -45,8 +45,12 @@ Luma提供忠诚计划，作为吸引和留住客户的一种方式。 该计划
 
 当忠诚客户转向钻石层级，祝贺并告知他们新的优势时，发送电子邮件。 The
 
-1. 在Journey Optimizer中创建一个名为 **您的名称 — Luma — 钻石状态**
-1. 创建一个在客户进入Diamond新忠诚层（特别是当客户进入为新Diamond级别成员定义的区段时）时触发的历程，以发送“Luma - New Status - Diamond - Transactional”电子邮件
+1. 在Journey Optimizer中创建一个名为 **Luma — 钻石状态**
+2. 创建一个在客户进入Diamond新忠诚层（特别是当客户进入为新Diamond级别成员定义的区段时）时触发的历程，以发送“Luma - New Status - Diamond - Transactional”电子邮件
+   1. 创建标题为的事务型电子邮件 `(your name)_Luma – New Status – Diamond – Transactional email message`.
+   2. 为电子邮件提供一个主题行 `Welcome to Diamond Status, (recipient's first name)!`.
+   3. 使用提供的HTML文件 **[DiamondStatusEmail.html](/help/challenges/assets/email-assets/DiamondStatusEmail.html)** 邮件正文。
+3. 完成后，将历程置于测试模式并触发历程以发送给您自己  
 
    1. 创建标题为的事务型电子邮件 `(your name)_Luma – New Status – Diamond – Transactional email message`.
    1. 为电子邮件提供一个主题行 `Welcome to Diamond Status, (recipient's first name)!`.

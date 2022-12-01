@@ -7,12 +7,13 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 8a2062f0719e799dd2d039488e6bba943fb458c4
+source-git-commit: c6e28361e1aca183a4cc2906ac90825218141e13
 workflow-type: tm+mt
-source-wordcount: '754'
-ht-degree: 3%
+source-wordcount: '683'
+ht-degree: 4%
 
 ---
+
 
 # 创建订单确认事务型电子邮件
 
@@ -26,21 +27,27 @@ ht-degree: 3%
 
 ## 故事
 
-Luma正在推出其在线商店，并希望在客户下订单后通过提供订单确认电子邮件来确保客户获得良好的体验。
+Luma将启动其在线商店，并希望在客户下订单后通过提供订单确认电子邮件来确保客户获得良好的体验。
 
-创建和个性化事务性订单确认消息。
 
-## 有你需要的吗？
 
 ## 您的挑战
 
-创建在Luma客户完成在线订单时触发的订单确认电子邮件。
+创建一个旅程，在Luma客户完成在线订单时发送订单确认电子邮件。
 
-### 创建订单确认电子邮件
+>[!BEGINTABS]
 
-创建一封标题为“（您的名称）_Luma — 订单确认”的新电子邮件。 主题行必须使用收件人的名字进行个性化，并且必须包含“感谢您的购买”短语
+>[!TAB 任务]
 
-遵循Luma品牌准则，电子邮件的结构应如下所示：
+1. 创建名为“您的名称_订单确认”的历程
+2. 使用事件：LumaOnlinePurchase作为触发器
+
+3. 创建订单确认电子邮件：
+
+* 类别事务型 — 确保选择事务型电子邮件界面
+* 主题行必须使用收件人的名字进行个性化，并且必须包含“感谢您的购买”短语
+
+遵循Luma品牌准则，电子邮件的结构应如下所示 — 您可以使用 **Luma — 订单摘要** 模板并对其进行修改：
 
 <table>
 <tr>
@@ -56,7 +63,6 @@ Luma正在推出其在线商店，并希望在客户下订单后通过提供订�
     <li>大小35%，居中为白色背景 </li>
     <li>它应具有指向luma网站的链接：https://publish1034.adobedemo.com/content/luma/us/en.html</li>
     <p>
-    提示：您将在assets文件夹中找到名为“消息图像”的所有图像。 <p>
     </td>
   </tr>
   <tr>
@@ -71,7 +77,7 @@ Luma正在推出其在线商店，并希望在客户下订单后通过提供订�
     <li>边距：顶部，底部(10)<div>
     <p>
     <strong>文本</strong><p>
-    <em>谢谢你的购买！</em><p>
+    <em>{名字}</em><p>
     <li>对齐方式：left  </li>
    <li>文本颜色：rgb(101, 106, 119);font-size:14px</li>
     <li>内边距：左(95)、右(95)</li><div>
@@ -82,10 +88,13 @@ Luma正在推出其在线商店，并希望在客户下订单后通过提供订�
     <li>对齐方式：left  </li>
     <li>文本颜色：rgb(101, 106, 119);font-size:14px </li>
     <li>内边距：左(95)、右(95)</li><div>
-    </a>
-    <p>
-    <strong>按钮:</strong>
-   <p><em>查看订单</em></p>
+    </a><p>
+    <em>收货方：<p>
+    <p>名字姓氏</p>
+    街<p>
+    城市、州/省、邮政编码</p></em>
+    <strong>按钮:</strong></p>
+   <p><em>查看顺序</em></p>
       <li>背景颜色：rgb(25, 121, 195)</li>
       <li>文本颜色：白色</li>
       <li>无边框</li>
@@ -99,9 +108,10 @@ Luma正在推出其在线商店，并希望在客户下订单后通过提供订�
      <strong>订单详细信息部分</strong>
       </div>
       <p>提示:
-      <li>这是上下文事件信息。 只有在将消息添加到历程后，您才能在上下文中添加（请参阅步骤2）。 在将电子邮件添加到历程并使用上下文事件信息对其进行修改之前，请勿发布该电子邮件！</li>
+      <li>这是上下文事件信息。</li>
       <li>使用帮助程序函数：每个</li>
-      <li>使用HTML编辑器格式化上下文数据。使用DIV标记将信息放入容器中。</li>
+      <li>切换到代码编辑器格式以添加上下文数据。 <li>
+      <li>使用DIV标记将信息放入容器中。</li>
   </td>
   <td>
     <strong>头</strong>
@@ -141,19 +151,13 @@ Luma正在推出其在线商店，并希望在客户下订单后通过提供订�
   </tr>
 </table>
 
-### 创建历程
-
-1. 将历程命名为“您的姓名_Luma — 订单确认”
-1. 使用事件：LumaOnlinePurchase
-1. 操作：添加在步骤1中创建的消息
-1. 返回到消息并添加上下文属性
-1. 发布电子邮件
 
 >[!TIP]
 >
 >为了让您对历程进行故障诊断，最佳做法是在超时或出错的情况下为所有消息操作添加替代路径。
 
-+++成功标准
+
+>[!TAB 检查您的工作]
 
 触发您在测试模式下创建的历程，并向您自己发送电子邮件：
 
@@ -181,17 +185,20 @@ Luma正在推出其在线商店，并希望在客户下订单后通过提供订�
 
    华盛顿特里尔泰勒斯43913 20099
 
-+++
 
-+++检查您的工作
+>[!TAB 成功标准]
+
+** 历程
+
+![历程](/help/challenges/assets/c2-journey.png)
+
+
+** 电子邮件
 
 **主题行：**
 
 {{ profile.person.name.firstName }}，感谢您的购买！
 
-**标题和确认部分：**
-
-![题头和订单确认](/help/challenges/assets/c2-header.png)
 
 **更详细的章节：**
 
@@ -230,11 +237,4 @@ Total: ${{context.journey.events.1627840522.commerce.order.priceTotal}}
 {{profile.homeAddress.city}},{{profile.homeAddress.state}} {{profile.homeAddress.postalCode}}
 ```
 
-**页脚：**
-![页脚](/help/challenges/assets/c2-footer.png)
-
-**历程**
-
-![历程](/help/challenges/assets/c2-journey.png)
-
-+++
+>[!ENDTABS]
