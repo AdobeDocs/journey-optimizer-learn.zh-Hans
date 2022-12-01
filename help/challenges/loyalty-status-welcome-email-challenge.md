@@ -7,7 +7,7 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 30d2e0b2cad59385c8b9bc98f7db671027f7906a
+source-git-commit: bcd4e8f01ebb83444934d641d3ee3aafe420bd6b
 workflow-type: tm+mt
 source-wordcount: '457'
 ht-degree: 7%
@@ -55,8 +55,7 @@ Luma提供忠诚计划，作为吸引和留住客户的一种方式。 该计划
    1. 创建标题为的事务型电子邮件 `(your name)_Luma – New Status – Diamond – Transactional email message`.
    1. 为电子邮件提供一个主题行 `Welcome to Diamond Status, (recipient's first name)!`.
    1. 使用提供的HTML文件 **[DiamondStatusEmail.html](/help/challenges/assets/email-assets/DiamondStatusEmail.html)** 邮件正文。
-
-1. 完成后，将历程置于测试模式并触发历程以发送给您自己  
+4. 完成后，将历程置于测试模式并触发历程以发送给您自己  
 
 ### 创建Luma — 新建状态 — 钻石 — 事务型电子邮件消息
 
