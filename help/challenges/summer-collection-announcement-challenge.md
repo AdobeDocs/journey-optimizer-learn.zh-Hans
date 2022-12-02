@@ -7,10 +7,10 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 697f4e6b11e7c40be726471ab368781f32dad165
+source-git-commit: e6364990cbe6e157ddc2754c1095052ce133ea8e
 workflow-type: tm+mt
-source-wordcount: '1138'
-ht-degree: 1%
+source-wordcount: '1118'
+ht-degree: 2%
 
 ---
 
@@ -30,8 +30,10 @@ ht-degree: 1%
 
 ## 您的挑战
 
-Luma营销团队要求您在Journey Optimizer中实施夏季收藏集营销活动。 您面临的挑战是在Journey Optimizer创建旅程。 具体而言，您必须创建所需的区段、创建四条消息并构建历程。
+Luma营销团队要求您在Journey Optimizer中实施夏季收藏集营销活动。 您面临的挑战是：
 
+* 创建一个区段，用于定义哪些用户档案有资格接收促销活动。
+* 构建历程
 
 ### 步骤1:定义区段 — 活动客户
 
@@ -39,15 +41,16 @@ Luma营销团队要求您在Journey Optimizer中实施夏季收藏集营销活�
 
 >[!TAB 任务]
 
-在Journey Optimizer中创建一个名为 **活动客户**.
+#### 在Journey Optimizer中创建区段
 
+* 在Journey Optimizer中创建一个名为 `Active Customers`.
 * 该区段必须仅包含活跃的Luma客户。
 * 活跃客户是指在Luma的忠诚度计划（银、金、铂或钻石）中具有等级的客户。
 
 
 >[!TAB 成功标准]
 
-在区段生成器中，您可以看到估计的符合条件的用户档案数。
+在区段生成器中，您可以看到估计的符合条件的用户档案数。 如果您使用培训沙盒数据，则在1290个中，您将有大约753个符合条件的用户档案。
 
 >[!NOTE]
 >由于需要回填现有用户档案，因此现有用户档案最多可能需要24小时才能显示区段成员资格。
@@ -87,31 +90,38 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 
 >[!TAB 任务]
 
-向现有客户电子邮件区段发送夏季系列公告，以推广新的Luma夏季系列。
+#### 发送夏季收藏集公告
 
-一家机构为您提供了四个HTML文件，其中包含电子邮件的设计： [下载季节性收藏集电子邮件文件](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip)
+一家机构为您提供了四个HTML文件，其中包含电子邮件的设计：
 
-创建名为 `(your name) - Summer collection announcement` 根据以下准则：
+* SeasonalCollectionEmail.html
+* Luma Men&#39;s Collection电子邮件
+* Luma Women&#39;s Collection电子邮件
+* Luma — 收藏集电子邮件优惠20%
 
-1. 向Luma活动客户区段发送Luma — 新的季节性收集公告电子邮件，以控制组形式保留10%的受众
-   * 消息标题 `(your name)_Luma New Seasonal Collection Announcement`.
-   * 主题行 `(recipient's first name), the new Luma collection is here!`.
-   * 使用提供的HTML文件 *SearlyCollectionEmail.html* 邮件正文。
-2. 等待两天，然后发送一封包含更多目标内容的后续电子邮件：
-   * 男性客户应接收 **Luma Men&#39;s Collection电子邮件**
-      * 消息标题： **（您的名字）_Luma男士收藏**
-      * 主题行： **（收件人的名字），探索“男新运动装”！**
-      * 电子邮件正文： *MensCollectionEmail.html* 邮件正文。
-   * 女性客户应 **Luma Women&#39;s Collection电子邮件**
-      * 消息标题： **（您的名字）_Luma Women&#39;s Collection**
-      * 主题行： **（收件人的名字），浏览Luma的Women Collection!**
-      * 电子邮件正文： *WomensCollectionEmail.html*
-   * 其他客户应会收到 **Luma — 收藏集电子邮件优惠20%**
-      * 消息标题： **（您的名称）_Luma — 收藏20%**
-      * 主题行：**（收件人的名字），享受20%的销售优惠！**
-      * 电子邮件正文： *20OffCollectionEmail.html*
-3. 在发送上述定向电子邮件后，等待两天以打开电子邮件
-4. 如果目标电子邮件未在2天内打开，请发送 **Luma - 20个%off集合电子邮件** 作为最终的重定位尝试
+1. [下载季节性收藏集电子邮件文件](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip).
+
+2. 创建名为 `Luma - Summer collection announcement` 根据以下准则：
+
+   1. 发送 *Luma — 新的季节性收藏公告* 电子邮件至 *活动客户* 10%的受众作为控制组
+      * 消息标题 `Luma New Seasonal Collection Announcement`.
+      * 主题行 `(recipient's first name), the new Luma collection is here!`.
+      * 使用提供的HTML文件 *SearlyCollectionEmail.html* 邮件正文。
+   2. 等待两天，然后发送一封包含更多目标内容的后续电子邮件：
+      * 男性客户应接收 **Luma Men&#39;s Collection电子邮件**
+         * 消息标题： `Luma Men's Collection`
+         * 主题行： `(recipient's first name), explore Men's New athletic gear!`
+         * 电子邮件正文： *MensCollectionEmail.html* 邮件正文。
+      * 女性客户应 **Luma Women&#39;s Collection电子邮件**
+         * 消息标题： `Luma Women's Collection`
+         * 主题行： `(recipient's first name), explore Luma's Women Collection!`
+         * 电子邮件正文： *WomensCollectionEmail.html*
+      * 其他客户应会收到 **Luma — 收藏集电子邮件优惠20%**
+         * 消息标题： `Luma - 20 % off Collection`
+         * 主题行： `(recipient's first name), enjoy 20% off sales!`
+         * 电子邮件正文： *20OffCollectionEmail.html*
+   3. 在发送上述定向电子邮件后，等待两天以打开电子邮件
+   4. 如果目标电子邮件未在2天内打开，请发送 **Luma - 20个%off集合电子邮件** 作为最终的重定位尝试
 
 
 >[!TAB 成功标准]
