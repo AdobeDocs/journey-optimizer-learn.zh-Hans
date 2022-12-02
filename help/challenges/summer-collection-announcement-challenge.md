@@ -7,10 +7,10 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 8a2062f0719e799dd2d039488e6bba943fb458c4
+source-git-commit: 697f4e6b11e7c40be726471ab368781f32dad165
 workflow-type: tm+mt
-source-wordcount: '1250'
-ht-degree: 2%
+source-wordcount: '1138'
+ht-degree: 1%
 
 ---
 
@@ -24,21 +24,14 @@ ht-degree: 2%
 | 所需技能 | <ul><li>[创建区段](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=en)</li><li> [导入和编辑 HTML 电子邮件内容](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=en)</li><li>[用例 - 读取区段](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=en)</li> |
 | 要下载的资产 | [季节性收藏集电子邮件文件](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip) |
 
->[!NOTE]
-> 这些练习是根据Luma样本数据开发的。 我们建议设置一个使用示例数据配置的培训沙盒。 请访问教程 [将示例数据导入Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/import-sample-data.html?lang=zh-Hans) 以了解详细说明。
-
 ## 故事
 
 虚构的运动服装公司Luma正寻求推广其最新的服装和装备系列，并推动现有客户的销售。 Luma将推出新的夏季系列，并希望专门针对不同的客户群。
 
 ## 您的挑战
 
-Luma营销团队要求您在Journey Optimizer中实施夏季收藏集营销活动。
+Luma营销团队要求您在Journey Optimizer中实施夏季收藏集营销活动。 您面临的挑战是在Journey Optimizer创建旅程。 具体而言，您必须创建所需的区段、创建四条消息并构建历程。
 
-您面临的挑战是在Journey Optimizer创建旅程。 具体而言，您必须创建所需的区段、创建四条消息并构建历程。
-
->[!NOTE]
-> 如果您在共享的培训沙盒中工作，最佳做法是将您的名称或缩写添加为前缀，以作为您创建的任何元素名称的前缀。
 
 ### 步骤1:定义区段 — 活动客户
 
@@ -46,7 +39,7 @@ Luma营销团队要求您在Journey Optimizer中实施夏季收藏集营销活�
 
 >[!TAB 任务]
 
-在Journey Optimizer中创建一个名为 **您的名称 — 活动客户**.
+在Journey Optimizer中创建一个名为 **活动客户**.
 
 * 该区段必须仅包含活跃的Luma客户。
 * 活跃客户是指在Luma的忠诚度计划（银、金、铂或钻石）中具有等级的客户。
@@ -54,7 +47,10 @@ Luma营销团队要求您在Journey Optimizer中实施夏季收藏集营销活�
 
 >[!TAB 成功标准]
 
-在区段生成器中，您可以看到估计的符合条件的用户档案数。 如果您在使用Luma示例数据的培训沙盒中工作，则 [!UICONTROL 估计合格用户] 应该有292个500个用户档案。
+在区段生成器中，您可以看到估计的符合条件的用户档案数。
+
+>[!NOTE]
+>由于需要回填现有用户档案，因此现有用户档案最多可能需要24小时才能显示区段成员资格。
 
 **已向区段添加符合条件的用户档案：**
 
@@ -66,9 +62,6 @@ Luma营销团队要求您在Journey Optimizer中实施夏季收藏集营销活�
 
 您还可以检查 [!UICONTROL 区段成员资格] 选项卡：您的区段应会列出。
 
->[!NOTE]
->由于需要回填现有用户档案，因此现有用户档案最多可能需要24小时才能显示区段成员资格。
-
 ![区段成员资格](assets/C1-S1-profile-segment-membership.png)
 
 >[!TAB 检查您的工作]
@@ -79,12 +72,10 @@ Luma营销团队要求您在Journey Optimizer中实施夏季收藏集营销活�
 
 ![区段 — 活动客户](/help/challenges/assets/C1-S1.png)
 
-检查编辑区段屏幕右下角事件下方的代码。
-
 代码应当如下所示：
 
 ```javascript
-loyalty.tier.equals("diamond", false) or loyalty.tier.equals("gold", false) or loyalty.tier.equals("platinum", false) or loyalty.tier.equals("silver", false)
+stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"], false)
 ```
 
 >[!ENDTABS]
@@ -127,7 +118,7 @@ loyalty.tier.equals("diamond", false) or loyalty.tier.equals("gold", false) or l
 
 #### 预览电子邮件
 
-**电子邮件#1-新季节性收集公告**
+**电子邮件#1 — 新的季节性收集公告**
 
 使用身份命名空间预览电子邮件： *电子邮件* 和标识值： *Jenna_Palmer9530@emailsim.io*
 
