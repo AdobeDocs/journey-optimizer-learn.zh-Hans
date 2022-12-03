@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: e6364990cbe6e157ddc2754c1095052ce133ea8e
+source-git-commit: 4314f8090d4462ea8735279078fa53b70c5de551
 workflow-type: tm+mt
-source-wordcount: '1118'
+source-wordcount: '1161'
 ht-degree: 2%
 
 ---
@@ -103,20 +103,20 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 
 2. 创建名为 `Luma - Summer collection announcement` 根据以下准则：
 
-   1. 发送 *Luma — 新的季节性收藏公告* 电子邮件至 *活动客户* 10%的受众作为控制组
-      * 消息标题 `Luma New Seasonal Collection Announcement`.
-      * 主题行 `(recipient's first name), the new Luma collection is here!`.
+   1. 发送 *Luma — 新的夏季系列发布* 电子邮件至 *活动客户* 10%的受众作为控制组
+      * 消息标题 `Luma - Summer Collection Announcement`.
+      * 主题行 `(recipient's first name), the new Luma summer collection is here!`.
       * 使用提供的HTML文件 *SearlyCollectionEmail.html* 邮件正文。
    2. 等待两天，然后发送一封包含更多目标内容的后续电子邮件：
-      * 男性客户应接收 **Luma Men&#39;s Collection电子邮件**
+      * 男性客户应接收 **鹿马门藏** 电子邮件。
          * 消息标题： `Luma Men's Collection`
          * 主题行： `(recipient's first name), explore Men's New athletic gear!`
          * 电子邮件正文： *MensCollectionEmail.html* 邮件正文。
-      * 女性客户应 **Luma Women&#39;s Collection电子邮件**
+      * 女性客户应 **鲁玛女子藏品** 电子邮件。
          * 消息标题： `Luma Women's Collection`
          * 主题行： `(recipient's first name), explore Luma's Women Collection!`
          * 电子邮件正文： *WomensCollectionEmail.html*
-      * 其他客户应会收到 **Luma — 收藏集电子邮件优惠20%**
+      * 其他客户应会收到 **Luma — 收藏20%** 电子邮件。
          * 消息标题： `Luma - 20 % off Collection`
          * 主题行： `(recipient's first name), enjoy 20% off sales!`
          * 电子邮件正文： *20OffCollectionEmail.html*
@@ -128,36 +128,48 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 
 #### 预览电子邮件
 
-**电子邮件#1 — 新的季节性收集公告**
+**电子邮件#1 - Luma — 夏季收藏公告**
 
-使用身份命名空间预览电子邮件： *电子邮件* 和标识值： *Jenna_Palmer9530@emailsim.io*
+预览电子邮件：
 
-* 主题行应为：珍娜，新的卢玛系列来了！
+1. 添加测试用户档案：路易丝·佩蒂：
+   1. 身份命名空间： *Luma CRM ID*
+   2. 标识值： *d1f132f9f9502bba047a6ec86c4b61f9*
+
+结果:
+* 主题行应为：露易丝，新的卢玛系列来了！
 * 电子邮件正文应与您在预览中看到的内容匹配： [新的季节性收集公告](/help/challenges/assets/email-assets/SeasonalCollectionEmail.html)
 
 
 **电子邮件#2 - Luma Men&#39;s Collection**
 
-向自己发送证据
+向您自己发送验证：
 
-* 输入您的电子邮件地址
-* 选择测试用户档案：Chris_Scott1244@emailsim.io
+1. 添加测试用户档案：斯坦利·斯托克：
+   1. 身份命名空间： *Luma CRM ID*
+   2. 标识值： `4f34057d9d9e792c28ba18ecae378e98`
+1. 选择测试用户档案：斯坦利·斯托克
+2. 向自己发送证据
 
-您应会收到一封电子邮件。 主题栏应该写成“克里斯，探索男人的新运动装备！” 且电子邮件正文应与您在预览中看到的内容相匹配： [鹿马门藏](/help/challenges/assets/email-assets/MensCollectionEmail.html)
+结果:\
+您应会收到一封电子邮件。 主题栏应该写成《斯坦利，探索男子新运动装备！》 且电子邮件正文应与您在预览中看到的内容相匹配： [鹿马门藏](/help/challenges/assets/email-assets/MensCollectionEmail.html)
+
+>[!NOTE]
+>你可能需要几分钟才能收到证据。
 
 **电子邮件#3 - Luma Women&#39;s Collection**
 
-使用身份命名空间预览电子邮件： *电子邮件* 和标识值： *Jenna_Palmer9530@emailsim.io*
+使用测试用户档案“Louise Petti”预览电子邮件。
 
-* 主题行应为： *珍娜，探索卢玛的女装系列！*
+* 主题行应为： *露易丝，探索卢玛的女装系列！*
 * 电子邮件正文应与您在预览中看到的内容匹配： [鲁玛女子藏品](/help/challenges/assets/email-assets/WomensCollectionEmail.html)
 
 
 **电子邮件#4 - Luma 20%收藏**
 
-使用身份命名空间预览电子邮件： *电子邮件* 和标识值： *Benny_Steer4909@emailsim.io*
+使用测试用户档案“Louise Petti”预览电子邮件。
 
-* 主题行应为： *本尼，享受20%的销售优惠！*
+* 主题行应为： *露易丝，享受20%的销售优惠！*
 * 电子邮件正文应与您在预览中看到的内容匹配： [Luma收藏20%优惠](/help/challenges/assets/email-assets/20OOffCollectionEmail.html)
 
 **别忘了发布电子邮件！**
@@ -168,16 +180,16 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 >
 >在将历程设置为测试模式之前：
 >
->1. 确保读取区段活动的命名空间已设置为“电子邮件”
+>1. 确保读取区段活动的命名空间设置为 **Luma CRM id(lumaCrmId)**
 >1. 对于每封电子邮件，覆盖电子邮件的默认电子邮件参数，以便将其发送到您的电子邮件地址：
->1. 通过单击眼睛符号显示隐藏值。
->1. 在Email参数中，单击T符号（启用参数覆盖）
+   >    * 通过单击眼睛符号显示隐藏值。
+   >    * 在Email参数中，单击T符号（启用参数覆盖）
 
-   >
-   >      ![覆盖电子邮件参数](/help/challenges/assets/c3-override-email-paramters.jpg)
-> 
->1. 单击Address字段
->1. 在下一个屏幕上，将您的电子邮件地址添加到括号中： *yourname@yourdomain* 在表达式编辑器中，单击确定。
+      >
+      >      ![覆盖电子邮件参数](/help/challenges/assets/c3-override-email-paramters.jpg)
+   > 
+   >    * 单击Address字段
+   >    * 在下一个屏幕上，将您的电子邮件地址添加到括号中： `"yourname@yourdomain"` 在表达式编辑器中，单击确定。
 
 >
 
@@ -189,9 +201,9 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 3. 等待时间：将计时器设置为120秒（在字段中键入计时器）。
 4. 触发用户档案进入
 5. 您可以使用以下电子邮件地址之一作为用户档案标识符来测试每个分支：
-   * 女：珍娜·帕尔默：Jenna_Palmer9530@emailsim.io
-   * 男：克里斯·斯科特：Chris_Scott1244@emailsim.io
-   * 未指定性别：本尼·斯蒂尔：Benny_Steer4909@emailsim.io
+   * 女：路易丝·佩蒂，身份价值： *d1f132f9f9502bba047a6ec86c4b61f9*
+   * 男：斯坦利·斯托克，身份价值： `4f34057d9d9e792c28ba18ecae378e98`
+   * 未指定性别：Leora Dietsche， a8f14eab3b483c2b96171b575ecd90b1
 
 6. 触发用户档案进入后，您应会收到第一封电子邮件，标题应根据您选择的用户档案进行个性化。
 7. 历程应继续进入相应的分支，您应收到相关电子邮件（例如，如果您选择了Jenna，则应收到“Luma Women&#39;s Collection”电子邮件）。
