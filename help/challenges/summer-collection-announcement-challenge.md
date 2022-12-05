@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 121faea2357883ad9672aee2eba1b7ab8278e5c2
+source-git-commit: 8e79a4e474e3b6fc7692578fb2d5920e0772d9b0
 workflow-type: tm+mt
-source-wordcount: '1161'
+source-wordcount: '1149'
 ht-degree: 2%
 
 ---
@@ -172,7 +172,6 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 * 主题行应为： *露易丝，享受20%的销售优惠！*
 * 电子邮件正文应与您在预览中看到的内容匹配： [Luma收藏20%优惠](/help/challenges/assets/email-assets/20OOffCollectionEmail.html)
 
-**别忘了发布电子邮件！**
 
 #### 测试您的历程
 
@@ -200,10 +199,10 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 2. 一次选择单个配置文件
 3. 等待时间：将计时器设置为120秒（在字段中键入计时器）。
 4. 触发用户档案进入
-5. 您可以使用以下电子邮件地址之一作为用户档案标识符来测试每个分支：
-   * 女：路易丝·佩蒂，身份价值： *d1f132f9f9502bba047a6ec86c4b61f9*
+5. 您可以使用以下任一方法测试每个分支 *Luma CRM Id* 作为配置文件标识符：
+   * 女：Leora Dietsche，身份值：`a8f14eab3b483c2b96171b575ecd90b1`
    * 男：斯坦利·斯托克，身份价值： `4f34057d9d9e792c28ba18ecae378e98`
-   * 未指定性别：Leora Dietsche， a8f14eab3b483c2b96171b575ecd90b1
+   * 未指定性别：路易丝·佩蒂，身份价值：&#39;d1f132f9f9502bba047a6ec86c4b61f9&#39;
 
 6. 触发用户档案进入后，您应会收到第一封电子邮件，标题应根据您选择的用户档案进行个性化。
 7. 历程应继续进入相应的分支，您应收到相关电子邮件（例如，如果您选择了Jenna，则应收到“Luma Women&#39;s Collection”电子邮件）。
@@ -216,9 +215,9 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 
 * Luma — 新的季节性收藏公告
 * 根据您使用的测试用户档案，您应会收到以下电子邮件之一：
-   * 珍娜：鲁玛女子藏品
-   * 克里斯：鹿马门藏
-   * 本尼：Luma — 优惠20%
+   * 莱奥拉：鲁玛女子藏品
+   * 斯坦利：鹿马门藏
+   * 露易丝：Luma — 优惠20%
 * 如果您未打开第二封电子邮件：Luma — 优惠20%
 
 >[!TAB 检查您的工作]
