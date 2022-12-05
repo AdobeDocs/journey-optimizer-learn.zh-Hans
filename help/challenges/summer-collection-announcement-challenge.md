@@ -7,7 +7,7 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 4314f8090d4462ea8735279078fa53b70c5de551
+source-git-commit: 121faea2357883ad9672aee2eba1b7ab8278e5c2
 workflow-type: tm+mt
 source-wordcount: '1161'
 ht-degree: 2%
@@ -147,9 +147,9 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 
 1. 添加测试用户档案：斯坦利·斯托克：
    1. 身份命名空间： *Luma CRM ID*
-   2. 标识值： `4f34057d9d9e792c28ba18ecae378e98`
+   1. 标识值： `4f34057d9d9e792c28ba18ecae378e98`
 1. 选择测试用户档案：斯坦利·斯托克
-2. 向自己发送证据
+1. 向自己发送证据
 
 结果:\
 您应会收到一封电子邮件。 主题栏应该写成《斯坦利，探索男子新运动装备！》 且电子邮件正文应与您在预览中看到的内容相匹配： [鹿马门藏](/help/challenges/assets/email-assets/MensCollectionEmail.html)
