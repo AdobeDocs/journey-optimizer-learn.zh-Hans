@@ -7,7 +7,7 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: fa78749a6b768bd637ef5b5a7cda907a7b2030f4
+source-git-commit: e148101f8404c8e2019ee17823bcf1d7a9668bc5
 workflow-type: tm+mt
 source-wordcount: '1138'
 ht-degree: 2%
@@ -45,7 +45,7 @@ Luma营销团队要求您在Journey Optimizer中实施夏季收藏集营销活�
 
 * 在Journey Optimizer中创建一个名为 `Active Customers`.
 * 该区段必须仅包含活跃的Luma客户。
-* 活跃客户是指在Luma的忠诚度计划（银、金、铂或钻石）中具有等级的客户。
+* 活跃客户是指在Luma的忠诚度计划（铜、银、金或铂）中具有等级的客户。
 
 
 >[!TAB 成功标准]
