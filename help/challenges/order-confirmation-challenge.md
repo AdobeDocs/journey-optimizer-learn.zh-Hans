@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 0e83d8fbad6bd87ed25980251970898cb5b94bc0
+source-git-commit: eb31a78738ec32e4f468f620a96525714997ad04
 workflow-type: tm+mt
-source-wordcount: '683'
+source-wordcount: '682'
 ht-degree: 4%
 
 ---
@@ -40,7 +40,7 @@ Luma将启动其在线商店，并希望在客户下订单后通过提供订单�
 >[!TAB 任务]
 
 1. 创建名为“您的名称_订单确认”的历程
-2. 使用事件：LumaOnlinePurchase作为触发器
+2. 使用事件： [!DNL LumaOnlinePurchase] 作为触发器
 
 3. 创建订单确认电子邮件：
 
