@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 758d0af0a93f110fd1692d8b0c364a3bbdac7494
+source-git-commit: 71f2711dbc80cc59973d615429e9f8dac8f3719f
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '451'
 ht-degree: 4%
 
 ---
@@ -58,15 +58,15 @@ Luma提供忠诚计划，作为吸引和留住客户的一种方式。 该计划
 2. 覆盖默认 [!UICONTROL 电子邮件参数] 并将其设置为您自己的电子邮件地址
 
 +++ 单击此处可获取有关如何覆盖 [!!UICONTROL电子邮件参数].
-   * 通过单击眼睛符号显示隐藏值。
-   * 在 [!UICONTROL 电子邮件参数]，单击T符号（启用参数覆盖）
 
-   ![覆盖电子邮件参数](/help/challenges/assets/c3-override-email-paramters.jpg)
-
-   * 单击 [!UICONTROL 地址字段]
-   * 在下一个屏幕上，将您的电子邮件地址添加到括号中： `"yourname@yourdomain"` 在表达式编辑器中，单击确定。
+    *通过单击眼睛符号显示隐藏值。
+    *在 [!UICONTROL 电子邮件参数]，单击T符号（启用参数覆盖）
+    
+    ![覆盖电子邮件参数](/help/challenges/assets/c3-override-email-paramters.jpg)
+    
+    *单击 [!UICONTROL 地址字段]
+    *在下一个屏幕上，将您的电子邮件地址添加到括号中：在表达式编辑器中单击“yourname@yourdomain”，然后单击“确定”。
 +++
-
 
 3. 将历程设置为测试模式
 4. 触发事件
