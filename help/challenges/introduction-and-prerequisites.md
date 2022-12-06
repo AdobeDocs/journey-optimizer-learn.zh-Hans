@@ -6,10 +6,10 @@ role: Admin
 level: Beginner
 hide: true
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: e148101f8404c8e2019ee17823bcf1d7a9668bc5
+source-git-commit: 758d0af0a93f110fd1692d8b0c364a3bbdac7494
 workflow-type: tm+mt
-source-wordcount: '428'
-ht-degree: 12%
+source-wordcount: '447'
+ht-degree: 11%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 12%
 
 挑战提供了一种情景和实施您学到的知识所需的要求。 挑战可帮助您评估您的技能水平并确定知识差距。
 
-此部分中的每个挑战都涉及您将实施的一个唯一用例。 目标受众（角色）和所需技能将列在每个挑战的开头。
+此部分中的每个挑战都涉及您实施的一个唯一用例。 目标受众（角色）和所需技能将列在每个挑战的开头。
 
 ## 先决条件
 
@@ -68,8 +68,8 @@ Luma正寻求推广其最新的服装和装备系列，并推动现有客户的�
       <p>
       <b>所需技能：</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html"> 创建区段</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html">导入和编辑 HTML 电子邮件内容</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html">用例 - 读取区段</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html">读取区段</li>
+       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html">导入HTML电子邮件内容</li>
   </td>
   </tr>
    <tr>
@@ -82,12 +82,16 @@ Luma正寻求推广其最新的服装和装备系列，并推动现有客户的�
     <td>
     <div >
       <a>
-    <strong>创建忠诚度状态欢迎电子邮件（即将推出） </strong>
+    <strong><a href="loyalty-status-welcome-email-challenge.md">创建忠诚度状态欢迎电子邮件 </strong>
     </a>
     </div>
     <p>
-    <em>当忠诚客户转到新层级时，发送电子邮件，祝贺并告知他们新的优势</em>
+    <em>当忠诚客户转到新层级时，发送电子邮件，祝贺并告知他们的新好处。</em>
     <p>
+    <b>所需技能：</b>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html"> 创建区段</li>
+      <li><a [href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html">区段限定条件</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html">导入和编辑 HTML 电子邮件内容</li>
   </td>
   </tr>
   <tr>
@@ -107,7 +111,7 @@ Luma正寻求推广其最新的服装和装备系列，并推动现有客户的�
     </em>
     <p>
     <b>所需技能：</b>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-email-content-with-the-message-editor.html"> 使用消息编辑器创建电子邮件内容</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-content-with-the-email-designer.html"> 使用消息编辑器创建电子邮件内容</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html">使用上下文事件信息进行个性化</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=en">使用辅助函数进行个性化</li>
   </td>
