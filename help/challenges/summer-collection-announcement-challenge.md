@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 8e79a4e474e3b6fc7692578fb2d5920e0772d9b0
+source-git-commit: fa78749a6b768bd637ef5b5a7cda907a7b2030f4
 workflow-type: tm+mt
-source-wordcount: '1149'
+source-wordcount: '1138'
 ht-degree: 2%
 
 ---
@@ -50,7 +50,7 @@ Luma营销团队要求您在Journey Optimizer中实施夏季收藏集营销活�
 
 >[!TAB 成功标准]
 
-在区段生成器中，您可以看到估计的符合条件的用户档案数。 如果您使用培训沙盒数据，则在1290个中，您将有大约753个符合条件的用户档案。
+在区段生成器中，您可以看到估计的符合条件的用户档案数。 如果您使用培训沙盒数据，则在129 K中有大约753个符合条件的用户档案。
 
 >[!NOTE]
 >由于需要回填现有用户档案，因此现有用户档案最多可能需要24小时才能显示区段成员资格。
@@ -202,7 +202,7 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 5. 您可以使用以下任一方法测试每个分支 *Luma CRM Id* 作为配置文件标识符：
    * 女：Leora Dietsche，身份值：`a8f14eab3b483c2b96171b575ecd90b1`
    * 男：斯坦利·斯托克，身份价值： `4f34057d9d9e792c28ba18ecae378e98`
-   * 未指定性别：路易丝·佩蒂，身份价值：&#39;d1f132f9f9502bba047a6ec86c4b61f9&#39;
+   * 未指定性别：路易丝·佩蒂，身份价值： `d1f132f9f9502bba047a6ec86c4b61f9`
 
 6. 触发用户档案进入后，您应会收到第一封电子邮件，标题应根据您选择的用户档案进行个性化。
 7. 历程应继续进入相应的分支，您应收到相关电子邮件（例如，如果您选择了Jenna，则应收到“Luma Women&#39;s Collection”电子邮件）。
