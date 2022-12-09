@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: cfd438e198fdf62859569eed0c6ac22087ddbc75
+source-git-commit: f5b0529ee13067fe945e32494a164959adfd7d6c
 workflow-type: tm+mt
-source-wordcount: '1176'
+source-wordcount: '1175'
 ht-degree: 2%
 
 ---
@@ -196,7 +196,7 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 测试历程并将电子邮件发送到您自己的帐户：
 
 1. 将历程置于测试模式。
-1. 一次选择单个用户档案。
+1. 选择 **[!UICONTROL 一次只显示一个用户档案]**.
 1. 等待时间：将计时器设置为120秒（在字段中键入计时器）。
 1. 触发用户档案进入
 1. 您可以使用以下任一方法测试每个分支 *Luma CRM Id* 作为配置文件标识符：
