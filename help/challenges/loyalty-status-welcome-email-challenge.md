@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 1b6f6cadc2d85a8baa5c95aca026f868a27e78fa
+source-git-commit: cc9d123e4b8efd82eea348c31f5b993556438074
 workflow-type: tm+mt
-source-wordcount: '432'
+source-wordcount: '430'
 ht-degree: 4%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 4%
 
 ## 故事
 
-Luma提供忠诚计划，作为吸引和留住客户的一种方式。 该计划提供了四个不同的级别：铜、银、金和铂。 每个忠诚等级会获得不同的级别或奖励、折扣和其他特殊奖励，作为对其重复业务的奖励。
+Luma提供忠诚计划，作为吸引和留住客户的一种方式。 该计划提供了四个不同的层：铜、银、金和铂。 每个忠诚度等级都会收到不同的奖励、折扣和其他特殊奖励，作为对其重复业务的奖励。
 
 为特殊白金状态加下划线。 Luma希望在客户到达白金层时向客户发送欢迎电子邮件。
 

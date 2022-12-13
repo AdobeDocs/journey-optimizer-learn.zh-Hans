@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 08dfd48d34fac09d05e57438728e1afa5f6cdef9
+source-git-commit: cc9d123e4b8efd82eea348c31f5b993556438074
 workflow-type: tm+mt
-source-wordcount: '706'
+source-wordcount: '701'
 ht-degree: 4%
 
 ---
@@ -41,13 +41,13 @@ Luma将启动其在线商店，并希望在客户下订单后通过提供订单�
 
 1. 创建名为 `Luma - Order Confirmation`
 1. 使用事件： [!DNL LumaOnlinePurchase] 作为触发器
-1. 创建名为 `Luma - Order Confirmation`
+1. 创建名为 `Luma - Order Confirmation`:
 
 * 类别事务型 — 确保选择事务型电子邮件界面
 * 主题行必须使用收件人的名字进行个性化，并且必须包含“感谢您的购买”短语
 * 使用 **Luma — 订单摘要** 模板并对其进行修改：
 
-遵循Luma品牌准则，电子邮件的结构应如下所示：
+电子邮件的结构应如下所示：
 <table>
 <tr>
 <td>
@@ -118,7 +118,7 @@ Luma将启动其在线商店，并希望在客户下订单后通过提供订单�
       </p><br>
       <p><b>提示:</b>
       <li>这是上下文事件信息。
-      <li>使用！UICONTROL帮助程序函数]:[!UICONTROL Each]
+      <li>使用[!UICONTROL帮助程序函数]:[!UICONTROL Each]
       <li>切换到代码编辑器格式以添加上下文数据。
       <li>使用DIV标记将信息放入容器中。
   </td>

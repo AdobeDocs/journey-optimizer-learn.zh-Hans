@@ -9,7 +9,7 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: 08dfd48d34fac09d05e57438728e1afa5f6cdef9
+source-git-commit: cc9d123e4b8efd82eea348c31f5b993556438074
 workflow-type: tm+mt
 source-wordcount: '1065'
 ht-degree: 6%
@@ -250,9 +250,9 @@ ht-degree: 6%
    | `stockQuantity` | `Stock Quantity` | [!UICONTROL 字符串] |
 
 1. 设置 **[!DNL SKU]** 作为主标识
-2. 添加 **[!UICONTROL 显示名称]** `Luma Product Catalog Field Group` 到 [!UICONTROL 字段组].
+1. 添加 **[!UICONTROL 显示名称]** `Luma Product Catalog Field Group` 到 [!UICONTROL 字段组].
 
-3. 选择&#x200B;**[!UICONTROL 保存]**。
+1. 选择&#x200B;**[!UICONTROL 保存]**。
 
 
 ### 创建 [!DNL Luma Product Inventory Event Schema] {#create-luma-product-inventory-event-schema}
