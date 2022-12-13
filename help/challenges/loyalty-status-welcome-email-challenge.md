@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: a9b6559d308823f5af7c2b26c3b2ae59d60d5a60
+source-git-commit: 1b6f6cadc2d85a8baa5c95aca026f868a27e78fa
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '432'
 ht-degree: 4%
 
 ---
@@ -43,12 +43,8 @@ Luma提供忠诚计划，作为吸引和留住客户的一种方式。 该计划
 1. 创建 [!UICONTROL 区段] 在Journey Optimizer `Luma – status upgrade`.
 2. 创建名为 `Luma – New Status – platinum`.
    1. 客户在符合白金忠诚度等级资格时进入历程。
-   2. 客户应收到一封标有 `Luma – Platinum Status - Welcome`，主题行 `Welcome to Platinum Status, (recipient's first name)!` 使用创意团队提供的电子邮件正文。
+   2. 客户应收到一封标有 `Luma – Platinum Status - Welcome`，主题行 `Welcome to Platinum Status, (recipient's first name)!` 使用创意团队提供的电子邮件正文。 这是 [!UICONTROL 事务性] 电子邮件。
    3. 上传HTML文件时，您会注意到电子邮件引用的是“钻石”状态，而不是“白金”状态。 请在Email Designer中更新电子邮件，而不是向创意团队请求新文件。
-
->[小费！]
-> 确保Luma - Platinum Status - Welcome eMail为[!UICONTROL 事务性].
-
 
 >[!TAB 成功标准]
 
@@ -69,7 +65,7 @@ Luma提供忠诚计划，作为吸引和留住客户的一种方式。 该计划
 4. 触发事件
 5. 添加以下内容 [!DNL CRM ID] 表示 [!DNL Stanleigh Stooke] 到 [!UICONTROL 配置文件标识符] 字段： `4f34057d9d9e792c28ba18ecae378e98`
 
-您应会收到个性化的 *Luma — 白金状态 — 欢迎* 电子邮件。
+**结果：** 您应会收到个性化的 *Luma — 白金状态 — 欢迎* 电子邮件。
 
 >[!TAB 检查您的工作]
 
