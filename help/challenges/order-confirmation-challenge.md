@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: eb31a78738ec32e4f468f620a96525714997ad04
+source-git-commit: 08dfd48d34fac09d05e57438728e1afa5f6cdef9
 workflow-type: tm+mt
-source-wordcount: '682'
+source-wordcount: '706'
 ht-degree: 4%
 
 ---
@@ -39,16 +39,15 @@ Luma将启动其在线商店，并希望在客户下订单后通过提供订单�
 
 >[!TAB 任务]
 
-1. 创建名为“您的名称_订单确认”的历程
-2. 使用事件： [!DNL LumaOnlinePurchase] 作为触发器
-
-3. 创建订单确认电子邮件：
+1. 创建名为 `Luma - Order Confirmation`
+1. 使用事件： [!DNL LumaOnlinePurchase] 作为触发器
+1. 创建名为 `Luma - Order Confirmation`
 
 * 类别事务型 — 确保选择事务型电子邮件界面
 * 主题行必须使用收件人的名字进行个性化，并且必须包含“感谢您的购买”短语
+* 使用 **Luma — 订单摘要** 模板并对其进行修改：
 
-遵循Luma品牌准则，电子邮件的结构应如下所示 — 您可以使用 **Luma — 订单摘要** 模板并对其进行修改：
-
+遵循Luma品牌准则，电子邮件的结构应如下所示：
 <table>
 <tr>
 <td>
@@ -79,22 +78,30 @@ Luma将启动其在线商店，并希望在客户下订单后通过提供订单�
     <strong>文本</strong><p>
     <em>{名字}</em><p>
     <li>对齐方式：left  </li>
-   <li>文本颜色：rgb(101, 106, 119);font-size:14px</li>
-    <li>内边距：左(95)、右(95)</li><div>
+   <li>文本颜色：rgb(69, 97, 162)#4461a2; 
+   <li>字体大小：20px</li>
+   <div>
     <p>
      <em>已下订单。
     <p>包发货后，我们会向您发送一封包含跟踪号码的电子邮件，以便您跟踪订单。</p></em>
-    </strong><p>
-    <li>对齐方式：left  </li>
-    <li>文本颜色：rgb(101, 106, 119);font-size:14px </li>
-    <li>内边距：左(95)、右(95)</li><div>
-    </a><p>
-    <em>收货方：<p>
-    <p>名字姓氏</p>
-    街<p>
-    城市、州/省、邮政编码</p></em>
-    <strong>按钮:</strong></p>
-   <p><em>查看顺序</em></p>
+    </strong>
+    </tr>
+  </td>
+ <td>
+  <div>
+     <strong> 收货区</strong>
+      </div>
+      <p><li>将模板中的硬编码地址替换为用户档案中的地址有效负荷
+      <li> 删除折扣、总计、到达</p>
+  </td>
+  <td>
+  <p> 收货方：</p>
+      <em>名字姓氏<br>
+      街<br>
+      城市、州/省、邮政编码</em></p>
+
+    &lt;strong>按钮：&lt;/strong>&lt;/p>
+<p><em>查看顺序</em></p>
       <li>背景颜色：rgb(25, 121, 195)</li>
       <li>文本颜色：白色</li>
       <li>无边框</li>
@@ -107,11 +114,13 @@ Luma将启动其在线商店，并希望在客户下订单后通过提供订单�
   <div>
      <strong>订单详细信息部分</strong>
       </div>
-      <p>提示:
-      <li>这是上下文事件信息。</li>
-      <li>使用帮助程序函数：每个</li>
-      <li>切换到代码编辑器格式以添加上下文数据。 <li>
-      <li>使用DIV标记将信息放入容器中。</li>
+       <p><li>在 <b>收货方</b> 部分和 <b>查看顺序</b> 按钮
+      </p><br>
+      <p><b>提示:</b>
+      <li>这是上下文事件信息。
+      <li>使用！UICONTROL帮助程序函数]:[!UICONTROL Each]
+      <li>切换到代码编辑器格式以添加上下文数据。
+      <li>使用DIV标记将信息放入容器中。
   </td>
   <td>
     <strong>头</strong>
@@ -156,8 +165,7 @@ Luma将启动其在线商店，并希望在客户下订单后通过提供订单�
 >
 >为了让您对历程进行故障诊断，最佳做法是在超时或出错的情况下为所有消息操作添加替代路径。
 
-
->[!TAB 检查您的工作]
+>[!TAB 成功标准]
 
 触发您在测试模式下创建的历程，并向您自己发送电子邮件：
 
@@ -186,7 +194,8 @@ Luma将启动其在线商店，并希望在客户下订单后通过提供订单�
    华盛顿特里尔泰勒斯43913 20099
 
 
->[!TAB 成功标准]
+
+>[!TAB 检查您的工作]
 
 ** 历程
 

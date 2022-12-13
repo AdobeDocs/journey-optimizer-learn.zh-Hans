@@ -9,9 +9,9 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: 2f4f214100e13265d839e2466063e0546e6408b9
+source-git-commit: 08dfd48d34fac09d05e57438728e1afa5f6cdef9
 workflow-type: tm+mt
-source-wordcount: '1063'
+source-wordcount: '1065'
 ht-degree: 6%
 
 ---
@@ -207,7 +207,6 @@ ht-degree: 6%
 
 ### 创建 [!DNL Luma Product catalog Schema] {#create-luma-product-catalog-schema}
 
-
 1. 转到 [!UICONTROL 数据管理] -> **[!UICONTROL 模式]** 中。
 
 1. 选择 **[!UICONTROL 创建架构]** 按钮。
@@ -250,9 +249,10 @@ ht-degree: 6%
    | `ImageURL` | `Image URL` | [!UICONTROL 字符串] |
    | `stockQuantity` | `Stock Quantity` | [!UICONTROL 字符串] |
 
-1. 添加 **[!UICONTROL 显示名称]** `Luma Product Catalog Field Group` 到 [!UICONTROL 字段组].
+1. 设置 **[!DNL SKU]** 作为主标识
+2. 添加 **[!UICONTROL 显示名称]** `Luma Product Catalog Field Group` 到 [!UICONTROL 字段组].
 
-1. 选择&#x200B;**[!UICONTROL 保存]**。
+3. 选择&#x200B;**[!UICONTROL 保存]**。
 
 
 ### 创建 [!DNL Luma Product Inventory Event Schema] {#create-luma-product-inventory-event-schema}
@@ -266,7 +266,7 @@ ht-degree: 6%
 
 1. 选择 **[!UICONTROL 创建新类]**.
 
-1. 添加显示名称： `Luma Business Event`.
+1. 添加显示名称： `Luma Business Event Class`.
 
 1. 选择类型： *[!UICONTROL 时间系列]*.
 
@@ -274,11 +274,11 @@ ht-degree: 6%
 
 1. 创建 [!UICONTROL 字段组]:
 
-   * 显示名称： `Product Inventory Event Details`
+   * 显示名称： `Luma Product Inventory Event Details Field Group`
 
 1. 添加 **[!UICONTROL 显示名称]** `Luma Product Inventory Event Schema` 到架构。
 
-1. 将以下字段添加到Luma Product Info字段组：
+1. 将以下字段添加到 **[!DNL Luma Product Inventory Event Details Field Group]**:
 
    * 字段名称: `inventoryEvent`
 
@@ -286,53 +286,52 @@ ht-degree: 6%
 
    * 类型： [!UICONTROL 对象]
 
-   * 字段组: [!DNL Product Inventory Event Details]
+   * 字段组： [!DNLLUma产品库存事件详细信息字段组]
 
 1. 将以下字段添加到 **[!DNL Product Inventory Event Details]** 对象：
 
    | [!UICONTROL 字段名称] | [!UICONTROL 显示名称] | [!UICONTROL 类型] |
    |-------------|-----------|----------|
-   | `productId` | `Product ID` | [!UICONTROL 字符串] |
    | `sku` | `SKU` | [!UICONTROL 字符串] |
-   | `stockEventType` | `Stock Event Type` | **[!UICONTROL 枚举]** with `restock` 和 `outOfStock` 作为值 |
+   | `stockEventType` | `Stock Event Type` | [!UICONTROL 字符串] |
 
    1. 设置 `stockEventType` 要枚举，请选择类型： `string`.
 
-   1. 向下滚动到 **[!UICONTROL 字段属性]**.
+   2. 向下滚动到 **[!UICONTROL 字段属性]**.
 
-   1. 启用 **[!UICONTROL 枚举]**.
+   3. 启用 **[!UICONTROL 枚举]**.
 
-   1. 输入 **[!UICONTROL 值] ([!UICONTROL label)]**: `restock` (`restock`)。
+   4. 输入 **[!UICONTROL 值] ([!UICONTROL label)]**: `restock` (`restock`)。
 
-   1. 选择 **[!UICONTROL 添加行]**.
+   5. 选择 **[!UICONTROL 添加行]**.
 
-   1. 输入 **[!UICONTROL 值] ([!UICONTROL label)]**: `outOfStock` (`out of stock`)。
+   6. 输入 **[!UICONTROL 值] ([!UICONTROL label)]**: `outOfStock` (`out of stock`)。
 
-   1. 选择 **[!UICONTROL 应用]**.
+   7. 选择 **[!UICONTROL 应用]**.
 
       ![枚举](assets/enum.png)
 
-1. 已设置 `productId` 字段 **[!UICONTROL 主标识]** 使用 **[!DNL Luma Product namespace]**.
+2. 已设置 `productId` 字段 **[!UICONTROL 主标识]** 使用 **[!DNL Luma Product namespace]**.
 
-1. 选择 `sku` 字段，并定义与 `product.sku` 字段 **[!DNL Luma Product catalog Schema]** 架构：
+3. 选择 `sku` 字段，并定义与 `product.sku` 字段 **[!DNL Luma Product catalog Schema]** 架构：
 
    1. 向下滚动到 **[!UICONTROL 字段属性]**.
 
-   1. 启用 **[!UICONTROL 关系]**.
+   2. 启用 **[!UICONTROL 关系]**.
 
       1. **[!UICONTROL 参考模式]**: [!DNL Luma Product catalog Schema].
 
-      1. **[!UICONTROL 引用标识命名空间]**: [!DNL Luma Product].
-   1. 选择 **[!UICONTROL 应用]**.
+      2. **[!UICONTROL 引用标识命名空间]**: [!DNL Luma Product].
+   3. 选择 **[!UICONTROL 应用]**.
 
       架构应如下所示：
 
       ![SKU关系](assets/sku_relationship.png)
 
 
-1. 启用 **用户档案**.
+4. 启用 **用户档案**.
 
-1. 选择 [!UICONTROL 保存] 以保存架构。
+5. 选择 [!UICONTROL 保存] 以保存架构。
 
 ### 创建 [!DNL Luma CRM] 和 [!DNL Luma Product Interactions] 模式 {#create-luma-crm-and-luma-product-interactions-schemas}
 
