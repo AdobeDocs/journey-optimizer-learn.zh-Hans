@@ -9,9 +9,9 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: cc9d123e4b8efd82eea348c31f5b993556438074
+source-git-commit: db681243c066911af03b75f045a4dc4a990daa7d
 workflow-type: tm+mt
-source-wordcount: '1065'
+source-wordcount: '1058'
 ht-degree: 6%
 
 ---
@@ -286,9 +286,9 @@ ht-degree: 6%
 
    * 类型： [!UICONTROL 对象]
 
-   * 字段组： [!DNLLUma产品库存事件详细信息字段组]
+   * 字段组: `Luma Product Inventory Event Details Field Group`
 
-1. 将以下字段添加到 **[!DNL Product Inventory Event Details]** 对象：
+1. 将以下字段添加到 `Product Inventory Event Details` 对象：
 
    | [!UICONTROL 字段名称] | [!UICONTROL 显示名称] | [!UICONTROL 类型] |
    |-------------|-----------|----------|
@@ -311,9 +311,9 @@ ht-degree: 6%
 
       ![枚举](assets/enum.png)
 
-2. 已设置 `productId` 字段 **[!UICONTROL 主标识]** 使用 **[!DNL Luma Product namespace]**.
+1. 已设置 `productId` 字段 **[!UICONTROL 主标识]** 使用 **[!DNL Luma Product namespace]**.
 
-3. 选择 `sku` 字段，并定义与 `product.sku` 字段 **[!DNL Luma Product catalog Schema]** 架构：
+1. 选择 `sku` 字段，并定义与 `product.sku` 字段 **[!DNL Luma Product catalog Schema]** 架构：
 
    1. 向下滚动到 **[!UICONTROL 字段属性]**.
 
@@ -329,9 +329,9 @@ ht-degree: 6%
       ![SKU关系](assets/sku_relationship.png)
 
 
-4. 启用 **用户档案**.
+1. 启用 **用户档案**.
 
-5. 选择 [!UICONTROL 保存] 以保存架构。
+1. 选择 [!UICONTROL 保存] 以保存架构。
 
 ### 创建 [!DNL Luma CRM] 和 [!DNL Luma Product Interactions] 模式 {#create-luma-crm-and-luma-product-interactions-schemas}
 
