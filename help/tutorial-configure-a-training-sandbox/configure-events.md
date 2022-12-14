@@ -8,10 +8,10 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
-source-git-commit: 08dfd48d34fac09d05e57438728e1afa5f6cdef9
+source-git-commit: d361a15661642f770ab7f5527f561eb0bce16b9d
 workflow-type: tm+mt
-source-wordcount: '224'
-ht-degree: 8%
+source-wordcount: '204'
+ht-degree: 9%
 
 ---
 
@@ -36,10 +36,10 @@ ht-degree: 8%
    | [!UICONTROL 名称] | `LumaOnlinePurchase` |
    | [!UICONTROL 类型] | [!UICONTROL 单一] |
    | [!UICONTROL 事件ID类型] | [!UICONTROL 基于规则] |
-   | [!UICONTROL 架构] | Luma产品交互 |
-   | [!UICONTROL 字段] | EventType <br>Order.priceTotal<br>purchaseOrderNumber<br>productListItems.quantity<br><b>在产品列表项> Luma产品目录架构> _中&#x200B;*[!DNL yourOrganizationID]* >产品：</b> <br> 名称<br>价格<br>ProductImageURL<br>产品URL |
+   | [!UICONTROL 架构] | `Luma Web Events Schema` |
+   | [!UICONTROL 字段] | `eventType` <br>`commerce.order.priceTotal`<br>`commerce.order.purchaseOrderNumber`<br>`commerce.shipping.adress.street1`<br>`commerce.shipping.adress.city`<br>`commerce.shipping.adress.postalCode`<br>`commerce.shipping.adress.state`<br>`productListItems.quantity`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.name`<br>`productListItems.Luma Product Catalog Schema._your Organization_IDprice`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.imageURL`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.url` |
 
-1. 添加 [!UICONTROL 事件ID条件]: **[!DNL LumaOnlinePurchase.eventType is commerce.purchases]**
+2. 添加 [!UICONTROL 事件ID条件]: `LumaOnlinePurchase.eventType is commerce.purchases`
 
    1. 选择铅笔图标以编辑字段
    2. 在 [!UICONTROL 添加事件ID条件] 模式窗口中，拖放 `eventType` 画布上

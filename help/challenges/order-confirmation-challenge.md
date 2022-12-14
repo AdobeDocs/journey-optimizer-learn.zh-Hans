@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: cc9d123e4b8efd82eea348c31f5b993556438074
+source-git-commit: d361a15661642f770ab7f5527f561eb0bce16b9d
 workflow-type: tm+mt
-source-wordcount: '701'
+source-wordcount: '671'
 ht-degree: 4%
 
 ---
@@ -33,19 +33,19 @@ Luma将启动其在线商店，并希望在客户下订单后通过提供订单�
 
 ## 您的挑战
 
-创建一个旅程，在Luma客户完成在线订单时发送订单确认电子邮件。
+创建一个旅程，在Luma客户完成在线订单时发送订单确认电子邮件。 《鹿马》
 
 >[!BEGINTABS]
 
 >[!TAB 任务]
 
 1. 创建名为 `Luma - Order Confirmation`
-1. 使用事件： [!DNL LumaOnlinePurchase] 作为触发器
-1. 创建名为 `Luma - Order Confirmation`:
+2. 使用事件： `LumaOnlinePurchase` 作为触发器
+3. 创建名为 `Luma - Order Confirmation`:
 
 * 类别事务型 — 确保选择事务型电子邮件界面
 * 主题行必须使用收件人的名字进行个性化，并且必须包含“感谢您的购买”短语
-* 使用 **Luma — 订单摘要** 模板并对其进行修改：
+* 使用 `Luma - Order summary` 模板并对其进行修改：
 
 电子邮件的结构应如下所示：
 <table>
@@ -59,7 +59,6 @@ Luma将启动其在线商店，并希望在客户下订单后通过提供订单�
     <strong>Luma徽标</strong>
       <p>
      <li>luma_logo.png</li>
-    <li>大小35%，居中为白色背景 </li>
     <li>它应具有指向luma网站的链接：https://publish1034.adobedemo.com/content/luma/us/en.html</li>
     <p>
     </td>
@@ -71,9 +70,6 @@ Luma将启动其在线商店，并希望在客户下订单后通过提供订单�
     </strong>
   </td>
   <td>
-    <strong>图像</strong><p>
-    <li>luma-transactional-order-confirmation-2.jpg </li>
-    <li>边距：顶部，底部(10)<div>
     <p>
     <strong>文本</strong><p>
     <em>{名字}</em><p>
@@ -91,23 +87,15 @@ Luma将启动其在线商店，并希望在客户下订单后通过提供订单�
   <div>
      <strong> 收货区</strong>
       </div>
-      <p><li>将模板中的硬编码地址替换为用户档案中的地址有效负荷
+      <p><li>将模板中的硬编码地址替换为送货地址 
+      <li>详细信息是事件（街道、城市、邮政编码、州）中的上下文属性
+      <li>名字和姓氏来自配置文件
       <li> 删除折扣、总计、到达</p>
   </td>
   <td>
   <p> 收货方：</p>
       <em>名字姓氏<br>
-      街<br>
-      城市、州/省、邮政编码</em></p>
-
-    &lt;strong>按钮：&lt;/strong>&lt;/p>
-<p><em>查看顺序</em></p>
-      <li>背景颜色：rgb(25, 121, 195)</li>
-      <li>文本颜色：白色</li>
-      <li>无边框</li>
-      <li>高度：40</li>
-      <li>添加指向您选择的网站的链接 </li>
-      <li>左对齐上方的文本(提示：使用容器边距)</li>
+      地址<br></em></p>
   </td>
  <tr>
 <td>
