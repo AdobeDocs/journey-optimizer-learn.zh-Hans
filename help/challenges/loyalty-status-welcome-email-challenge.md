@@ -7,7 +7,7 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: cc9d123e4b8efd82eea348c31f5b993556438074
+source-git-commit: 7a178b9c523ead0cf27aaa87d25b3752ef53f519
 workflow-type: tm+mt
 source-wordcount: '430'
 ht-degree: 4%
@@ -63,7 +63,7 @@ Luma提供忠诚计划，作为吸引和留住客户的一种方式。 该计划
 
 3. 将历程设置为测试模式
 4. 触发事件
-5. 添加以下内容 [!DNL CRM ID] 表示 [!DNL Stanleigh Stooke] 到 [!UICONTROL 配置文件标识符] 字段： `4f34057d9d9e792c28ba18ecae378e98`
+5. 添加以下内容 [!DNL CRM ID] 表示 `Stanleigh Stooke` 到 [!UICONTROL 配置文件标识符] 字段： `4f34057d9d9e792c28ba18ecae378e98`
 
 **结果：** 您应会收到个性化的 *Luma — 白金状态 — 欢迎* 电子邮件。
 
