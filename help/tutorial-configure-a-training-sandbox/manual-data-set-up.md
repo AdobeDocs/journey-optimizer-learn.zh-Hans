@@ -52,7 +52,7 @@ ht-degree: 6%
 
 ## 步骤2:创建架构
 
-在此步骤中，通过创建6个示例数据的结构 [[!UICONTROL 模式]](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html):
+在此步骤中，通过创建6个示例数据的结构 [[!UICONTROL 模式]](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=zh-Hans):
 
 * [[!DNL Luma Loyalty Schema]](#create-luma-loyalty-schema)
 

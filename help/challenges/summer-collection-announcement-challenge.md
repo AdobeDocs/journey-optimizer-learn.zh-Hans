@@ -8,7 +8,7 @@ last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
 source-git-commit: f5b0529ee13067fe945e32494a164959adfd7d6c
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1175'
 ht-degree: 100%
 
@@ -22,7 +22,7 @@ ht-degree: 100%
 |---|---|
 | 角色 | 历程管理者 |
 | 所需技能 | <ul><li>[创建区段](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=zh-Hans)</li><li> [导入和编辑 HTML 电子邮件内容](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=zh-Hans)</li><li>[用例 - 读取区段](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=zh-Hans)</li> |
-| 可供下载的资源 | [季节系列的电子邮件文件](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip) |
+| 可供下载的资源 | [季节系列电子邮件文件](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip) |
 
 ## 故事
 
@@ -181,13 +181,15 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 >
 >1. 确保[!UICONTROL 读取区段活动]具有设置为 **Luma CRM id(lumaCrmId)** 的命名空间
 >1. 对于每封电子邮件，覆盖电子邮件的默认电子邮件参数，以便将其发送到您的电子邮件地址：
->    * 通过单击眼睛符号显示隐藏值。
->    * 在电子邮件参数中，单击 T 符号（启用参数覆盖）。
->
->      ![覆盖电子邮件参数](/help/challenges/assets/c3-override-email-paramters.jpg)
-> 
->    * 单击 [!UICONTROL Address] 字段
->    * 在下一个屏幕中，在表达式编辑器中将您的电子邮件地址添加到括号中：`"yourname@yourdomain"`，然后单击 OK。
+   >    * 通过单击眼睛符号显示隐藏值。
+   >    * 在电子邮件参数中，单击 T 符号（启用参数覆盖）。
+
+      >
+      >      ![覆盖电子邮件参数](/help/challenges/assets/c3-override-email-paramters.jpg)
+   > 
+   >    * 单击 [!UICONTROL Address] 字段
+   >    * 在下一个屏幕中，在表达式编辑器中将您的电子邮件地址添加到括号中：`"yourname@yourdomain"`，然后单击 OK。
+
 >
 
 

@@ -10,7 +10,7 @@ exl-id: 8fa673de-9be9-4ab2-94cf-cfa8ac518223
 source-git-commit: 8a2062f0719e799dd2d039488e6bba943fb458c4
 workflow-type: tm+mt
 source-wordcount: '349'
-ht-degree: 5%
+ht-degree: 9%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 5%
 
 本教程专为负责提供Adobe Journey Optimizer培训环境的管理员和数据工程师而设计。 了解配置模式、摄取示例数据和创建事件所需的步骤。 您还将创建三个测试用户档案，让学习者检查其工作。
 
-提供的示例数据基于一个虚构的运动服装公司，名为 _[!DNL Luma]_. [!DNL Luma] 在多个国家/地区拥有商店、在线提供网站和移动应用程序。 [!DNL Luma] 使用Adobe Journey Optimizer为客户提供连接、情境式和个性化的体验。
+提供的示例数据基于一个虚构的运动服装公司，名为 _[!DNL Luma]_. [!DNL Luma] 在多个国家/地区拥有商店、在线提供网站和移动应用程序。 [!DNL Luma] 使用 Adobe Journey Optimizer 为客户提供互联、情境式和个性化的体验。
 
 在本教程结束时，您将有一个支持 [!DNL Luma] 在 [Journey Optimizer挑战](/help/challenges/introduction-and-prerequisites.md) 中。
 
@@ -43,7 +43,7 @@ ht-degree: 5%
 
       这些文件包含您摄取到沙盒中的示例数据。
 
-   1. 打开每个文件并查找 **`yourOrganizationID`** 用 [组织ID](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=en).
+   1. 打开每个文件并查找 **`yourOrganizationID`** 用 [组织ID](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=zh-Hans).
 
    1. 保存文件。
 
