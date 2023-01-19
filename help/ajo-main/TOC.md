@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 以下是 Journey Optimizer 教程。
-source-git-commit: 2a934b9e833f1dde36a995bcd565fca585e320ec
+source-git-commit: cba8982f4be9c60ab1d9efe9a6009033369f10a3
 workflow-type: tm+mt
-source-wordcount: '289'
-ht-degree: 100%
+source-wordcount: '291'
+ht-degree: 95%
 
 ---
 
@@ -21,9 +21,9 @@ ht-degree: 100%
    + [架构](/help/introduction/architecture.md)
    + [面向营销人员的移动功能](/help/create-messages/mobile-capabilities.md)
    + [面向开发人员的移动功能](/help/create-messages/mobile-capabilities-for-developers.md)
-+ 创建活动 {#create-campaigns}
++ 营销活动 {#create-campaigns}
    + [创建活动](/help/create-champaigns/create-a-campaign.md)
-+ 创建历程{#create-journeys}
++ 历程 {#create-journeys}
    + [历程画布概述](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [构建历程的简介](/help/create-journeys/introduction-to-building-a-journey.md)
    + [用例 - 事务性历程](/help/create-journeys/use-case-transactional-journey.md)
@@ -33,6 +33,10 @@ ht-degree: 100%
    + [创建测试用户档案](/help/create-journeys/test-a-journey.md)
    + [发布历程](/help/create-journeys/publish-a-journey.md)
    + [将历程复制到另一个沙盒](/help/create-journeys/copy-a-journey.md)
++ 短信渠道{#sms-channel}
+   + [配置短信API凭据和渠道表面](/help/set-up-channels/set-up-sms-channel.md)
+   + [创作和投放短信消息](/help/channels/author-and-deliver-sms-messages.md)
+   + [针对短信的入站关键词支持](/help/channels/inbound-keyword-support-for-sms.md)
 + 客户个人资料、区段和订阅 {#profiles-segments-subscriptions}
    + [统一的用户档案和分段 - 概述](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [创建区段](/help/set-up-resources/create-segments.md)
@@ -42,9 +46,6 @@ ht-degree: 100%
       + [使用电子邮件设计器创建内容](/help/create-messages/create-content-with-the-email-designer.md)
       + [导入和编辑 HTML 电子邮件内容](/help/create-messages/import-and-author-html-email-content.md)
       + [预览、验证和发布](/help/create-messages/preview-proof-and-publish.md)
-   + 创建短信文本消息 {#create-sms}
-      + [配置、创作和投放短信消息](/help/create-messages/configure-author-and-deliver-sms-messages.md)
-      + [针对短信的入站关键词支持](/help/create-messages/inbound-keyword-support-for-sms.md)
    + 创建应用程序内消息 {#create-in-app}
       + [活动的应用程序内消息传送](/help/create-messages/in-app-messaging-for-campaigns.md)
       + [创建应用程序内消息](/help/create-messages/author-in-app-messages.md)
@@ -78,8 +79,8 @@ ht-degree: 100%
       + [创建数据集并摄取数据](/help/set-up-data/create-datasets-and-ingest-data.md)
       + [配置源连接器](/help/set-up-data/configure-source-connectors.md)
    + 配置渠道 {#channel-configuration}
-      + [设置电子邮件渠道](/help/set-up-email-channel/set-up-email-channel.md)
-      + [委派 CName 子域](/help/set-up-email-channel/delegate-cname-subdomains.md)
+      + [设置电子邮件渠道](/help/set-up-channels/set-up-email-channel.md)
+      + [委派 CName 子域](/help/set-up-channels/delegate-cname-subdomains.md)
       + [配置消息频率规则](/help/administration/configure-frequency-rules.md)
    + 配置历程 {#journey-configuration}
       + [配置数据源](/help/set-up-journeys/configure-data-sources.md)
