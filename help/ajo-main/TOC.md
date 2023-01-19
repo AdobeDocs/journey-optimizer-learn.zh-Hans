@@ -2,7 +2,7 @@
 user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 以下是 Journey Optimizer 教程。
-source-git-commit: 615038fe6d2a3e8e48d9533a6e87a452bf3d7447
+source-git-commit: 8f2b7582a3d7bf4964d8780413b19e29f44b472b
 workflow-type: tm+mt
 source-wordcount: '289'
 ht-degree: 94%
@@ -78,13 +78,13 @@ ht-degree: 94%
       + [配置源连接器](/help/set-up-data/configure-source-connectors.md)
    + 配置渠道 {#channel-configuration}
       + [设置电子邮件渠道](/help/set-up-channels/set-up-email-channel.md)
-      + [配置短信API凭据和渠道表面](/help/set-up-channels/set-up-sms-channel.md)
       + [委派 CName 子域](/help/set-up-channels/delegate-cname-subdomains.md)
+      + [配置短信API凭据和渠道表面](/help/set-up-channels/set-up-sms-channel.md)
       + [配置消息频率规则](/help/administration/configure-frequency-rules.md)
    + 配置历程 {#journey-configuration}
-      + [配置数据源](/help/set-up-journeys/configure-data-sources.md)
-      + [创建事件](/help/set-up-journeys/create-events.md)
-      + [创建操作](/help/set-up-journeys/create-actions.md)
+   + [配置数据源](/help/set-up-journeys/configure-data-sources.md)
+   + [创建事件](/help/set-up-journeys/create-events.md)
+   + [创建操作](/help/set-up-journeys/create-actions.md)
 + 访问控制{#access-control}
    + [访问管理](/help/set-up-access/access-management.md)
    + [创建和管理沙箱](/help/set-up-access/create-and-manage-sandboxes.md)
