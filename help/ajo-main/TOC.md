@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 以下是 Journey Optimizer 教程。
-source-git-commit: cba8982f4be9c60ab1d9efe9a6009033369f10a3
+source-git-commit: 615038fe6d2a3e8e48d9533a6e87a452bf3d7447
 workflow-type: tm+mt
-source-wordcount: '291'
-ht-degree: 95%
+source-wordcount: '289'
+ht-degree: 94%
 
 ---
 
@@ -19,10 +19,10 @@ ht-degree: 95%
    + [Journey Optimizer 概述第 2 部分](/help/introduction/journey-optimizer-overview-part-2.md)
    + [主要功能和用户界面](/help/introduction/key-capabilities-and-user-interface.md)
    + [架构](/help/introduction/architecture.md)
-   + [面向营销人员的移动功能](/help/create-messages/mobile-capabilities.md)
-   + [面向开发人员的移动功能](/help/create-messages/mobile-capabilities-for-developers.md)
+   + [面向营销人员的移动功能](/help/channels/mobile-capabilities.md)
+   + [面向开发人员的移动功能](/help/channels/mobile-capabilities-for-developers.md)
 + 营销活动 {#create-campaigns}
-   + [创建活动](/help/create-champaigns/create-a-campaign.md)
+   + [创建活动](/help/create-campaigns/create-a-campaign.md)
 + 历程 {#create-journeys}
    + [历程画布概述](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [构建历程的简介](/help/create-journeys/introduction-to-building-a-journey.md)
@@ -33,22 +33,20 @@ ht-degree: 95%
    + [创建测试用户档案](/help/create-journeys/test-a-journey.md)
    + [发布历程](/help/create-journeys/publish-a-journey.md)
    + [将历程复制到另一个沙盒](/help/create-journeys/copy-a-journey.md)
++ 电子邮件渠道{#email-channel}
+   + [使用电子邮件设计器创建内容](/help/channels/create-content-with-the-email-designer.md)
+   + [导入和编辑 HTML 电子邮件内容](/help/channels/import-and-author-html-email-content.md)
+   + [预览、验证和发布](/help/channels/preview-proof-and-publish.md)
++ 应用程序内渠道{#in-app-channel}
+   + [活动的应用程序内消息传送](/help/channels/in-app-messaging-for-campaigns.md)
+   + [创建应用程序内消息](/help/channels/author-in-app-messages.md)
 + 短信渠道{#sms-channel}
-   + [配置短信API凭据和渠道表面](/help/set-up-channels/set-up-sms-channel.md)
    + [创作和投放短信消息](/help/channels/author-and-deliver-sms-messages.md)
    + [针对短信的入站关键词支持](/help/channels/inbound-keyword-support-for-sms.md)
 + 客户个人资料、区段和订阅 {#profiles-segments-subscriptions}
    + [统一的用户档案和分段 - 概述](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [创建区段](/help/set-up-resources/create-segments.md)
    + [订阅和登陆页面](/help/subscriptions-and-landing-pages.md)
-+ 创建消息 {#create-messages}
-   + 创建电子邮件 {#create-emails}
-      + [使用电子邮件设计器创建内容](/help/create-messages/create-content-with-the-email-designer.md)
-      + [导入和编辑 HTML 电子邮件内容](/help/create-messages/import-and-author-html-email-content.md)
-      + [预览、验证和发布](/help/create-messages/preview-proof-and-publish.md)
-   + 创建应用程序内消息 {#create-in-app}
-      + [活动的应用程序内消息传送](/help/create-messages/in-app-messaging-for-campaigns.md)
-      + [创建应用程序内消息](/help/create-messages/author-in-app-messages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + 个性化内容{#personalize-content}
    + [基于用户档案和区段会员资格的个性化](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
@@ -80,6 +78,7 @@ ht-degree: 95%
       + [配置源连接器](/help/set-up-data/configure-source-connectors.md)
    + 配置渠道 {#channel-configuration}
       + [设置电子邮件渠道](/help/set-up-channels/set-up-email-channel.md)
+      + [配置短信API凭据和渠道表面](/help/set-up-channels/set-up-sms-channel.md)
       + [委派 CName 子域](/help/set-up-channels/delegate-cname-subdomains.md)
       + [配置消息频率规则](/help/administration/configure-frequency-rules.md)
    + 配置历程 {#journey-configuration}
