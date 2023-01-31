@@ -2,9 +2,9 @@
 user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是Journey OptimizerTutorials。
-source-git-commit: a75ab957d5861ccd5206f0ba86afca8157e20d9a
+source-git-commit: ac590d04a50f20f3767d82c17f9548a372044b6b
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '291'
 ht-degree: 93%
 
 ---
@@ -37,6 +37,7 @@ ht-degree: 93%
    + [使用电子邮件设计器创建内容](/help/channels/create-content-with-the-email-designer.md)
    + [导入和编辑 HTML 电子邮件内容](/help/channels/import-and-author-html-email-content.md)
    + [预览、验证和发布](/help/channels/preview-proof-and-publish.md)
+   + [内容模板](/help/channels/content-templates.md)
 + 应用程序内渠道{#in-app-channel}
    + [活动的应用程序内消息传送](/help/channels/in-app-messaging-for-campaigns.md)
    + [创建应用程序内消息](/help/channels/author-in-app-messages.md)
