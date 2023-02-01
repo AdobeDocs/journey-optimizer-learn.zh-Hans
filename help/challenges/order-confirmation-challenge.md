@@ -7,10 +7,10 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: e0180f75e2bb8d4a7fd9d485b5d9230cf8479ac0
+source-git-commit: 02625ddf2348f2754c821c8e49a1e70154fd6e63
 workflow-type: tm+mt
-source-wordcount: '654'
-ht-degree: 61%
+source-wordcount: '653'
+ht-degree: 50%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 61%
 | 挑战 | 创建订单确认事务型电子邮件 |
 |---|---|
 | 角色 | 历程管理者 |
-| 所需技能 | <ul><li>[使用消息编辑器创建电子邮件内容](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-email-content-with-the-message-editor.html?lang=zh-Hans)</li> <li>[使用上下文事件信息进行个性化](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=zh-Hans)</li><li>[使用辅助函数进行个性化](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=zh-Hans)</li></ul> |
+| 所需技能 | <ul><li>[使用消息编辑器创建电子邮件内容](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=en)</li> <li>[使用上下文事件信息进行个性化](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=zh-Hans)</li><li>[使用辅助函数进行个性化](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=zh-Hans)</li></ul> |
 | 可供下载的资源 | [订单确认资源](/help/challenges/assets/email-assets/order-confirmation-assets.zip) |
 
 ## 故事
@@ -129,7 +129,7 @@ Luma 将启动其在线商店，并希望在客户下订单后通过提供订单
 
 >[!TIP]
 >
->为了让您能够对历程进行故障排除，最佳实践是为所有消息操作添加替代路径，以防出现超时或出错的情况。
+>为了让您对历程进行故障诊断，最佳做法是在出现超时或错误时为所有消息操作添加替代路径。
 
 >[!TAB 成功标准]
 
@@ -137,7 +137,7 @@ Luma 将启动其在线商店，并希望在客户下订单后通过提供订单
 
 1. 在切换到测试模式之前，请覆盖要发送到测试电子邮件的电子邮件参数，以访问您的电子邮件地址：
    1. 打开电子邮件详细信息视图。
-   2. 在电子邮件参数中，单击 T 符号启用参数覆盖
+   2. 在Email parameters部分中，单击T符号（启用参数覆盖）
    3. 单击地址字段
    4. 在下一个屏幕上，将您的电子邮件地址添加到括号中： *&quot;yourname@yourdomain&quot;* 在表达式编辑器中，单击确定。
 2. 将历程置于测试模式
@@ -159,7 +159,7 @@ Luma 将启动其在线商店，并希望在客户下订单后通过提供订单
 
 * 您的电子邮件正文应如下所示：
 
-![电子邮件](//help/challenges/assets/c2-email.png)
+![电子邮件](/help/challenges/assets/c2-email.png)
 
 >[!TAB 检查您的工作]
 
@@ -184,11 +184,11 @@ Luma 将启动其在线商店，并希望在客户下订单后通过提供订单
 {{context.journey.events.454181416.commerce.shipping.address.city}}, {{context.journey.events.454181416.commerce.shipping.address.state}} {{context.journey.events.454181416.commerce.shipping.address.postalCode}}
 ```
 
-*event.45481416* 不同于您将会使用的数字。
+*event.45481416* 是另一个数字。
 
 提示：单独个性化每个行
 
-**订单详情部分：**
+**订单详情部分:**
 
 以下是您的代码所应显示的内容：
 
