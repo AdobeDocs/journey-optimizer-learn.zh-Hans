@@ -6,10 +6,10 @@ role: Admin
 level: Beginner
 hide: true
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: 71f2711dbc80cc59973d615429e9f8dac8f3719f
+source-git-commit: e0180f75e2bb8d4a7fd9d485b5d9230cf8479ac0
 workflow-type: tm+mt
 source-wordcount: '454'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 100%
 
 * 访问 Journey Optimizer 沙盒 - 我们建议在专用的培训沙盒中完成该挑战。
 * 必须针对您的实例对 AEM Assets Essentials 进行配置
-* 必须为事务型消息和营销消息配置电子邮件渠道
+* 必须为事务型和营销消息配置电子邮件渠道
 
 ### 访问权限
 
