@@ -8,9 +8,9 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
-source-git-commit: db681243c066911af03b75f045a4dc4a990daa7d
+source-git-commit: 70815c3cd30de22aad7ec667b8baf9b4c8642491
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '198'
 ht-degree: 9%
 
 ---
@@ -23,13 +23,9 @@ ht-degree: 9%
 
 ## 创建Luma在线购买事件
 
-1. 从左侧导航中，导航到 [!UICONTROL 管理] 选择 *[!UICONTROL 配置]*
-1. 从 [!UICONTROL 功能板]，选择 *[!UICONTROL 管理*]* 事件
+使用此事件时，Journey Optimizer会在用户在线购买luma产品时收到相应信息。
 
-![管理事件](assets/create-events.png)
-
-1. 单击 *[!UICONTROL 创建事件]*
-1. 填写事件详细信息和参数：
+1. 使用以下参数创建事件：
 
    | [!UICONTROL 参数] | [!UICONTROL 值] |
    |-------------|-----------|
@@ -39,7 +35,7 @@ ht-degree: 9%
    | [!UICONTROL 架构] | `Luma Web Events Schema` |
    | [!UICONTROL 字段] | `eventType` <br>`commerce.order.priceTotal`<br>`commerce.order.purchaseOrderNumber`<br>`commerce.shipping.adress.street1`<br>`commerce.shipping.adress.city`<br>`commerce.shipping.adress.postalCode`<br>`commerce.shipping.adress.state`<br>`productListItems.quantity`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.name`<br>`productListItems.Luma Product Catalog Schema._your Organization_IDprice`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.imageURL`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.url` |
 
-1. 添加 [!UICONTROL 事件ID条件]: `LumaOnlinePurchase.eventType is commerce.purchases`
+2. 添加 [!UICONTROL 事件ID条件]: `LumaOnlinePurchase.eventType is commerce.purchases`
 
    1. 选择铅笔图标以编辑字段
    2. 在 [!UICONTROL 添加事件ID条件] 模式窗口中，拖放 `eventType` 画布上

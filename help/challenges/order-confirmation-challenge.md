@@ -7,10 +7,10 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 4268144ade6588e48fc38cae7e542c227af96827
+source-git-commit: 70815c3cd30de22aad7ec667b8baf9b4c8642491
 workflow-type: tm+mt
-source-wordcount: '686'
-ht-degree: 100%
+source-wordcount: '635'
+ht-degree: 82%
 
 ---
 
@@ -33,19 +33,21 @@ Luma 将启动其在线商店，并希望在客户下订单后通过提供订单
 
 ## 您的挑战
 
-创建一个历程，该历程会在 Luma 客户完成在线订单时发送订单确认电子邮件。Luma
+创建一个历程，该历程会在 Luma 客户完成在线订单时发送订单确认电子邮件。
 
 >[!BEGINTABS]
 
 >[!TAB 任务]
 
 1. 创建一个名为 `Luma - Order Confirmation` 的历程
-2. 使用事件：`LumaOnlinePurchase` 作为触发器
+2. 使用事件： `LumaOnlinePurchase`
 3. 创建名为 `Luma - Order Confirmation` 的订单确认电子邮件：
 
 * 类别事务型 - 确保选择事务型电子邮件界面
 * 必须使用收件人的名字对主题行进行个性化设置，并且必须包含语句“感谢您购买我们的产品”
 * 使用 `Luma - Order summary` 模板并对其进行修改：
+   * 删除 `You may also like` 章节
+   * 在电子邮件底部添加取消订阅链接
 
 电子邮件的结构应如下所示：
 <table>
@@ -56,7 +58,6 @@ Luma 将启动其在线商店，并希望在客户下订单后通过提供订单
       </div>
   </td>
   <td>
-    <strong>Luma 徽标</strong>
       <p>
      <li>luma_logo.png</li>
     <li>它应具有指向 luma 网站的链接：https://publish1034.adobedemo.com/content/luma/us/en.html</li>
@@ -72,10 +73,7 @@ Luma 将启动其在线商店，并希望在客户下订单后通过提供订单
   <td>
     <p>
     <strong>文本</strong><p>
-    <em>{名字}，您好！</em><p>
-    <li>Alignment: left  </li>
-   <li>Text color: rgb(69, 97, 162) #4461a2; 
-   <li>font-size: 20px</li>
+    <em>{firstName}</em><p>
    <div>
     <p>
      <em>您的订单已下达。
@@ -87,28 +85,30 @@ Luma 将启动其在线商店，并希望在客户下订单后通过提供订单
   <div>
      <strong> 收货地址部分</strong>
       </div>
-      <p><li>将模板中的硬编码地址替换为送货地址 
-      <li>地址详细信息是事件中的上下文属性（街道、城市、邮政编码、州/省）
+      <p>
       <li>名字和姓氏来自用户档案
+      <li>将模板中的硬编码地址替换为 <b>送货地址</b>
+      <li>地址详细信息是事件（街1号、城市、邮政编码、州）中的上下文属性
       <li> 移除折扣、总计、到达时间</p>
   </td>
   <td>
   <p> 收货地址：</p>
-      <em>姓名<br>
-地址</em></p>
+      <em>{firstName} {lastName}<br>
+     {街1}<br>
+     {City},{State} {postalCode}<br></em></p>
   </td>
  <tr>
 <td>
   <div>
      <strong>订单详情部分</strong>
       </div>
-       <p><li>在<b>收货地址</b>部分后添加此部分和<b>查看订单</b>按钮。
+       <p><li>在 <b>收货方</b> 中。
       </p><br>
       <p><b>提示：</b>
+      <li>在此部分中使用结构组件“左1:2列”
       <li>这是上下文事件信息。
       <li>使用 [!UICONTROL helper function]：[!UICONTROL Each]
       <li>切换到代码编辑器格式以添加上下文数据。
-      <li>使用 DIV 标记将信息放入容器中。
   </td>
   <td>
     <strong>标题</strong>
@@ -120,30 +120,6 @@ Luma 将启动其在线商店，并希望在客户下订单后通过提供订单
   <p>每个商品的格式应如下所示：
  <img alt="订单" src="./assets/c2-order.png"> 
 </p>
-<strong>产品图像：</strong>
-<li>class: cart-item-chair
-<li>style: border-box: min-height:40px</li>
-<li>上边距和下边距：20 像素</li>
-<li>左侧内边距：80 像素</li>
-<li>边框半径：0 像素</li>
-<li>用作容器的背景图像</li>
-<li>background-position: 0% 50%</li>
-<li>background-size: 60px</li>
-<li>background-repeat: no-repeat</li>
-<p>
-<strong>价格：</strong>
-<li>格式 = H5</li>
-<li>样式 = 方框大小：边框</li>
-<li>底端边距：5 像素</li>
-<li>顶端边距：0 像素</li>
-<p>
-<strong>名称和数量：</strong>
-<li>类别 = 小文本</li>
-<li>style=box-sizing: border-box</li>
-<li>padding-top: 5px</li>
-<li>color: rgb(101, 106, 119)</li>
-<li>font-size:14px</li>
-<p>
 </td>
   </tr>
 </table>
@@ -166,16 +142,14 @@ Luma 将启动其在线商店，并希望在客户下订单后通过提供订单
 3. 使用以下参数触发事件：
    * 将用户档案标识符设置为：标识值：`a8f14eab3b483c2b96171b575ecd90b1`
    * 事件类型：commerce.purches
-   * 名称：雪碧瑜伽伴侣套装
-   * 数量：1
-   * `Price Total:` 61
+   * `Quantity`: 1
+   * `Price Total:` 69
    * `Purchase Order Number:` 6253728
-   * `SKU:` 24-WG080
-   * `productImageURL:` <https://publish1034.adobedemo.com/content/dam/luma/en/products/gear/fitness-equipment/luma-yoga-kit-2.jpg>
-   * `City:` 圣何塞
-   * `Postal Code:` 95110
-   * `State`：CA
-   * `Street:` 345 Park Ave
+   * `SKU:` LLMH09
+   * `City:` 华盛顿
+   * `Postal Code:` 20099
+   * `State`:DC
+   * `Street:` 蒂勒特勒斯
 
 您应会收到包含指定产品的个性化购买确认电子邮件。
 
@@ -193,7 +167,11 @@ Luma 将启动其在线商店，并希望在客户下订单后通过提供订单
 
 **主题行：**
 
-{{ profile.person.name.firstName }}，感谢您购买我们的产品！
+谢谢您的购买， {{ profile.person.name.firstName }}!
+
+您的电子邮件正文应如下所示：
+
+![电子邮件](//help/challenges/assets/c2-email.png)
 
 **收货地址部分：**
 
@@ -211,48 +189,25 @@ Luma 将启动其在线商店，并希望在客户下订单后通过提供订单
 
 **订单详情部分：**
 
-![订单详情部分](/help/challenges/assets/c2-order-detail-section.png)
-
 以下是您的代码所应显示的内容：
 
 标题：
 
 ```javascript
-Order: {{context.journey.events.1627840522.commerce.order.purchaseOrderNumber}}
+Order #: {{context.journey.events.1627840522.commerce.order.purchaseOrderNumber}}
 ```
 
 **产品列表：**
 
-使用辅助函数“each”创建产品列表。可在表格中显示它们。以下是您的代码所应显示的内容：
+使用辅助函数“each”创建产品列表。可在表格中显示它们。这是您的代码应该显示的样子(包含特定变量，如事件ID — 而不是 `454181416` 和您的组织I，而不是 `techmarketingdemos` ):
 
 ```javascript
-<div class="text-container" contenteditable="true">
-  <p><span class="acr-expression-field" contenteditable="false">{{#each context.journey.events.454181416.productListItems as |product|}}
-    </span></p>
-  <div class="cart-item-chair" style="box-sizing:border-box;min-height:40px;padding-top:20px;padding-bottom:20px;padding-left:80px;border-radius:0px;background-image:url({{product.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.imageUrl}});background-position:0% 50%;background-size:60px;background-repeat:no-repeat;">
-    <h5 style="box-sizing:border-box;margin-bottom:5px;font-size:16px;line-height:20px;margin-top:0px;">${{product.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.price}}.00</h5>
-    <div class="text-small" style="box-sizing:border-box;padding-top:5px;color:rgb(101, 106, 119);font-size:14px;">{{product.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.name}}</div>
-    <div class="text-small" style="box-sizing:border-box;padding-top:5px;color:rgb(101, 106, 119);font-size:14px;">Quantity: {{product.quantity}}</div>
-  </div>
-  <div class="divider-small" style="box-sizing:border-box;height:1px;margin-top:10px;margin-bottom:10px;background-color:rgb(209, 213, 223);"> </div>
-  {{/each}}<p></p>
-  <p></p>
-</div>
+{{#each context.journey.events.454181416.productListItems as |product|}}<tr> <th class="colspan33"><div class="acr-fragment acr-component image-container" data-component-id="image" style="width:100%;text-align:center;" contenteditable="false"><!--[if mso]><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td style="text-align: center;" ><![endif]--><img src="{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.imageUrl}}" style="height:auto;width:100%;" height="233" width="233"><!--[if mso]></td></tr></table><![endif]--></div></th> <th class="colspan66"><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p><span style="font-weight:700;">{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.name}}</span></p></div></div><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p>${{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.price}}.00</p><p>Quantity: {{context.journey.events.454181416.productListItems.quantity}}</p></div></div></th></tr> {{/each}}
 ```
 
 **总价：**
 
-合计：`${{context.journey.events.1627840522.commerce.order.priceTotal}}`
+合计：`${{context.journey.events.1627840522.commerce.order.priceTotal}}.00`
 
-**客户信息部分**
-
-![客户地址](assets/c2-customer-information.png)
-
-个性化设置应当如下所示：
-
-```javascript
-{{profile.homeAddress.street1}}
-{{profile.homeAddress.city}},{{profile.homeAddress.state}} {{profile.homeAddress.postalCode}}
-```
 
 >[!ENDTABS]
