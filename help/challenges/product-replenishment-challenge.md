@@ -7,10 +7,10 @@ role: User
 level: Beginner
 hide: true
 exl-id: 305aaf4c-7f5d-4f6f-abeb-466208f1fe48
-source-git-commit: 0e83d8fbad6bd87ed25980251970898cb5b94bc0
+source-git-commit: 2bddc86066f265cda1d2063db8eb37c9f211eb76
 workflow-type: tm+mt
-source-wordcount: '609'
-ht-degree: 100%
+source-wordcount: '570'
+ht-degree: 91%
 
 ---
 
@@ -30,62 +30,34 @@ ht-degree: 100%
 
 Luma 要求您在 Journey Optimizer 中实施一个历程，如果客户的愿望清单中有一个以前缺货的商品，当该商品再次有存货时，该历程会通知客户。
 
-## 定义区段 - 缺货的愿望清单商品
+>[!BEGINTABS]
 
-要在产品重新上架时定位潜在的感兴趣的客户，请创建一个由客户组成的区段
+>[!TAB 任务]
 
-* 这些客户的愿望清单中至少添加了一个商品（使用事件类型：[!UICONTROL 商务暂存]）
-* 这些商品最近 3 个月&#x200B;**缺货**（使用库存数量 = 0）
+## 1.定义区段 — 无现货愿望清单项目
+
+要在产品重新上架时定位潜在的感兴趣的客户，请创建一个由客户组成的区段:
+
+* 向其愿望列表中至少添加了一个项目的用户(使用事件类型： [!UICONTROL 商务保存为延迟])
+* 这些商品最近 3 个月缺货（使用库存数量 = 0）
 * 而且这些客户从那以后就没买过该商品。
 
-将此区段命名为：*您的名字 - 缺货的愿望清单*
-
-+++**检查您的工作**
-
-您的区段应如下所示：
-
-![区段 - 缺货的愿望清单商品](/help/challenges/assets/C1-S2.png)
-
-在其愿望清单中添加了过去 3 个月内缺货的商品的客户：
-
-* 事件：暂存
-   * 至少包括 1 个
-   * 库存数量为 0
-
-而且这些客户从那以后就没买过该商品：
-
-* 排除所有与&#x200B;**暂存事件**&#x200B;的 SKU 匹配的购买事件类型。
-
 >[!TIP]
-> * 在 *Browse Variables* 部分中选择“暂存”下的 SKU
-> * 将“暂存”下的 SKU 放入事件字段时，请使用比较选项
+>排除所有与&#x200B;*暂存事件*&#x200B;的 SKU 匹配的购买事件类型。您可以在 *浏览变量* 中。
+
+将此区段命名为： `Out-of-stock-Wishlist`
 
 
-检查“Edit segment”屏幕右下角的“Events”下的代码。代码应如下所示：
-
-代码：
-```(Include have at least 1 Save For Laters event where ((Stock Quantity equals 0)) THENExclude all  Purchases events where ((SKU equals Save For Laters1 SKU)) ) and occurs in last 3 month(s)```
-
-+++
-
-### 创建电子邮件 - Luma 产品补货
-
-通知添加了缺货商品并设置了到货通知的客户，该商品现在又有了存货，可以开始购买。
-
-### 创建历程 - 产品重新上架通知
+### 2.创建历程 — 产品重新库存通知
 
 当以前缺货的商品重新上架时，通知添加了缺货商品并设置了到货通知的客户，该商品现在又有了存货，可以开始购买。
 
-1. 创建名为“您的名字_Luma - 产品重新上架”的历程
-1. 当产品重新上架时，应触发历程
-1. 发送 *Luma - 产品补货*&#x200B;电子邮件至
-1. 在此商品缺货时将其添加到愿望清单的用户
+1. 调用历程： `Product Restock`
+2. 当产品重新上架时，应触发历程
+3. 发送 *Luma - 产品补货*&#x200B;电子邮件至
+4. 在此商品缺货时将其添加到愿望清单的用户
 
->[!TIP]
->
-> 使用现有业务事件。您需要添加一个条件，以检查是否将重新上架的 SKU 包含在了（任何）“暂存”事件类型中。
-
-+++**成功标准**
+>[!TAB 成功标准]
 
 测试您的历程：
 
@@ -104,9 +76,14 @@ Luma 要求您在 Journey Optimizer 中实施一个历程，如果客户的愿�
 
 您应会收到“Luma 电子邮件产品补货”电子邮件，其中包含产品详细信息和针对 Jenna 的个性化设置。
 
-+++
+>[!TAB 检查您的工作]
 
-+++**检查您的工作**
+您的区段应如下所示：
+
+![区段 - 缺货的愿望清单商品](/help/challenges/assets/C1-S2.png)
+
+
+
 
 您的历程应如下所示：
 
@@ -120,4 +97,29 @@ Luma 要求您在 Journey Optimizer 中实施一个历程，如果客户的愿�
 
 ```in(@{LumaProductRestock._wwfovlab065.sku},#{ExperiencePlatform.ExperienceEvents.experienceevent.all(currentDataPackField.eventType=="commerce.saveForLaters").productListItems.all().SKU})```
 
-+++
+
+>[!TIP]
+> * 在 *Browse Variables* 部分中选择“暂存”下的 SKU
+> * 将“暂存”下的 SKU 放入事件字段时，请使用比较选项
+
+
+检查“Edit segment”屏幕右下角的“Events”下的代码。代码应如下所示：
+
+代码：
+```(Include have at least 1 Save For Laters event where ((Stock Quantity equals 0)) THENExclude all  Purchases events where ((SKU equals Save For Laters1 SKU)) ) and occurs in last 3 month(s)```
+
+>[!ENDTABS]
+
+### 创建电子邮件 - Luma 产品补货
+
+通知添加了缺货商品并设置了到货通知的客户，该商品现在又有了存货，可以开始购买。
+
+
+
+>[!TIP]
+>
+> 使用现有业务事件。您需要添加一个条件，以检查是否将重新上架的 SKU 包含在了（任何）“暂存”事件类型中。
+
+
+
+

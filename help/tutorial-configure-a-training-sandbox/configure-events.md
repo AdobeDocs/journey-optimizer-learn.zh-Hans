@@ -8,9 +8,9 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
-source-git-commit: 70815c3cd30de22aad7ec667b8baf9b4c8642491
+source-git-commit: 2bddc86066f265cda1d2063db8eb37c9f211eb76
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '195'
 ht-degree: 9%
 
 ---
@@ -68,7 +68,7 @@ ht-degree: 9%
 | [!UICONTROL 名称] | `LumaProductRestock` |
 | [!UICONTROL 类型] | [!UICONTROL 商业] |
 | [!UICONTROL 架构] | [!DNL Luma Product Inventory Events] |
-| [!UICONTROL 字段] | productID <br> stockEventType<br><b>在产品> Luma产品> *[!DNL yourOrganizationID]* >产品：</b> <br>名称<br>价格<br> ProductImageURL<br>描述 |
+| [!UICONTROL 字段] | SKU <br> stockEventType<br><b> yourOrganizationID > product:</b> <br>name<br>价格<br> ImageURL<br>描述 |
 | [!UICONTROL 条件] | LumaProductRestock。_`your organization's ID`.inventoryEvent.stockEventType为restock |
 
 ## 恭喜

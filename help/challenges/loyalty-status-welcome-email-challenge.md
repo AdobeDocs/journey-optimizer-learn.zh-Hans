@@ -7,7 +7,7 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: a4fafe243435a9a52c6aa555c745f917a4e8663d
+source-git-commit: 2bddc86066f265cda1d2063db8eb37c9f211eb76
 workflow-type: tm+mt
 source-wordcount: '426'
 ht-degree: 86%
@@ -69,7 +69,7 @@ Luma 提供忠诚度计划，作为吸引和留住客户的一种方式。该计
 
 区段应如下所示：
 
-![Luma — 白金状态 — 区段](/help/challenges/assets/c3-segment.png)
+![Luma — 白金状态 — 区段](/)
 
 您的历程应如下所示：
 
