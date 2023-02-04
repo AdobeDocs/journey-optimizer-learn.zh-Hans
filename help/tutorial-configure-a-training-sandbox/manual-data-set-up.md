@@ -6,13 +6,13 @@ doc-type: tutorial
 kt: 9382
 role: Admin
 level: Beginner
-recommendations: noDisplay, noCatalog
 hide: true
+recommendations: noDisplay, noCatalog
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: db681243c066911af03b75f045a4dc4a990daa7d
+source-git-commit: a0f089635df6af8fce9127083ecf582a56b5d569
 workflow-type: tm+mt
-source-wordcount: '1058'
-ht-degree: 6%
+source-wordcount: '1031'
+ht-degree: 8%
 
 ---
 
@@ -56,15 +56,17 @@ ht-degree: 6%
 
 * [[!DNL Luma Loyalty Schema]](#create-luma-loyalty-schema)
 
-* [[!DNL Luma Product catalog Schema]](#create-luma-product-catalog-schema)
+* [[!DNL Luma Product Catalog Schema]](#create-luma-product-catalog-schema)
 
-* [[!DNL Luma Product Inventory Events]](#create-luma-product-inventory-event-schema)
+* [[!DNL Luma Product Inventory Events] 架构](#create-luma-product-inventory-event-schema)
 
 * [[!DNL Luma CRM Schema]](#create-luma-crm-and-luma-product-interactions-schemas)
 
 * [[!DNL Luma Web Events Schema]](#create-luma-crm-and-luma-product-interactions-schemas)
 
-* [[!DNL Luma Test Profiles Schema]](#create-luma-crm-and-luma-product-interactions-schemas)
+* [[!DNL Luma Offline Purchase Events Schema]](#create-additional-schemas)
+
+* [[!DNL Luma Test Profiles Schema]](#create-additional-schemas)
 
 >[!TIP]
 >
@@ -82,7 +84,6 @@ ht-degree: 6%
 
 1. 从下拉菜单中，选择 **[!UICONTROL XDM个人配置文件]**，因为您是为单个客户的属性（点、状态等）建模。
 
-   ![创建架构](assets/loyaltyCreateSchema.png)
 
 #### 添加现有字段组
 
@@ -110,7 +111,7 @@ ht-degree: 6%
 
 1. 输入 `Luma Loyalty Schema` 作为 [!UICONTROL 显示名称].
 
-#### 创建 [!UICONTROL 字段组]
+#### 新建 [!UICONTROL 字段组]
 
 为帮助确保架构之间的一致性，Adobe建议在一个组中管理所有系统标识符：
 
@@ -122,7 +123,7 @@ ht-degree: 6%
 
 1. 添加 `system identifiers for XDM Individual Profile class` 作为 **[!UICONTROL 描述]**.
 
-1. 选择 **[!UICONTROL 添加字段组]**.
+1. 选择&#x200B;**[!UICONTROL 添加字段组]**。
 
    ![创建新字段组](assets/addnewfieldgroup.png)
 
@@ -144,7 +145,7 @@ ht-degree: 6%
 
    * **[!UICONTROL 分配字段组]:** [!DNL Luma identifiers]
 
-1. 选择 **[!UICONTROL 应用]**.
+1. 选择&#x200B;**[!UICONTROL 应用]**。
 
    ![添加系统标识符](assets/addsysteidentifier.png)
 
@@ -152,7 +153,7 @@ ht-degree: 6%
 
    | [!UICONTROL 字段名称] | [!UICONTROL 显示名称] | [!UICONTROL 类型] |
    |-------------|-----------|----------|
-   | `loyaltyId` | `Loyalty ID` | [!UICONTROL 字符串] |
+   | `loyaltyId` | `Loyalty Id` | [!UICONTROL 字符串] |
    | `crmId` | `CRM Id` | [!UICONTROL 字符串] |
 
 ![字段](./assets/add_fields.png)
@@ -175,7 +176,7 @@ ht-degree: 6%
 
    5. 选择 `Luma Loyalty Id` 命名空间 **[!UICONTROL 身份命名空间]** 下拉列表。
 
-   6. 选择 **[!UICONTROL 应用]**.
+   6. 选择&#x200B;**[!UICONTROL 应用]**。
 
       ![主标识](/help/tutorial-configure-a-training-sandbox/assets/primary_identity.png)
 
@@ -191,7 +192,7 @@ ht-degree: 6%
 
    4. 选择 `Luma CRM Id` 命名空间 **[!UICONTROL 身份命名空间]** 下拉列表。
 
-   5. 选择 **[!UICONTROL 应用]**.
+   5. 选择&#x200B;**[!UICONTROL 应用]**。
 
 #### 为配置文件启用并保存架构
 
@@ -233,21 +234,22 @@ ht-degree: 6%
 
    * 字段组: [!DNL Luma Product Catalog Field Group]
 
-1. 选择 **[!UICONTROL 应用]**.
+1. 选择&#x200B;**[!UICONTROL 应用]**。
 
 1. 将以下字段添加到 **[!DNL Product]** 对象：
 
    | [!UICONTROL 字段名称] | [!UICONTROL 显示名称] | [!UICONTROL 类型] |
    |-------------|-----------|----------|
-   | `sku` | `SKU` | [!UICONTROL 字符串] |
-   | `name` | `Name` | [!UICONTROL 字符串] |
-   | `category` | `Category` | [!UICONTROL 字符串] |
-   | `color` | `Color` | [!UICONTROL 字符串] |
-   | `size` | `Size` | [!UICONTROL 字符串] |
-   | `price` | `Price` | [!UICONTROL 双精度] |
-   | `description` | `Description` | [!UICONTROL 字符串] |
-   | `ImageURL` | `Image URL` | [!UICONTROL 字符串] |
-   | `stockQuantity` | `Stock Quantity` | [!UICONTROL 字符串] |
+   | `sku` | `Product SKU` | [!UICONTROL 字符串] |
+   | `name` | `Product Name` | [!UICONTROL 字符串] |
+   | `category` | `Product Category` | [!UICONTROL 字符串] |
+   | `color` | `Product Color` | [!UICONTROL 字符串] |
+   | `size` | `Product Size` | [!UICONTROL 字符串] |
+   | `price` | `Product Price` | [!UICONTROL 双精度] |
+   | `description` | `Product Description` | [!UICONTROL 字符串] |
+   | `imageURL` | `Product Image URL` | [!UICONTROL 字符串] |
+   | `stockQuantity` | `Product Stock Quantity` | [!UICONTROL 字符串] |
+   | `url` | `Product URL` | [!UICONTROL 字符串] |
 
 1. 设置 **[!DNL SKU]** 作为主标识
 1. 添加 **[!UICONTROL 显示名称]** `Luma Product Catalog Field Group` 到 [!UICONTROL 字段组].
@@ -301,17 +303,17 @@ ht-degree: 6%
 
    3. 启用 **[!UICONTROL 枚举]**.
 
-   4. 输入 **[!UICONTROL 值] ([!UICONTROL label)]**: `restock` (`restock`)。
+   4. 输入 **[!UICONTROL 值] ([!UICONTROL label)]**: `restock` (`Restock`)。
 
    5. 选择 **[!UICONTROL 添加行]**.
 
-   6. 输入 **[!UICONTROL 值] ([!UICONTROL label)]**: `outOfStock` (`out of stock`)。
+   6. 输入 **[!UICONTROL 值] ([!UICONTROL label)]**: `outOfStock` (`Out of Stock`)。
 
-   7. 选择 **[!UICONTROL 应用]**.
+   7. 选择&#x200B;**[!UICONTROL 应用]**。
 
       ![枚举](assets/enum.png)
 
-1. 已设置 `productId` 字段 **[!UICONTROL 主标识]** 使用 **[!DNL Luma Product namespace]**.
+1. 已设置 `inventory.Event.sku` 字段 **[!UICONTROL 主标识]** 使用 **[!DNL LumaProductSKU namespace]**.
 
 1. 选择 `sku` 字段，并定义与 `product.sku` 字段 **[!DNL Luma Product catalog Schema]** 架构：
 
@@ -319,10 +321,10 @@ ht-degree: 6%
 
    2. 启用 **[!UICONTROL 关系]**.
 
-      1. **[!UICONTROL 参考模式]**: [!DNL Luma Product catalog Schema].
+      1. **[!UICONTROL 参考模式]**: [!DNL Luma Product Catalog Schema].
 
-      2. **[!UICONTROL 引用标识命名空间]**: [!DNL Luma Product].
-   3. 选择 **[!UICONTROL 应用]**.
+      2. **[!UICONTROL 引用标识命名空间]**: [!DNL LumaProductSKU].
+   3. 选择&#x200B;**[!UICONTROL 应用]**。
 
       架构应如下所示：
 
@@ -333,18 +335,17 @@ ht-degree: 6%
 
 1. 选择 [!UICONTROL 保存] 以保存架构。
 
-### 创建 [!DNL Luma CRM] 和 [!DNL Luma Product Interactions] 模式 {#create-luma-crm-and-luma-product-interactions-schemas}
+### 创建其他架构 {#create-additional-schemas}
 
 创建以下其他 [!UICONTROL 模式]:
 
-| [!UICONTROL 显示名称] | [!DNL Luma CRM] | [!DNL Luma Product Interactions] | [!DNL Luma Test Profiles] |
-|  ---| ------- | ---- |----|
-| **[!UICONTROL 类型]** | [!UICONTROL XDM个人配置文件] | [!UICONTROL XDM体验事件] | [!UICONTROL XDM个人配置文件] |
-| **[!UICONTROL 添加现有字段组]** | Luma标识符<br>人口统计详细信息<br>个人联系详细信息 | 身份映射<br>商务详细信息 | Luma标识符<br>人口统计详细信息<br>个人联系详细信息<br>用户档案测试详细信息 |
-| **[!UICONTROL 关系]** |  | *[!DNL productListItems.SKU]*:<br> 参考模式 *[!DNL Luma Product catalog Schema]* <br>[!DNL Reference identity namespace] *[!DNL Luma Product]* 模式 |
-| **[!UICONTROL 主标识] [!UICONTROL 命名空间])** | systemIdentifier.crmId<br>(Luma CRM Id) |  | personalEmail.address<br>(Email) |
-| **[!UICONTROL 次标识] [!UICONTROL 命名空间]** | personalEmail.address(Email)<br>mobilePhone.number(Phone) |  |
-| **[!UICONTROL 为配置文件启用]** | 是 | 是 | 是 |
+| [!UICONTROL 显示名称] | [!DNL Luma CRM Schema] | [!DNL Luma Web Events Schema] | [!DNL Luma Test Profiles schema] | [!DNL Luma Offline Purchase Events Schema] |
+|  ---| ------- | ---- |----|----|
+| **[!UICONTROL 类]** | [!UICONTROL XDM个人配置文件] | [!UICONTROL XDM体验事件] | [!UICONTROL XDM个人配置文件] | [IUICONTROL XDM ExperienceEvent] |
+| **[!UICONTROL 添加现有字段组]** | `Luma Identity Profile Field Group`<br>`Demographic Details`<br>`Personal Contact Details` | `Orchestration eventID`<br>`Consumer Experience Event`,br>`AEP Web SDK ExperienceEvent` | `Luma Identity Profile Field Group`<br>`Demographic Details`<br>`Personal Contact Details`<br>`Profile test details` | `Luma Identity Profile Field Group` <br>`Commerce Details` |
+| **[!UICONTROL 关系]** |  | `productListItems.SKU`:<br> 参考模式 `Luma Product Catalog Schema` <br>[!DNL Reference identity namespace] `lumaProductSKU` |  | `productListItems.SKU`:<br> 参考模式 `Luma Product Catalog Schema` <br>[!DNL Reference identity namespace] `lumaProductSKU` |
+| **[!UICONTROL 主标识] [!UICONTROL 命名空间])** | `systemIdentifier.crmId` |  | `systemIdentifier.crmId` | `systemIdentifier.LoyaltyId` |
+| **[!UICONTROL 为配置文件启用]** | 是 | 是 | 是 | 是 |
 
 ## 后续步骤
 

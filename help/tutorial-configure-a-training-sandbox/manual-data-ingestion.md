@@ -6,88 +6,33 @@ doc-type: tutorial
 kt: 9382
 role: Admin
 level: Beginner
+hide: true
 recommendations: noDisplay, noCatalog
 exl-id: 5e7bf81d-4d70-48ef-b357-c361b28359db
-source-git-commit: 8a2062f0719e799dd2d039488e6bba943fb458c4
+source-git-commit: a0f089635df6af8fce9127083ecf582a56b5d569
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '85'
 ht-degree: 8%
 
 ---
 
-# 手动摄取数据
+# 创建数据集并摄取数据
 
-本节将指导您完成创建数据集和摄取示例数据所需的步骤。
+以下视频教程介绍如何手动创建数据集和摄取数据：
 
->[!TIP]
->
-> 观看视频教程 [创建数据集并摄取数据](/help/set-up-data/create-datasets-and-ingest-data.md) 开始之前。
+>[!VIDEO](https://video.tv.adobe.com/v/334293?quality=12)
 
-您将创建5个 [!UICONTROL 数据集] 基于卢玛 [!UICONTROL 模式] 您在 [上一部分](/help/tutorial-configure-a-training-sandbox/manual-data-set-up.md). 创建数据集后，您可以从下载和修改的JSON文件中摄取数据。 (请参阅 [简介和先决条件](/help/tutorial-configure-a-training-sandbox/introduction-and-prerequisites.md) )。
 
-## 创建第一个数据集
+创建以下数据集：
 
-创建名为 *[!DNL Luma Loyalty Data]* 从 [!DNL Luma Loyalty schema]
+![创建数据集](/help/tutorial-configure-a-training-sandbox/assets/datasets.png)
 
-1. 从左侧导航中，在 [!UICONTROL 数据管理]，选择 **[!UICONTROL 数据集]**.
+如果您尚未下载，请下载以下包含示例数据的JSON文件，并将数据摄取到相应的数据集中：
 
-1. 选择 **[!UICONTROL 创建数据集]**.
-
-   ![创建数据集](assets/create-dataset.png)
-
-1. 在下一页，选择 [!UICONTROL 从架构创建数据集].
-
-   ![从架构创建数据集](assets/create-dataset-from-schema.png)
-
-1. 在下一页，搜索 *[!DNL Luma Loyalty]* 您之前创建的架构。
-
-1. 选择 *[!DNL Luma Loyalty]*。
-
-1. 单击&#x200B;**[!UICONTROL 下一步]**。
-
-   ![搜索并选择架构](assets/create-dataset-select-schema.png)
-
-1. 配置数据集：
-
-   * 名称: `Luma Loyalty Data`
-
-1. 单击&#x200B;**[!UICONTROL 完成]**。
-
-   ![配置数据集](assets/create-dataset-configure.png)
-
-## 摄取示例数据
-
-创建数据集后，您可以将数据摄取到数据集中。
-
-1. 在 [!DNL Luma Loyalty Data] 页面，向下滚动右侧面板的底部至 [!UICONTROL 添加数据] 部分和启用：
-
-   * **[!UICONTROL 错误诊断]** 和
-
-   * **[!UICONTROL 部分摄取]**
-
-   ![摄取数据](assets/ingest-data.png)
-
-1. 拖放 `luma-loyalty.json` 文件将示例数据上传到数据集。
-
-1. 刷新页面并检查批处理状态，以确认文件已正确摄取。
-
-   375条记录应该被摄取。 摄取数据可能需要几分钟。
-
->[!TIP]
->
->如果批处理失败，请确保在 `luma-loyalty.json` 文件 [组织ID](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=zh-Hans).
-
-## 另外创建五个 [!UICONTROL 数据集]
-
-接下来，再创建以下五个 [!UICONTROL 数据集] 并将数据摄取到 `Luma CRM Data`, `Luma Products Data`和 `Luma Test Profiles` 数据集。
-
-| 数据集名称 | 从模式 | 要摄取的文件 | 记录 |
-| -----| ------ | -------| ------- |
-| `Luma CRM Data` | `Luma CRM` | `luma-crm.json` | 500 |
-| `Luma Products Data` | `Luma Products` | `luma-products.json` | 92 |
-| `Luma Product Interactions Data` | `Luma Product Interactions` | 无 | 0 |
-| `Luma Product Inventory Events` | `Luma Product Inventory Events` | 无 | 0 |
-| `Luma Test Profiles` | `Luma Test Profiles` | `luma-test-profiles.json` | 3 |
+* [luma-crm-data](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-crm-data.json)
+* [luma-loyaty-data](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-loyalty-data.json)
+* [luma-product-catalog-data](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-product-catalog-data.json)
+* [luma-test-profile-data](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-test-profiles-data.json)
 
 ## 后续步骤
 

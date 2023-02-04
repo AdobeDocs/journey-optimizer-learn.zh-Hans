@@ -7,10 +7,11 @@ kt: 9382
 role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
+hide: true
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
-source-git-commit: 2bddc86066f265cda1d2063db8eb37c9f211eb76
+source-git-commit: a0f089635df6af8fce9127083ecf582a56b5d569
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '191'
 ht-degree: 9%
 
 ---
@@ -19,7 +20,9 @@ ht-degree: 9%
 
 在本节中，您可以在 [Journey Optimizer挑战](/help/challenges/introduction-and-prerequisites.md).
 
-观看视频 [创建事件](/help/set-up-journeys/create-events.md) ，以获取有关如何创建事件的指导。
+以下视频介绍如何创建事件：
+
+>[!VIDEO](https://video.tv.adobe.com/v/336253?quality=12)
 
 ## 创建Luma在线购买事件
 
@@ -61,7 +64,7 @@ ht-degree: 9%
 | [!UICONTROL 条件] | [!DNL LumaWishlistAdd.eventType is commerce.saveForLaters] |
 | [!UICONTROL 命名空间] | 电子邮件（电子邮件） |
 
-## 创建*[!DNL Luma Product Restock] 事件
+## 创建 *[!DNL Luma Product Restock]* 事件
 
 | [!UICONTROL 参数] | [!UICONTROL 值] |
 |-------------|-----------|
