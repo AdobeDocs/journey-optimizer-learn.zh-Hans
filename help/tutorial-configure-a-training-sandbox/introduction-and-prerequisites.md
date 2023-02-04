@@ -8,9 +8,9 @@ role: Admin
 level: Beginner
 hide: true
 exl-id: 8fa673de-9be9-4ab2-94cf-cfa8ac518223
-source-git-commit: a0f089635df6af8fce9127083ecf582a56b5d569
+source-git-commit: e377ddb8b84dccd503274caf9ffa3d4c73eedc28
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '340'
 ht-degree: 9%
 
 ---
@@ -33,18 +33,11 @@ ht-degree: 9%
 1. [电子邮件消息预设](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/channel-configuration/set-up-email-channel.html?lang=en) 为营销和事务型消息传递配置。
 1. **[!UICONTROL 历程管理员]** 和 **[!UICONTROL Data Manager]** 培训沙盒的权限。
 1. 您的 [组织ID](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=zh-Hans).
-
 1. 包含示例数据的JSON文件，已配置为您的Journey Optimizer实例：
-
    1. 下载 `luma-sample-data.zip` 文件 [此处](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-sample-data.zip)，其中包含本教程所需的所有JSON文件。
-
-   1. 从下载文件夹中，移动 `luma-data.zip` 文件到计算机上的所需位置，然后将其解压缩。
-
-      这些文件包含培训沙盒的示例数据。
-
-   2. 打开每个文件并查找 **`yourOrganizationID`** 用 [组织ID](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=zh-Hans).
-
-   3. 保存文件。
+   1. 从下载文件夹中，移动 `luma-data.zip` 文件到计算机上的所需位置，然后解压缩该位置。这些文件包含培训沙盒的示例数据。
+   1. 打开每个文件并查找 **`yourOrganizationID`** 用 [组织ID](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=zh-Hans).
+   1. 保存文件。
 
 ## 我们开始吧
 

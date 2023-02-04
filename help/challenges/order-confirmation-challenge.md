@@ -7,7 +7,7 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 02625ddf2348f2754c821c8e49a1e70154fd6e63
+source-git-commit: e377ddb8b84dccd503274caf9ffa3d4c73eedc28
 workflow-type: tm+mt
 source-wordcount: '653'
 ht-degree: 50%
@@ -42,7 +42,6 @@ Luma 将启动其在线商店，并希望在客户下订单后通过提供订单
 1. 创建一个名为 `Luma - Order Confirmation` 的历程
 2. 使用事件： `LumaOnlinePurchase`
 3. 创建 **事务性**  电子邮件 `Luma - Order Confirmation`
-
 * 主题行“谢谢您的购买， `FirstName`&quot;
 * 使用 `Luma - Order summary` 模板并对其进行修改：
    * 删除 `You may also like` 章节
