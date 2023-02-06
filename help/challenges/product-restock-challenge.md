@@ -7,10 +7,10 @@ role: User
 level: Beginner
 hide: true
 exl-id: 305aaf4c-7f5d-4f6f-abeb-466208f1fe48
-source-git-commit: 2f7074e5d9109cdbc1db69f6f5c48667b2276da7
+source-git-commit: 7ecbed1b722d7f05ffd4a7c7071358d993cb1392
 workflow-type: tm+mt
-source-wordcount: '581'
-ht-degree: 86%
+source-wordcount: '580'
+ht-degree: 72%
 
 ---
 
@@ -19,12 +19,12 @@ ht-degree: 86%
 | 挑战 | 产品补货 |
 |---|---|
 | 角色 | 历程管理者 |
-| 所需技能 | <ul><li>[创建区段](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-segments.html?lang=zh-Hans)</li><li> [导入和编辑 HTML 电子邮件内容](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/import-and-author-html-email-content.html?lang=zh-Hans)</li><li>[用例 - 读取区段](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=zh-Hans)</li> |
+| 所需技能 | <ul><li>[创建区段](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=zh-Hans)</li><li> [导入和编辑 HTML 电子邮件内容](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=en)</li><li>[用例 - 读取区段](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=zh-Hans)</li> |
 | 可供下载的资源 | [产品重新存储电子邮件文件](/help/challenges/assets/email-assets/ProductRestockEmail.html.zip) |
 
 ## 故事
 
-在浏览 Luma 网站时，客户可以将他们感兴趣的产品添加到愿望清单。这允许 Luma 向客户发送有针对性的营销消息和产品信息。
+在浏览Luma网站时，客户可以将他们感兴趣的产品添加到愿望清单，这样Luma就可以向客户发送有针对性的营销信息和产品信息。
 
 ## 您的挑战
 
@@ -39,7 +39,7 @@ Luma 要求您在 Journey Optimizer 中实施一个历程，如果客户的愿�
 要在产品重新上架时定位潜在的感兴趣的客户，请创建一个由客户组成的区段:
 
 * 向其愿望列表中至少添加了一个项目的用户(使用事件类型： [!UICONTROL 商务保存为延迟])
-* 这些商品最近 3 个月缺货（使用库存数量 = 0）
+* 过去三个月内无现货（使用库存数量= 0）
 * 而且这些客户从那以后就没买过该商品。
 
 >[!TIP]
@@ -54,7 +54,7 @@ Luma 要求您在 Journey Optimizer 中实施一个历程，如果客户的愿�
 
 1. 调用历程： `Product Restock`
 2. 当产品重新上架时，应触发历程
-3. 发送 *产品重新存储电子邮件* 电子邮件至
+3. 发送 *产品重新存储电子邮件* to
 4. 在此商品缺货时将其添加到愿望清单的用户
 
 >[!TAB 成功标准]
@@ -101,7 +101,7 @@ Luma 要求您在 Journey Optimizer 中实施一个历程，如果客户的愿�
 > * 将“暂存”下的 SKU 放入事件字段时，请使用比较选项
 
 
-检查“Edit segment”屏幕右下角的“Events”下的代码。代码应如下所示：
+检查编辑区段屏幕右下角事件下方的代码。 代码应如下所示：
 
 代码：
 ```(Include have at least 1 Save For Laters event where ((Stock Quantity equals 0)) THENExclude all  Purchases events where ((SKU equals Save For Laters1 SKU)) ) and occurs in last 3 month(s)```
@@ -116,7 +116,7 @@ Luma 要求您在 Journey Optimizer 中实施一个历程，如果客户的愿�
 
 >[!TIP]
 >
-> 使用现有业务事件。您需要添加一个条件，以检查是否将重新上架的 SKU 包含在了（任何）“暂存”事件类型中。
+> 使用现有业务事件。添加一个条件，用于检查是否在保存为延迟的（任何）事件类型中包含重新存储SKU。
 
 
 

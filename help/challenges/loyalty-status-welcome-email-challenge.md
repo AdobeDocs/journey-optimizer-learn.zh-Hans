@@ -7,10 +7,10 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 2bddc86066f265cda1d2063db8eb37c9f211eb76
+source-git-commit: 7ecbed1b722d7f05ffd4a7c7071358d993cb1392
 workflow-type: tm+mt
-source-wordcount: '426'
-ht-degree: 86%
+source-wordcount: '425'
+ht-degree: 85%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 86%
 | 挑战 | 创建忠诚度状态欢迎电子邮件 |
 |---|---|
 | 角色 | 历程管理者 |
-| 所需技能 | <ul><li>[创建区段](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=zh-Hans)</li> <li>[区段鉴别](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html?lang=zh-Hans)</li><li>[导入 HTML 内容](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=zh-Hans)</li></ul> |
+| 所需技能 | <ul><li>[创建区段](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=zh-Hans)</li> <li>[区段鉴别](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html?lang=zh-Hans)</li><li>[导入 HTML 内容](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html)</li></ul> |
 | 可供下载的资源 | [StatusUpgradeEmail.zip](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip) |
 
 ## 故事
@@ -44,7 +44,7 @@ Luma 提供忠诚度计划，作为吸引和留住客户的一种方式。该计
 2. 创建称为 `Luma – New Status – platinum` 的历程。
    1. 客户在符合白金忠诚度等级条件时进入历程。
    2. 客户应收到一封电子邮件，标有 `Luma – Platinum Status - Welcome`，主题行为 `Welcome to Platinum Status, {firstName}!`，且使用创意团队提供的电子邮件正文。这是[!UICONTROL 事务性]电子邮件。
-   3. 上传 HTML 文件时，您会注意到电子邮件引用的是“钻石”状态，而不是“白金”状态。 更新的电子邮件(位于 [!UICONTROL 电子邮件设计工具].
+   3. 上传 HTML 文件时，您会注意到电子邮件引用的是“钻石”状态，而不是“白金”状态。 更新的电子邮件(位于 [!UICONTROL Email Designer].
 
 >[!TAB 成功标准]
 

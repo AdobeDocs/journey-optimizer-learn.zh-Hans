@@ -1,6 +1,6 @@
 ---
 title: 配置事件
-description: 配置完成Journey Optimizer挑战所需的三个事件
+description: 配置实践Journey Optimizer挑战所需的三个事件
 feature: Sandboxes, Data Management, Application Settings
 doc-type: tutorial
 kt: 9382
@@ -9,10 +9,10 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
-source-git-commit: a0f089635df6af8fce9127083ecf582a56b5d569
+source-git-commit: 7ecbed1b722d7f05ffd4a7c7071358d993cb1392
 workflow-type: tm+mt
-source-wordcount: '191'
-ht-degree: 9%
+source-wordcount: '190'
+ht-degree: 10%
 
 ---
 

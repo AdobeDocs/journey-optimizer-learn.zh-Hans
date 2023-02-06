@@ -9,10 +9,10 @@ level: Beginner
 hide: true
 recommendations: noDisplay, noCatalog
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: a0f089635df6af8fce9127083ecf582a56b5d569
+source-git-commit: 7ecbed1b722d7f05ffd4a7c7071358d993cb1392
 workflow-type: tm+mt
-source-wordcount: '1031'
-ht-degree: 8%
+source-wordcount: '1027'
+ht-degree: 9%
 
 ---
 
@@ -87,7 +87,7 @@ ht-degree: 8%
 
 #### 添加现有字段组
 
-接下来，系统会提示您向架构添加字段组。 必须使用组将所有字段添加到架构。 您正在添加现有字段组，并且必须创建字段组。
+接下来，系统会提示您向架构添加字段组。 使用组将所有字段添加到架构。 您正在添加现有字段组，并且必须创建字段组。
 
 >[!NOTE]
 >
@@ -111,7 +111,7 @@ ht-degree: 8%
 
 1. 输入 `Luma Loyalty Schema` 作为 [!UICONTROL 显示名称].
 
-#### 新建 [!UICONTROL 字段组]
+#### 创建 [!UICONTROL 字段组]
 
 为帮助确保架构之间的一致性，Adobe建议在一个组中管理所有系统标识符：
 
@@ -184,7 +184,7 @@ ht-degree: 8%
 
    从 **[!DNL Luma Loyalty Schema]**:
 
-   1. 选择 **[!DNL Luma Identity Profile Field Group]**..
+   1. 选择 **[!DNL Luma Identity Profile Field Group]**。
 
    2. 选择 `crmId` 字段。
 
@@ -198,7 +198,7 @@ ht-degree: 8%
 
 1. 选择架构的顶级节点。
 
-1. 在 [!UICONTROL 字段属性] 启用 **[!UICONTROL 用户档案]**.
+1. 在 [!UICONTROL 字段属性]，启用 **[!UICONTROL 用户档案]**.
 
    架构应如下所示：
 
@@ -342,7 +342,7 @@ ht-degree: 8%
 | [!UICONTROL 显示名称] | [!DNL Luma CRM Schema] | [!DNL Luma Web Events Schema] | [!DNL Luma Test Profiles schema] | [!DNL Luma Offline Purchase Events Schema] |
 |  ---| ------- | ---- |----|----|
 | **[!UICONTROL 类]** | [!UICONTROL XDM个人配置文件] | [!UICONTROL XDM体验事件] | [!UICONTROL XDM个人配置文件] | [IUICONTROL XDM ExperienceEvent] |
-| **[!UICONTROL 添加现有字段组]** | `Luma Identity Profile Field Group`<br>`Demographic Details`<br>`Personal Contact Details` | `Orchestration eventID`<br>`Consumer Experience Event`,br>`AEP Web SDK ExperienceEvent` | `Luma Identity Profile Field Group`<br>`Demographic Details`<br>`Personal Contact Details`<br>`Profile test details` | `Luma Identity Profile Field Group` <br>`Commerce Details` |
+| **[!UICONTROL 添加现有字段组]** | `Luma Identity Profile Field Group`<br>`Demographic Details`<br>`Personal Contact Details` | `Orchestration eventID`<br>`Consumer Experience Event`<br>`AEP Web SDK ExperienceEvent` | `Luma Identity Profile Field Group`<br>`Demographic Details`<br>`Personal Contact Details`<br>`Profile test details` | `Luma Identity Profile Field Group` <br>`Commerce Details` |
 | **[!UICONTROL 关系]** |  | `productListItems.SKU`:<br> 参考模式 `Luma Product Catalog Schema` <br>[!DNL Reference identity namespace] `lumaProductSKU` |  | `productListItems.SKU`:<br> 参考模式 `Luma Product Catalog Schema` <br>[!DNL Reference identity namespace] `lumaProductSKU` |
 | **[!UICONTROL 主标识] [!UICONTROL 命名空间])** | `systemIdentifier.crmId` |  | `systemIdentifier.crmId` | `systemIdentifier.LoyaltyId` |
 | **[!UICONTROL 为配置文件启用]** | 是 | 是 | 是 | 是 |

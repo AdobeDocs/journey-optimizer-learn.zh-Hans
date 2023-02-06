@@ -6,10 +6,10 @@ role: Admin
 level: Beginner
 hide: true
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: e0180f75e2bb8d4a7fd9d485b5d9230cf8479ac0
+source-git-commit: 7ecbed1b722d7f05ffd4a7c7071358d993cb1392
 workflow-type: tm+mt
-source-wordcount: '454'
-ht-degree: 97%
+source-wordcount: '456'
+ht-degree: 87%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 97%
 
 ### 系统要求
 
-* 访问 Journey Optimizer 沙盒 - 我们建议在专用的培训沙盒中完成该挑战。
+* 访问Journey Optimizer沙盒 — 建议在专用的培训沙盒中完成挑战。
 * 必须针对您的实例对 AEM Assets Essentials 进行配置
 * 必须为事务型和营销消息配置电子邮件渠道
 
@@ -40,7 +40,7 @@ ht-degree: 97%
 
 ### 必需操作
 
-* 如果您是 Adobe Journey Optimizer 的新用户，请完成课程[面向历程管理者和管理员的 Journey Optimizer 快速入门](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.1)。
+* 如果您是 Adobe Journey Optimizer 的新用户，请完成课程[面向历程管理者和管理员的 Journey Optimizer 快速入门](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html)。
 
 
 ## 故事
@@ -69,7 +69,7 @@ Luma 正寻求推广其最新的服装和装备系列，并推动针对现有客
       <b>所需技能：</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=zh-Hans"> 创建区段</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=zh-Hans">读取区段</li>
-       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=zh-Hans">导入 HTML 电子邮件内容</li>
+       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html">导入 HTML 电子邮件内容</li>
   </td>
   </tr>
    <tr>
@@ -91,7 +91,7 @@ Luma 正寻求推广其最新的服装和装备系列，并推动针对现有客
     <b>所需技能：</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=zh-Hans"> 创建区段</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html?lang=zh-Hans">区段鉴别</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=zh-Hans">导入和编辑 HTML 电子邮件内容</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html">导入和编辑 HTML 电子邮件内容</li>
   </td>
   </tr>
   <tr>
@@ -111,7 +111,7 @@ Luma 正寻求推广其最新的服装和装备系列，并推动针对现有客
  </em>
     <p>
     <b>所需技能：</b>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-content-with-the-email-designer.html?lang=zh-Hans"> 使用消息编辑器创建电子邮件内容</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html"> 使用消息编辑器创建电子邮件内容</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=zh-Hans">使用上下文事件信息进行个性化</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=zh-Hans">使用辅助函数进行个性化</li>
   </td>
