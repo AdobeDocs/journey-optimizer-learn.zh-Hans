@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
-source-git-commit: 31b554c145e78f1486e43dfb5f84d74751a0b966
+source-git-commit: 3bc6680939544f5c4e054a658d1e17e077b9fa63
 workflow-type: tm+mt
-source-wordcount: '294'
-ht-degree: 93%
+source-wordcount: '293'
+ht-degree: 94%
 
 ---
 
@@ -91,4 +91,4 @@ ht-degree: 93%
    + [创建和管理沙箱](/help/set-up-access/create-and-manage-sandboxes.md)
 + 隐私权 {#privacy}
    + [屏蔽消息中的数据](/help/privacy/mask-data-in-messages.md)
-+ [Summit Lab 2023 — 资产](/help/summit-lab-731/l731-assets.md)
++ [Summit Lab](/help/summit-lab-731/l731-assets.md)

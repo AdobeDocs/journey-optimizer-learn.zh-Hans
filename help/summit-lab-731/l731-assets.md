@@ -7,7 +7,7 @@ role: User
 level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
-source-git-commit: bf5a35d40365f96a7223bf569c1a998ddf933980
+source-git-commit: 3bc6680939544f5c4e054a658d1e17e077b9fa63
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 6%
@@ -41,5 +41,3 @@ http://ajolab.s3-website-us-east-1.amazonaws.com/index.html
 |----|----|----|
 | 短信 | 欢迎来到维加斯。 跳过此行并使用移动设备应用程序登录：lab://checkin |  |
 | 推送 | 欢迎来到维加斯。 跳过此行，使用移动设备应用程序登录 | lab://checkin |
-
-
