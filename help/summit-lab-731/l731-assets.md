@@ -8,13 +8,13 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
-source-git-commit: 417efd939d9b2cbb0867854b9918175ca1bf4052
+exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
+source-git-commit: 5557b1d2005c62ce738120e80c3450545725ba65
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '178'
 ht-degree: 6%
 
 ---
-
 
 # 峰顶实验室L731
 
@@ -22,7 +22,7 @@ ht-degree: 6%
 
 ## 第1课 — 下载并安装应用程序
 
-http://ajolab.s3-website-us-east-1.amazonaws.com/index.html
+[http://ajolab.s3-website-us-east-1.amazonaws.com/index.html](http://ajolab.s3-website-us-east-1.amazonaws.com/index.html)
 
 ## 第2课 — 创建移动营销活动
 
@@ -38,7 +38,12 @@ http://ajolab.s3-website-us-east-1.amazonaws.com/index.html
 
 ## 第3课创建全渠道历程
 
-| 消息 | 文本 | 链接 |
+| 消息 | 文本 | 链接 | 图像 |
 |----|----|----|
 | 短信 | 欢迎来到维加斯。 跳过此行并使用移动设备应用程序登录：lab://checkin |  |
-| 推送 | 欢迎来到维加斯。 跳过此行，使用移动设备应用程序登录 | lab://checkin |
+| 推送 | 欢迎来到维加斯。 跳过此行，使用移动设备应用程序登录 | lab://checkin |  |
+
+
+这是我们用于短信和推送通知的图像：
+
+![联机签入](/help/assets/vegas_online_check_in.jpeg)
