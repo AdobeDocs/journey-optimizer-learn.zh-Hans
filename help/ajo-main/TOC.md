@@ -5,7 +5,7 @@ user-guide-description: 这些是 Journey Optimizer 教程。
 source-git-commit: 3bc6680939544f5c4e054a658d1e17e077b9fa63
 workflow-type: tm+mt
 source-wordcount: '293'
-ht-degree: 94%
+ht-degree: 99%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 94%
    + [面向营销人员的移动功能](/help/channels/mobile-capabilities.md)
    + [面向开发人员的移动功能](/help/channels/mobile-capabilities-for-developers.md)
 + 营销活动 {#create-campaigns}
-   + [创建活动](/help/create-campaigns/create-a-campaign.md)
+   + [创建营销活动](/help/create-campaigns/create-a-campaign.md)
 + 历程 {#create-journeys}
    + [历程画布概述](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [构建历程的简介](/help/create-journeys/introduction-to-building-a-journey.md)
@@ -42,7 +42,7 @@ ht-degree: 94%
    + [活动的应用程序内消息传送](/help/channels/in-app-messaging-for-campaigns.md)
    + [创建应用程序内消息](/help/channels/author-in-app-messages.md)
 + 短信渠道{#sms-channel}
-   + [创作和投放短信消息](/help/channels/author-and-deliver-sms-messages.md)
+   + [编写和投放短信消息](/help/channels/author-and-deliver-sms-messages.md)
    + [针对短信的入站关键词支持](/help/channels/inbound-keyword-support-for-sms.md)
 + 客户个人资料、区段和订阅 {#profiles-segments-subscriptions}
    + [统一的用户档案和分段 - 概述](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
@@ -80,7 +80,7 @@ ht-degree: 94%
    + 配置渠道 {#channel-configuration}
       + [设置电子邮件渠道](/help/set-up-channels/set-up-email-channel.md)
       + [委派 CName 子域](/help/set-up-channels/delegate-cname-subdomains.md)
-      + [配置短信API凭据和渠道表面](/help/set-up-channels/set-up-sms-channel.md)
+      + [配置短信 API 凭据和渠道平面](/help/set-up-channels/set-up-sms-channel.md)
       + [配置消息频率规则](/help/administration/configure-frequency-rules.md)
    + 配置历程 {#journey-configuration}
    + [配置数据源](/help/set-up-journeys/configure-data-sources.md)
