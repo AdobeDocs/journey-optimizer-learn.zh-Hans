@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 5557b1d2005c62ce738120e80c3450545725ba65
+source-git-commit: 16031e0e4ef29f5243a7a2e933aa83d7b1fbd7ac
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 6%
+source-wordcount: '188'
+ht-degree: 5%
 
 ---
 
@@ -38,12 +38,12 @@ ht-degree: 6%
 
 ## 第3课创建全渠道历程
 
-| 消息 | 文本 | 链接 | 图像 |
-|----|----|----|
+| 消息 | 文本 | 深层链接 | 媒体 |
+|----|----|----|----|
+| 推送 | 欢迎来到维加斯。 跳过此行，使用移动设备应用程序登录 | lab://checkin | https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_online_check_in.jpg |
 | 短信 | 欢迎来到维加斯。 跳过此行并使用移动设备应用程序登录：lab://checkin |  |
-| 推送 | 欢迎来到维加斯。 跳过此行，使用移动设备应用程序登录 | lab://checkin |  |
 
 
 这是我们用于短信和推送通知的图像：
 
-![联机签入](/help/assets/vegas_online_check_in.jpeg)
+![联机签入](/help/assets/vegas_online_check_in.jpg)
