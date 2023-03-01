@@ -1,16 +1,16 @@
 ---
 title: 创建订单确认电子邮件
-description: 检验您所掌握的有关如何创建和个性化事务型消息的知识
+description: 检验您所掌握的有关如何创建和个性化事务型消息的知识。
 kt: 7531
 feature: Journeys
 role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: e377ddb8b84dccd503274caf9ffa3d4c73eedc28
-workflow-type: ht
-source-wordcount: '653'
-ht-degree: 100%
+source-git-commit: 6737f81f9cd9fc34740ce60e10c8036e29f97f68
+workflow-type: tm+mt
+source-wordcount: '657'
+ht-degree: 94%
 
 ---
 
@@ -25,11 +25,11 @@ ht-degree: 100%
 | 所需技能 | <ul><li>[使用消息编辑器创建电子邮件内容](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=zh-Hans)</li> <li>[使用上下文事件信息进行个性化](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=zh-Hans)</li><li>[使用辅助函数进行个性化](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=zh-Hans)</li></ul> |
 | 可供下载的资源 | [订单确认资源](/help/challenges/assets/email-assets/order-confirmation-assets.zip) |
 
-## 故事
+{style=&quot;table-layout:auto&quot;}
 
-Luma 将启动其在线商店，并希望在客户下订单后通过提供订单确认电子邮件，由此确保客户获得良好的体验。
+## 案例
 
-
+Luma将推出其在线商店，并希望确保良好的客户体验。 客户下订单后，他们就会发送订单确认电子邮件。
 
 ## 您的挑战
 
@@ -39,13 +39,19 @@ Luma 将启动其在线商店，并希望在客户下订单后通过提供订单
 
 >[!TAB 任务]
 
-1. 创建一个名为 `Luma - Order Confirmation` 的历程
-2. 使用事件：`LumaOnlinePurchase`
-3. 创建&#x200B;**事务性**&#x200B;电子邮件 `Luma - Order Confirmation`
-* 主题行“`FirstName`，感谢您购买我们的产品”
-* 使用 `Luma - Order summary` 模板并对其进行修改：
-   * 删除 `You may also like` 部分
-   * 在电子邮件底部添加取消订阅链接
+1. 创建称为 `Luma - Order Confirmation` 的历程。
+
+1. 使用事件： `LumaOnlinePurchase`.
+
+1. 创建&#x200B;**事务性**&#x200B;电子邮件 `Luma - Order Confirmation`.
+
+   * 主题行“`FirstName`，感谢您购买我们的产品”
+
+   * 使用 `Luma - Order summary` 模板并对其进行修改：
+
+      * 删除 `You may also like` 部分
+
+      * 在电子邮件底部添加取消订阅链接
 
 电子邮件的结构应如下所示：
 <table>
@@ -66,7 +72,7 @@ Luma 将启动其在线商店，并希望在客户下订单后通过提供订单
   <td>
   <div>
     <strong>订单确认部分
- </strong>
+    </strong>
   </td>
   <td>
     <p>
@@ -98,7 +104,7 @@ Luma 将启动其在线商店，并希望在客户下订单后通过提供订单
  <tr>
 <td>
   <div>
-     <strong>订单详情部分</strong>
+     <strong>订单详细信息部分</strong>
       </div>
        <p><li>在<b>收货方</b>部分下方添加此部分。
       </p><br>
@@ -125,7 +131,6 @@ Luma 将启动其在线商店，并希望在客户下订单后通过提供订单
   </tr>
 </table>
 
-
 >[!TIP]
 >
 >为了让您能够对历程进行故障排除，如果出现超时或出错的情况，最佳实践是为所有消息操作添加替代路径。
@@ -136,11 +141,11 @@ Luma 将启动其在线商店，并希望在客户下订单后通过提供订单
 
 1. 在切换到测试模式之前，覆盖电子邮件参数，以便向您的电子邮件地址发送测试电子邮件：
    1. 打开电子邮件详细信息视图。
-   2. 在电子邮件参数部分中，单击 T 符号（启用参数覆盖）
-   3. 单击进入“地址”字段
-   4. 在下一个屏幕上，在表达式编辑器中将您的电子邮件地址 *yourname@yourdomain* 添加到括号中，然后单击“确定”。
-2. 将历程置于测试模式
-3. 使用以下参数触发事件：
+   1. 在电子邮件参数部分中，单击 T 符号（启用参数覆盖）
+   1. 单击进入“地址”字段
+   1. 在下一个屏幕上，在表达式编辑器中将您的电子邮件地址 *yourname@yourdomain* 添加到括号中，然后单击“确定”。
+1. 将历程置于测试模式
+1. 使用以下参数触发事件：
    * 将用户档案标识符设置为：标识值：`a8f14eab3b483c2b96171b575ecd90b1`
    * 事件类型：commerce.purches
    * `Quantity`: 1
