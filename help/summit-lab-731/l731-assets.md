@@ -1,6 +1,6 @@
 ---
-title: L731资产
-description: 本页包含在L731 Summit Lab中使用的文本和链接。
+title: L731 资产
+description: 本页包含 L731 Summit Lab 中当前正在使用的文本和链接。
 feature: In App, SMS, Push, Email
 doc-type: article
 role: User
@@ -12,13 +12,13 @@ exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
 source-git-commit: b9c836756122dd555cbc1e6150f91e5e5ff9b176
 workflow-type: tm+mt
 source-wordcount: '219'
-ht-degree: 5%
+ht-degree: 78%
 
 ---
 
 # Summit Lab L731
 
-本页包含在L731 Summit Lab中使用的文本和链接。 它允许您复制内容并将其粘贴到Journey Optimizer消息中。
+本页包含 L731 Summit Lab 中当前正在使用的文本和链接。您可以通过它将内容复制并粘贴到 Journey Optimizer 消息中。
 
 ## 练习1.1 — 下载并安装应用程序
 
@@ -34,27 +34,27 @@ ht-degree: 5%
 * 密码：Adobe2023！
 
 
-## 练习2.1创建应用程序内营销活动
+## 练习 2.1 创建应用程序内营销活动
 
 | 字段 | 文本 | 链接 |
 |----|----|----|
 | 营销活动名称 | `<your seat number> March Vegas Campaign` |  |
-| “媒体URL”选项 |  | https://mcfadyen.com/wp-content/uploads/2023/01/Adobe-Summit-2023-Banner.png |
-| 标题 | 上线了！ |  |
-| 正文 | Adobe Summit于2023年3月21日至23日返回拉斯维加斯。 为鼓舞人心的演讲者、技能拓展会议和新连接做好准备。 |  |
-| 按钮 | 立即预订酒店并节省10% | lab://booking?suite=presidential&amp;discount=10 |
+| 媒体 URL 选项 |  | https://mcfadyen.com/wp-content/uploads/2023/01/Adobe-Summit-2023-Banner.png |
+| 标题 | 活动开始，速来围观！ |  |
+| 正文 | Adobe Summit 将于 2023 年 3 月 21 日至 23 日重返拉斯维加斯。准备迎接鼓舞人心的演讲、技能拓展课程和结识新朋友的机会。 |  |
+| 按钮 | 立即预订酒店即可享受九折优惠 | lab://booking?suite=presidential&amp;discount=10 |
 | 基本 URL |  | lab:// |
 
 
 
-## 第3课创建全渠道历程
+## 第 3 课 - 创建全渠道历程
 
 | 消息 | 文本 | 深层链接 | 媒体 |
 |----|----|----|----|
-| 推送 | 欢迎来到维加斯住宿酒店。 跳过该行，然后使用移动设备应用程序签入 | lab://checkin | https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_online_check_in.jpg |
-| 短信 | 欢迎来到维加斯住宿酒店。 跳过该行并使用移动设备应用程序签入： lab://checkin |  |
+| 推送 | 欢迎来到 Vegas Stay。 免去排队的烦恼，直接使用移动应用程序登记 | lab://checkin | https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_online_check_in.jpg |
+| 短信 | 欢迎来到 Vegas Stay。 免去排队的烦恼，直接使用移动应用程序登记：lab://checkin |  |
 
 
-这是我们用于短信和推送通知的图像：
+这是我们的短信和推送通知所使用的图像：
 
-![联机签入](/help/assets/vegas_online_check_in.jpg)
+![在线登记](/help/assets/vegas_online_check_in.jpg)
