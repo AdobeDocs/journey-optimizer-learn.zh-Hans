@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: f5b0529ee13067fe945e32494a164959adfd7d6c
+source-git-commit: fc439f6e3875e859f5c4b9a6012c98b8d5d4be32
 workflow-type: tm+mt
-source-wordcount: '1175'
+source-wordcount: '1178'
 ht-degree: 100%
 
 ---
@@ -23,6 +23,8 @@ ht-degree: 100%
 | 角色 | 历程管理者 |
 | 所需技能 | <ul><li>[创建区段](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=zh-Hans)</li><li> [导入和编辑 HTML 电子邮件内容](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=zh-Hans)</li><li>[用例 - 读取区段](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=zh-Hans)</li> |
 | 可供下载的资源 | [季节系列电子邮件文件](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip) |
+
+{style=&quot;table-layout:auto&quot;}
 
 ## 故事
 
@@ -69,7 +71,7 @@ Luma 营销团队要求您在 Journey Optimizer 中实施一项夏季系列营�
 
 >[!TAB 检查您的工作]
 
-区段字段：[!UICONTROL Attributes] > [!UICONTROL XDM individual Profile] > [!UICONTROL Loyalty] > [!UICONTROL Tier]
+区段字段：**[!UICONTROL Attributes]** > **[!UICONTROL XDM individual Profile]** > **[!UICONTROL Loyalty]** > **[!UICONTROL Tier]**
 
 您的区段应如下所示：
 
@@ -101,13 +103,13 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 
 1. [下载季节系列的电子邮件文件](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip)。
 
-2. 根据以下准则创建一个名为 *Luma - 夏季系列发布公告*&#x200B;的历程：
+1. 根据以下准则创建一个名为 *Luma - 夏季系列发布公告*&#x200B;的历程：
 
    1. 发送 *Luma - 全新夏季系列发布公告*&#x200B;电子邮件至&#x200B;*活跃客户*&#x200B;区段，保留 10% 的受众作为对照组
       * 消息标题为 *Luma - 夏季系列发布公告*
       * 主题行&#x200B;*（收件人的名字），全新 Luma 夏季系列现已上市！*
       * 使用提供的 HTML 文件 `SeasonalCollectionEmail.html` 作为电子邮件正文。
-   2. 等到两天后，再发送一封包含更多针对性内容的跟进电子邮件消息：
+   1. 等到两天后，再发送一封包含更多针对性内容的跟进电子邮件消息：
       * 男性客户应收到 **Luma 男士系列**&#x200B;电子邮件。
          * 消息标题：*Luma 男士系列*
          * 主题行：*（收件人的名字），欢迎探索男士新运动装备！*
@@ -117,11 +119,11 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
          * 主题行：*（收件人的名字），欢迎探索 Luma 女士系列！*
          * 电子邮件正文：`WomensCollectionEmail.html`
       * 其他客户应收到 **Luma 八折系列**&#x200B;电子邮件。
-         * 消息标题：*Luma 八折系列*
-         * 主题行：*（收件人的名字），畅享八折优惠！*
-         * 电子邮件正文：`20OOffCollectionEmail.html`
-   3. 在发送上述有针对性的电子邮件后，等待两天时间，以等待客户打开电子邮件
-   4. 如果有针对性的电子邮件未在 2 天内被客户打开，则发送 **Luma 八折系列电子邮件**&#x200B;作为最终的重定位尝试
+      * 消息标题：*Luma 八折系列*
+      * 主题行：*（收件人的名字），畅享八折优惠！*
+      * 电子邮件正文：`20OOffCollectionEmail.html`
+   1. 在发送上述有针对性的电子邮件后，等待两天时间，以等待客户打开电子邮件
+   1. 如果有针对性的电子邮件未在 2 天内被客户打开，则发送 **Luma 八折系列电子邮件**&#x200B;作为最终的重定位尝试
 
 
 >[!TAB 成功标准]
@@ -133,21 +135,21 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 预览电子邮件：
 
 1. 添加测试用户档案：Louise Petti：
-   1. 标识命名空间：*Luma CRM ID*
-   2. 标识值：*d1f132f9f9502bba047a6ec86c4b61f9*
+   * 标识命名空间：*Luma CRM ID*
+   * 标识值：*d1f132f9f9502bba047a6ec86c4b61f9*
 
 结果：
+
 * 主题行应为：Louise，全新 Luma 系列现已上市！
 * 电子邮件正文应与您在预览中看到的内容匹配：[全新季节系列发布公告](/help/challenges/assets/email-assets/SeasonalCollectionEmail.html)
-
 
 **电子邮件消息 2：Luma 男士系列**
 
 向您自己发送验证：
 
 1. 添加测试用户档案：Stanleigh Stooke：
-   1. 标识命名空间：*Luma CRM ID*
-   1. 标识值：`4f34057d9d9e792c28ba18ecae378e98`
+   * 标识命名空间：*Luma CRM ID*
+   * 标识值：`4f34057d9d9e792c28ba18ecae378e98`
 1. 选择测试用户档案：Stanleigh Stooke。
 1. 给您自己发送验证。
 
@@ -164,14 +166,12 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 * 主题行应为：*Louise，欢迎探索 Luma 女士系列！*
 * 电子邮件正文应与您在预览中看到的内容匹配：[Luma 女士系列](/help/challenges/assets/email-assets/WomensCollectionEmail.html)
 
-
 **电子邮件消息 4：Luma 八折系列**
 
 使用测试用户档案 *Louise Petti* 预览电子邮件。
 
 * 主题行应为：*Louise，畅享八折优惠！*
 * 电子邮件正文应与您在预览中看到的内容匹配：[Luma 20% 折扣系列](/help/challenges/assets/email-assets/20OOffCollectionEmail.html)
-
 
 #### 测试您的历程
 
@@ -181,13 +181,15 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 >
 >1. 确保[!UICONTROL 读取区段活动]具有设置为 **Luma CRM id(lumaCrmId)** 的命名空间
 >1. 对于每封电子邮件，覆盖电子邮件的默认电子邮件参数，以便将其发送到您的电子邮件地址：
->    * 通过单击眼睛符号显示隐藏值。
->    * 在电子邮件参数中，单击 T 符号（启用参数覆盖）。
->
->      ![覆盖电子邮件参数](/help/challenges/assets/c3-override-email-paramters.jpg)
-> 
->    * 单击 [!UICONTROL Address] 字段
->    * 在下一个屏幕中，在表达式编辑器中将您的电子邮件地址添加到括号中：`"yourname@yourdomain"`，然后单击 OK。
+   >    * 通过单击眼睛符号显示隐藏值。
+   >    * 在电子邮件参数中，单击 T 符号（启用参数覆盖）。
+
+      >
+      >      ![覆盖电子邮件参数](/help/challenges/assets/c3-override-email-paramters.jpg)
+   > 
+   >    * 单击 [!UICONTROL Address] 字段
+   >    * 在下一个屏幕中，在表达式编辑器中将您的电子邮件地址添加到括号中：`"yourname@yourdomain"`，然后单击 OK。
+
 >
 
 
