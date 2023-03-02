@@ -6,10 +6,10 @@ role: Admin
 level: Beginner
 hide: true
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: 7ecbed1b722d7f05ffd4a7c7071358d993cb1392
-workflow-type: ht
-source-wordcount: '456'
-ht-degree: 100%
+source-git-commit: dfa4c8a0fd984bdd1a99e4b0a819dbb9cbd4c321
+workflow-type: tm+mt
+source-wordcount: '463'
+ht-degree: 83%
 
 ---
 
@@ -23,15 +23,18 @@ ht-degree: 100%
 
 ## 先决条件
 
+验证是否满足以下先决条件。
+
 ### 系统要求
 
-* 访问 Journey Optimizer 沙盒 - 建议您在专用的培训沙盒中完成该挑战。
-* 必须针对您的实例对 AEM Assets Essentials 进行配置
-* 必须为事务型消息和营销消息配置电子邮件渠道
+* 访问Journey Optimizer沙盒 — 建议在专用的培训沙盒中完成该挑战。
+* 必须针对您的实例配置AEM Assets Essentials。
+* 必须为事务型消息和营销消息配置电子邮件渠道.
 
 ### 访问权限
 
 您需要以下访问权限：
+
 * *历程管理者*&#x200B;或&#x200B;*历程管理员*
 * 查看测试用户档案及其属性
 
@@ -40,10 +43,9 @@ ht-degree: 100%
 
 ### 必需操作
 
-* 如果您是 Adobe Journey Optimizer 的新用户，请完成课程[面向历程管理者和管理员的 Journey Optimizer 快速入门](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html?lang=zh-Hans)。
+* 如果您不熟悉Adobe Journey Optimizer，请完成课程 [面向历程管理员和管理员的Journey Optimizer快速入门](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html?lang=zh-Hans).
 
-
-## 故事
+## 案例
 
 Luma 是一家虚构的运动服装公司，在多个国家/地区开设店铺，在线开设网站，并提供移动应用。Luma 使用 Adobe Journey Optimizer 为客户提供互联、情境式和个性化的体验。
 
@@ -86,7 +88,7 @@ Luma 正寻求推广其最新的服装和装备系列，并推动针对现有客
  </a>
     </div>
     <p>
-    <em>当忠诚客户达到新级别时，发送电子邮件，祝贺他们并告知可以享受的新福利。</em>
+    <em>当忠诚度客户达到新级别时，发送电子邮件，祝贺他们并告知可享受的新福利。</em>
     <p>
     <b>所需技能：</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=zh-Hans"> 创建区段</li>
