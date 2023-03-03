@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
-source-git-commit: 3bc6680939544f5c4e054a658d1e17e077b9fa63
+source-git-commit: 5d9b95a5953994708686a2fbd83d0522fbbeaeb5
 workflow-type: tm+mt
-source-wordcount: '293'
-ht-degree: 100%
+source-wordcount: '301'
+ht-degree: 97%
 
 ---
 
@@ -91,4 +91,7 @@ ht-degree: 100%
    + [创建和管理沙箱](/help/set-up-access/create-and-manage-sandboxes.md)
 + 隐私权 {#privacy}
    + [屏蔽消息中的数据](/help/privacy/mask-data-in-messages.md)
++ 练习和挑战 {#exercises-and-challenges}
+   + [配置培训沙盒](/https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html)
+   + [挑战](/https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html)
 + [Summit Lab](/help/summit-lab-731/l731-assets.md)

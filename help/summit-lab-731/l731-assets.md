@@ -1,5 +1,5 @@
 ---
-title: L731 资产
+title: L731备忘单
 description: 本页包含 L731 Summit Lab 中当前正在使用的文本和链接。
 feature: In App, SMS, Push, Email
 doc-type: article
@@ -9,14 +9,14 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: b9c836756122dd555cbc1e6150f91e5e5ff9b176
+source-git-commit: 5d9b95a5953994708686a2fbd83d0522fbbeaeb5
 workflow-type: tm+mt
-source-wordcount: '219'
-ht-degree: 78%
+source-wordcount: '222'
+ht-degree: 76%
 
 ---
 
-# Summit Lab L731
+# Summit Lab L731  — 备忘单
 
 本页包含 L731 Summit Lab 中当前正在使用的文本和链接。您可以通过它将内容复制并粘贴到 Journey Optimizer 消息中。
 
