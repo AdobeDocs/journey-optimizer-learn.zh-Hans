@@ -1,16 +1,16 @@
 ---
 title: 创建忠诚度状态欢迎电子邮件 - 挑战
-description: 了解在历程画布中构建历程的基础知识。
+description: 构建一个历程，当客户达到忠诚度级别时，该历程会自动向客户发送欢迎电子邮件。
 kt: 8109
 feature: Journeys
 role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: f7bfe367411f2bae23631ac4ecb34ad1d250381c
+source-git-commit: aaf273b8b6fe0a5f33c132cc0113ec2460152349
 workflow-type: tm+mt
-source-wordcount: '425'
-ht-degree: 65%
+source-wordcount: '430'
+ht-degree: 61%
 
 ---
 

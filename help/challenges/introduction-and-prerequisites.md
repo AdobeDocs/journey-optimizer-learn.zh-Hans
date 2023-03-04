@@ -1,15 +1,15 @@
 ---
 title: Journey Optimizer挑战 — 简介和先决条件
-description: 了解在历程画布中构建历程的基础知识。
+description: 挑战提供了一种场景和练习运用所学知识的必需要求。每个挑战都涉及您实施的一个独特用例。
 feature: Journeys
 role: Admin
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: f56ada2b4adeced3a77f2313a1a211f71260d0b7
+source-git-commit: aaf273b8b6fe0a5f33c132cc0113ec2460152349
 workflow-type: tm+mt
-source-wordcount: '463'
-ht-degree: 80%
+source-wordcount: '475'
+ht-degree: 79%
 
 ---
 
