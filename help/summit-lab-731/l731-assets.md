@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 28da398f6813b1926c79b5cd45f415e2cfa9f40f
+source-git-commit: e2312c022f589ebf1218e1767bbc129b57fa1e2a
 workflow-type: tm+mt
-source-wordcount: '229'
-ht-degree: 67%
+source-wordcount: '239'
+ht-degree: 64%
 
 ---
 
@@ -26,6 +26,10 @@ ht-degree: 67%
 
 ![iOS的二维码](/help/assets/lab731-ios-qr-code.png)
 
+### Android — 占位符
+
+![适用于Android的二维码](/help/assets/lab731-ios-qr-code.png)
+
 
 ## 练习1.3：登录到Adobe Journey Optimizer
 
@@ -33,8 +37,8 @@ ht-degree: 67%
 
 **登录详细信息：**
 
-* 用户名： `L731+<your seat number>@summitlab.us` (示例： L731+001@summitlab.us)
-* 密码：Adobe2023！
+* **用户名：** `L731+<your seat number>@summitlab.us` (示例： L731+001@summitlab.us)
+* **密码：** Adobe2023！
 
 
 ## 练习 2.1 创建应用程序内营销活动
@@ -50,7 +54,7 @@ ht-degree: 67%
 | 正文 | Adobe Summit 将于 2023 年 3 月 21 日至 23 日重返拉斯维加斯。准备迎接鼓舞人心的演讲、技能拓展课程和结识新朋友的机会。 |  |
 | 按钮 | 立即预订酒店即可享受九折优惠 | lab://booking?suite=presidential&amp;discount=10 |
 | 按钮：交互式事件 | 应用程序内CTA |  |
-| 基本 URL |  | lab:// |
+| 基本 URL |  | iOS： lab:// <br>Android： https://lab |
 
 
 
