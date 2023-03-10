@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: e68fc9ac728abe79936090c6fa1b0874e021f3b8
+source-git-commit: c0b7fa47fac1ad16121d0f568de358c83de44a90
 workflow-type: tm+mt
-source-wordcount: '271'
-ht-degree: 49%
+source-wordcount: '258'
+ht-degree: 51%
 
 ---
 
@@ -82,8 +82,6 @@ https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_onl
 这是我们用于推送通知的图像：
 
 ![在线登记](/help/assets/vegas_online_check_in.jpg)
-
-|短信| ||| |电子邮件|{{profile.person.name.firstName}}，您已签入，立即查看我们的优惠供您停留！|||
 
 >[!TAB 短信消息]
 
