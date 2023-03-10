@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: e2312c022f589ebf1218e1767bbc129b57fa1e2a
+source-git-commit: 16a2a4ab090b96f52555b543cd9d1924dc9f09cb
 workflow-type: tm+mt
-source-wordcount: '239'
-ht-degree: 64%
+source-wordcount: '271'
+ht-degree: 49%
 
 ---
 
@@ -22,14 +22,19 @@ ht-degree: 64%
 
 ## 练习1.1 — 下载并安装应用程序
 
-### iOS
+扫描二维码以下载应用程序
+
+>[!BEGINTABS]
+
+>[!TAB iOS]
 
 ![iOS的二维码](/help/assets/lab731-ios-qr-code.png)
 
-### Android — 占位符
+>[!TAB Android]
 
 ![适用于Android的二维码](/help/assets/lab731-ios-qr-code.png)
 
+>[!ENDTABS]
 
 ## 练习1.3：登录到Adobe Journey Optimizer
 
@@ -43,8 +48,6 @@ ht-degree: 64%
 
 ## 练习 2.1 创建应用程序内营销活动
 
-
-
 | 字段 | 文本 | 链接 |
 |----|----|----|
 | 营销活动名称 | `<your seat number> March Vegas Campaign` |  |
@@ -57,16 +60,39 @@ ht-degree: 64%
 | 基本 URL |  | iOS： lab:// <br>Android： https://lab |
 
 
-
 ## 第 3 课 - 创建全渠道历程
 
-| 消息 | 标题/主题行 | 文本 | 链接 |
-|----|----|----|----|----|
-| 推送 | 欢迎来到拉斯维加斯旅馆！ | 免去排队的烦恼，直接使用移动应用程序登记 | lab://checkin |  |
-| 短信 |  | 欢迎来到 Vegas Stay。 免去排队的烦恼，直接使用移动应用程序登记：lab://checkin |  |
-| 电子邮件 | {{profile.person.name.firstName}}，您已签入，立即查看我们的优惠供您留宿！ |  |  |
+>[!BEGINTABS]
+
+>[!TAB 推送消息]
+
+**标题:**\
+欢迎来到拉斯维加斯旅馆！
+
+**正文:**\
+免去排队的烦恼，直接使用移动应用程序登记
+
+**深层链接：** lab://checkin
+
+**媒体:**
+
+https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_online_check_in.jpg?lang=en
 
 
-这是我们的短信和推送通知所使用的图像：
+这是我们用于推送通知的图像：
 
 ![在线登记](/help/assets/vegas_online_check_in.jpg)
+
+|短信| ||| |电子邮件|{{profile.person.name.firstName}}，您已签入，立即查看我们的优惠供您停留！|||
+
+>[!TAB 短信消息]
+
+**消息：**
+欢迎来到维加斯住宿酒店。 免去排队的烦恼，直接使用移动应用程序登记：lab://checkin
+
+>[!TAB 电子邮件]
+
+**主题行：**
+{{profile.person.name.firstName}}，您已签入，立即查看我们的优惠供您留宿！
+
+>[!ENDTABS]
