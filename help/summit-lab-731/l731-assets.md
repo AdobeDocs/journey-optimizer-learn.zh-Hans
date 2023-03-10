@@ -9,9 +9,9 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: c0b7fa47fac1ad16121d0f568de358c83de44a90
+source-git-commit: 066b26ab466094c90edbde1887867f1aa0a618dc
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '259'
 ht-degree: 51%
 
 ---
@@ -30,7 +30,7 @@ ht-degree: 51%
 
 ![iOS的二维码](/help/assets/lab731-ios-qr-code.png)
 
->[!TAB Android]
+>[!TAB Android™]
 
 ![适用于Android的二维码](/help/assets/lab731-android-qr-code.png)
 
@@ -57,7 +57,7 @@ ht-degree: 51%
 | 正文 | Adobe Summit 将于 2023 年 3 月 21 日至 23 日重返拉斯维加斯。准备迎接鼓舞人心的演讲、技能拓展课程和结识新朋友的机会。 |  |
 | 按钮 | 立即预订酒店即可享受九折优惠 | lab://booking?suite=presidential&amp;discount=10 |
 | 按钮：交互式事件 | 应用程序内CTA |  |
-| 基本 URL |  | iOS： lab:// <br>Android： https://lab |
+| 基本 URL |  | iOS： lab:// <br>Android™： https://lab |
 
 
 ## 第 3 课 - 创建全渠道历程
