@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 066b26ab466094c90edbde1887867f1aa0a618dc
+source-git-commit: 55d91b1ebe1b55a2c0a7d2a7e4ff1a63187b7fdf
 workflow-type: tm+mt
-source-wordcount: '259'
-ht-degree: 51%
+source-wordcount: '325'
+ht-degree: 40%
 
 ---
 
@@ -30,9 +30,21 @@ ht-degree: 51%
 
 ![iOS的二维码](/help/assets/lab731-ios-qr-code.png)
 
+系统将要求您安装Testflight。 安装Testflight后，请按照以下步骤安装Vegas Stay应用程序：
+
+![安装iOS的步骤](/help/assets/lab731-install-ios.png)
+
 >[!TAB Android™]
 
 ![适用于Android的二维码](/help/assets/lab731-android-qr-code.png)
+
+如果您使用的是Android模拟器，请使用此链接： [https://ajolab.s3.amazonaws.com/ajolabapp-release.apk](https://ajolab.s3.amazonaws.com/ajolabapp-release.apk)
+
+由于应用程序未在Google Play Store中注册，因此您将收到一条警告消息：
+
+![Android警告屏幕](/help/assets/lab731-install-android.png)
+
+单击 **仍要安装**
 
 >[!ENDTABS]
 
