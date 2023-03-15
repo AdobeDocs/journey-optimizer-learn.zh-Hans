@@ -9,7 +9,7 @@ exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
 source-git-commit: aaf273b8b6fe0a5f33c132cc0113ec2460152349
 workflow-type: tm+mt
 source-wordcount: '475'
-ht-degree: 79%
+ht-degree: 81%
 
 ---
 
@@ -23,12 +23,12 @@ ht-degree: 79%
 
 ## 先决条件
 
-验证是否满足以下先决条件。
+确认满足以下先决条件。
 
 ### 系统要求
 
-* 访问Journey Optimizer沙盒 — 建议在专用的培训沙盒中完成该挑战。
-* 必须针对您的实例配置AEM Assets Essentials。
+* 访问Journey Optimizer沙盒 — 建议在专用的培训沙盒中完成挑战。
+* AEM Assets Essentials必须针对您的实例进行配置。
 * 必须为事务型消息和营销消息配置电子邮件渠道.
 
 ### 访问权限
@@ -43,7 +43,7 @@ ht-degree: 79%
 
 ### 必需操作
 
-* 如果您不熟悉Adobe Journey Optimizer，请完成课程 [面向历程管理员和管理员的Journey Optimizer快速入门](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html?lang=zh-Hans).
+* 如果您是Adobe Journey Optimizer的新用户，请完成本课程 [面向历程经理和管理员的Journey Optimizer快速入门](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html?lang=zh-Hans).
 
 ## 案例
 
@@ -51,7 +51,7 @@ Luma 是一家虚构的运动服装公司，在多个国家/地区开设店铺�
 
 Luma 正寻求推广其最新的服装和装备系列，并推动针对现有客户的销售。您受雇负责在 Journey Optimizer 中实施 Luma 营销和客户保留活动。
 
-## 您的挑战
+## 您面临的挑战
 
 <table>
 <tr>
@@ -88,7 +88,7 @@ Luma 正寻求推广其最新的服装和装备系列，并推动针对现有客
  </a>
     </div>
     <p>
-    <em>当忠诚度客户达到新级别时，发送电子邮件，祝贺他们并告知可享受的新福利。</em>
+    <em>当忠诚客户转到新层级时，发送电子邮件，祝贺并告知他们的新好处。</em>
     <p>
     <b>所需技能：</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=zh-Hans"> 创建区段</li>
