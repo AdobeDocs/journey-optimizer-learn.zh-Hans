@@ -1,18 +1,18 @@
 ---
-user-guide-title: 教程 — 配置培训沙盒
+user-guide-title: 教程 - 配置培训沙盒
 user-guide-description: 配置沙盒以用于培训目的
-breadcrumb-title: 教程 — 配置培训沙盒
+breadcrumb-title: 教程 - 配置培训沙盒
 breadcrumb-url: /docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html
 index: false
 source-git-commit: e0ec663ba23fe2c1f8cc5920c43a95b07dbf5b16
 workflow-type: tm+mt
 source-wordcount: '51'
-ht-degree: 21%
+ht-degree: 50%
 
 ---
 
 
-# 教程 — 配置培训沙盒 {#configure-a-training-sandbox}
+# 教程 - 配置培训沙盒 {#configure-a-training-sandbox}
 
 + [配置培训沙盒](/help/tutorial-configure-a-training-sandbox/introduction-and-prerequisites.md)
 + 步骤1:设置数据结构并摄取数据 {#set-up-data-structure-and-ingest-data}
