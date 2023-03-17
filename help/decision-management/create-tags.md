@@ -1,14 +1,14 @@
 ---
 title: 创建标记
-description: 了解如何在决策管理中创建标记。 标记是优惠的可选构建基块组件。
+description: 了解如何在决策管理中创建标记。标记是优惠的可选构建基块组件。
 feature: Offers
 kt: 6753
 thumbnail: 329374.jpg
 exl-id: 155a35bf-8704-4e85-8647-479aecd2a9ce
 source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '105'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
