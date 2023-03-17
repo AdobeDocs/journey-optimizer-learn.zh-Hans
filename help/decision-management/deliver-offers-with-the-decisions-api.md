@@ -1,15 +1,15 @@
 ---
 title: 通过 Decisions Hub API 提供优惠
-description: 了解如何使用决策API来提供决策管理优惠。
+description: 了解如何使用 Decisions API 来提供决策管理优惠。
 role: Developer
 feature: Offers
 kt: 6819
 thumbnail: 329919.jpg
 exl-id: 3084c52b-adc8-42bc-a203-5e39bcff77ef
 source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '155'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
