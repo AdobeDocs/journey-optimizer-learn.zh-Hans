@@ -8,9 +8,9 @@ level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
 source-git-commit: f7bfe367411f2bae23631ac4ecb34ad1d250381c
-workflow-type: tm+mt
-source-wordcount: '657'
-ht-degree: 94%
+workflow-type: ht
+source-wordcount: '654'
+ht-degree: 100%
 
 ---
 
@@ -25,11 +25,11 @@ ht-degree: 94%
 | 所需技能 | <ul><li>[使用消息编辑器创建电子邮件内容](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=zh-Hans)</li> <li>[使用上下文事件信息进行个性化](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=zh-Hans)</li><li>[使用辅助函数进行个性化](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=zh-Hans)</li></ul> |
 | 可供下载的资源 | [订单确认资源](/help/challenges/assets/email-assets/order-confirmation-assets.zip) |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## 案例
 
-Luma将推出其在线商店，并希望确保良好的客户体验。 客户下订单后，他们就会发送订单确认电子邮件。
+Luma 即将推出其在线商店，希望确保良好的客户体验。他们将在客户下订单后，发送订单确认电子邮件。
 
 ## 您的挑战
 
@@ -41,9 +41,9 @@ Luma将推出其在线商店，并希望确保良好的客户体验。 客户下
 
 1. 创建称为 `Luma - Order Confirmation` 的历程。
 
-1. 使用事件： `LumaOnlinePurchase`.
+1. 使用事件：`LumaOnlinePurchase`。
 
-1. 创建&#x200B;**事务性**&#x200B;电子邮件 `Luma - Order Confirmation`.
+1. 创建&#x200B;**事务性**&#x200B;电子邮件 `Luma - Order Confirmation`。
 
    * 主题行“`FirstName`，感谢您购买我们的产品”
 
@@ -72,7 +72,7 @@ Luma将推出其在线商店，并希望确保良好的客户体验。 客户下
   <td>
   <div>
     <strong>订单确认部分
-    </strong>
+ </strong>
   </td>
   <td>
     <p>
@@ -104,7 +104,7 @@ Luma将推出其在线商店，并希望确保良好的客户体验。 客户下
  <tr>
 <td>
   <div>
-     <strong>订单详细信息部分</strong>
+     <strong>订单详情部分</strong>
       </div>
        <p><li>在<b>收货方</b>部分下方添加此部分。
       </p><br>
