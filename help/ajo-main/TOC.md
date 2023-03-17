@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 source-git-commit: 5e9829459bc3092e60375fca3e759a2aac88446f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '313'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -88,10 +88,10 @@ ht-degree: 93%
    + [创建操作](/help/set-up-journeys/create-actions.md)
 + 访问控制{#access-control}
    + [访问管理](/help/set-up-access/access-management.md)
-   + [创建和管理沙箱](/help/set-up-access/create-and-manage-sandboxes.md)
+   + [创建和管理沙盒](/help/set-up-access/create-and-manage-sandboxes.md)
 + 隐私权 {#privacy}
    + [屏蔽消息中的数据](/help/privacy/mask-data-in-messages.md)
-+ 练习和挑战 {#exercises-and-challenges}
-   + [配置培训沙盒](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html)
-   + [挑战](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html)
++ 练习和挑战{#exercises-and-challenges}
+   + [配置培训沙盒](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=zh-Hans)
+   + [挑战](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=zh-Hans)
 + [Summit Lab](/help/summit-lab-731/l731-assets.md)
