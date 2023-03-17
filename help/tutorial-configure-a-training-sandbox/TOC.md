@@ -5,7 +5,7 @@ breadcrumb-title: 教程 - 配置培训沙盒
 breadcrumb-url: /docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html
 index: false
 source-git-commit: e0ec663ba23fe2c1f8cc5920c43a95b07dbf5b16
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 100%
 
