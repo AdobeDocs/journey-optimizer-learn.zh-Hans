@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 8e9f7460410a117031598096d81eabd3090647af
+source-git-commit: ea4ba49056ad3e575c0953ad963966bcecf54c9f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '355'
+ht-degree: 53%
 
 ---
 
@@ -30,11 +30,97 @@ ht-degree: 0%
 
 ![用于 iOS 的 QR 代码](/help/assets/lab731-ios-qr-code.png)
 
-系统将要求您安装Testflight。 安装Testflight后，请按照以下步骤安装Vegas Stay App:
+系统将要求您安装Testflight（步骤1至4）。 安装Testflight后，请按照步骤5至8安装Vegas Stay App:
 
-![安装iOS的步骤](/help/assets/lab731-install-ios.png)
-
->[!TAB Android™]
+<table>
+<tr>
+</tr>
+<tr>
+<td>
+ <div>
+      <p>
+      <b>步骤 1 </b>
+      <p>
+      <a href="Step 1:">
+        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-1.PNG"/>
+      </a>
+      </div>
+  </td>
+  <td>
+ <div>
+      <p>
+      <b>步骤 2 </b>
+      <p>
+      <a href="Step 1:">
+        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-2.PNG"/>
+      </a>
+      </div>
+  </td>
+  <td>
+ <div>
+      <p>
+      <b>步骤 3 </b>
+      <p>
+      <a href="Step 1:">
+        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-3.PNG"/>
+      </a>
+      </div>
+  </td>
+  <td>
+ <div>
+      <p>
+      <b>步骤 4 </b>
+      <p>
+      <a href="Step 4">
+        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-4.PNG"/>
+      </a>
+      </div>
+  </td>
+  </tr>
+  <tr>
+<td>
+ <div>
+      <p>
+      <b>步骤 5 </b>
+      <p>
+      <a href="Step 1:">
+        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-5.PNG"/>
+      </a>
+      </div>
+  </td>
+  <td>
+ <div>
+      <p>
+      <b>步骤 6 </b>
+      <p>
+      <a href="Step 1:">
+        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-6.PNG"/>
+      </a>
+      </div>
+  </td>
+  <td>
+ <div>
+      <p>
+      <b>步骤 7 </b>
+      <p>
+      <a href="Step 1:">
+        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-7.PNG"/>
+      </a>
+      </div>
+  </td>
+  <td>
+ <div>
+      <p>
+      <b>步骤 8 </b>
+      <p>
+      <a href="Step 4">
+        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-8.PNG"/>
+      </a>
+      </div>
+  </td>
+  </tr>
+</table>
+&gt;[!TAB Android™]
 
 ![适用于Android的QR代码](/help/assets/lab731-android-qr-code.png)
 
@@ -74,9 +160,15 @@ ht-degree: 0%
 
 ## 第 3 课 - 创建全渠道历程
 
+**历程标签：**
+<your seat number>  — 欢迎历程
+
 >[!BEGINTABS]
 
 >[!TAB 推送消息]
+
+**标签：**
+欢迎消息
 
 **标题:**\
 欢迎来到 Vegas Stay！
@@ -97,10 +189,16 @@ https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_onl
 
 >[!TAB 短信消息]
 
+**标签：**
+欢迎消息
+
 **消息：**
 欢迎来到维加斯。 免去排队的烦恼，直接使用移动应用程序登记：lab://checkin
 
 >[!TAB 电子邮件消息]
+
+**标签：**
+确认消息
 
 **主题行：**
 {{profile.person.name.firstName}}，您已登记，现在请查看我们的选件以供您入住！
