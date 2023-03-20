@@ -180,15 +180,13 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 >
 >1. 确保[!UICONTROL 读取区段活动]具有设置为 **Luma CRM id(lumaCrmId)** 的命名空间
 >1. 对于每封电子邮件，覆盖电子邮件的默认电子邮件参数，以便将其发送到您的电子邮件地址：
-   >    * 通过单击眼睛符号显示隐藏值。
-   >    * 在电子邮件参数中，单击 T 符号（启用参数覆盖）。
-
-      >
-      >      ![覆盖电子邮件参数](/help/challenges/assets/c3-override-email-paramters.jpg)
-   > 
-   >    * 单击 [!UICONTROL Address] 字段
-   >    * 在下一个屏幕中，在表达式编辑器中将您的电子邮件地址添加到括号中：`"yourname@yourdomain"`，然后单击 OK。
-
+>    * 通过单击眼睛符号显示隐藏值。
+>    * 在电子邮件参数中，单击 T 符号（启用参数覆盖）。
+>
+>      ![覆盖电子邮件参数](/help/challenges/assets/c3-override-email-paramters.jpg)
+> 
+>    * 单击 [!UICONTROL Address] 字段
+>    * 在下一个屏幕中，在表达式编辑器中将您的电子邮件地址添加到括号中：`"yourname@yourdomain"`，然后单击 OK。
 >
 
 
