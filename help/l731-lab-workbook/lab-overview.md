@@ -8,7 +8,7 @@ level: Advanced
 recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
-source-git-commit: 84d1ad8ed2ffa48ccdd5cb8faac1079a98f33c7f
+source-git-commit: 675f402b8c2ad8511736bbb683922fc07763e247
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -19,6 +19,7 @@ ht-degree: 0%
 # L731 — 使用Journey Optimizer构建个性化的移动时刻
 
 ## 实验室概述
+
 在这个动手实践实验中，您将了解如何实施多渠道营销策略，该策略包括应用程序内、推送通知、短信以及电子邮件消息传送促销活动和Adobe Journey Optimizer旅程。
 
 ## 主要优点
