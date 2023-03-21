@@ -9,7 +9,7 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 3d39dc6e04992175331a3bf2855370359a8d4527
+source-git-commit: 879eeea18f565db742f62d7dbdf65f61341ead2e
 workflow-type: tm+mt
 source-wordcount: '354'
 ht-degree: 53%
@@ -30,7 +30,7 @@ ht-degree: 53%
 
 ![用于 iOS 的 QR 代码](/help/assets/lab731-ios-qr-code.png)
 
-系统将要求您安装Testflight（步骤1至4）。 安装Testflight后，请按照步骤5至8安装Vegas Stay App:
+系统将要求您安装Testflight，步骤1至4。 安装Testflight后，请按照步骤5至8安装Vegas Stay App:
 
 <table>
 <tr>
@@ -41,7 +41,7 @@ ht-degree: 53%
       <p>
       <b>步骤 1 </b>
       <p>
-      <a href="Step 1:">
+      <a href="Step 1">
         <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-1.png"/>
       </a>
       </div>
@@ -51,7 +51,7 @@ ht-degree: 53%
       <p>
       <b>步骤 2 </b>
       <p>
-      <a href="Step 1:">
+      <a href="Step 2">
         <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-2.PNG"/>
       </a>
       </div>
@@ -61,7 +61,7 @@ ht-degree: 53%
       <p>
       <b>步骤 3 </b>
       <p>
-      <a href="Step 1:">
+      <a href="Step 3">
         <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-3.PNG"/>
       </a>
       </div>
@@ -71,7 +71,7 @@ ht-degree: 53%
       <p>
       <b>步骤 4 </b>
       <p>
-      <a href="Step 4">
+      <a href="Step 4" 3>
         <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-4.PNG"/>
       </a>
       </div>
@@ -83,7 +83,7 @@ ht-degree: 53%
       <p>
       <b>步骤 5 </b>
       <p>
-      <a href="Step 1:">
+      <a href="Step 5">
         <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-5.PNG"/>
       </a>
       </div>
@@ -93,7 +93,7 @@ ht-degree: 53%
       <p>
       <b>步骤 6 </b>
       <p>
-      <a href="Step 1:">
+      <a href="Step 6">
         <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-6.PNG"/>
       </a>
       </div>
@@ -103,7 +103,7 @@ ht-degree: 53%
       <p>
       <b>步骤 7 </b>
       <p>
-      <a href="Step 1:">
+      <a href="Step 7">
         <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-7.PNG"/>
       </a>
       </div>
@@ -113,7 +113,7 @@ ht-degree: 53%
       <p>
       <b>步骤 8 </b>
       <p>
-      <a href="Step 4">
+      <a href="Step 8">
         <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-8.PNG"/>
       </a>
       </div>
