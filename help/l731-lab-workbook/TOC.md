@@ -5,17 +5,17 @@ breadcrumb-title: Journey Optimizer - L731工作簿
 breadcrumb-url: /docs/journey-optimizer-learn/summit-lab/overview.html
 index: false
 hide: true
-source-git-commit: 84d1ad8ed2ffa48ccdd5cb8faac1079a98f33c7f
+source-git-commit: a1751f374f611fcf38db7ad9b51c42315c890b04
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 3%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
 # Summit Lab L731:使用Journey Optimizer构建个性化的移动时刻 {#workbook}
 
-+ [实验室概述]
++ [实验室概述]{#overview}
 + [简介]{#introduction}
    + [简介](/help/l731-lab-workbook/Introduction/introduction.md)
    + [练习1.1](/help/l731-lab-workbook/Introduction/exercise-1-1.md)
