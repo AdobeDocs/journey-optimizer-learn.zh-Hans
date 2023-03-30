@@ -10,7 +10,7 @@ hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
 source-git-commit: a3ac293c29e9965344c518215c2f034caa41557e
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '357'
 ht-degree: 100%
 
@@ -125,7 +125,7 @@ ht-degree: 100%
 
 ![适用于 Android 的 QR 代码](/help/assets/lab731-android-qr-code.png)
 
-如果您使用的是 Android 模拟器，请使用此链接：[https://ajolab.s3.amazonaws.com/ajolabapp-release.apk](https://ajolab.s3.amazonaws.com/ajolabapp-release.apk)
+如果您使用的是 Android 模拟器，请使用此链接： [https://ajolab.s3.amazonaws.com/ajolabapp-release.apk](https://ajolab.s3.amazonaws.com/ajolabapp-release.apk)
 
 由于应用程序未在 Google Play 商店中注册，因此您将收到一条警告消息：
 
