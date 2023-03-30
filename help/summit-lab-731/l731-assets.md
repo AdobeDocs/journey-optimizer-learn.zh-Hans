@@ -10,9 +10,9 @@ hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
 source-git-commit: a3ac293c29e9965344c518215c2f034caa41557e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '357'
-ht-degree: 52%
+ht-degree: 100%
 
 ---
 
@@ -22,15 +22,15 @@ ht-degree: 52%
 
 ## 练习 1.1 - 下载和安装应用程序
 
-扫描二维码以下载应用程序
+扫描 QR 代码以下载应用程序
 
 >[!BEGINTABS]
 
 >[!TAB iOS]
 
-![用于 iOS 的 QR 代码](/help/assets/lab731-ios-qr-code.png)
+![适用于 iOS 的 QR 代码](/help/assets/lab731-ios-qr-code.png)
 
-系统将要求您安装Testflight，步骤1至4。 安装Testflight后，请按照步骤5至8安装Vegas Stay App:
+系统将要求您安装 Testflight，请参阅第 1 步至第 4 步。 安装 Testflight 后，请按照第 5 步至第 8 步的说明安装 Vegas Stay 应用程序：
 
 <table>
 <tr>
@@ -102,7 +102,7 @@ ht-degree: 52%
  <div>
       <p>
       <a>
-      <b>步骤7 </b>
+      <b>步骤 7 </b>
       <p>
         <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-7.PNG"/>
       </a>
@@ -112,7 +112,7 @@ ht-degree: 52%
  <div>
       <p>
       <a>
-      <b>步骤8 </b>
+      <b>步骤 8 </b>
       <p>
         <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-8.PNG"/>
       </a>
@@ -123,15 +123,15 @@ ht-degree: 52%
 
 >[!TAB Android]
 
-![适用于Android的QR代码](/help/assets/lab731-android-qr-code.png)
+![适用于 Android 的 QR 代码](/help/assets/lab731-android-qr-code.png)
 
-如果您使用的是Android模拟器，请使用以下链接： [https://ajolab.s3.amazonaws.com/ajolabapp-release.apk](https://ajolab.s3.amazonaws.com/ajolabapp-release.apk)
+如果您使用的是 Android 模拟器，请使用此链接：[https://ajolab.s3.amazonaws.com/ajolabapp-release.apk](https://ajolab.s3.amazonaws.com/ajolabapp-release.apk)
 
-由于应用程序未在Google Play应用商店中注册，因此您将收到一条警告消息：
+由于应用程序未在 Google Play 商店中注册，因此您将收到一条警告消息：
 
-![Android警告屏幕](/help/assets/lab731-install-android.png)
+![Android 警告屏幕](/help/assets/lab731-install-android.png)
 
-单击 **仍要安装**
+单击&#x200B;**仍要安装**
 
 >[!ENDTABS]
 
@@ -141,7 +141,7 @@ ht-degree: 52%
 
 **登录详细信息：**
 
-* **用户名：** `L731+<your seat number>@summitlab.us` (示例：L731+001@summitlab.us)
+* **用户名：**`L731+<your seat number>@summitlab.us`（示例：L731+001@summitlab.us）
 * **密码：** Adobe2023!
 
 
@@ -152,17 +152,17 @@ ht-degree: 52%
 | 营销活动名称 | `<your seat number> March Vegas Campaign` |  |
 | 匹配项 | booknow |  |
 | 媒体 URL 选项 |  | https://mcfadyen.com/wp-content/uploads/2023/01/Adobe-Summit-2023-Banner.png |
-| 标题 | 正在发生并正式启用！ |  |
+| 标题 | 活动开始，速来围观！ |  |
 | 正文 | Adobe Summit 将于 2023 年 3 月 21 日至 23 日重返拉斯维加斯。准备迎接鼓舞人心的演讲、技能拓展课程和结识新朋友的机会。 |  |
 | 按钮 | 立即预订酒店即可享受九折优惠 | lab://booking?suite=presidential&amp;discount=10 |
 | 按钮：交互式事件 | 应用程序内 CTA |  |
-| 基本 URL |  | iOS:lab:// <br>Android&amp;:https://lab |
+| 基本 URL |  | iOS：lab:// <br>Android&amp;: https://lab |
 
 
 ## 第 3 课 - 创建全渠道历程
 
 **历程标签：**
-`<your seat number>`  — 欢迎历程
+`<your seat number>` - 欢迎历程
 
 >[!BEGINTABS]
 
@@ -171,17 +171,17 @@ ht-degree: 52%
 **标签：**
 欢迎消息
 
-**标题:**\
+**标题：**\
 欢迎来到 Vegas Stay！
 
-**正文:**\
+**正文：**\
 免去排队的烦恼，直接使用移动应用程序登记
 
-**深层链接：** iOS:lab://,Android&amp;:https://lab
+**Deeplink：** iOS: lab://, Android&amp;: https://lab
 
-**媒体:**
+**媒体：**
 
-https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_online_check_in.jpg?lang=en
+https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_online_check_in.jpg?lang=zh-Hans
 
 
 这是我们用于推送通知的图像：
@@ -194,7 +194,7 @@ https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_onl
 欢迎消息
 
 **消息：**
-欢迎来到维加斯。 免去排队的烦恼，直接使用移动应用程序登记：lab://checkin
+欢迎来到 Vegas Stay。免去排队的烦恼，直接使用移动应用程序登记：lab://checkin
 
 >[!TAB 电子邮件消息]
 
@@ -202,6 +202,6 @@ https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_onl
 确认消息
 
 **主题行：**
-{{profile.person.name.firstName}}，您已登记，现在请查看我们的选件以供您入住！
+尊敬的{{profile.person.name.firstName}}，您已登记，请立即查看我们为您提供的住宿优惠！
 
 >[!ENDTABS]
