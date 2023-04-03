@@ -6,7 +6,7 @@ doc-type: article
 role: User
 recommendations: noDisplay, noCatalog
 hide: true
-source-git-commit: 879eeea18f565db742f62d7dbdf65f61341ead2e
+source-git-commit: 9ea6931bc191e23b120111441a4cc602a2f37b41
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 100%
@@ -16,7 +16,7 @@ ht-degree: 100%
 
 # 练习 1.2：在应用程序中注册用户
 
->[!IMPORTANT]\
+>[!IMPORTANT]
 >请使用&#x200B;**在实验课期间可以访问的电子邮件地址**&#x200B;和&#x200B;**手机号码**&#x200B;进行注册。
 >
 > 需要提供此信息才能接收向您发送的消息。它还允许您访问 Journey Optimizer 中的信息。除本实验课外，不会将其用于任何其他目的。
