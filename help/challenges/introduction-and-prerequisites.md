@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
 source-git-commit: b91d6ccdb54213873b91b7ffa9d95d7cb5261ee8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '482'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 96%
 
 * 访问 Journey Optimizer 沙盒 - 建议您在专用的培训沙盒中完成该挑战。
 * 必须针对您的实例对 AEM Assets Essentials 进行配置。
-* 的 [必须配置电子邮件渠道](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/channel-surfaces.html) 事务型消息和营销消息。
+* 必须为事务型消息和营销消息[配置电子邮件渠道](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/channel-surfaces.html?lang=zh-Hans)。
 
 ### 访问权限
 
