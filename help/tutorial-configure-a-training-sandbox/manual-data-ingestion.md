@@ -9,9 +9,9 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: 5e7bf81d-4d70-48ef-b357-c361b28359db
 source-git-commit: b2afc28f82967324ebed0ee17e291e83c85c3a4c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 92%
 * [luma-offline-purchases](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-offline-purchases.json)
 * [luma-product-catalog](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-product-catalog.json)
 * [luma-crm](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-crm.json)
-* [luma忠诚度](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-loyalty.json)
+* [luma-loyalty](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-loyalty.json)
 
 
 ## 下一步
