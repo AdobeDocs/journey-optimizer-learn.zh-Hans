@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
-source-git-commit: e8f4f8bd1428bf6e4a9af88b2b7d11ca962db581
+source-git-commit: 3a70dc06dee3e0e35557455ca0aa933873f787fe
 workflow-type: tm+mt
-source-wordcount: '315'
-ht-degree: 98%
+source-wordcount: '321'
+ht-degree: 97%
 
 ---
 
@@ -68,16 +68,17 @@ ht-degree: 98%
    + [创建决策](/help/decision-management/create-decisions.md)
    + [通过 Decisions API 提供优惠](/help/decision-management/deliver-offers-with-the-decisions-api.md)
    + [频率封顶](/help/decision-management/frequency-capping.md)
++ 数据管理 {#data-management}
+   + [概述](/help/set-up-data/set-up-data-overview.md)
+   + [创建架构](/help/set-up-data/create-schema.md)
+   + [映射身份](/help/set-up-data/map-identities.md)
+   + [创建数据集并摄取数据](/help/set-up-data/create-datasets-and-ingest-data.md)
+   + [配置源连接器](/help/set-up-data/configure-source-connectors.md)
+   + [将数据集导出到云存储位置](/help/set-up-data/export-datasets.md)
 + 报告和监测{#report-and-monitor}
    + [实时和全局报表](/help/report-and-monitor/live-and-global-reports.md)
    + [使用警报](/help/administration/alerts.md)
 + 配置 {#configuration}
-   + 配置数据 {#data-configuration}
-      + [概述](/help/set-up-data/set-up-data-overview.md)
-      + [创建架构](/help/set-up-data/create-schema.md)
-      + [映射身份](/help/set-up-data/map-identities.md)
-      + [创建数据集并摄取数据](/help/set-up-data/create-datasets-and-ingest-data.md)
-      + [配置源连接器](/help/set-up-data/configure-source-connectors.md)
    + 配置渠道 {#channel-configuration}
       + [设置电子邮件渠道](/help/set-up-channels/set-up-email-channel.md)
       + [委派 CName 子域](/help/set-up-channels/delegate-cname-subdomains.md)
