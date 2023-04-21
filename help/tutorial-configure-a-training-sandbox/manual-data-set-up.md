@@ -9,9 +9,9 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
 source-git-commit: b91d6ccdb54213873b91b7ffa9d95d7cb5261ee8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1021'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -345,4 +345,4 @@ ht-degree: 98%
 
 ## 后续步骤
 
-现在，您已创建数据结构，接下来可以 [创建数据集和摄取示例数据](/help/tutorial-configure-a-training-sandbox/manual-data-ingestion.md).
+现在您已创建数据结构，您可以[创建数据集并摄取样本数据](/help/tutorial-configure-a-training-sandbox/manual-data-ingestion.md)。
