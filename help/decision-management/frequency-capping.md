@@ -1,6 +1,6 @@
 ---
-title: 决策管理 - 频率上限
-description: 了解 Offer Decisioning 的频率上限的工作方式。了解如何为自定义事件配置频率上限以及如何通过定义频率来配置增量。
+title: 决策管理 - 频次上限
+description: 了解 Offer Decisioning 频次上限的工作方式。了解如何为自定义事件配置频次上限，以及如何通过定义频次来配置增量。
 feature: Offers
 role: User
 level: Beginner
@@ -16,8 +16,8 @@ ht-degree: 100%
 
 ---
 
-# 决策管理 - 频率上限
+# 决策管理 - 频次上限
 
-了解 Offer Decisioning 的频率上限的工作方式。了解如何为自定义事件配置频率上限以及如何通过定义频率来配置增量。
+了解 Offer Decisioning 频次上限的工作方式。了解如何为自定义事件配置频次上限，以及如何通过定义频次来配置增量。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3417853/?quality=12&learn=on)

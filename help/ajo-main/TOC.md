@@ -5,7 +5,7 @@ user-guide-description: 这些是 Journey Optimizer 教程。
 source-git-commit: 3a70dc06dee3e0e35557455ca0aa933873f787fe
 workflow-type: tm+mt
 source-wordcount: '321'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -67,7 +67,7 @@ ht-degree: 97%
    + [创建收藏集](/help/decision-management/create-collections.md)
    + [创建决策](/help/decision-management/create-decisions.md)
    + [通过 Decisions API 提供优惠](/help/decision-management/deliver-offers-with-the-decisions-api.md)
-   + [频率封顶](/help/decision-management/frequency-capping.md)
+   + [频次上限](/help/decision-management/frequency-capping.md)
 + 数据管理 {#data-management}
    + [概述](/help/set-up-data/set-up-data-overview.md)
    + [创建架构](/help/set-up-data/create-schema.md)
