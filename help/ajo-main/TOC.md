@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 source-git-commit: 58333495c7a4fba108f171b28a977cdb8f36b758
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '331'
+ht-degree: 100%
 
 ---
 
@@ -44,9 +44,9 @@ ht-degree: 0%
 + 短信渠道{#sms-channel}
    + [编写和投放短信消息](/help/channels/author-and-deliver-sms-messages.md)
    + [针对短信的入站关键词支持](/help/channels/inbound-keyword-support-for-sms.md)
-+ Web渠道 {#web-channel}
-   + [创建Web营销活动](/help/channels/create-a-web-campaign.md)
-   + [创作Web营销活动](/help/channels/author-a-web-campaign.md)
++ Web 渠道 {#web-channel}
+   + [创建 Web 营销活动](/help/channels/create-a-web-campaign.md)
+   + [创建 Web 营销活动](/help/channels/author-a-web-campaign.md)
 + 客户个人资料、区段和订阅 {#profiles-segments-subscriptions}
    + [统一的用户档案和分段 - 概述](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [创建区段](/help/set-up-resources/create-segments.md)
