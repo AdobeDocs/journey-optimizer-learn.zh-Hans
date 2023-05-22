@@ -6,10 +6,10 @@ role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: f7bfe367411f2bae23631ac4ecb34ad1d250381c
+source-git-commit: 1cde681f2604982ddcdc68fc6cb7b6e9186b6d8f
 workflow-type: tm+mt
-source-wordcount: '1175'
-ht-degree: 100%
+source-wordcount: '1126'
+ht-degree: 98%
 
 ---
 
@@ -140,7 +140,6 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 结果：
 
 * 主题行应为：Louise，全新 Luma 系列现已上市！
-* 电子邮件正文应与您在预览中看到的内容匹配：[全新季节系列发布公告](/help/challenges/assets/email-assets/SeasonalCollectionEmail.html)
 
 **电子邮件消息 2：Luma 男士系列**
 
@@ -149,11 +148,11 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 1. 添加测试用户档案：Stanleigh Stooke：
    * 标识命名空间：*Luma CRM ID*
    * 标识值：`4f34057d9d9e792c28ba18ecae378e98`
-1. 选择测试用户档案：Stanleigh Stooke。
-1. 给您自己发送验证。
+2. 选择测试用户档案：Stanleigh Stooke。
+3. 给您自己发送验证。
 
 结果：\
-您应当会收到一封电子邮件。主题行应该为 *Stanleigh，欢迎探索男士新运动装备！*&#x200B;且电子邮件正文应与您在预览中看到的内容相匹配：[Luma 男士系列](/help/challenges/assets/email-assets/MensCollectionEmail.html)
+您应当会收到一封电子邮件。主题行应该为 *Stanleigh，欢迎探索男士新运动装备！* 和電子郵件內文應與您在預覽中看到的內容相符。
 
 >[!NOTE]
 >您可能需要几分钟才能收到验证。
@@ -163,14 +162,12 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 使用测试用户档案 *Louise Petti* 预览电子邮件。
 
 * 主题行应为：*Louise，欢迎探索 Luma 女士系列！*
-* 电子邮件正文应与您在预览中看到的内容匹配：[Luma 女士系列](/help/challenges/assets/email-assets/WomensCollectionEmail.html)
 
 **电子邮件消息 4：Luma 八折系列**
 
 使用测试用户档案 *Louise Petti* 预览电子邮件。
 
 * 主题行应为：*Louise，畅享八折优惠！*
-* 电子邮件正文应与您在预览中看到的内容匹配：[Luma 20% 折扣系列](/help/challenges/assets/email-assets/20OOffCollectionEmail.html)
 
 #### 测试您的历程
 
@@ -180,13 +177,15 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 >
 >1. 确保[!UICONTROL 读取区段活动]具有设置为 **Luma CRM id(lumaCrmId)** 的命名空间
 >1. 对于每封电子邮件，覆盖电子邮件的默认电子邮件参数，以便将其发送到您的电子邮件地址：
->    * 通过单击眼睛符号显示隐藏值。
->    * 在电子邮件参数中，单击 T 符号（启用参数覆盖）。
->
->      ![覆盖电子邮件参数](/help/challenges/assets/c3-override-email-paramters.jpg)
-> 
->    * 单击 [!UICONTROL Address] 字段
->    * 在下一个屏幕中，在表达式编辑器中将您的电子邮件地址添加到括号中：`"yourname@yourdomain"`，然后单击 OK。
+   >    * 通过单击眼睛符号显示隐藏值。
+   >    * 在电子邮件参数中，单击 T 符号（启用参数覆盖）。
+
+      >
+      >      ![覆盖电子邮件参数](/help/challenges/assets/c3-override-email-paramters.jpg)
+   > 
+   >    * 单击 [!UICONTROL Address] 字段
+   >    * 在下一个屏幕中，在表达式编辑器中将您的电子邮件地址添加到括号中：`"yourname@yourdomain"`，然后单击 OK。
+
 >
 
 
