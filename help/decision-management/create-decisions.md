@@ -6,9 +6,9 @@ kt: 6791
 thumbnail: 329606.jpg
 last-substantial-update: 2022-09-30T00:00:00Z
 exl-id: 8921f1b7-ab6a-4a3d-abf9-822af99e4196
-source-git-commit: 2941ac46f36112f488a0d60e3afeaf2979ddb6f4
+source-git-commit: 042837da01abdb2859b3d149770e5db6381bd021
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '106'
 ht-degree: 100%
 
 ---
@@ -21,6 +21,4 @@ ht-degree: 100%
 
 要详细了解如何使用 API 创建决策，请参阅[产品指南](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/activities-api/create.html?lang=zh-Hans)
 
->[!INFO]
->
-> 此视频是[面向营销人员的决策管理入门](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)课程的一部分，可在 Experience League 上免费观看！
+{{experienceplatform-u-1-2020-1-offerdecisioning}}

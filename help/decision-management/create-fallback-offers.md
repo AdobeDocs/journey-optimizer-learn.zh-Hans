@@ -5,9 +5,9 @@ feature: Offers
 kt: 6780
 thumbnail: 329383.jpg
 exl-id: 77dad738-4046-410d-8886-e88f9c872320
-source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
+source-git-commit: 042837da01abdb2859b3d149770e5db6381bd021
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '94'
 ht-degree: 100%
 
 ---
@@ -20,6 +20,4 @@ ht-degree: 100%
 
 要了解有关如何使用 API 创建后备优惠的更多信息，请参阅[产品指南](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/fallback-offers/create.html?lang=zh-Hans)
 
->[!INFO]
->
-> 此视频是[面向营销人员的决策管理入门](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)课程的一部分，可在 Experience League 上免费观看！
+{{experienceplatform-u-1-2020-1-offerdecisioning}}
