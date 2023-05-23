@@ -1,5 +1,5 @@
 ---
-source-git-commit: 042837da01abdb2859b3d149770e5db6381bd021
+source-git-commit: 28f84590dba39c90cac51ff7edeb6e01efa57211
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 10%
@@ -19,4 +19,4 @@ ht-degree: 10%
 >
 > 本影片是課程的一部分 [行銷人員決策管理快速入門](https://experienceleague.adobe.com/docs/courses/using/experienceplatform-u-1-2020-1-offerdecisioning.html?lang=zh-Hans)，免費Experience League！
 
-## 歷程管理員專用Journey Optimizer快速入門
+## 歷程管理員專用Journey Optimizer快速入門 {#}
