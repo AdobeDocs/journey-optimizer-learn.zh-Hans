@@ -201,7 +201,7 @@ https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_onl
 **标签：**
 确认消息
 
-**主旨列：**
-`{{profile.person.name.firstName}},` 您已簽入，現在請檢視我們的優惠方案供您繼續留宿！
+**主题行：**
+`{{profile.person.name.firstName}},` 您已签入，现在请查看我们的优惠供您停留！
 
 >[!ENDTABS]
