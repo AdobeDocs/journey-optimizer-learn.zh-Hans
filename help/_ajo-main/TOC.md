@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
-source-git-commit: 5d7f2e530af5f1aa3c756c2f10bcc3488a71a7fc
+source-git-commit: 6a490db336065781dea510d25c3bf9fc8e0b3181
 workflow-type: tm+mt
-source-wordcount: '336'
-ht-degree: 98%
+source-wordcount: '342'
+ht-degree: 96%
 
 ---
 
@@ -23,6 +23,7 @@ ht-degree: 98%
    + [面向开发人员的移动功能](/help/channels/mobile-capabilities-for-developers.md)
 + 营销活动 {#create-campaigns}
    + [创建营销活动](/help/create-campaigns/create-a-campaign.md)
+   + [为电子邮件营销活动创建内容实验](/help/create-campaigns/content-experiments.md)
 + 历程 {#create-journeys}
    + [历程画布概述](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [构建历程的简介](/help/create-journeys/introduction-to-building-a-journey.md)
