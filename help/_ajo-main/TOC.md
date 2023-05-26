@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
-source-git-commit: a14657c5dcc25588849daf988648526e7c3e7572
+source-git-commit: 1d7c1b264769d55a80755da9d9a15aaa5cb45a92
 workflow-type: tm+mt
-source-wordcount: '348'
-ht-degree: 95%
+source-wordcount: '370'
+ht-degree: 93%
 
 ---
 
@@ -23,6 +23,8 @@ ht-degree: 95%
    + [面向开发人员的移动功能](/help/channels/mobile-capabilities-for-developers.md)
 + 营销活动 {#create-campaigns}
    + [创建营销活动](/help/create-campaigns/create-a-campaign.md)
+   + [创建应用程序内营销活动](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/create-an-in-app-campaign.html)
+   + [创建 Web 营销活动](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html)
    + [为电子邮件营销活动创建内容实验](/help/create-campaigns/content-experiments.md)
 + 历程 {#create-journeys}
    + [历程画布概述](/help/create-journeys/overview-over-the-journey-canvas.md)
