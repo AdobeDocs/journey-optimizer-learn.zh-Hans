@@ -1,8 +1,8 @@
 ---
-source-git-commit: 28f84590dba39c90cac51ff7edeb6e01efa57211
+source-git-commit: f42f117b47a16536a045688a472f95afff46ecec
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 10%
+source-wordcount: '121'
+ht-degree: 9%
 
 ---
 # AJO代码片段
@@ -19,4 +19,11 @@ ht-degree: 10%
 >
 > 此视频是课程的一部分 [面向营销人员的决策管理快速入门](https://experienceleague.adobe.com/docs/courses/using/experienceplatform-u-1-2020-1-offerdecisioning.html?lang=zh-Hans)，可在Experience League上免费使用！
 
-## 面向历程管理员的Journey Optimizer快速入门 {#}
+## ExL Live应用程序内 {#exl-live-in-app}
+
+Experience League LIVE:
+
+* [利用Adobe Journey Optimizer最大程度地发挥移动应用程序的潜力](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=en)
+
+   *了解应用程序内消息传送作为实时参与渠道的好处，以及如何在Adobe Journey Optimizer中配置和创作个性化的移动应用程序体验。*
+
