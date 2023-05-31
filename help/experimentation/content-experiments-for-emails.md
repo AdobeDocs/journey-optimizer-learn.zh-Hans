@@ -1,6 +1,6 @@
 ---
-title: 为电子邮件配置内容实验
-description: 了解如何配置内容实验以进行A/B测试并探索电子邮件内容以最好地推动您的业务目标。
+title: 为电子邮件配置内容试验
+description: 了解如何配置内容试验以进行 A/B 测试，并探索电子邮件内容以最有效地推动业务目标的实现。
 feature: Email, Experimentation
 role: User
 level: Beginner
@@ -9,13 +9,13 @@ last-substantial-update: 2023-05-25T00:00:00Z
 jira: KT-11129
 thumbnail: 3419893.jpeg
 source-git-commit: 992125e5fa03cbe03da36e1224407929aeb94001
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '29'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# 为电子邮件配置内容实验
+# 为电子邮件配置内容试验
 
 {{$include /help/_includes/inc-experimentation.md}}
