@@ -10,9 +10,9 @@ hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
 source-git-commit: 4c2215615647da8db51914ea48f1af32936ccc57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '357'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -202,6 +202,6 @@ https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_onl
 确认消息
 
 **主题行：**
-`{{profile.person.name.firstName}},` 您已签入，现在请查看我们的优惠供您停留！
+尊敬的`{{profile.person.name.firstName}},`，您已登记，请立即查看我们为您提供的住宿优惠！
 
 >[!ENDTABS]
