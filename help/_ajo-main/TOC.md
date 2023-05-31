@@ -5,7 +5,7 @@ user-guide-description: 这些是 Journey Optimizer 教程。
 source-git-commit: 42c9b46a628c8655fe56112cd3fad06fcaa8269f
 workflow-type: tm+mt
 source-wordcount: '371'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -24,8 +24,8 @@ ht-degree: 92%
 + 营销活动 {#create-campaigns}
    + [创建营销活动](/help/create-campaigns/create-a-campaign.md)
    + [创建应用程序内营销活动](/help/create-campaigns/in-app.md)
-   + [创建 Web 营销活动](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html)
-   + [为电子邮件营销活动创建内容实验](/help/create-campaigns/content-experiments.md)
+   + [创建 Web 营销活动](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html?lang=zh-Hans)
+   + [为电子邮件营销活动创建内容试验](/help/create-campaigns/content-experiments.md)
 + 历程 {#create-journeys}
    + [历程画布概述](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [构建历程的简介](/help/create-journeys/introduction-to-building-a-journey.md)
@@ -42,7 +42,7 @@ ht-degree: 92%
    + [预览、验证和发布](/help/channels/preview-proof-and-publish.md)
    + [内容模板](/help/channels/content-templates.md)
    + [管理、创作和使用片段](/help/content-management/manage-author-use-fragments.md)
-   + [为电子邮件配置内容实验](/help/experimentation/content-experiments-for-emails.md)
+   + [为电子邮件配置内容试验](/help/experimentation/content-experiments-for-emails.md)
 + 应用程序内渠道{#in-app-channel}
    + [创建应用程序内营销活动](/help/channels/create-an-in-app-campaign.md)
    + [创建应用程序内消息](/help/channels/author-in-app-messages.md)
