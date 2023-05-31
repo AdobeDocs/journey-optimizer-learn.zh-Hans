@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
 source-git-commit: 1cde681f2604982ddcdc68fc6cb7b6e9186b6d8f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1126'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -152,7 +152,7 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 3. 给您自己发送验证。
 
 结果：\
-您应当会收到一封电子邮件。主题行应该为 *Stanleigh，欢迎探索男士新运动装备！* 和电子邮件正文应与您在预览中看到的内容匹配。
+您应当会收到一封电子邮件。主题行应该为 *Stanleigh，欢迎探索男士新运动装备！*&#x200B;且电子邮件正文应与您在预览中看到的内容相匹配。
 
 >[!NOTE]
 >您可能需要几分钟才能收到验证。
