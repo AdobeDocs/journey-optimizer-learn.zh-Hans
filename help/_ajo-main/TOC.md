@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
-source-git-commit: 42c9b46a628c8655fe56112cd3fad06fcaa8269f
+source-git-commit: f999fc9a893f88b0d1ed7a65c3dc4aebc483a843
 workflow-type: tm+mt
-source-wordcount: '371'
-ht-degree: 100%
+source-wordcount: '382'
+ht-degree: 97%
 
 ---
 
@@ -100,6 +100,7 @@ ht-degree: 100%
    + [创建操作](/help/set-up-journeys/create-actions.md)
 + 访问控制{#access-control}
    + [访问管理](/help/set-up-access/access-management.md)
+   + [配置基于属性的访问控制](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/configure-attribute-based-access-control.html)
    + [创建和管理沙盒](/help/set-up-access/create-and-manage-sandboxes.md)
 + 隐私权 {#privacy}
    + [屏蔽消息中的数据](/help/privacy/mask-data-in-messages.md)
