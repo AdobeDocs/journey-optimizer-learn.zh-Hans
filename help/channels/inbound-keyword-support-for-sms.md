@@ -4,12 +4,12 @@ description: 了解针对短信的原生入站关键词支持（开始、停止�
 feature: SMS
 role: User, Admin
 level: Beginner
-kt: 10616
+jira: KT-10616
 thumbnail: 344026.jpg
 exl-id: b7233ee0-6450-467d-b41f-f81e3b870005
-source-git-commit: cba8982f4be9c60ab1d9efe9a6009033369f10a3
-workflow-type: tm+mt
-source-wordcount: '46'
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
