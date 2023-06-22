@@ -3,14 +3,14 @@ title: 手动设置数据结构
 description: 创建所需的身份命名空间并定义 Luma 样本数据结构。
 feature: Sandboxes, Data Management, Application Settings
 doc-type: tutorial
-kt: 9382
+jira: KT-9382
 role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: b91d6ccdb54213873b91b7ffa9d95d7cb5261ee8
-workflow-type: tm+mt
-source-wordcount: '1021'
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -320,12 +320,12 @@ ht-degree: 100%
       1. **[!UICONTROL 引用架构]**：[!DNL Luma Product Catalog Schema]。
 
       2. **[!UICONTROL 引用身份命名空间]**：[!DNL LumaProductSKU]。
+
    3. 选择&#x200B;**[!UICONTROL 应用]**。
 
       架构应如下所示：
 
       ![SKU 关系](assets/sku_relationship.png)
-
 
 1. 为&#x200B;**个人资料**&#x200B;启用。
 
@@ -340,7 +340,7 @@ ht-degree: 100%
 | **[!UICONTROL 类]** | [!UICONTROL XDM 个人资料] | [!UICONTROL XDM 体验活动] | [!UICONTROL XDM 个人资料] | [IUICONTROL XDM ExperienceEvent] |
 | **[!UICONTROL 添加现有字段组]** | `Luma Identity Profile Field Group`<br>`Demographic Details`<br>`Personal Contact Details` | `Orchestration eventID`<br>`Consumer Experience Event`<br>`AEP Web SDK ExperienceEvent` | `Luma Identity Profile Field Group`<br>`Demographic Details`<br>`Personal Contact Details`<br>`Profile test details` | `Luma Identity Profile Field Group` <br>`Commerce Details` |
 | **[!UICONTROL 关系]** |  | `productListItems.SKU`：<br>引用架构 `Luma Product Catalog Schema` <br>[!DNL Reference identity namespace] `lumaProductSKU` |  | `productListItems.SKU`：<br>引用架构 `Luma Product Catalog Schema` <br>[!DNL Reference identity namespace] `lumaProductSKU` |
-| **[!UICONTROL 主要身份][!UICONTROL 命名空间]）** | `systemIdentifier.crmId` |  | `systemIdentifier.crmId` | `systemIdentifier.LoyaltyId` |
+| **[!UICONTROL 主要身份][!UICONTROL 命名空间]）** | `systemIdentifier.crmId` | | `systemIdentifier.crmId` | `systemIdentifier.LoyaltyId` |
 | **[!UICONTROL 为个人资料启用]** | 是 | 是 | 是 | 是 |
 
 ## 后续步骤
