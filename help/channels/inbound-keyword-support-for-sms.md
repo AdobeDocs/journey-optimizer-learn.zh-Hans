@@ -8,8 +8,8 @@ jira: KT-10616
 thumbnail: 344026.jpg
 exl-id: b7233ee0-6450-467d-b41f-f81e3b870005
 source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
-workflow-type: ht
-source-wordcount: '0'
+workflow-type: tm+mt
+source-wordcount: '46'
 ht-degree: 100%
 
 ---
