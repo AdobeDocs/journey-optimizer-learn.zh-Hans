@@ -1,7 +1,7 @@
 ---
 title: 创建操作
 description: 了解历程的不同状态以及发布的影响。
-kt: 7536
+jira: KT-7536
 thumbnail: 334257.jpg
 feature: Actions
 doc-type: feature video
@@ -9,9 +9,9 @@ team: PM
 role: Admin, Developer
 level: Beginner
 exl-id: 45206e23-46bf-4aaf-8d45-012ea0e64e92
-source-git-commit: e801ea853c84c1bfd95d5b5648682fff49d317b7
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
 workflow-type: ht
-source-wordcount: '31'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
