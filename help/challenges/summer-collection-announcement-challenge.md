@@ -1,14 +1,14 @@
 ---
 title: 创建夏季系列发布公告 - 挑战
 description: 向特定的现有客户群发送夏季系列发布公告，以推广新的 Luma 夏季系列。
-kt: 8109
+jira: KT-8109
 role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 1cde681f2604982ddcdc68fc6cb7b6e9186b6d8f
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
 workflow-type: ht
-source-wordcount: '1126'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -185,7 +185,6 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 >    * 单击 [!UICONTROL Address] 字段
 >    * 在下一个屏幕中，在表达式编辑器中将您的电子邮件地址添加到括号中：`"yourname@yourdomain"`，然后单击 OK。
 >
-
 
 测试历程并将电子邮件发送到您自己的帐户：
 
