@@ -4,12 +4,12 @@ description: 了解如何配置订阅和创建登陆页面。
 feature: Landing Pages, Subscriptions
 role: User
 level: Beginner
-kt: 9364
+jira: KT-9364
 thumbnail: 341280.jpg
 exl-id: b2da105b-ec0b-4bb8-8f68-993f92253cb4
-source-git-commit: 943ccd4a9cb1489aa30d459906d3baa9e902dbfa
-workflow-type: tm+mt
-source-wordcount: '55'
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
