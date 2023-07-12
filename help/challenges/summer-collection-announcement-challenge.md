@@ -2,13 +2,13 @@
 title: 创建夏季系列发布公告 - 挑战
 description: 向特定的现有客户群发送夏季系列发布公告，以推广新的 Luma 夏季系列。
 jira: KT-8109
-feature: Segments, Journeys, EMail
+feature: Segments, Journeys, Email
 role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 542ed8b8a55d7f1a2153313c6184b759c68f33e2
-workflow-type: tm+mt
+source-git-commit: 035d568fc25119142b92e0caa8adfb0ae5e21be8
+workflow-type: ht
 source-wordcount: '1126'
 ht-degree: 100%
 
