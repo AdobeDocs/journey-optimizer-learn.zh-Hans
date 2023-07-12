@@ -2,10 +2,13 @@
 title: Journey Optimizer 教程 - 概述
 description: 我们提供了一系列视频教程，向您展示如何充分发挥 Journey Optimizer 的优势。
 recommendations: noDisplay, noCatalog
+feature: Get Started
+role: User, Developer, Admin, Leader
+level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 2a934b9e833f1dde36a995bcd565fca585e320ec
-workflow-type: tm+mt
+source-git-commit: 542ed8b8a55d7f1a2153313c6184b759c68f33e2
+workflow-type: ht
 source-wordcount: '490'
 ht-degree: 100%
 
@@ -25,20 +28,16 @@ Journey Optimizer 帮助企业为其客户提供贴合心意的、情境式和�
 ## 新增功能
 
 * **[使用条件规则生成器创建动态内容](/help/personalize-content/create-dynamic-content.md)**
-
-   *了解如何创建和保存条件规则，以及如何将这些条件规则应用于所有渠道的内容。*
+  *了解如何创建和保存条件规则，以及如何将这些条件规则应用于所有渠道的内容。*
 
 * **[使用警报](/help/administration/alerts.md)**
-
-   *了解如何订阅针对意外历程行为的预定义警报，并通过电子邮件、Journey Optimizer 或使用 API 获得通知。*
+  *了解如何订阅针对意外历程行为的预定义警报，并通过电子邮件、Journey Optimizer 或使用 API 获得通知。*
 
 * **[将历程复制到另一个沙盒](/help/create-journeys/copy-a-journey.md)**
-
-   *了解如何将历程及其依赖对象从一个沙盒复制到另一个沙盒。*
+  *了解如何将历程及其依赖对象从一个沙盒复制到另一个沙盒。*
 
 * **[屏蔽消息中的数据](/help/privacy/mask-data-in-messages.md)**
-
-   *了解数据屏蔽的含义以及为什么要屏蔽数据。 了解如何屏蔽 Journey Optimizer 消息中的数据。*
+  *了解数据屏蔽的含义以及为什么要屏蔽数据。 了解如何屏蔽 Journey Optimizer 消息中的数据。*
 
 </div>
 
@@ -48,12 +47,10 @@ Journey Optimizer 帮助企业为其客户提供贴合心意的、情境式和�
 ## Experience League 直播活动
 
 * **[在 Adobe Journey Optimizer 中执行营销活动](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=zh-Hans)**
-
-   *在最初于 2022 年 9 月 22 日举行的 Experience League 直播节目中，主持人 Sandra Hausmann 与产品专家 Bridgete Darling 和 Frederic Mary 讨论了这一新功能涉及的用例，并演示了如何在 Journey Optimizer 中轻松设置和执行营销活动。*
+  *在最初于 2022 年 9 月 22 日举行的 Experience League 直播节目中，主持人 Sandra Hausmann 与产品专家 Bridgete Darling 和 Frederic Mary 讨论了这一新功能涉及的用例，并演示了如何在 Journey Optimizer 中轻松设置和执行营销活动。*
 
 * **[Adobe Journey Optimizer 的推送通知功能](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html?lang=zh-Hans)**
-
-   *在本期 Experience League Live 节目中，我们将讨论 Adobe Journey Optimizer 推送通知的常见用例，并深入探索有关如何为 Adobe Experience Platform 支持的推送功能配置应用程序的技术细节。*
+  *在本期 Experience League Live 节目中，我们将讨论 Adobe Journey Optimizer 推送通知的常见用例，并深入探索有关如何为 Adobe Experience Platform 支持的推送功能配置应用程序的技术细节。*
 
 </div>
 
