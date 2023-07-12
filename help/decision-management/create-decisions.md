@@ -3,10 +3,12 @@ title: 创建决策
 description: 了解如何为决策管理创建决策。决策可将您的投放位置和收藏集合并为一个实体，以便做出可以为客户提供最相关优惠的决策。
 feature: Offers
 jira: KT-6791
+role: User
+level: Beginner
 thumbnail: 329606.jpg
 last-substantial-update: 2022-09-30T00:00:00Z
 exl-id: 8921f1b7-ab6a-4a3d-abf9-822af99e4196
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+source-git-commit: 542ed8b8a55d7f1a2153313c6184b759c68f33e2
 workflow-type: ht
 source-wordcount: '106'
 ht-degree: 100%
