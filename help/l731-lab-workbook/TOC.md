@@ -8,7 +8,7 @@ breadcrumb-url: /docs/journey-optimizer-learn/summit-lab/overview.html
 index: false
 hide: true
 source-git-commit: 542ed8b8a55d7f1a2153313c6184b759c68f33e2
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 100%
 
