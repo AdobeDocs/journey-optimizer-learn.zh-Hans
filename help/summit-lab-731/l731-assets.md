@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 4c2215615647da8db51914ea48f1af32936ccc57
-workflow-type: ht
-source-wordcount: '357'
-ht-degree: 100%
+source-git-commit: e7deb1d6c57a5b582448542a2679de6aeef44750
+workflow-type: tm+mt
+source-wordcount: '342'
+ht-degree: 92%
 
 ---
 
@@ -125,8 +125,6 @@ ht-degree: 100%
 
 ![适用于 Android 的 QR 代码](/help/assets/lab731-android-qr-code.png)
 
-如果您使用的是 Android 模拟器，请使用此链接： [https://ajolab.s3.amazonaws.com/ajolabapp-release.apk](https://ajolab.s3.amazonaws.com/ajolabapp-release.apk)
-
 由于应用程序未在 Google Play 商店中注册，因此您将收到一条警告消息：
 
 ![Android 警告屏幕](/help/assets/lab731-install-android.png)
@@ -149,14 +147,14 @@ ht-degree: 100%
 
 | 字段 | 文本 | 链接 |
 |----|----|----|
-| 营销活动名称 | `<your seat number> March Vegas Campaign` |  |
+| 营销活动名称 | `<your seat number> Vegas Stay Campaign` |  |
 | 匹配项 | booknow |  |
 | 媒体 URL 选项 |  | https://mcfadyen.com/wp-content/uploads/2023/01/Adobe-Summit-2023-Banner.png |
-| 标题 | 活动开始，速来围观！ |  |
-| 正文 | Adobe Summit 将于 2023 年 3 月 21 日至 23 日重返拉斯维加斯。准备迎接鼓舞人心的演讲、技能拓展课程和结识新朋友的机会。 |  |
-| 按钮 | 立即预订酒店即可享受九折优惠 | lab://booking?suite=presidential&amp;discount=10 |
+| 标题 | 抢先买到优惠券！ |  |
+| 正文 | Adobe Summit在2024年回到拉斯维加斯。 准备迎接鼓舞人心的演讲、技能拓展课程和结识新朋友的机会。立即预订套房，现享10%优惠。 |  |
+| 按钮 | 立即预订 | lab://booking?suite=presidential&amp;discount=10 |
 | 按钮：交互式事件 | 应用程序内 CTA |  |
-| 基本 URL |  | iOS：lab:// <br>Android&amp;: https://lab |
+| 基本 URL |  | **iOS：** lab:// <br>**Android**： https://lab |
 
 
 ## 第 3 课 - 创建全渠道历程
@@ -202,7 +200,6 @@ https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_onl
 确认消息
 
 **主题行：**
-尊敬的
-`{{profile.person.name.firstName}},`，您已登记，请立即查看我们为您提供的住宿优惠！
+尊敬的`{{profile.person.name.firstName}},`，您已登记，请立即查看我们为您提供的住宿优惠！
 
 >[!ENDTABS]
