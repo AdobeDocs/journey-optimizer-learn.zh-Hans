@@ -3,9 +3,11 @@ title: 决策管理功能简介
 description: 概要了解 Journey Optimizer 的决策管理功能
 feature: Offers
 jira: KT-6417
+role: Administrator, Developer, Leader, User
+level: Beginner
 thumbnail: 326961.jpg
 exl-id: 551cce3d-58e9-4302-bfbd-fbf86f79e183
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+source-git-commit: 542ed8b8a55d7f1a2153313c6184b759c68f33e2
 workflow-type: ht
 source-wordcount: '50'
 ht-degree: 100%
