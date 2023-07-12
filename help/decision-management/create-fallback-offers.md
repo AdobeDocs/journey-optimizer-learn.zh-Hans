@@ -2,10 +2,12 @@
 title: 创建后备优惠
 description: 了解如何为决策管理创建后备优惠。后备优惠具有与其关联的资格规则，有助于将这些优惠设置为仅向相关客户显示。
 feature: Offers
+role: User
+level: Beginner
 jira: KT-6780
 thumbnail: 329383.jpg
 exl-id: 77dad738-4046-410d-8886-e88f9c872320
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+source-git-commit: 542ed8b8a55d7f1a2153313c6184b759c68f33e2
 workflow-type: ht
 source-wordcount: '94'
 ht-degree: 100%
