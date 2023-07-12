@@ -1,12 +1,14 @@
 ---
 user-guide-title: Summit Lab 731 - 工作簿
 user-guide-description: 在这个实践实验课中，您将了解如何实施多渠道营销策略，包括应用程序内营销活动、推送通知、短信以及电子邮件消息传送营销活动和 Adobe Journey Optimizer 中的历程。
+role: User
+level: Beginner
 breadcrumb-title: Journey Optimizer - L731 工作簿
 breadcrumb-url: /docs/journey-optimizer-learn/summit-lab/overview.html
 index: false
 hide: true
-source-git-commit: a1751f374f611fcf38db7ad9b51c42315c890b04
-workflow-type: tm+mt
+source-git-commit: 542ed8b8a55d7f1a2153313c6184b759c68f33e2
+workflow-type: ht
 source-wordcount: '54'
 ht-degree: 100%
 
