@@ -9,9 +9,9 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 6580652b9c28d51c03944362a0fb848a0a8194e2
+source-git-commit: d44943b27a1681a2f264e762a2eac9d993ce46be
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '285'
 ht-degree: 76%
 
 ---
@@ -149,10 +149,10 @@ ht-degree: 76%
 |----|----|----|
 | 营销活动名称 | `<your seat number> Vegas Stay Campaign` |  |
 | 匹配项 | booknow |  |
-| 媒体 URL 选项 |  | https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/adobemax.jpg |
+| 媒体 URL 选项 |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
 | 标题 | 抢先买到优惠券！ |  |
 | 正文 | Adobe·麦克斯回到拉斯维加斯。 准备迎接鼓舞人心的演讲、技能拓展课程和结识新朋友的机会。立即预订套房，现享10%优惠。 |  |
-| 按钮 | 立即预订 | lab://booking?suite=presidential&amp;discount=10 |
+| 按钮 | 享受10%的折扣！ | lab://booking?suite=presidential&amp;discount=10 |
 | 按钮：交互式事件 | 应用程序内 CTA |  |
 | 基本 URL 用于在设备上预览 |  | **iOS：** lab:// <br>**Android**： https://lab |
 
@@ -162,6 +162,6 @@ ht-degree: 76%
 | 字段 | 文本 | 链接 |
 |----|----|----|
 | 营销活动名称 | `<your seat number> Max Push Campaign` |  |
-| 媒体 URL 选项 |  | https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/adobemax.jpg |
+| 媒体 URL 选项 |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
 | 标题 | 嘿！ |  |
 | 正文 | 你知道麦克斯Adobe要回拉斯维加斯吗。 现在预订房间，可享受10%的折扣。 |  |
