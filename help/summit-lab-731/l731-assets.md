@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: c3081f196d271f8b32084b0477639ba0fe889e92
+source-git-commit: 152435650d2160fd6def2614d50fc06ade79f24c
 workflow-type: tm+mt
-source-wordcount: '286'
-ht-degree: 76%
+source-wordcount: '306'
+ht-degree: 71%
 
 ---
 
@@ -28,7 +28,12 @@ ht-degree: 76%
 
 >[!TAB iOS]
 
-![适用于 iOS 的 QR 代码](/help/assets/lab731-ios-qr-code.png)
+![用于 iOS 的 QR 代码](/help/assets/lab731-ios-qr-code.png)
+
+>[!TIP]
+>
+>如果系统询问兑换代码，请关闭TestFlight应用程序并再次扫描二维码。
+>**请允许“通知”。**
 
 系统将要求您安装 Testflight，请参阅第 1 步至第 4 步。 安装 Testflight 后，请按照第 5 步至第 8 步的说明安装 Vegas Stay 应用程序：
 
