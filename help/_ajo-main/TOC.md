@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
-source-git-commit: 7dd39b0bc8b2aa17522310d38140afff9bb1e727
+source-git-commit: 88499f15c1019c8f5d9531eb3a0dec3f4c1949a7
 workflow-type: tm+mt
 source-wordcount: '382'
-ht-degree: 98%
+ht-degree: 95%
 
 ---
 
@@ -30,9 +30,9 @@ ht-degree: 98%
    + [历程画布概述](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [构建历程的简介](/help/create-journeys/introduction-to-building-a-journey.md)
    + [用例 - 事务性历程](/help/create-journeys/use-case-transactional-journey.md)
-   + [用例 - 读取区段](/help/create-journeys/use-case-read-segment.md)
    + [用例 - 商业事件](/help/create-journeys/use-case-business-event.md)
-   + [用例 - 区段鉴别](/help/create-journeys/use-case-read-segment-qualification.md)
+   + [用例 — 读取受众](/help/create-journeys/use-case-read-audience.md)
+   + [用例 — 受众资格](/help/create-journeys/use-case-audience-qualification.md)
    + [创建测试用户档案](/help/create-journeys/test-a-journey.md)
    + [发布历程](/help/create-journeys/publish-a-journey.md)
    + [将历程复制到另一个沙盒](/help/create-journeys/copy-a-journey.md)
@@ -59,7 +59,7 @@ ht-degree: 98%
    + [订阅和登陆页面](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + 个性化内容{#personalize-content}
-   + [基于用户档案和区段会员资格的个性化](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
+   + [基于配置文件和受众会员资格的个性化](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
    + [将优惠作为个性化内容添加](/help/personalize-content/add-offer-decisioning-to-messages.md)
    + [使用上下文事件信息进行个性化](/help/personalize-content/use-contextual-event-information-for-personalization.md)
    + [使用辅助函数进行个性化](/help/personalize-content/use-helper-functions-for-personalization.md)
@@ -95,9 +95,9 @@ ht-degree: 98%
       + [配置短信 API 凭据和渠道平面](/help/set-up-channels/set-up-sms-channel.md)
       + [配置消息频率规则](/help/administration/configure-frequency-rules.md)
    + 配置历程 {#journey-configuration}
-   + [配置数据源](/help/set-up-journeys/configure-data-sources.md)
-   + [创建事件](/help/set-up-journeys/create-events.md)
-   + [创建操作](/help/set-up-journeys/create-actions.md)
+      + [配置数据源](/help/set-up-journeys/configure-data-sources.md)
+      + [创建事件](/help/set-up-journeys/create-events.md)
+      + [创建操作](/help/set-up-journeys/create-actions.md)
 + 访问控制{#access-control}
    + [访问管理](/help/set-up-access/access-management.md)
    + [配置基于属性的访问控制](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/configure-attribute-based-access-control.html?lang=zh-Hans)
