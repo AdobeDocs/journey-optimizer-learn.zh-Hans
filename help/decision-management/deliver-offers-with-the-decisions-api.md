@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6819
 thumbnail: 329919.jpg
 exl-id: 3084c52b-adc8-42bc-a203-5e39bcff77ef
-source-git-commit: 6f96590c66f14b3090b329fc631772f30b510c5a
+source-git-commit: f49c9748808699309f1d1a3a570e4010a6f287a3
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '126'
 ht-degree: 100%
 
 ---
@@ -24,9 +24,3 @@ ht-degree: 100%
 >[!INFO]
 >
 > 此视频是[面向营销人员的决策管理入门](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)课程的一部分，可在 Experience League 上免费观看！
-
-## 其他资源
-
-* [身份验证和访问 Experience Platform API（教程）](https://experienceleague.adobe.com/docs/platform-learn/tutorials/platform-api-authentication.html?lang=zh-Hans)
-* [[!DNL Postman] 用于非生产身份验证的收藏集](https://github.com/adobe/experience-platform-postman-samples/tree/master/apis/ims)
-* [[!DNL Postman]](https://www.postman.com/)

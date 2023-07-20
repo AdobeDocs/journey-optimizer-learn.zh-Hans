@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6747
 thumbnail: 329376.jpg
 exl-id: a255a0cd-b4ab-46a9-9c49-a4588ae12ea4
-source-git-commit: 542ed8b8a55d7f1a2153313c6184b759c68f33e2
+source-git-commit: f49c9748808699309f1d1a3a570e4010a6f287a3
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 100%
@@ -21,5 +21,3 @@ ht-degree: 100%
 收藏集用来管理逻辑组中的优惠，它也是针对决策管理活动进行构建所必需的。您可使用动态收藏集根据标记对优惠进行分组，使用静态收藏集手动整理优惠。
 
 >[!VIDEO](https://video.tv.adobe.com/v/329376?quality=12&learn=on)
-
-{{experienceplatform-u-1-2020-1-offerdecisioning}}
