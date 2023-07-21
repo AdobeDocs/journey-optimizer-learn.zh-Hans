@@ -9,7 +9,7 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 0932b5cd3ad318b0094e859cbc64c5de4f8ba747
+source-git-commit: c72d6d4d88811ac4d40bfc512585e0ebe64741d2
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 66%
@@ -154,7 +154,7 @@ ht-degree: 66%
 
 | 部分 | 字段 | 文本 | 链接 |
 |----|----|----|----|
-| **资产** |  | 营销活动名称 | `<your seat number> Vegas Stay Campaign` |  |
+| **资产** | 营销活动名称 | `<your seat number> Vegas Stay Campaign` |  |
 | **触发器** | State | booknow |  |
 | **编辑内容：** 媒体 | 媒体 URL 选项 |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
 | **编辑内容：** 内容 | 标题 | 抢先买到优惠券！ |  |
