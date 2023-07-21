@@ -9,7 +9,7 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: c72d6d4d88811ac4d40bfc512585e0ebe64741d2
+source-git-commit: 2f0412400db4d5bdddbb84d41e8bde17ea2533b2
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 66%
@@ -168,6 +168,6 @@ ht-degree: 66%
 | 字段 | 文本 | 链接 |
 |----|----|----|
 | 营销活动名称 | `<your seat number> Max Push Campaign` |  |
-| 媒体 URL 选项 |  | https://i.ibb.co/1M0BnZn/Firefly-Big-conference-big-stage-with-ADBE-text-on-screen-40178.jpg |
 | 标题 | 嘿！ |  |
 | 正文 | 你知道麦克斯Adobe要回拉斯维加斯吗。 现在预订房间，可享受10%的折扣。 |  |
+| 媒体 URL 选项 |  | https://i.ibb.co/1M0BnZn/Firefly-Big-conference-big-stage-with-ADBE-text-on-screen-40178.jpg |
