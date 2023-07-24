@@ -9,7 +9,7 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 2f0412400db4d5bdddbb84d41e8bde17ea2533b2
+source-git-commit: 01869838bb08e0d7848934f345afdd54824aaa75
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 66%
@@ -144,7 +144,7 @@ ht-degree: 66%
 
 [单击此处登录到 Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-2023-ajo-lab/journey-optimizer/home){target="_blank"}
 
-**登录详细信息：**
+**登录详细信息**
 
 * **用户名：**`L731+<your seat number>@summitlab.us`（示例：L731+001@summitlab.us）
 * **密码：** Adobe2023!
@@ -161,7 +161,7 @@ ht-degree: 66%
 | **编辑内容：** 内容 | 正文 | Adobe·麦克斯回到拉斯维加斯。 准备迎接鼓舞人心的演讲、技能拓展课程和结识新朋友的机会。立即预订套房，现享10%优惠。 |  |
 | **编辑内容：** 按钮 | 按钮 | 享受10%的折扣！ | lab://booking?suite=presidential&amp;discount=10 |
 | **编辑内容：** 按钮 | 交互事件 | 应用程序内 CTA |  |
-| **在设备上预览** |  | 要在设备上预览的基本URL |  | **iOS：** lab:// <br>**Android**： https://lab |
+| **在设备上预览** | 要在设备上预览的基本URL |  | **iOS：** lab:// <br>**Android**： https://lab |
 
 ## 练习3：创建推送通知
 
