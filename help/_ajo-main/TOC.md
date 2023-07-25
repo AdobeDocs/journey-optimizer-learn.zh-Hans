@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
-source-git-commit: 88499f15c1019c8f5d9531eb3a0dec3f4c1949a7
+source-git-commit: 16c874b46254d067795bc92bfe06e8f91fca3a10
 workflow-type: tm+mt
-source-wordcount: '382'
-ht-degree: 95%
+source-wordcount: '390'
+ht-degree: 93%
 
 ---
 
@@ -47,6 +47,8 @@ ht-degree: 95%
    + [创建应用程序内营销活动](/help/channels/create-an-in-app-campaign.md)
    + [创建应用程序内消息](/help/channels/author-in-app-messages.md)
    + [为应用程序内消息配置内容试验](/help/experimentation/content-experiments-for-in-app-messages.md)
++ 推送渠道{#push-channel}
+   + [配置和发送推送营销活动](/help/channels/create-a-push-campaign.md)
 + 短信渠道{#sms-channel}
    + [配置、创作和投放短信消息](/help/channels/author-sms-messages.md)
    + [针对短信的入站关键词支持](/help/channels/inbound-keyword-support-for-sms.md)
@@ -59,7 +61,7 @@ ht-degree: 95%
    + [订阅和登陆页面](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + 个性化内容{#personalize-content}
-   + [基于配置文件和受众会员资格的个性化](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
+   + [基于用户档案和受众会员资格的个性化](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
    + [将优惠作为个性化内容添加](/help/personalize-content/add-offer-decisioning-to-messages.md)
    + [使用上下文事件信息进行个性化](/help/personalize-content/use-contextual-event-information-for-personalization.md)
    + [使用辅助函数进行个性化](/help/personalize-content/use-helper-functions-for-personalization.md)
