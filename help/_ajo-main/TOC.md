@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
-source-git-commit: 16c874b46254d067795bc92bfe06e8f91fca3a10
+source-git-commit: 391abc80e405fee1e56bbf534d6c0cc822fbc389
 workflow-type: tm+mt
-source-wordcount: '390'
-ht-degree: 93%
+source-wordcount: '396'
+ht-degree: 92%
 
 ---
 
@@ -36,6 +36,8 @@ ht-degree: 93%
    + [创建测试用户档案](/help/create-journeys/test-a-journey.md)
    + [发布历程](/help/create-journeys/publish-a-journey.md)
    + [将历程复制到另一个沙盒](/help/create-journeys/copy-a-journey.md)
++ 直邮渠道{#direct-mail-channel}
+   + [直邮渠道](/help/channels/direct-mail.md)
 + 电子邮件渠道{#email-channel}
    + [使用电子邮件设计器创建内容](/help/channels/create-content-with-the-email-designer.md)
    + [导入和编辑 HTML 电子邮件内容](/help/channels/import-and-author-html-email-content.md)
