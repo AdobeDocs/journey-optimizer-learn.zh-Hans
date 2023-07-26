@@ -5,7 +5,7 @@ user-guide-description: 这些是 Journey Optimizer 教程。
 source-git-commit: 391abc80e405fee1e56bbf534d6c0cc822fbc389
 workflow-type: tm+mt
 source-wordcount: '396'
-ht-degree: 92%
+ht-degree: 96%
 
 ---
 
@@ -31,8 +31,8 @@ ht-degree: 92%
    + [构建历程的简介](/help/create-journeys/introduction-to-building-a-journey.md)
    + [用例 - 事务性历程](/help/create-journeys/use-case-transactional-journey.md)
    + [用例 - 商业事件](/help/create-journeys/use-case-business-event.md)
-   + [用例 — 读取受众](/help/create-journeys/use-case-read-audience.md)
-   + [用例 — 受众资格](/help/create-journeys/use-case-audience-qualification.md)
+   + [用例 - 读取受众](/help/create-journeys/use-case-read-audience.md)
+   + [用例 - 受众鉴别](/help/create-journeys/use-case-audience-qualification.md)
    + [创建测试用户档案](/help/create-journeys/test-a-journey.md)
    + [发布历程](/help/create-journeys/publish-a-journey.md)
    + [将历程复制到另一个沙盒](/help/create-journeys/copy-a-journey.md)
@@ -57,13 +57,13 @@ ht-degree: 92%
 + Web 渠道 {#web-channel}
    + [创建 Web 营销活动](/help/channels/create-a-web-campaign.md)
    + [创建 Web 营销活动](/help/channels/author-a-web-campaign.md)
-+ 用户档案、受众和订阅 {#profiles-segments-subscriptions}
++ 用户档案、受众和订阅{#profiles-segments-subscriptions}
    + [统一的用户档案和分段 - 概述](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [创建区段](/help/set-up-resources/create-segments.md)
    + [订阅和登陆页面](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + 个性化内容{#personalize-content}
-   + [基于用户档案和受众会员资格的个性化](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
+   + [根据用户档案和受众会员资格进行个性化](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
    + [将优惠作为个性化内容添加](/help/personalize-content/add-offer-decisioning-to-messages.md)
    + [使用上下文事件信息进行个性化](/help/personalize-content/use-contextual-event-information-for-personalization.md)
    + [使用辅助函数进行个性化](/help/personalize-content/use-helper-functions-for-personalization.md)

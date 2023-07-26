@@ -12,7 +12,7 @@ exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
 source-git-commit: 01869838bb08e0d7848934f345afdd54824aaa75
 workflow-type: tm+mt
 source-wordcount: '325'
-ht-degree: 66%
+ht-degree: 90%
 
 ---
 
@@ -32,9 +32,9 @@ ht-degree: 66%
 
 >[!IMPORTANT]
 >
->如果系统询问兑换代码，请关闭TestFlight应用程序并再次扫描二维码。
+>如果需要提供兑换代码，请关闭 TestFlight 应用程序并再次扫描二维码。
 >
->请允许通知。
+>请允许发送通知。
 >
 
 系统将要求您安装 Testflight，请参阅第 1 步至第 4 步。 安装 Testflight 后，请按照第 5 步至第 8 步的说明安装 Vegas Stay 应用程序：
@@ -150,24 +150,24 @@ ht-degree: 66%
 * **密码：** Adobe2023!
 
 
-## 练习 2 创建应用程序内营销活动
+## 练习 2：创建应用程序内营销活动
 
 | 部分 | 字段 | 文本 | 链接 |
 |----|----|----|----|
 | **资产** | 营销活动名称 | `<your seat number> Vegas Stay Campaign` |  |
 | **触发器** | State | booknow |  |
 | **编辑内容：** 媒体 | 媒体 URL 选项 |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
-| **编辑内容：** 内容 | 标题 | 抢先买到优惠券！ |  |
-| **编辑内容：** 内容 | 正文 | Adobe·麦克斯回到拉斯维加斯。 准备迎接鼓舞人心的演讲、技能拓展课程和结识新朋友的机会。立即预订套房，现享10%优惠。 |  |
-| **编辑内容：** 按钮 | 按钮 | 享受10%的折扣！ | lab://booking?suite=presidential&amp;discount=10 |
-| **编辑内容：** 按钮 | 交互事件 | 应用程序内 CTA |  |
-| **在设备上预览** | 要在设备上预览的基本URL |  | **iOS：** lab:// <br>**Android**： https://lab |
+| **编辑内容：** 内容 | 标题 | 享受抢先订购折扣！ |  |
+| **编辑内容：** 内容 | 正文 | Adobe Max 重返拉斯维加斯。准备迎接鼓舞人心的演讲、技能拓展课程和结识新朋友的机会。现在预订套件，立享 10% 优惠。 |  |
+| **编辑内容：** 按钮 | 按钮 | 立享 10% 折扣！ | lab://booking?suite=presidential&amp;discount=10 |
+| **编辑内容：** 按钮 | Interact事件 | 应用程序内 CTA |  |
+| **在设备上预览** | 要在设备上预览的基本URL |  | **iOS：** lab:// <br>**Android**：https://lab |
 
-## 练习3：创建推送通知
+## 练习 3：创建推送通知
 
 | 字段 | 文本 | 链接 |
 |----|----|----|
 | 营销活动名称 | `<your seat number> Max Push Campaign` |  |
-| 标题 | 嘿！ |  |
-| 正文 | 你知道麦克斯Adobe要回拉斯维加斯吗。 现在预订房间，可享受10%的折扣。 |  |
+| 标题 | 您好！ |  |
+| 正文 | 您知道 Adobe Max 要重返拉斯维加斯吗？现在预订席位，可享受 10% 的折扣。 |  |
 | 媒体 URL 选项 |  | https://i.ibb.co/1M0BnZn/Firefly-Big-conference-big-stage-with-ADBE-text-on-screen-40178.jpg |
