@@ -6,10 +6,10 @@ role: Admin
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: b91d6ccdb54213873b91b7ffa9d95d7cb5261ee8
+source-git-commit: 5c763ec877c75c07132f4cc714d63695e12638dc
 workflow-type: tm+mt
 source-wordcount: '482'
-ht-degree: 100%
+ht-degree: 96%
 
 ---
 
@@ -66,7 +66,7 @@ Luma 正寻求推广其最新的服装和装备系列，并推动针对现有客
    <strong><a href="summer-collection-announcement-challenge.md">创建夏季系列发布公告</strong>
  </a>
       <p>
-      <em>创建一个历程，以向现有客户群发送夏季系列发布公告电子邮件。</em>
+      <em>创建一个历程，以向现有客户的受众发送夏季系列发布公告电子邮件。 </em>
       <p>
       <b>所需技能：</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=zh-Hans"> 创建区段</li>

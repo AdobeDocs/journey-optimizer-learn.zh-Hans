@@ -1,16 +1,16 @@
 ---
 title: 创建夏季系列发布公告 - 挑战
-description: 向特定的现有客户群发送夏季系列发布公告，以推广新的 Luma 夏季系列。
+description: 向现有客户的受众发送夏季系列发布公告，以推广新的Luma夏季系列。
 jira: KT-8109
 feature: Segments, Journeys, Email
 role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 035d568fc25119142b92e0caa8adfb0ae5e21be8
+source-git-commit: 5c763ec877c75c07132f4cc714d63695e12638dc
 workflow-type: tm+mt
-source-wordcount: '1126'
-ht-degree: 100%
+source-wordcount: '1125'
+ht-degree: 94%
 
 ---
 
@@ -28,24 +28,24 @@ ht-degree: 100%
 
 ## 故事
 
-一家虚构的运动服装公司 Luma 正在推广其最新的服装和装备系列，并提升来自现有客户的销售额。Luma 将推出新的夏季系列，并希望专门针对不同的客户群开展推广。
+一家虚构的运动服装公司 Luma 正在推广其最新的服装和装备系列，并提升来自现有客户的销售额。Luma将推出新的夏季系列，并希望专门针对不同的受众。
 
 ## 您的挑战
 
 Luma 营销团队要求您在 Journey Optimizer 中实施一项夏季系列营销活动。您面临的挑战是：
 
-* 创建一个区段，以确定哪些用户档案符合接收促销内容的条件。
+* 创建受众，定义哪些用户档案有资格接收促销活动。
 * 构建历程。
 
-### 步骤 1：定义区段 - 活跃客户
+### 步骤1：定义受众 — 活跃客户
 
 >[!BEGINTABS]
 
 >[!TAB 任务]
 
-#### 在 [!DNL Journey Optimizer] 中创建区段
+#### 在中创建受众 [!DNL Journey Optimizer]
 
-* 在 [!DNL Journey Optimizer] 中创建一个名为&#x200B;*活跃客户*&#x200B;的区段。
+* 在中创建受众 [!DNL Journey Optimizer] 已调用 *活跃客户*.
 * 该区段必须仅包含活跃的 Luma 客户。
 * 活跃客户是指在 Luma 的品牌忠诚度计划中拥有等级（青铜、白银、黄金或铂金）的客户。
 

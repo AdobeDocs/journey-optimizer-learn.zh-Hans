@@ -8,10 +8,10 @@ level: Beginner
 hide: true
 hidefromtoc: true
 exl-id: 305aaf4c-7f5d-4f6f-abeb-466208f1fe48
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
-workflow-type: ht
+source-git-commit: 5c763ec877c75c07132f4cc714d63695e12638dc
+workflow-type: tm+mt
 source-wordcount: '580'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
@@ -37,7 +37,7 @@ Luma 要求您在 Journey Optimizer 中实施一个历程，如果客户的愿�
 
 ## 1. 定义区段 – 缺货的愿望清单商品
 
-要在产品重新上架时定位潜在的感兴趣的客户，请创建一个由客户组成的区段：
+要在产品重新上架时定位潜在的感兴趣的客户，请创建由客户组成的受众：
 
 * 这些客户的愿望清单中至少添加了一个商品（使用事件类型：[!UICONTROL 商务暂存]）
 * 这些商品最近三个月缺货（使用库存数量 = 0）

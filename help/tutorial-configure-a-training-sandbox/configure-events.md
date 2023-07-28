@@ -8,10 +8,10 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
-workflow-type: ht
-source-wordcount: '190'
-ht-degree: 100%
+source-git-commit: df055830da42b94d751890af6c19074ddfea2237
+workflow-type: tm+mt
+source-wordcount: '159'
+ht-degree: 97%
 
 ---
 
@@ -52,26 +52,14 @@ ht-degree: 100%
 
 1. 选择&#x200B;**[!UICONTROL 保存]**。
 
-## 创建 *[!DNL Luma Wishlist Add]* 事件
-
-| [!UICONTROL 参数] | [!UICONTROL 值] |
-|-------------|-----------|
-| [!UICONTROL 名称] | `LumaWishlistAdd` |
-| [!UICONTROL 类型] | [!UICONTROL 单一] |
-| [!UICONTROL 事件 ID 类型] | [!UICONTROL 基于规则] |
-| [!UICONTROL 架构] | `Luma Product Interactions` |
-| [!UICONTROL 字段] | EventType<br>productListItem.quantity<br><b>In Product List Items > Luma Products > _*[!DNL yourOrganizationID]* > Product:</b> <br>名称<br>价格<br> ProductImageURL<br>ProductURL |
-| [!UICONTROL 条件] | [!DNL LumaWishlistAdd.eventType is commerce.saveForLaters] |
-| [!UICONTROL 命名空间] | 电子邮件（电子邮件） |
-
 ## 创建 *[!DNL Luma Product Restock]* 事件
 
 | [!UICONTROL 参数] | [!UICONTROL 值] |
 |-------------|-----------|
 | [!UICONTROL 名称] | `LumaProductRestock` |
 | [!UICONTROL 类型] | [!UICONTROL 商业] |
-| [!UICONTROL 架构] | [!DNL Luma Product Inventory Events] |
-| [!UICONTROL 字段] | SKU <br> stockEventType<br><b> yourOrganizationID > product:</b> <br>名称<br>价格<br> ImageURL<br>描述 |
+| [!UICONTROL 架构] | [!DNL Luma Product Inventory Event Schema] |
+| [!UICONTROL 字段] | SKU <br> stockEventType<br><b>LumaProductCatalogSchema。_yourOrganizationID.product ：</b> <br>名称<br>价格<br> ImageURL<br>描述 |
 | [!UICONTROL 条件] | LumaProductRestock._`your organization's ID`.inventoryEvent.stockEventType is restock |
 
 恭喜！您的沙盒现已准备就绪，可供使用。
