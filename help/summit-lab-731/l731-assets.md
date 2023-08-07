@@ -10,9 +10,9 @@ hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
 source-git-commit: 01869838bb08e0d7848934f345afdd54824aaa75
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '325'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -154,14 +154,14 @@ ht-degree: 90%
 
 | 部分 | 字段 | 文本 | 链接 |
 |----|----|----|----|
-| **资产** | 营销活动名称 | `<your seat number> Vegas Stay Campaign` |  |
+| **属性** | 营销活动名称 | `<your seat number> Vegas Stay Campaign` |  |
 | **触发器** | State | booknow |  |
-| **编辑内容：** 媒体 | 媒体 URL 选项 |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
-| **编辑内容：** 内容 | 标题 | 享受抢先订购折扣！ |  |
-| **编辑内容：** 内容 | 正文 | Adobe Max 重返拉斯维加斯。准备迎接鼓舞人心的演讲、技能拓展课程和结识新朋友的机会。现在预订套件，立享 10% 优惠。 |  |
-| **编辑内容：** 按钮 | 按钮 | 立享 10% 折扣！ | lab://booking?suite=presidential&amp;discount=10 |
-| **编辑内容：** 按钮 | Interact事件 | 应用程序内 CTA |  |
-| **在设备上预览** | 要在设备上预览的基本URL |  | **iOS：** lab:// <br>**Android**：https://lab |
+| **编辑内容：**&#x200B;媒体 | 媒体 URL 选项 |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
+| **编辑内容：**&#x200B;内容 | 标题 | 享受抢先订购折扣！ |  |
+| **编辑内容：**&#x200B;内容 | 正文 | Adobe Max 重返拉斯维加斯。准备迎接鼓舞人心的演讲、技能拓展课程和结识新朋友的机会。现在预订套件，立享 10% 优惠。 |  |
+| **编辑内容：**&#x200B;按钮 | 按钮 | 立享 10% 折扣！ | lab://booking?suite=presidential&amp;discount=10 |
+| **编辑内容：**&#x200B;按钮 | 交互事件 | 应用程序内 CTA |  |
+| **在设备上预览** | 用于在设备上预览的基本 URL |  | **iOS：** lab:// <br>**Android**：https://lab |
 
 ## 练习 3：创建推送通知
 
