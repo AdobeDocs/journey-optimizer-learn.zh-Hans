@@ -9,9 +9,9 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
 source-git-commit: df055830da42b94d751890af6c19074ddfea2237
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '159'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -59,7 +59,7 @@ ht-degree: 97%
 | [!UICONTROL 名称] | `LumaProductRestock` |
 | [!UICONTROL 类型] | [!UICONTROL 商业] |
 | [!UICONTROL 架构] | [!DNL Luma Product Inventory Event Schema] |
-| [!UICONTROL 字段] | SKU <br> stockEventType<br><b>LumaProductCatalogSchema。_yourOrganizationID.product ：</b> <br>名称<br>价格<br> ImageURL<br>描述 |
+| [!UICONTROL 字段] | SKU <br> stockEventType<br><b>LumaProductCatalogSchema._yourOrganizationID.product :</b> <br>名称<br>价格<br> ImageURL<br>描述 |
 | [!UICONTROL 条件] | LumaProductRestock._`your organization's ID`.inventoryEvent.stockEventType is restock |
 
 恭喜！您的沙盒现已准备就绪，可供使用。
