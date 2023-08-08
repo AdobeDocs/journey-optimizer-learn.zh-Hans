@@ -7,8 +7,8 @@ role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
-workflow-type: ht
+source-git-commit: 8b8d163b65dbd34f769a26231638f0bfeb6eb0b1
+workflow-type: tm+mt
 source-wordcount: '654'
 ht-degree: 100%
 
@@ -54,6 +54,7 @@ Luma 即将推出其在线商店，希望确保良好的客户体验。他们将
       * 在电子邮件底部添加取消订阅链接
 
 电子邮件的结构应如下所示：
+
 <table>
 <tr>
 <td>
@@ -176,7 +177,7 @@ Luma 即将推出其在线商店，希望确保良好的客户体验。他们将
 
 **主题行：**
 
-{{ profile.person.name.firstName }}，感谢您购买我们的产品！
+`{{ profile.person.name.firstName }}`，感谢您购买我们的产品！
 
 **收货地址部分：**
 
