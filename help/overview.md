@@ -8,9 +8,9 @@ level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 1f1b8b3237dccebbf6741253edaf380e4a83753b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '594'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -49,8 +49,8 @@ Journey Optimizer 帮助企业为其客户提供贴合心意的、情境式和�
 * **[利用 Adobe Journey Optimizer 最大程度地发挥移动应用程序的潜力](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=zh-Hans)**
   *了解将应用程序内消息传递作为实时互动渠道的优势，以及如何在 Adobe Journey Optimizer 中配置和创作个性化的移动应用程序体验。*
 
-* **[通过Web渠道和内容实验探索Adobe Journey Optimizer的未来](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-6-14-23.html?lang=zh-Hans)**
-  *新的Web渠道允许营销人员使用WYSIWYG可视设计器构建Web营销活动。 此外，Journey Optimizer现在允许您试验任何渠道中的内容 — 电子邮件、Web、推送、应用程序内、短信等。*
+* **[通过 Web 渠道和内容实验探索 Adobe Journey Optimizer 的未来](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-6-14-23.html?lang=zh-Hans)**
+  *新的 Web 渠道允许营销人员使用 WYSIWYG 可视化设计器构建 Web 营销活动。此外，Journey Optimizer 现在允许您试验任何渠道中的内容 - 电子邮件、Web、推送、应用程序内、短信等。*
 
 * **[在 Adobe Journey Optimizer 中执行营销活动](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=zh-Hans)**
   *在最初于 2022 年 9 月 22 日举行的 Experience League 直播节目中，主持人 Sandra Hausmann 与产品专家 Bridgete Darling 和 Frederic Mary 讨论了这一新功能涉及的用例，并演示了如何在 Journey Optimizer 中轻松设置和执行营销活动。*
