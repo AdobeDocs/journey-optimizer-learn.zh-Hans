@@ -56,3 +56,4 @@ ht-degree: 100%
 >[!SUCCESS]
 >
 >您已创建应用程序用户，并且已在 Adobe Journey Optimizer 中创建此用户的档案。
+>
