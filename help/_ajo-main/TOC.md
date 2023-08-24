@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
-source-git-commit: 391abc80e405fee1e56bbf534d6c0cc822fbc389
+source-git-commit: 08a38625b59b7116166dcada05232a20b12a7ffd
 workflow-type: tm+mt
-source-wordcount: '396'
-ht-degree: 100%
+source-wordcount: '403'
+ht-degree: 98%
 
 ---
 
@@ -47,6 +47,7 @@ ht-degree: 100%
    + [为电子邮件配置内容试验](/help/experimentation/content-experiments-for-emails.md)
 + 应用程序内渠道{#in-app-channel}
    + [创建应用程序内营销活动](/help/channels/create-an-in-app-campaign.md)
+   + [在历程中创建应用程序内消息](/help/channels/create-an-in-app-message-in-a-journey.md)
    + [创建应用程序内消息](/help/channels/author-in-app-messages.md)
    + [为应用程序内消息配置内容试验](/help/experimentation/content-experiments-for-in-app-messages.md)
 + 推送渠道{#push-channel}
