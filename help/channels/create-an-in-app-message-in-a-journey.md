@@ -1,6 +1,6 @@
 ---
 title: 在历程中创建应用程序内消息
-description: 了解什么是应用程序内消息以及如何在历程中应用它。 了解如何在历程中创建应用程序内消息以及如何测试和发布历程。
+description: 了解什么是应用程序内消息以及如何在历程中应用。了解如何在历程中创建应用程序内消息以及如何测试和发布历程。
 feature: In App, Journeys
 role: User
 level: Beginner
@@ -10,15 +10,15 @@ hidefromtoc: false
 jira: KT-13705
 thumbnail: 3423077.jpeg
 source-git-commit: 933f869048a87d9d315a95aa31ea44f146803173
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '80'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
 # 在历程中创建应用程序内消息
 
-了解什么是应用程序内消息以及如何在历程中应用它。 了解如何在历程中创建应用程序内消息以及如何测试和发布历程。
+了解什么是应用程序内消息以及如何在历程中应用。了解如何在历程中创建应用程序内消息以及如何测试和发布历程。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3423077/?learn=on)
