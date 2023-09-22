@@ -8,10 +8,10 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: 5e7bf81d-4d70-48ef-b357-c361b28359db
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 100%
+source-wordcount: '93'
+ht-degree: 97%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 以下视频教程说明了如何创建数据集和手动摄取数据：
 
->[!VIDEO](https://video.tv.adobe.com/v/334293?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/334293?quality=12&learn=on){transcript=true}
 
 创建以下数据集：
 

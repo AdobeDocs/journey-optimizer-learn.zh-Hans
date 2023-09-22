@@ -9,10 +9,10 @@ last-substantial-update: 2023-05-26T00:00:00Z
 jira: KT-13341
 thumbnail: 3419898.jpeg
 exl-id: a157be84-3640-43d0-8cf7-d09510a45c5e
-source-git-commit: d7012722aa70350ad830cbec18768c179b88c891
+source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
-source-wordcount: '40'
-ht-degree: 100%
+source-wordcount: '42'
+ht-degree: 95%
 
 ---
 
@@ -20,4 +20,4 @@ ht-degree: 100%
 
 了解如何配置和分析内容试验以进行应用程序内消息 A/B 测试。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419898/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419898/?learn=on){transcript=true}

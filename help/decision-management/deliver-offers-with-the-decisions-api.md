@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6819
 thumbnail: 329919.jpg
 exl-id: 3084c52b-adc8-42bc-a203-5e39bcff77ef
-source-git-commit: f49c9748808699309f1d1a3a570e4010a6f287a3
+source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 100%
+source-wordcount: '128'
+ht-degree: 98%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 了解如何通过 [Decisions Hub API](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offer-delivery/deliver-offers.html?lang=zh-Hans) 提供优惠。使用 [!DNL Postman] 进行演示时，会发起 API 调用以检索容器 ID。接下来，使用活动 ID、投放位置 ID、身份命名空间和客户 ID 自定义示例 Decisions API 调用，以检索个性化优惠。使用 Decisions API 检索到个性化优惠后，即可将优惠内容与营销系统集成。
 
->[!VIDEO](https://video.tv.adobe.com/v/329919?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/329919?quality=12&learn=on){transcript=true}
 
 >[!INFO]
 >

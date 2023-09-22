@@ -8,12 +8,12 @@ doc-type: Feature Video
 last-substantial-update: 2023-04-21T00:00:00Z
 jira: KT-13113
 thumbnail: 3418688.jpeg
-badge: label="Beta" type="Informative"
+badge: label="Beta 版" type="Informative"
 exl-id: 17e1d65c-2548-4d50-bc9f-4e30d729fb5b
-source-git-commit: eb45fa6fd3382ee842d5b0bc937a83e0e271bb44
+source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 100%
+source-wordcount: '108'
+ht-degree: 98%
 
 ---
 
@@ -27,6 +27,6 @@ ht-degree: 100%
 >[!NOTE]
 >在 Beta 阶段，会显示所有数据集。此功能正式发布后，将仅限用于系统生成的数据集。
 
->[!VIDEO](https://video.tv.adobe.com/v/3418688/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418688/?quality=12&learn=on){transcript=true}
 
 有关更多信息，请参阅[产品文档](https://experienceleague.adobe.com/docs/journey-optimizer/using/data-management/datasets/export-datasets.html?lang=zh-Hans)。

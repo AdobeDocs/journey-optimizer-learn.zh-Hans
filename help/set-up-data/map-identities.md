@@ -9,10 +9,10 @@ team: PM
 role: Developer
 level: Beginner
 exl-id: 05264e3e-7ed1-422e-8cde-f09c6d7e590b
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 100%
+source-wordcount: '70'
+ht-degree: 97%
 
 ---
 
@@ -20,4 +20,4 @@ ht-degree: 100%
 
 了解如何以及何时将架构字段标记为身份，如何创建命名空间，何时将某个身份设为主要身份，以及如何摄取和验证身份数据。
 
->[!VIDEO](https://video.tv.adobe.com/v/335918?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335918?quality=12&learn=on){transcript=true}

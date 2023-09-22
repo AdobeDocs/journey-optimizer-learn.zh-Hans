@@ -9,10 +9,10 @@ team: PM
 role: User
 level: Beginner
 exl-id: e48a627a-bd36-4084-a791-78f7a78579c6
-source-git-commit: 1309356c5626d54c70ddb07d31f2f53fe05c6793
-workflow-type: ht
-source-wordcount: '50'
-ht-degree: 100%
+source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
+workflow-type: tm+mt
+source-wordcount: '52'
+ht-degree: 96%
 
 ---
 
@@ -20,6 +20,6 @@ ht-degree: 100%
 
 了解什么是 Adobe Journey Optimizer，这一应用程序可以解决的业务挑战及其主要用例。
 
->[!VIDEO](https://video.tv.adobe.com/v/333745?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/333745?quality=12&learn=on){transcript=true}
 
   <br>

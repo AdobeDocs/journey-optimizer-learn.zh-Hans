@@ -10,10 +10,10 @@ role: Admin, Developer
 level: Beginner
 last-substantial-update: 20230123
 exl-id: 923c0731-b172-44db-8a57-f7ac2101adde
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 100%
+source-wordcount: '54'
+ht-degree: 96%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解如何将 Journey Optimizer 连接到短信服务提供商，以及如何创建短信渠道平面。
 
->[!VIDEO](https://video.tv.adobe.com/v/3413355?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413355?quality=12&learn=on){transcript=true}

@@ -9,10 +9,10 @@ team: Evangelism
 role: User
 level: Beginner
 exl-id: 93266ba3-d90e-4d6e-8c43-4a421650e25f
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 100%
+source-wordcount: '72'
+ht-degree: 97%
 
 ---
 
@@ -20,4 +20,4 @@ ht-degree: 100%
 
 此视频演示了各家品牌可以如何使用 Adobe Journey Optimizer 的决策管理、实时区段鉴别和商业事件管理功能将其消费者历程的体验提升到新的高度。
 
->[!VIDEO](https://video.tv.adobe.com/v/334175?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/334175?quality=12&learn=on){transcript=true}
