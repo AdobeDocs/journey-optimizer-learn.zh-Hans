@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: eb4bbc4cd8eb511dbadc87cb9b7bc6c9838a8394
+source-git-commit: 076be9da7d5fd89e47852a6d275602f10a81d7bd
 workflow-type: tm+mt
-source-wordcount: '403'
-ht-degree: 100%
+source-wordcount: '412'
+ht-degree: 97%
 
 ---
 
@@ -59,6 +59,7 @@ ht-degree: 100%
 + Web 渠道 {#web-channel}
    + [创建 Web 营销活动](/help/channels/create-a-web-campaign.md)
    + [创建 Web 营销活动](/help/channels/author-a-web-campaign.md)
+   + [Web编辑器中的SPA支持](/help/channels/singel-page-application-support.md)
 + 用户档案、受众和订阅{#profiles-segments-subscriptions}
    + [统一的用户档案和分段 - 概述](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [创建区段](/help/set-up-resources/create-segments.md)
@@ -93,6 +94,7 @@ ht-degree: 100%
    + [将数据集导出到云存储位置](/help/set-up-data/export-datasets.md)
 + 报告和监测{#report-and-monitor}
    + [实时和全局报表](/help/report-and-monitor/live-and-global-reports.md)
+   + [渠道级别报表](/help/report-and-monitor/channel-level-reports.md)
    + [使用警报](/help/administration/alerts.md)
 + 配置 {#configuration}
    + 配置渠道 {#channel-configuration}
