@@ -8,7 +8,7 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+source-git-commit: d848272dba814c300aa21110316b5b37ccb719ce
 workflow-type: tm+mt
 source-wordcount: '1021'
 ht-degree: 100%
@@ -20,7 +20,7 @@ ht-degree: 100%
 在此部分中，您将创建所需的身份命名空间并通过创建[[!UICONTROL 架构]](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=zh-Hans)来定义 [!DNL Luma] 样本数据结构。
 
 >[!TIP]
->在开始之前，请观看视频教程[映射标示](/help/set-up-data/map-identities.md)。
+>在开始之前，请观看视频教程[映射标示](/help/data-management/map-identities.md)。
 
 ## 步骤 1：创建身份命名空间
 
@@ -69,7 +69,7 @@ ht-degree: 100%
 
 >[!TIP]
 >
->在开始之前，请观看视频教程：[创建架构](/help/set-up-data/create-schema.md)。
+>在开始之前，请观看视频教程：[创建架构](/help/data-management/create-schema.md)。
 
 ### 创建 [!DNL Luma Loyalty Schema] {#create-luma-loyalty-schema}
 

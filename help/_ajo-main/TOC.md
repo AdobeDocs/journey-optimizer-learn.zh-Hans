@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: bc127e90867bcda59a44881e7e4f462be2e88d5e
+source-git-commit: d848272dba814c300aa21110316b5b37ccb719ce
 workflow-type: tm+mt
-source-wordcount: '422'
-ht-degree: 95%
+source-wordcount: '427'
+ht-degree: 94%
 
 ---
 
@@ -87,12 +87,13 @@ ht-degree: 95%
    + [通过 Decisions API 提供优惠](/help/decision-management/deliver-offers-with-the-decisions-api.md)
    + [频次上限](/help/decision-management/frequency-capping.md)
 + 数据管理 {#data-management}
-   + [概述](/help/set-up-data/set-up-data-overview.md)
-   + [创建架构](/help/set-up-data/create-schema.md)
-   + [映射身份](/help/set-up-data/map-identities.md)
-   + [创建数据集并摄取数据](/help/set-up-data/create-datasets-and-ingest-data.md)
-   + [配置源连接器](/help/set-up-data/configure-source-connectors.md)
-   + [将数据集导出到云存储位置](/help/set-up-data/export-datasets.md)
+   + [概述](/help/data-management/set-up-data-overview.md)
+   + [创建架构](/help/data-management/create-schema.md)
+   + [映射身份](/help/data-management/map-identities.md)
+   + [创建数据集并摄取数据](/help/data-management/create-datasets-and-ingest-data.md)
+   + [配置源连接器](/help/data-management/configure-source-connectors.md)
+   + [配置数据集导出目标](/help/data-management/configure-dataset-export-destination.md)
+   + [将数据集导出到云存储位置](/help/data-management/export-datasets.md)
 + 报告和监测{#report-and-monitor}
    + [实时和全局报表](/help/report-and-monitor/live-and-global-reports.md)
    + [渠道级别报表](/help/report-and-monitor/channel-level-reports.md)
