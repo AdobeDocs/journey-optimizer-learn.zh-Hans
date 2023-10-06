@@ -1,8 +1,8 @@
 ---
 source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '25'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 # 创建应用程序内营销活动
