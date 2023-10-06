@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
 source-git-commit: f08f646c2317cc17356594052d3174065ef00384
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '420'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -60,7 +60,7 @@ ht-degree: 94%
 + Web 渠道 {#web-channel}
    + [创建 Web 营销活动](/help/channels/create-a-web-campaign.md)
    + [创建 Web 营销活动](/help/channels/author-a-web-campaign.md)
-   + [Web编辑器中的SPA支持](/help/channels/singel-page-application-support.md)
+   + [Web 编辑器中的 SPA 支持](/help/channels/singel-page-application-support.md)
 + 用户档案、受众和订阅{#profiles-segments-subscriptions}
    + [统一的用户档案和分段 - 概述](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [创建区段](/help/set-up-resources/create-segments.md)
@@ -96,8 +96,8 @@ ht-degree: 94%
    + [将数据集导出到云存储位置](/help/data-management/export-datasets.md)
 + 报告和监测{#report-and-monitor}
    + [实时和全局报表](/help/report-and-monitor/live-and-global-reports.md)
-   + [渠道级别报表](/help/report-and-monitor/channel-level-reports.md)
-   + [以CSV格式导出报表](/help/report-and-monitor/export-reports-in-csv-format.md)
+   + [渠道级别报告](/help/report-and-monitor/channel-level-reports.md)
+   + [以 CSV 格式导出报告](/help/report-and-monitor/export-reports-in-csv-format.md)
    + [使用警报](/help/administration/alerts.md)
 + 配置 {#configuration}
    + 配置渠道 {#channel-configuration}
