@@ -3,14 +3,14 @@ title: 创建营销活动
 description: 了解如何通过立即执行操作或按指定计划执行操作，向特定受众投放一次性内容。
 jira: KT-10590
 thumbnail: 346680.jpg
-feature: Journeys
+feature: Campaigns
 doc-type: feature video
 team: PM
 role: User
 level: Beginner
 exl-id: 543678e6-5803-4997-a6ea-a45ed571d7d4
-source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
-workflow-type: ht
+source-git-commit: 7861e0ca17a616273f5ea1b4d850310f1f4ec8b8
+workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 100%
 

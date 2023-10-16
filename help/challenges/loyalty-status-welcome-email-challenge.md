@@ -7,16 +7,14 @@ role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+source-git-commit: 7861e0ca17a616273f5ea1b4d850310f1f4ec8b8
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '421'
 ht-degree: 100%
 
 ---
 
 # 创建忠诚度状态欢迎电子邮件 - 挑战
-
-![忠诚度状态欢迎电子邮件 - 挑战横幅](/help/challenges/assets/email-assets/luma-transactional-onboarding-1.png)
 
 | 挑战 | 创建忠诚度状态欢迎电子邮件 |
 |---|---|

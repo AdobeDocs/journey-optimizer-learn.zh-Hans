@@ -7,16 +7,14 @@ role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 5c763ec877c75c07132f4cc714d63695e12638dc
+source-git-commit: 7861e0ca17a616273f5ea1b4d850310f1f4ec8b8
 workflow-type: tm+mt
-source-wordcount: '1125'
+source-wordcount: '1120'
 ht-degree: 100%
 
 ---
 
 # 创建夏季系列发布公告 - 挑战
-
-![AJO 夏季系列发布公告横幅](/help/challenges/assets/email-assets/luma-transactional-onboarding-3.png)
 
 | 挑战 | 创建夏季系列发布公告 |
 |---|---|
