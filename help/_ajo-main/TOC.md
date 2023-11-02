@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: 585264701dcffb714c74c37c1605749465a0c92b
+source-git-commit: 78d8e19a8ab0cf1253cdb724a4d05e8d5b4dfdc4
 workflow-type: tm+mt
 source-wordcount: '428'
 ht-degree: 98%
@@ -38,8 +38,10 @@ ht-degree: 98%
    + [创建测试用户档案](/help/create-journeys/test-a-journey.md)
    + [发布历程](/help/create-journeys/publish-a-journey.md)
    + [将历程复制到另一个沙盒](/help/create-journeys/copy-a-journey.md)
-+ 直邮渠道{#direct-mail-channel}
-   + [直邮渠道](/help/channels/direct-mail.md)
++ 用户档案、受众和订阅{#profiles-audiences-subscriptions}
+   + [统一的用户档案和分段 - 概述](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
+   + [使用规则生成器创建受众](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
+   + [订阅和登陆页面](/help/subscriptions-and-landing-pages.md)
 + 电子邮件渠道{#email-channel}
    + [使用电子邮件设计器创建内容](/help/channels/create-content-with-the-email-designer.md)
    + [导入和编辑 HTML 电子邮件内容](/help/channels/import-and-author-html-email-content.md)
@@ -48,6 +50,8 @@ ht-degree: 98%
    + [管理、创作和使用片段](/help/content-management/manage-author-use-fragments.md)
    + [创建和使用表达式片段](/help/content-management/expression-fragments.md)
    + [为电子邮件配置内容试验](/help/experimentation/content-experiments-for-emails.md)
++ 直邮渠道{#direct-mail-channel}
+   + [直邮渠道](/help/channels/direct-mail.md)
 + 应用程序内渠道{#in-app-channel}
    + [创建应用程序内营销活动](/help/channels/create-an-in-app-campaign.md)
    + [在历程中创建应用程序内消息](/help/channels/create-an-in-app-message-in-a-journey.md)
@@ -62,10 +66,6 @@ ht-degree: 98%
    + [创建 Web 营销活动](/help/channels/create-a-web-campaign.md)
    + [创建 Web 营销活动](/help/channels/author-a-web-campaign.md)
    + [Web 编辑器中的 SPA 支持](/help/channels/singel-page-application-support.md)
-+ 用户档案、受众和订阅{#profiles-segments-subscriptions}
-   + [统一的用户档案和分段 - 概述](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
-   + [使用规则生成器创建受众](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
-   + [订阅和登陆页面](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + 个性化内容{#personalize-content}
    + [根据用户档案和受众会员资格进行个性化](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
