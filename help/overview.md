@@ -7,9 +7,9 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 7861e0ca17a616273f5ea1b4d850310f1f4ec8b8
+source-git-commit: 0d3c552a0c66a80447221b5e99945de2615f1404
 workflow-type: ht
-source-wordcount: '627'
+source-wordcount: '588'
 ht-degree: 100%
 
 ---
@@ -51,16 +51,16 @@ Journey Optimizer 帮助企业为其客户提供贴合心意的、情境式和�
 
 ## Experience League 直播活动
 
-* **[Adobe Journey Optimizer 中 API 触发的消息传递](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=zh-Hans)**
+* **[Adobe Journey Optimizer 中 API 触发的消息传递](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=zh-Hans){target="_blank"}**
   *了解如何将 REST API 用于情境式、个性化和实时事务型通信及营销通信。*
 
-* **[利用 Adobe Journey Optimizer 最大程度地发挥移动应用程序的潜力](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=zh-Hans)**
+* **[利用 Adobe Journey Optimizer 最大程度地发挥移动应用程序的潜力](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=zh-Hans){target="_blank"}**
   *了解将应用程序内消息传递作为实时互动渠道的优势，以及如何在 Adobe Journey Optimizer 中配置和创作个性化的移动应用程序体验。*
 
-* **[通过 Web 渠道和内容实验探索 Adobe Journey Optimizer 的未来](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-6-14-23.html?lang=zh-Hans)**
+* **[通过 Web 渠道和内容实验探索 Adobe Journey Optimizer 的未来](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-6-14-23.html?lang=zh-Hans){target="_blank"}**
   *新的 Web 渠道允许营销人员使用 WYSIWYG 可视化设计器构建 Web 营销活动。此外，Journey Optimizer 现在允许您试验任何渠道中的内容 - 电子邮件、Web、推送、应用程序内、短信等。*
 
-* **[在 Adobe Journey Optimizer 中执行营销活动](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=zh-Hans)**
+* **[在 Adobe Journey Optimizer 中执行营销活动](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=zh-Hans){target="_blank"}**
   *在最初于 2022 年 9 月 22 日举行的 Experience League 直播节目中，主持人 Sandra Hausmann 与产品专家 Bridgete Darling 和 Frederic Mary 讨论了这一新功能涉及的用例，并演示了如何在 Journey Optimizer 中轻松设置和执行营销活动。*
 
 * **[Adobe Journey Optimizer 的推送通知功能](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html?lang=zh-Hans)**
