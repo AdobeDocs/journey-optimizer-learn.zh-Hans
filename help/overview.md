@@ -7,9 +7,9 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 0d3c552a0c66a80447221b5e99945de2615f1404
-workflow-type: ht
-source-wordcount: '588'
+source-git-commit: 146e1ef57ccdc1f192fc377a6c1df893168f447b
+workflow-type: tm+mt
+source-wordcount: '490'
 ht-degree: 100%
 
 ---
@@ -20,25 +20,6 @@ ht-degree: 100%
 Journey Optimizer 帮助企业为其客户提供贴合心意的、情境式和个性化的体验。客户历程是客户与品牌互动的整个过程，从接触的第一刻起直到客户离开。
 
 本用户指南包含有关 Adobe Journey Optimizer 特性和功能的视频和教程。
-
-<div id="whats-new-section">
-
-## 新增功能
-
-* **[使用条件规则生成器创建动态内容](/help/personalize-content/create-dynamic-content.md)**
-  *了解如何创建和保存条件规则，以及如何将这些条件规则应用于所有渠道的内容。*
-
-* **[使用警报](/help/administration/alerts.md)**
-  *了解如何订阅针对意外历程行为的预定义警报，并通过电子邮件、Journey Optimizer 或使用 API 获得通知。*
-
-* **[将历程复制到另一个沙盒](/help/create-journeys/copy-a-journey.md)**
-  *了解如何将历程及其依赖对象从一个沙盒复制到另一个沙盒。*
-
-* **[屏蔽消息中的数据](/help/privacy/mask-data-in-messages.md)**
-  *了解数据屏蔽的含义以及为什么要屏蔽数据。 了解如何屏蔽 Journey Optimizer 消息中的数据。*
-
-</div>
-
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
