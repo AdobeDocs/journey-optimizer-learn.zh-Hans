@@ -1,5 +1,5 @@
 ---
-title: Journey Optimizer 教程 - 概述
+title: Journey Optimizer 教程
 description: 我们提供了一系列视频教程，向您展示如何充分发挥 Journey Optimizer 的优势。
 recommendations: noDisplay, noCatalog
 feature: Get Started
@@ -7,9 +7,9 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 146e1ef57ccdc1f192fc377a6c1df893168f447b
+source-git-commit: 53f92861c15c65dac900f279dd815efa314741a1
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '489'
 ht-degree: 100%
 
 ---
