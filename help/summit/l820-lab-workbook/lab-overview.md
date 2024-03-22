@@ -9,7 +9,7 @@ duration: 0
 recommendations: noDisplay, noCatalog
 jira: KT-14977
 thumbnail: KT-14977.jpeg
-source-git-commit: 0a31369dc315d1d68f291c0c15f87b0211dfddb1
+source-git-commit: 654520e25814eb94c5b19cb13087c1b93b4e4683
 workflow-type: tm+mt
 source-wordcount: '503'
 ht-degree: 0%
@@ -67,6 +67,4 @@ Fréscopa业务的核心在于咖啡订购服务，为客户提供精选的优�
 作为订阅服务的补充，Fréscopa的网站和移动应用程序提供全面的咖啡相关产品，使客户能够探索和改进他们的咖啡仪式。 从酿酒设备到手工配件，Fréscopa酒店为追求品质和便利的咖啡爱好者提供一站式商店。
 
 Fréscopa对卓越的承诺超越了其产品，因为该公司致力于创造无缝和愉快的客户历程。 创新技术和以客户为中心的途径相结合，使Fréscopa处于不断发展的咖啡行业的前沿。 从本质上说，弗雷斯科帕体现了激情与技术的融合，重新定义了个人体验和享受咖啡的方式。 Fréscopa专注于提供优质、方便和个性化的产品，邀请咖啡爱好者踏上口味之旅，直接送货上门。
-
-
 
