@@ -8,13 +8,13 @@ doc-type: Tutorial
 duration: 0
 recommendations: noDisplay, noCatalog
 jira: KT-14980
-source-git-commit: c590b47ad3dfc54badbac0d8fcaff6b9dd053cc1
+exl-id: 0f82d6a5-18c0-45f2-968e-a678fc2d5768
+source-git-commit: befde57252ebc12c5d6df31fde8078e4535d1261
 workflow-type: tm+mt
-source-wordcount: '778'
-ht-degree: 0%
+source-wordcount: '781'
+ht-degree: 2%
 
 ---
-
 
 # 第4课 — 创建推送活动
 
@@ -203,8 +203,15 @@ ht-degree: 0%
 >
 > ![推送结果](/help/summit/l820-lab-workbook/assets/2-3-push-notification-result.png)
 
+## 其他资源
 
-**谢谢！**
+**操作方法视频：**
 
-感谢您的参与。 请在Summit应用程序中完成Lab 820会话调查，然后向我们提供反馈，说明我们的做法以及实验室是否达到了您的预期。
+* [配置和发送推送营销活动](/help/channels/create-a-push-campaign.md)
 
+**产品文档：**
+
+* [推送通知入门](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/get-started-push)
+* [创建推送通知](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/create-push)
+* [设计推送通知](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/design-push)
+* [检查并发送推送通知](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/send-push)
