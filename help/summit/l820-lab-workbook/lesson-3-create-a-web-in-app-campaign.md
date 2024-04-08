@@ -9,14 +9,13 @@ duration: 0
 recommendations: noDisplay, noCatalog
 jira: KT-13983
 thumbnail: KT-13983.jpeg
-source-git-commit: c509c768d07984d07ed2ec65634e000c54bb6ff1
+exl-id: 0f84adfb-edb1-47fa-b696-58eec2b33bb1
+source-git-commit: 4f5c92f79eba3651b3633b7850e993160cb1f72c
 workflow-type: tm+mt
-source-wordcount: '660'
-ht-degree: 0%
+source-wordcount: '699'
+ht-degree: 2%
 
 ---
-
-
 
 # 第3课 — 创建Web应用程序内营销活动
 
@@ -144,3 +143,18 @@ ht-degree: 0%
 >单击具有唯一值的发送按钮将触发您的Web应用程序内消息。 您应该会在屏幕上看到您的Web应用程序内消息。
 >
 >此练习模拟了一个自定义XDM发送事件，您通过Fréscopa客户体验看到了该事件。
+
+
+## 其他资源
+
+**操作方法视频：**
+
+* [创建应用程序内营销活动](/help/channels/create-an-in-app-campaign.md)
+* [创建应用程序内消息](/help/channels/author-in-app-messages.md)
+
+**产品文档：**
+
+* [应用程序内渠道入门](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
+* [创建Web应用程序内消息](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app-web)
+* [设计应用程序内内容](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
+* [检查并发送应用程序内通知](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)

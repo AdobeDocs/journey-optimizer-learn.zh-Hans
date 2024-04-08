@@ -9,13 +9,13 @@ duration: 0
 recommendations: noDisplay, noCatalog
 jira: KT-14983
 thumbnail: KT-14983.jpeg
-source-git-commit: c509c768d07984d07ed2ec65634e000c54bb6ff1
+exl-id: fe18eca7-229c-4867-ab34-1862bad63124
+source-git-commit: 4f5c92f79eba3651b3633b7850e993160cb1f72c
 workflow-type: tm+mt
-source-wordcount: '1395'
-ht-degree: 0%
+source-wordcount: '1434'
+ht-degree: 1%
 
 ---
-
 
 # 第2课 — 创建移动应用程序内促销活动
 
@@ -309,4 +309,18 @@ ht-degree: 0%
 >
 > 您的应用程序内消息会显示在您的设备上。
 >
-> *连接后，每次都应显示您的应用程序内消息，然后单击&#x200B;**[!UICONTROL 在设备上预览] 按钮**.*
+> *连接后，每次都应显示您的应用程序内消息，单击 **[!UICONTROL 在设备上预览] 按钮**.
+
+## 其他资源
+
+**操作方法视频：**
+
+* [创建应用程序内营销活动](/help/channels/create-an-in-app-campaign.md)
+* [创建应用程序内消息](/help/channels/author-in-app-messages.md)
+
+**产品文档：**
+
+* [应用程序内渠道入门](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
+* [创建移动应用程序内消息](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app)
+* [设计应用程序内内容](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
+* [检查并发送应用程序内通知](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)
