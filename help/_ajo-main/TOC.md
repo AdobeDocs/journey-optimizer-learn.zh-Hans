@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: 64e4cdd312f1ad9807023c8dca1989d1ca9e30bd
-workflow-type: ht
-source-wordcount: '487'
+source-git-commit: e6b93c32b25c2976828d714ab7230c5cce14da51
+workflow-type: tm+mt
+source-wordcount: '482'
 ht-degree: 100%
 
 ---
@@ -61,7 +61,6 @@ ht-degree: 100%
    + [配置和发送推送营销活动](/help/channels/create-a-push-campaign.md)
 + 短信渠道{#sms-channel}
    + [配置、创作和投放短信消息](/help/channels/author-sms-messages.md)
-   + [针对短信的入站关键词支持](/help/channels/inbound-keyword-support-for-sms.md)
    + [短信 - Sinch 和 Infobip 的双重选择加入](/help/channels/sms-double-opt-in.md)
 + Web 渠道 {#web-channel}
    + [创建 Web 营销活动](/help/channels/create-a-web-campaign.md)
