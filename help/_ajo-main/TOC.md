@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: 42e7d88fa169980445d537a85681858675023620
+source-git-commit: 41a651b01380181d2ebc586fdb6a5eb697a92448
 workflow-type: tm+mt
-source-wordcount: '498'
-ht-degree: 96%
+source-wordcount: '517'
+ht-degree: 93%
 
 ---
 
@@ -25,7 +25,9 @@ ht-degree: 96%
 + 营销活动 {#create-campaigns}
    + [创建营销活动](/help/create-campaigns/create-a-campaign.md)
    + [创建应用程序内营销活动](/help/create-campaigns/in-app.md)
-   + [创建 Web 营销活动](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html?lang=zh-Hans)
+   + [配置和发送推送活动](/help/create-campaigns/push-campaign.md)
+   + [创建 Web 营销活动](/help/create-campaigns/web-campaign.md)
+   + [创建基于代码的体验营销活动](/help/create-campaigns/code-based-experience.md)
    + [使用 API 触发营销活动](/help/create-campaigns/api-triggered-campaigns.md)
    + [为电子邮件营销活动创建内容试验](/help/create-campaigns/content-experiments.md)
 + 历程 {#create-journeys}
@@ -51,6 +53,8 @@ ht-degree: 96%
    + [管理、创作和使用片段](/help/content-management/manage-author-use-fragments.md)
    + [创建和使用表达式片段](/help/content-management/expression-fragments.md)
    + [为电子邮件配置内容试验](/help/experimentation/content-experiments-for-emails.md)
++ 基于代码的体验渠道{#code-based-experience-channel}
+   + [创建基于代码的体验营销活动](/help/channels/create-a-code-based-experience-campaign.md)
 + 直邮渠道{#direct-mail-channel}
    + [直邮渠道](/help/channels/direct-mail.md)
 + 应用程序内渠道{#in-app-channel}
@@ -62,7 +66,7 @@ ht-degree: 96%
    + [配置和发送推送营销活动](/help/channels/create-a-push-campaign.md)
 + 短信渠道{#sms-channel}
    + [配置、创作和投放短信消息](/help/channels/author-sms-messages.md)
-   + [创建彩信](/help/channels/author-mms.md)
+   + [创作MMS消息](/help/channels/author-mms.md)
    + [短信 - Sinch 和 Infobip 的双重选择加入](/help/channels/sms-double-opt-in.md)
 + Web 渠道 {#web-channel}
    + [创建 Web 营销活动](/help/channels/create-a-web-campaign.md)
