@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: ecaa9e4d2d63494f8c0f6ac75c3cb6b390bc654d
 workflow-type: tm+mt
 source-wordcount: '524'
-ht-degree: 91%
+ht-degree: 94%
 
 ---
 
@@ -128,11 +128,11 @@ ht-degree: 91%
    + [配置培训沙盒](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=zh-Hans)
    + [挑战](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=zh-Hans)
 + Experience League Live 录像{#experience-league-live-recordings}
-   + [Journey Optimizer中新增的基于代码的体验渠道](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)
+   + [Journey Optimizer 中新增的基于代码的体验渠道](https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)
    + [Adobe Journey Optimizer 中 API 触发的消息传递](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=zh-Hans){target="_blank"}
    + [利用 Adobe Journey Optimizer 最大程度地发挥移动应用程序的潜力](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=zh-Hans){target="_blank"}
    + [通过决策管理在适当的时间提供合适的优惠](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=zh-Hans){target="_blank"}
    + [在 Adobe Journey Optimizer 中执行营销活动](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-22-22.html?lang=zh-Hans){target="_blank"}
    + [Adobe Journey Optimizer 的推送通知功能](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=zh-Hans){target="_blank"}
 + Summit Labs {#summit-labs}
-   + [使用 Adobe Journey Optimizer (2024) 构建个性化的移动体验](https://experienceleague.adobe.com/zh-Hans/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
+   + [使用 Adobe Journey Optimizer (2024) 构建个性化的移动体验](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
