@@ -8,9 +8,9 @@ level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: b58a4f37ac4cba27ff4dcea88ffa0d3b0db037cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '522'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -32,8 +32,8 @@ Journey Optimizer 帮助企业为其客户提供贴合心意的、情境式和�
 
 ## Experience League 直播活动
 
-* **[Journey Optimizer中新增的基于代码的体验渠道](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)**
-  *了解如何使用以开发人员为中心的操作激活入站表面和细粒度个性化控制。*
+* **[Journey Optimizer 中新增的基于代码的体验渠道](https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)**
+  *了解如何使用以开发人员为中心的操作激活入站表面和精细个性化控制。*
 
 * **[Adobe Journey Optimizer 中 API 触发的消息传递](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=zh-Hans){target="_blank"}**
   *了解如何将 REST API 用于情境式、个性化和实时事务型通信及营销通信。*

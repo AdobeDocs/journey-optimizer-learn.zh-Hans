@@ -1,6 +1,6 @@
 ---
 title: 了解新的历程设计器
-description: 了解重新设计的新历程画布以及如何利用历程中的实时报告。
+description: 了解重新设计的新历程画布以及如何在历程中利用实时报告。
 feature: Journeys
 role: User
 level: Beginner, Intermediate, Experienced
@@ -12,14 +12,14 @@ hidefromtoc: false
 hide: false
 exl-id: e481336c-eaf2-4fbc-8803-9ba109559dd4
 source-git-commit: 017a2cf5b4ec44f1adfe3d1f7c970e673c216ec9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '40'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 # 了解新的历程设计器
 
-了解重新设计的新历程画布以及如何利用历程中的实时报告。
+了解重新设计的新历程画布以及如何在历程中利用实时报告。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428767/?learn=on){transcript=true}
