@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
 source-git-commit: ecaa9e4d2d63494f8c0f6ac75c3cb6b390bc654d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '524'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 94%
 + 营销活动 {#create-campaigns}
    + [创建营销活动](/help/create-campaigns/create-a-campaign.md)
    + [创建应用程序内营销活动](/help/create-campaigns/in-app.md)
-   + [配置和发送推送活动](/help/create-campaigns/push-campaign.md)
+   + [配置和发送推送营销活动](/help/create-campaigns/push-campaign.md)
    + [创建 Web 营销活动](/help/create-campaigns/web-campaign.md)
    + [创建基于代码的体验营销活动](/help/create-campaigns/code-based-experience.md)
    + [使用 API 触发营销活动](/help/create-campaigns/api-triggered-campaigns.md)
@@ -66,7 +66,7 @@ ht-degree: 94%
    + [配置和发送推送营销活动](/help/channels/create-a-push-campaign.md)
 + 短信渠道{#sms-channel}
    + [配置、创作和投放短信消息](/help/channels/author-sms-messages.md)
-   + [创作MMS消息](/help/channels/author-mms.md)
+   + [创建彩信](/help/channels/author-mms.md)
    + [短信 - Sinch 和 Infobip 的双重选择加入](/help/channels/sms-double-opt-in.md)
 + Web 渠道 {#web-channel}
    + [创建 Web 营销活动](/help/channels/create-a-web-campaign.md)
@@ -113,7 +113,7 @@ ht-degree: 94%
       + [配置短信 API 凭据和渠道平面](/help/set-up-channels/set-up-sms-channel.md)
       + [配置消息频率规则](/help/administration/configure-frequency-rules.md)
       + [创建和执行 IP 预热计划](/help/administration/create-and-execute-an-ip-warmup-plan.md)
-      + [配置MMS API凭据和渠道平面](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
+      + [配置彩信 API 凭据和渠道表面](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
    + 配置历程 {#journey-configuration}
       + [配置数据源](/help/set-up-journeys/configure-data-sources.md)
       + [创建事件](/help/set-up-journeys/create-events.md)

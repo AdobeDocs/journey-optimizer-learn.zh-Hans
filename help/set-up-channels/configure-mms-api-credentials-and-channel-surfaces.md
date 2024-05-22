@@ -1,6 +1,6 @@
 ---
-title: 配置MMS API凭据和渠道平面
-description: 了解如何将Journey Optimizer连接到MMS服务提供商，以及如何创建MMS渠道平面。
+title: 配置彩信 API 凭据和渠道表面
+description: 了解如何将 Journey Optimizer 连接到彩信服务提供商，以及如何创建彩信渠道表面。
 feature: SMS
 role: Admin
 level: Beginner
@@ -8,16 +8,16 @@ doc-type: Feature Video
 duration: 85
 last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-15386
-source-git-commit: 14ae4c98e2898efb1f0f543bb8f9b889b9222e98
-workflow-type: tm+mt
+exl-id: cc02dacd-522a-47fa-9277-f73c896dd25f
+source-git-commit: d9507c5cc69375b1bae0d5582214d34601a55c75
+workflow-type: ht
 source-wordcount: '52'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# 配置彩信 API 凭据和渠道表面
 
-# 配置MMS API凭据和渠道平面
-
-了解如何将Journey Optimizer连接到MMS服务提供商，以及如何创建MMS渠道平面。
+了解如何将 Journey Optimizer 连接到彩信服务提供商，以及如何创建彩信渠道表面。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428872/?learn=on)
