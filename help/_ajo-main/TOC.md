@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是Journey OptimizerTutorials。
 auto-video-transcripts: true
-source-git-commit: 640be5f146208fb7fc3729acbb36edf90aae06e4
+source-git-commit: 0865b233b05eceab34881d42ab6b0182e30dc3f5
 workflow-type: tm+mt
 source-wordcount: '525'
 ht-degree: 98%
@@ -50,7 +50,7 @@ ht-degree: 98%
       + [创建基于代码的体验营销活动](/help/channels/create-a-code-based-experience-campaign.md)
    + 直邮渠道{#direct-mail-channel}
       + [直邮渠道](/help/channels/direct-mail.md)
-   + 电子邮件渠道{#email}
+   + 电子邮件渠道{#email-channel}
       + [使用电子邮件设计器创建内容](/help/channels/create-content-with-the-email-designer.md)
       + [导入和编辑 HTML 电子邮件内容](/help/channels/import-and-author-html-email-content.md)
       + [预览、验证和发布](/help/channels/preview-proof-and-publish.md)
