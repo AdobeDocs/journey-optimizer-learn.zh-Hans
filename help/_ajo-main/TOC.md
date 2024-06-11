@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是Journey OptimizerTutorials。
 auto-video-transcripts: true
-source-git-commit: 11c852e7e52747306ccd3cfa692c142f631859f7
+source-git-commit: 640be5f146208fb7fc3729acbb36edf90aae06e4
 workflow-type: tm+mt
-source-wordcount: '524'
-ht-degree: 99%
+source-wordcount: '525'
+ht-degree: 98%
 
 ---
 
@@ -45,33 +45,34 @@ ht-degree: 99%
    + [统一的用户档案和分段 - 概述](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [使用规则生成器创建受众](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [订阅和登陆页面](/help/subscriptions-and-landing-pages.md)
-+ 电子邮件渠道{#email-channel}
-   + [使用电子邮件设计器创建内容](/help/channels/create-content-with-the-email-designer.md)
-   + [导入和编辑 HTML 电子邮件内容](/help/channels/import-and-author-html-email-content.md)
-   + [预览、验证和发布](/help/channels/preview-proof-and-publish.md)
-   + [内容模板](/help/channels/content-templates.md)
-   + [管理、创作和使用片段](/help/content-management/manage-author-use-fragments.md)
-   + [创建和使用表达式片段](/help/content-management/expression-fragments.md)
-   + [为电子邮件配置内容试验](/help/experimentation/content-experiments-for-emails.md)
-+ 基于代码的体验渠道{#code-based-experience-channel}
-   + [创建基于代码的体验营销活动](/help/channels/create-a-code-based-experience-campaign.md)
-+ 直邮渠道{#direct-mail-channel}
-   + [直邮渠道](/help/channels/direct-mail.md)
-+ 应用程序内渠道{#in-app-channel}
-   + [创建应用程序内营销活动](/help/channels/create-an-in-app-campaign.md)
-   + [在历程中创建应用程序内消息](/help/channels/create-an-in-app-message-in-a-journey.md)
-   + [创建应用程序内消息](/help/channels/author-in-app-messages.md)
-   + [为应用程序内消息配置内容试验](/help/experimentation/content-experiments-for-in-app-messages.md)
-+ 推送渠道{#push-channel}
-   + [配置和发送推送营销活动](/help/channels/create-a-push-campaign.md)
-+ 短信渠道{#sms-channel}
-   + [配置、创作和投放短信消息](/help/channels/author-sms-messages.md)
-   + [创建彩信](/help/channels/author-mms.md)
-   + [短信 - Sinch 和 Infobip 的双重选择加入](/help/channels/sms-double-opt-in.md)
-+ Web 渠道 {#web-channel}
-   + [创建 Web 营销活动](/help/channels/create-a-web-campaign.md)
-   + [创建 Web 营销活动](/help/channels/author-a-web-campaign.md)
-   + [Web 编辑器中的 SPA 支持](/help/channels/singel-page-application-support.md)
++ 渠道 {#channels}
+   + 基于代码的体验渠道{#code-based-experience-channel}
+      + [创建基于代码的体验营销活动](/help/channels/create-a-code-based-experience-campaign.md)
+   + 直邮渠道{#direct-mail-channel}
+      + [直邮渠道](/help/channels/direct-mail.md)
+   + 电子邮件渠道{#email}
+      + [使用电子邮件设计器创建内容](/help/channels/create-content-with-the-email-designer.md)
+      + [导入和编辑 HTML 电子邮件内容](/help/channels/import-and-author-html-email-content.md)
+      + [预览、验证和发布](/help/channels/preview-proof-and-publish.md)
+      + [内容模板](/help/channels/content-templates.md)
+      + [管理、创作和使用片段](/help/content-management/manage-author-use-fragments.md)
+      + [创建和使用表达式片段](/help/content-management/expression-fragments.md)
+      + [为电子邮件配置内容试验](/help/experimentation/content-experiments-for-emails.md)
+   + 应用程序内渠道{#in-app-channel}
+      + [创建应用程序内营销活动](/help/channels/create-an-in-app-campaign.md)
+      + [在历程中创建应用程序内消息](/help/channels/create-an-in-app-message-in-a-journey.md)
+      + [创建应用程序内消息](/help/channels/author-in-app-messages.md)
+      + [为应用程序内消息配置内容试验](/help/experimentation/content-experiments-for-in-app-messages.md)
+   + 推送渠道{#push-channel}
+      + [配置和发送推送营销活动](/help/channels/create-a-push-campaign.md)
+   + 短信渠道{#sms-channel}
+      + [配置、创作和投放短信消息](/help/channels/author-sms-messages.md)
+      + [创建彩信](/help/channels/author-mms.md)
+      + [短信 - Sinch 和 Infobip 的双重选择加入](/help/channels/sms-double-opt-in.md)
+   + Web 渠道 {#web-channel}
+      + [创建 Web 营销活动](/help/channels/create-a-web-campaign.md)
+      + [创建 Web 营销活动](/help/channels/author-a-web-campaign.md)
+      + [Web 编辑器中的 SPA 支持](/help/channels/singel-page-application-support.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + 个性化内容{#personalize-content}
    + [根据用户档案和受众会员资格进行个性化](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
