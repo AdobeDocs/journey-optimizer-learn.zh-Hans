@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是Journey OptimizerTutorials。
 auto-video-transcripts: true
-source-git-commit: b48fa701b3291e0d6347d5e86110801a0a9aa1ff
+source-git-commit: 93feb322403ee343686d901576a6c70b1a08287a
 workflow-type: tm+mt
-source-wordcount: '526'
-ht-degree: 98%
+source-wordcount: '532'
+ht-degree: 97%
 
 ---
 
@@ -40,6 +40,7 @@ ht-degree: 98%
    + [用例 - 受众鉴别](/help/create-journeys/use-case-audience-qualification.md)
    + [创建测试用户档案](/help/create-journeys/test-a-journey.md)
    + [发布历程](/help/create-journeys/publish-a-journey.md)
+   + [在实时历程中更新内容](/help/create-journeys/update-content-in-live-journey.md)
    + [将历程复制到另一个沙盒](/help/create-journeys/copy-a-journey.md)
 + 用户档案、受众和订阅{#profiles-audiences-subscriptions}
    + [统一的用户档案和分段 - 概述](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
