@@ -1,12 +1,12 @@
 ---
 user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
-user-guide-description: 这些是Journey OptimizerTutorials。
+user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
 source-git-commit: 6a0f50992c7112be09f85cd4b87268c9441d0d4d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '533'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 97%
    + [创建应用程序内营销活动](/help/create-campaigns/in-app.md)
    + [配置和发送推送营销活动](/help/create-campaigns/push-campaign.md)
    + [创建 Web 营销活动](/help/create-campaigns/web-campaign.md)
-   + [创建基于代码的体验活动](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
+   + [创建基于代码的体验活动](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
    + [使用 API 触发营销活动](/help/create-campaigns/api-triggered-campaigns.md)
    + [为电子邮件营销活动创建内容试验](/help/create-campaigns/content-experiments.md)
 + 历程 {#create-journeys}
@@ -40,7 +40,7 @@ ht-degree: 97%
    + [用例 - 受众鉴别](/help/create-journeys/use-case-audience-qualification.md)
    + [创建测试用户档案](/help/create-journeys/test-a-journey.md)
    + [发布历程](/help/create-journeys/publish-a-journey.md)
-   + [在实时历程中更新内容](/help/create-journeys/update-content-in-live-journey.md)
+   + [更新实时历程中的内容](/help/create-journeys/update-content-in-live-journey.md)
    + [将历程复制到另一个沙盒](/help/create-journeys/copy-a-journey.md)
 + 用户档案、受众和订阅{#profiles-audiences-subscriptions}
    + [统一的用户档案和分段 - 概述](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
