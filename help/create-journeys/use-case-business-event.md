@@ -1,23 +1,24 @@
 ---
-title: 用例 - 商业事件
-description: 了解商业事件的适用用例。 了解如何使用商业事件构建历程以及可以应用的最佳实践。
-jira: KT-7702
-thumbnail: 334234.jpg
+title: 用例：业务事件
+description: 了解如何在Journey Optimizer中使用业务事件。 了解如何将业务事件中的数据用于历程中的个性化消息传递。
 feature: Journeys
-doc-type: feature video
-team: PM
 role: User
 level: Beginner
+doc-type: Feature Video
+duration: 250
+last-substantial-update: 2024-06-28T00:00:00Z
+jira: KT-7702
 exl-id: 38be6d24-2760-4fb4-b5d4-c9be53419e6e
-source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
-workflow-type: ht
-source-wordcount: '58'
-ht-degree: 100%
+source-git-commit: 6eba4838f70e8f7b8b2192eeb6255ac2b50ce1e2
+workflow-type: tm+mt
+source-wordcount: '85'
+ht-degree: 0%
 
 ---
 
-# 用例 - 商业事件
 
-了解商业事件的适用用例。 了解如何使用商业事件构建历程以及可以应用的最佳实践。
+# 用例：业务事件
 
->[!VIDEO](https://video.tv.adobe.com/v/334234?quality=12&learn=on){transcript=true}
+了解如何在Journey Optimizer中使用业务事件。 商业活动允许品牌商根据与人员无关的活动触发历程，例如，当新闻出版物具有新内容时通知订阅者，或在体育活动期间发送通信。 了解如何将业务事件中的数据用于历程中的个性化消息传递。
+
+>[!VIDEO](https://video.tv.adobe.com/v/334234/?learn=on)
