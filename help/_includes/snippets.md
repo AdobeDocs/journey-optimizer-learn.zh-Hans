@@ -1,8 +1,8 @@
 ---
 source-git-commit: def6df7acf248f61ac64f1c2d3fc99e519c3ffe6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '120'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 # AJO 代码片段
@@ -27,9 +27,9 @@ Experience League LIVE：
 
   *了解将应用程序内消息传递作为实时互动渠道的优势，以及如何在 Adobe Journey Optimizer 中配置和创作个性化的移动应用程序体验。*
 
-## 有限可用性 {#limited-availability}
+## 限量发布版 {#limited-availability}
 
 >[!NOTE]
 >
->此功能当前仅适用于一组组织（限量发布）。 要获得访问权限，请与 Adobe 代表联系。
+>目前，此功能仅面向一部分组织提供（限量发布版）。要获得访问权限，请与 Adobe 代表联系。
 
