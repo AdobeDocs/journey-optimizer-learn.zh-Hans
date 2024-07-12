@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: 821dd99521bbeed642031c9f9d6a312c67afc454
+source-git-commit: 0feda01400ce1b8f87bb6143f1913fa6cdd54632
 workflow-type: tm+mt
-source-wordcount: '559'
-ht-degree: 99%
+source-wordcount: '560'
+ht-degree: 98%
 
 ---
 
@@ -78,7 +78,7 @@ ht-degree: 99%
 + 内容管理{#content-management}
    + [管理资源](/help/assets-essentials-overview.md)
    + [创建和使用表达式片段](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/channels/email-channel/expression-fragments)
-   + [设置多语言消息](/help/content-management/set-up-multilingual-messages.md)
+   + [设置多语言消息传递](/help/content-management/set-up-multilingual-messages.md)
    + [创建多语言消息](/help/content-management/create-multilingual-messages.md)
 + 个性化内容{#personalize-content}
    + [根据用户档案和受众会员资格进行个性化](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
