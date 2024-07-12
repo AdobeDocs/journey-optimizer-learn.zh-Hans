@@ -1,6 +1,6 @@
 ---
-title: 设置多语言消息
-description: 了解如何在 Adobe Journey Optimizer 中设置多语言消息，以进行手动和自动翻译。 
+title: 设置多语言消息传递
+description: 了解如何设置自动翻译的翻译项目以及手动翻译和多语言消息的自动翻译项目所需的语言设置。
 feature: Multilingual Content
 role: Admin
 level: Beginner
@@ -9,15 +9,15 @@ duration: 599
 last-substantial-update: 2024-06-28T00:00:00Z
 jira: KT-14034
 thumbnail: KT-14034.jpeg
-source-git-commit: 2233210765082361d33be8d01317ebf0afcd27dd
+source-git-commit: 28cdf4939f12b981e2c3953814ca3ca612cdbe9d
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 100%
+source-wordcount: '106'
+ht-degree: 68%
 
 ---
 
 
-# 设置多语言消息
+# 设置多语言消息传递
 
 {{limited-availability}}
 
