@@ -1,5 +1,5 @@
 ---
-title: 发布历程和历程状态
+title: Publish历程和历程状态
 description: 了解历程的不同状态以及发布的影响。
 jira: KT-7528
 thumbnail: 3424998.jpeg
@@ -17,7 +17,7 @@ ht-degree: 68%
 
 ---
 
-# 发布历程和历程状态
+# Publish历程和历程状态
 
 了解历程的不同状态以及发布的影响。
 

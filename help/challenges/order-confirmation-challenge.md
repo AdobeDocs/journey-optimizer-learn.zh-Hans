@@ -1,6 +1,6 @@
 ---
 title: 创建订单确认电子邮件
-description: 检验您所掌握的有关如何创建和个性化事务型消息的知识。
+description: 检验自己掌握的有关如何创建和个性化事务型消息的知识。
 jira: KT-7531
 feature: Journeys
 role: User
@@ -8,9 +8,9 @@ level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
 source-git-commit: 7861e0ca17a616273f5ea1b4d850310f1f4ec8b8
-workflow-type: ht
-source-wordcount: '652'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '615'
+ht-degree: 98%
 
 ---
 

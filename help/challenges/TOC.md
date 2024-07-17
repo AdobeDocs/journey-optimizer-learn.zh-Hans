@@ -5,7 +5,7 @@ breadcrumb-title: Journey Optimizer - 挑战
 breadcrumb-url: /docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html
 source-git-commit: 84d1ad8ed2ffa48ccdd5cb8faac1079a98f33c7f
 workflow-type: tm+mt
-source-wordcount: '55'
+source-wordcount: '50'
 ht-degree: 100%
 
 ---

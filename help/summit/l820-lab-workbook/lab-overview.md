@@ -39,7 +39,7 @@ ht-degree: 0%
 >Adobe让您能够提前访问利用创新型人工智能技术的功能。 请注意，这些功能仍在开发中，可能会产生意外或不准确的响应。 在将此功能推向市场时，我们欢迎您提供反馈。
 
 
-### 要点
+### 主要要点
 
 * 了解支持的各种移动体验。
 * 配置推送营销活动。
@@ -54,7 +54,7 @@ ht-degree: 0%
 ![名额编号](/help/summit/l820-lab-workbook/assets/locate-seat-number.png)
 您需要访问：
 
-* [Adobe Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-ajo-lab/journey-optimizer/home){target="_blank"}   — 在练习中会提供登录详细信息。
+* [Adobe Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-ajo-lab/journey-optimizer/home){target="_blank"} — 在练习中提供了登录详细信息。
 * [Fréscopa网站](https://dsn.adobe.com/p/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzEwNTI0MTIwLCJleHAiOjE3MTIzMzg1MjB9.q2uGVst6HjJw8SCWl-3pViNzepkdGnNCvGqZnbbkTsY){target="_blank"}
 
 

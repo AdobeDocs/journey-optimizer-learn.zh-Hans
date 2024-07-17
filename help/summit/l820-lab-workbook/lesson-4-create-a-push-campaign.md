@@ -33,19 +33,19 @@ ht-degree: 2%
 
 在本练习中，您将创建推送营销活动、设计和自定义推送通知，并将推送通知发送到您自己的设备。
 
-1. 在Journey Optimizer的左侧导航栏中，位于 **[!UICONTROL 历程管理]** 部分，选择 **营销活动**.
+1. 在Journey Optimizer的左侧导航区域中，在&#x200B;**[!UICONTROL 历程管理]**&#x200B;部分中，选择&#x200B;**营销活动**。
 
-1. 单击 **[!UICONTROL 创建营销活动]**.
+1. 单击&#x200B;**[!UICONTROL 创建营销活动]**。
 
    ![创建营销活动](/help/summit/l820-lab-workbook/assets/2-3-1-1-create-campaign.png)
 
-1. 在 **[!UICONTROL 创建营销活动]** 页面，在  **[!UICONTROL 操作]** 部分，选择 **[!UICONTROL 推送通知]** 复选框。
+1. 在&#x200B;**[!UICONTROL 创建营销活动]**&#x200B;页面的&#x200B;**[!UICONTROL 操作]**&#x200B;部分中，选中&#x200B;**[!UICONTROL 推送通知]**&#x200B;复选框。
 
-1. 从 **[!UICONTROL 应用程序表面]** 下拉列表，选择 *[!DNL Frecopa-Push]*.
+1. 从&#x200B;**[!UICONTROL 应用程序表面]**&#x200B;下拉列表中，选择&#x200B;*[!DNL Frecopa-Push]*。
 
-1. 单击 **[!UICONTROL 创建]** 以创建推送营销活动。
+1. 单击&#x200B;**[!UICONTROL 创建]**&#x200B;以创建推送营销活动。
 
-   ![应用程序表面](/help/summit/l820-lab-workbook/assets/2-3-1-2-app-surface.png)
+   ![应用表面](/help/summit/l820-lab-workbook/assets/2-3-1-2-app-surface.png)
 
 >[!SUCCESS]
 >
@@ -56,23 +56,23 @@ ht-degree: 2%
 
 在此页面中，您可以配置营销策划的属性、受众、操作和计划。
 
-### 4.2.1 [!UICONTROL “属性”部分]
+### 4.2.1 [!UICONTROL 属性部分]
 
 为您的营销活动提供一个名称。 请确保以您的座位号作为名称的开头，以便在搜索促销活动时轻松找到它。
 
-例如，如果您的座位号为99： `99 - 10% Discount Campaign`.
+例如，如果您的座位数为99： `99 - 10% Discount Campaign`。
 
-### 4.2.2 **[!UICONTROL “受众”部分]**
+### 4.2.2 **[!UICONTROL 受众部分]**
 
-1. 在受众部分中，单击 **[!UICONTROL 选择受众]**.
+1. 在受众部分中，单击&#x200B;**[!UICONTROL 选择受众]**。
 
    ![受众部分](/help/summit/l820-lab-workbook/assets/2-3-2-5-audience-section.png)
 
-1. 在 **[!UICONTROL 选择受众]** 屏幕，搜索受众：
+1. 在&#x200B;**[!UICONTROL 选择受众]**&#x200B;屏幕上，搜索受众：
 
    **实验室 — 座位`your seat number`**
 
-1. 选择受众，然后单击 **[!UICONTROL 保存]**.
+1. 选择受众，然后单击&#x200B;**[!UICONTROL 保存]**。
 
    ![受众选择](/help/summit/l820-lab-workbook/assets/2-3-2-7-select-audience.png)
 
@@ -80,11 +80,11 @@ ht-degree: 2%
 
 在本练习中，您将设计和自定义推送通知。
 
-1. 在 **[!UICONTROL 操作]** 部分，单击 **[!UICONTROL 编辑内容] 按钮**.
+1. 在&#x200B;**[!UICONTROL 操作]**&#x200B;部分中，单击&#x200B;**[!UICONTROL 编辑内容]按钮**。
 
-   ![“编辑内容”按钮](/help/summit/l820-lab-workbook/assets/2-3-action-edit-content-button.png)
+   ![编辑内容按钮](/help/summit/l820-lab-workbook/assets/2-3-action-edit-content-button.png)
 
-1. 在下一个屏幕上，根据您拥有的移动设备，选择 [!DNL iOS™] 或 [!DNL Android™] 选项卡以配置您的内容。
+1. 在下一个屏幕上，根据您拥有的移动设备，选择[!DNL iOS™]或[!DNL Android™]选项卡以配置您的内容。
 
 >[!BEGINTABS]
 
@@ -98,20 +98,20 @@ ht-degree: 2%
 
 >[!ENDTABS]
 
-#### 4.2.3.1 [!UICONTROL 撰写消息] 部分
+#### 4.2.3.1 [!UICONTROL 撰写邮件]节
 
-1. **撰写消息：** 欢迎您随时添加任何所需的文本。 以下是您可以使用的示例：
+1. **撰写您的邮件：**&#x200B;请随意添加您想要的任何文本。 以下是您可以使用的示例：
 
    * 标题： `Get 10% off today!`
    * 正文文本： `Today only! Get 10% off on your House Blend coffee purchase!`
 
-     ![撰写消息](/help/summit/l820-lab-workbook/assets/2-3-compose-message.png)
+     ![撰写邮件](/help/summit/l820-lab-workbook/assets/2-3-compose-message.png)
 
-#### 4.2.3.2将消息的单击行为更改为 **打开产品页面**
+#### 4.2.3.2将消息的单击行为更改为&#x200B;**打开产品页**
 
-1. 在 **[!UICONTROL 单击行为]** 部分，选择 **[!UICONTROL 深层链接]** 从 **[!UICONTROL 正文点击行为]** 下拉菜单。
+1. 在&#x200B;**[!UICONTROL 点击行为]**&#x200B;部分中，从&#x200B;**[!UICONTROL 正文点击行为]**&#x200B;下拉列表中选择&#x200B;**[!UICONTROL 深层链接]**。
 
-1. 将以下URL复制并粘贴到 **URL字段**：
+1. 将以下URL复制并粘贴到&#x200B;**URL字段**&#x200B;中：
 
    `dxdemo://exoticVibes`
 
@@ -119,21 +119,21 @@ ht-degree: 2%
 
 #### 4.2.3.3向消息中添加图像
 
-1. 在 **[!UICONTROL 添加媒体]** 部分，单击 **[!UICONTROL 添加媒体]**.
+1. 在&#x200B;**[!UICONTROL 添加媒体]**&#x200B;部分中，单击&#x200B;**[!UICONTROL 添加媒体]**。
 
    ![添加媒体按钮](/help/summit/l820-lab-workbook/assets/2-3-3-3-add-media-buttons.png)
 
-1. 在 **[!UICONTROL 选择资源]** 屏幕在左侧导航中打开 **Fréscopa文件夹** 并从该文件夹中选择图像。
+1. 在&#x200B;**[!UICONTROL 选择Assets]**&#x200B;屏幕的左侧导航中，打开&#x200B;**Fréscopa文件夹**&#x200B;并从该文件夹中选择图像。
 
    例如：`HouseBlend.png`
 
-1. 单击图像，然后单击 **[!UICONTROL 选择] 按钮** 以将图像添加到推送通知。
+1. 单击图像并单击&#x200B;**[!UICONTROL 选择]按钮**&#x200B;以将图像添加到推送通知。
 
    ![选择图像](/help/summit/l820-lab-workbook/assets/2-3-3-3-select-image.png)
 
    >[!SUCCESS]
    >
-   > 1. 在预览屏幕上，单击 **[!UICONTROL 展开视图]**.
+   > 1. 在预览屏幕上，单击&#x200B;**[!UICONTROL 展开视图]**。
    > 1. 预览您的消息。
    > <br>
    >
@@ -147,19 +147,19 @@ ht-degree: 2%
 
 #### 通过添加收件人的名字对您发送的邮件进行个性化设置
 
-1. 单击 **个性化对话框** 旁边的 **[!UICONTROL 正文]** 字段。
+1. 单击&#x200B;**[!UICONTROL 正文]**&#x200B;字段旁边的&#x200B;**个性化对话框**。
 
-   ![“个性化”按钮](/help/summit/l820-lab-workbook/assets/2-3-personalization-button.png)
+   ![个性化按钮](/help/summit/l820-lab-workbook/assets/2-3-personalization-button.png)
 
-1. 在 **个性化对话框** 屏幕，将光标放在要在文本中添加名字的位置。
+1. 在&#x200B;**个性化对话框**&#x200B;屏幕上，将光标放在要在文本中添加名字的位置。
 
-1. 确保 **配置文件属性** 将在左侧导航中选择。
+1. 确保在左侧导航中选择&#x200B;**配置文件属性**。
 
    ![配置文件属性](/help/summit/l820-lab-workbook/assets/2-3-personalize-body-profile-attributes.png)
 
-1. 在 **搜索字段**，搜索： `first name`.
+1. 在&#x200B;**搜索字段**&#x200B;中，搜索： `first name`。
 
-1. 单击 **+** 旁边的 **名字（配置文件属性>人员>全名）** 以向文本中添加个性化字段。
+1. 单击&#x200B;**名字（“配置文件属性”>“人员”>“全名”）**&#x200B;旁边的&#x200B;**+**&#x200B;以将个性化字段添加到您的文本中。
 
    ![搜索名字](/help/summit/l820-lab-workbook/assets/2-3-personalize-search-first-name.png)
 
@@ -167,14 +167,14 @@ ht-degree: 2%
    >
    > 您的文本应如下所示：
    > 
-   >![个性化令牌](/help/summit/l820-lab-workbook/assets/2-3-personalization-token.png)
+   >![Personalization令牌](/help/summit/l820-lab-workbook/assets/2-3-personalization-token.png)
 
-1. 单击 **[!UICONTROL 保存]** 以保存个性化。
+1. 单击&#x200B;**[!UICONTROL 保存]**&#x200B;以保存个性化设置。
 
 
    >[!SUCCESS]
    >
-   > 1. 在预览屏幕上，单击 **[!UICONTROL 展开视图]**.
+   > 1. 在预览屏幕上，单击&#x200B;**[!UICONTROL 展开视图]**。
    > 1. 预览您的消息。
    > 
    > ![展开视图](/help/summit/l820-lab-workbook/assets/2-3-3-expand-view.png)
@@ -185,16 +185,16 @@ ht-degree: 2%
 
 如果您对消息的内容感到满意，则可以激活消息：
 
-1. 单击 **[!UICONTROL 审查以激活]**.
+1. 单击&#x200B;**[!UICONTROL 查看以激活]**。
 
-   ![“查看并激活”按钮](/help/summit/l820-lab-workbook/assets/2-3-4-review-and-activate-button.png)
+   ![审阅并激活按钮](/help/summit/l820-lab-workbook/assets/2-3-4-review-and-activate-button.png)
 
-1. 在 **[!UICONTROL 审查以激活]** 屏幕，单击 **[!UICONTROL 激活]**.
+1. 在&#x200B;**[!UICONTROL 查看以激活]**&#x200B;屏幕上，单击&#x200B;**[!UICONTROL 激活]**。
 
-   ![审查以激活屏幕](/help/summit/l820-lab-workbook/assets/2-3-4-review-to-activate.png)
+   ![查看以激活屏幕](/help/summit/l820-lab-workbook/assets/2-3-4-review-to-activate.png)
 
 >[!SUCCESS]
-> 在 **营销活动概述页面**，查找您的营销活动并检查状态。
+> 在&#x200B;**促销活动概述页面**&#x200B;上，查找您的促销活动并检查状态。
 >
 > ![营销活动状态](/help/summit/l820-lab-workbook/assets/2-3-push-completed.png)
 > 
