@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: 45a973fa9700abbf254573906d5778ded9483316
+source-git-commit: dc11d8bae005038b610637fd0057b4bd92d53374
 workflow-type: tm+mt
-source-wordcount: '550'
-ht-degree: 97%
+source-wordcount: '556'
+ht-degree: 96%
 
 ---
 
@@ -118,6 +118,7 @@ ht-degree: 97%
       + [设置电子邮件渠道](/help/set-up-channels/set-up-email-channel.md)
       + [委派 CName 子域](/help/set-up-channels/delegate-cname-subdomains.md)
       + [配置短信 API 凭据和渠道平面](/help/set-up-channels/set-up-sms-channel.md)
+      + [自带短信提供商(Beta)](help/set-up-channels/bring-your-own-sms-provider.md)
       + [配置消息频率规则](/help/administration/configure-frequency-rules.md)
       + [创建和执行 IP 预热计划](/help/administration/create-and-execute-an-ip-warmup-plan.md)
       + [配置彩信 API 凭据和渠道表面](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
