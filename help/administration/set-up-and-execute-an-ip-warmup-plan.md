@@ -1,6 +1,6 @@
 ---
-title: 设置并执行IP预热计划
-description: 了解什么是IP预热并了解如何在Adobe Journey Optimizer中设置并执行IP预热计划。
+title: 设置和执行 IP 预热计划
+description: 了解什么是 IP 预热，并学习如何在 Adobe Journey Optimizer 中设置和执行 IP 预热计划。
 feature: IP Warmup Plans
 role: Admin
 level: Beginner
@@ -13,14 +13,14 @@ jira: KT-14602
 source-git-commit: 5e6503b8f15ee0dfc7f2894e8d1d7a8493abe63d
 workflow-type: tm+mt
 source-wordcount: '99'
-ht-degree: 4%
+ht-degree: 62%
 
 ---
 
 
-# 设置并执行IP预热计划
+# 设置和执行 IP 预热计划
 
-了解什么是IP预热并了解如何在Adobe Journey Optimizer中设置并执行IP预热计划。
+了解什么是 IP 预热，并学习如何在 Adobe Journey Optimizer 中设置和执行 IP 预热计划。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432637/?learn=on)
 

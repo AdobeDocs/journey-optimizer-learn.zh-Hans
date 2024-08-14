@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 56ce5f811573046687f735e0f1e6f3f8b972773e
 workflow-type: tm+mt
 source-wordcount: '557'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -77,7 +77,7 @@ ht-degree: 94%
    + [管理内容模板](/help/content-management/content-templates.md)
    + [管理片段](/help/content-management/manage-fragments.md)
    + [创建表达式片段](/help/content-management/expression-fragments.md)
-   + [设置多语言消息传递](/help/content-management/set-up-multilingual-messages.md)
+   + [设置多语言消息传送](/help/content-management/set-up-multilingual-messages.md)
    + [创建多语言消息](/help/content-management/create-multilingual-messages.md)
 + 个性化内容{#personalize-content}
    + [根据用户档案和受众会员资格进行个性化](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
@@ -117,9 +117,9 @@ ht-degree: 94%
    + 配置渠道 {#channel-configuration}
       + [设置电子邮件渠道](/help/set-up-channels/set-up-email-channel.md)
       + [委派 CName 子域](/help/set-up-channels/delegate-cname-subdomains.md)
-      + [设置并执行IP预热计划](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
+      + [设置和执行 IP 预热计划](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
       + [配置短信 API 凭据和渠道平面](/help/set-up-channels/set-up-sms-channel.md)
-      + [自带短信提供商(Beta)](/help/set-up-channels/bring-your-own-sms-provider.md)
+      + [自带短信提供商（Beta 版）](/help/set-up-channels/bring-your-own-sms-provider.md)
       + [配置消息频率规则](/help/administration/configure-frequency-rules.md)
       + [配置彩信 API 凭据和渠道表面](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
    + 配置历程 {#journey-configuration}
