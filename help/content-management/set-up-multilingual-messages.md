@@ -1,6 +1,6 @@
 ---
-title: 设置多语言消息传递
-description: 了解如何设置自动翻译的翻译项目以及手动翻译和多语言消息的自动翻译项目所需的语言设置。
+title: 设置多语言消息传送
+description: 了解如何设置自动翻译的翻译项目、手动翻译所需的语言设置和多语言消息的自动翻译项目。
 feature: Multilingual Content
 role: Admin
 level: Beginner
@@ -9,15 +9,15 @@ duration: 599
 last-substantial-update: 2024-06-28T00:00:00Z
 jira: KT-14034
 thumbnail: KT-14034.jpeg
-source-git-commit: 28cdf4939f12b981e2c3953814ca3ca612cdbe9d
-workflow-type: tm+mt
+exl-id: 59464ab1-dac2-4e68-9025-606d29d076f0
+source-git-commit: 55734ce3bc1329663bd65970892d80c99878e1a7
+workflow-type: ht
 source-wordcount: '106'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
 
-
-# 设置多语言消息传递
+# 设置多语言消息传送
 
 {{limited-availability}}
 
