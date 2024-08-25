@@ -8,13 +8,13 @@ feature: Reporting
 duration: 22500
 last-substantial-update: 2024-06-24T00:00:00Z
 jira: KT-15774
-source-git-commit: 579850b26c710520765d9cc3341da7194d112ec4
+exl-id: 385f2f89-bef9-4a32-9ca1-4a2f4afb2c6a
+source-git-commit: 55734ce3bc1329663bd65970892d80c99878e1a7
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 100%
 
 ---
-
 
 # 通过 Customer Journey Analytics 增强的报告功能
 

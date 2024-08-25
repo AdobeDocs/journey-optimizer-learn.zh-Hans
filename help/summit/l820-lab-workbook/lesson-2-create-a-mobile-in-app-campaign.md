@@ -162,7 +162,7 @@ ht-degree: 1%
 
       ![按钮部分](/help/summit/l820-lab-workbook/assets/3-1-3-2-buttons.png)
 
-      1. 在编辑器的此部分中，您可以通过编辑按钮文本字段自定义CTA按钮的文本。
+      1. 在编辑器的此部分中，您可以通过编辑按钮文本字段来自定义CTA按钮的文本。
 
       2. **[!UICONTROL Interact事件]**&#x200B;字段用于定义当用户按下CTA时传递到SDK的值。
 

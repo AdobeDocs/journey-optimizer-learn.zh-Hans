@@ -11,7 +11,7 @@ jira: KT-14034
 thumbnail: KT-14034.jpeg
 exl-id: 59464ab1-dac2-4e68-9025-606d29d076f0
 source-git-commit: 55734ce3bc1329663bd65970892d80c99878e1a7
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 100%
 

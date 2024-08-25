@@ -10,7 +10,7 @@ last-substantial-update: 2024-07-26T00:00:00Z
 jira: KT-15886
 badge: label="Beta 版"
 source-git-commit: dc11d8bae005038b610637fd0057b4bd92d53374
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 100%
 

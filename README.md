@@ -1,7 +1,7 @@
 ---
 source-git-commit: 906e7a0f1f258d53605d1a155214c61a5335285b
-workflow-type: ht
-source-wordcount: '0'
+workflow-type: tm+mt
+source-wordcount: '401'
 ht-degree: 100%
 
 ---
@@ -52,9 +52,9 @@ If you submit a pull request with significant changes to documentation and code 
 * [Markdown 基础知识](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/)
 * [可打印的 Markdown 速查表](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
-## 标签
+## 标记
 
-在公共存储库中，会为拉取请求分配自动标签，以便帮助我们管理拉取请求工作流，以及帮助您了解拉取请求的处理进展：
+在公共存储库中，会为拉取请求分配自动标记，以便帮助我们管理拉取请求工作流，以及帮助您了解拉取请求的处理进展：
 
 * **已发送给作者的更改**：已通知作者拉取请求处于待处理状态。
 * **准备合并**：等待我们的拉取请求审核工作组进行审核。
