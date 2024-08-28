@@ -10,10 +10,10 @@ last-substantial-update: 2024-08-23T00:00:00Z
 jira: KT-16041
 hidefromtoc: true
 hide: true
-source-git-commit: 79e5376bdf570664ff308ae18b27168f8fefd891
-workflow-type: ht
-source-wordcount: '150'
-ht-degree: 100%
+source-git-commit: bf17a3a7c03e1da68bb938a58fd626d0e5322425
+workflow-type: tm+mt
+source-wordcount: '138'
+ht-degree: 91%
 
 ---
 
@@ -28,7 +28,5 @@ ht-degree: 100%
 
 有关详细信息，请参阅产品文档：
 
-* [引导式渠道设置入门](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config)
-* [设置 Android 移动配置](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-android)
-* [设置 iOS 移动配置](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-ios)
-* [设置 Web 配置](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-web)
+* [引导式渠道设置入门](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config.html)
+* [创建渠道设置](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/create-channel-set-up.html)
