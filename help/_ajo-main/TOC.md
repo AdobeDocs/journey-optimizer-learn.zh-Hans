@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: d0c3d37dc6c3e28cab4ecd6cc8b03cfe65ef51c3
+source-git-commit: 108dfe961f0bc7078e65e2d036734460a95de09f
 workflow-type: tm+mt
-source-wordcount: '592'
-ht-degree: 93%
+source-wordcount: '603'
+ht-degree: 92%
 
 ---
 
@@ -73,7 +73,9 @@ ht-degree: 93%
       + [创建 Web 营销活动](/help/channels/author-a-web-campaign.md)
       + [Web 编辑器中的 SPA 支持](/help/channels/singel-page-application-support.md)
 + 内容管理{#content-management}
-   + [在Journey Optimizer - Content Accelerator中使用AI助手创建内容](/help/content-management/create-content-with-the-ai-assistant-content-accelerator.md)
+   + AI Assistant内容加速器{#content-accelerator}
+      + [AI Assistant Content Accelerator简介](/help/content-management/introduction-to-the-ai-assistant-content-accelerator.md)
+      + [在Journey Optimizer - Content Accelerator中使用AI助手创建内容](/help/content-management/create-content-with-the-ai-assistant-content-accelerator.md)
    + [管理资源](/help/assets-essentials-overview.md)
    + [管理内容模板](/help/content-management/content-templates.md)
    + [管理片段](/help/content-management/manage-fragments.md)
