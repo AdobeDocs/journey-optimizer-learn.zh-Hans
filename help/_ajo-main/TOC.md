@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: 4add927932ca713a1812df56c70f07910dca44f6
+source-git-commit: cf1bf6d0602314e870834035882f2bf1929f307a
 workflow-type: tm+mt
-source-wordcount: '606'
-ht-degree: 91%
+source-wordcount: '622'
+ht-degree: 89%
 
 ---
 
@@ -144,6 +144,7 @@ ht-degree: 91%
    + [配置培训沙盒](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=zh-Hans)
    + [挑战](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=zh-Hans)
 + Experience League Live 录像{#experience-league-live-recordings}
+   + [AI Bash — 在Adobe Experience Platform应用程序和营销活动中释放AI助手的功能](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
    + [Summer Spotlight — 三个用户必须试用Adobe Journey Optimizer中的功能](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24)
    + [Journey Optimizer 中新增的基于代码的体验渠道](https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)
    + [Adobe Journey Optimizer 中 API 触发的消息传递](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=zh-Hans){target="_blank"}

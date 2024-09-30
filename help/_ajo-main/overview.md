@@ -7,10 +7,10 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 4c51e1a1b04750559f3d1316fc9c13bedd94ae60
+source-git-commit: cf1bf6d0602314e870834035882f2bf1929f307a
 workflow-type: tm+mt
-source-wordcount: '343'
-ht-degree: 89%
+source-wordcount: '377'
+ht-degree: 81%
 
 ---
 
@@ -32,10 +32,13 @@ Journey Optimizer 帮助企业为其客户提供贴合心意的、情境式和�
 
 ## 最新Experience League直播活动
 
+* **[AI Bash — 在Adobe Experience Platform应用程序和营销活动中释放AI助手的功能](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)**
+  *了解AI Assistant如何在Adobe Experience Cloud应用程序和Adobe Campaign中转变客户交互并提高工作效率。*
 * **[Summer Spotlight — 三个用户必须试用Adobe Journey Optimizer中的功能](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24)**
   *利用Adobe Journey Optimizer的三个功能（旅程试验、频率上限和多语言消息传递），今年夏天为您的客户带来超额参与度。*
 * **[Journey Optimizer 中新增的基于代码的体验渠道](https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)**
   *了解如何使用以开发人员为中心的操作激活入站表面和精细个性化控制。*
+
 </div>
 
 <div id="staff-picks-section">
