@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: 94f3e7dacbfa0231829d60b90d73f90048029186
+source-git-commit: 4261e738c5c539b387a5f05c48c581954fe11510
 workflow-type: tm+mt
-source-wordcount: '624'
-ht-degree: 89%
+source-wordcount: '628'
+ht-degree: 88%
 
 ---
 
@@ -138,8 +138,8 @@ ht-degree: 89%
    + [访问管理](/help/set-up-access/access-management.md)
    + [配置基于属性的访问控制](/help/administration/attribute-based-access-control.md)
    + [创建和管理沙盒](/help/set-up-access/create-and-manage-sandboxes.md)
-+ 隐私权 {#privacy}
-   + [数据管理](help/privacy/data-governance.md)
++ 数据管理和隐私{#data-governance-and-privacy}
+   + [数据治理框架](/help/privacy/data-governance-framework.md)
    + [屏蔽消息中的数据](/help/privacy/mask-data-in-messages.md)
 + 练习和挑战{#exercises-and-challenges}
    + [配置培训沙盒](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=zh-Hans)
