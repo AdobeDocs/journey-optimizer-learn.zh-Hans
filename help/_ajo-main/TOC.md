@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: 0f286412ace011859fc5f1f79ef4baf61d83ac50
+source-git-commit: 0f8cacf3676b4d14f11264fbd691fa73ef01f6ed
 workflow-type: tm+mt
-source-wordcount: '631'
-ht-degree: 87%
+source-wordcount: '630'
+ht-degree: 88%
 
 ---
 
@@ -57,7 +57,7 @@ ht-degree: 87%
       + [导入和编辑 HTML 电子邮件内容](/help/channels/import-and-author-html-email-content.md)
       + [预览、验证和发布](/help/channels/preview-proof-and-publish.md)
       + [为电子邮件配置内容试验](/help/experimentation/content-experiments-for-emails.md)
-   + 内容卡片(#content-cards)
+   + 内容卡片{#content-cards}
       + [创建内容卡片](/help/channels/create-content-cards.md)
    + 应用程序内渠道{#in-app-channel}
       + [创建应用程序内营销活动](/help/channels/create-an-in-app-campaign.md)
