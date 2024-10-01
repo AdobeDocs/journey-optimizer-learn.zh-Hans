@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: 4261e738c5c539b387a5f05c48c581954fe11510
+source-git-commit: 0f286412ace011859fc5f1f79ef4baf61d83ac50
 workflow-type: tm+mt
-source-wordcount: '628'
-ht-degree: 88%
+source-wordcount: '631'
+ht-degree: 87%
 
 ---
 
@@ -57,12 +57,13 @@ ht-degree: 88%
       + [导入和编辑 HTML 电子邮件内容](/help/channels/import-and-author-html-email-content.md)
       + [预览、验证和发布](/help/channels/preview-proof-and-publish.md)
       + [为电子邮件配置内容试验](/help/experimentation/content-experiments-for-emails.md)
+   + 内容卡片(#content-cards)
+      + [创建内容卡片](/help/channels/create-content-cards.md)
    + 应用程序内渠道{#in-app-channel}
       + [创建应用程序内营销活动](/help/channels/create-an-in-app-campaign.md)
       + [在历程中创建应用程序内消息](/help/channels/create-an-in-app-message-in-a-journey.md)
       + [创建应用程序内消息](/help/channels/author-in-app-messages.md)
       + [为应用程序内消息配置内容试验](/help/experimentation/content-experiments-for-in-app-messages.md)
-      + [创建内容卡片](/help/channels/create-content-cards.md)
    + 推送渠道{#push-channel}
       + [配置和发送推送营销活动](/help/channels/create-a-push-campaign.md)
    + 短信渠道{#sms-channel}
