@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: e3a349db221525ff3e1fed4ae962166740d419dc
+source-git-commit: f40562477ffa5cc0d8f0fd2d748fd8d821670053
 workflow-type: tm+mt
-source-wordcount: '642'
+source-wordcount: '646'
 ht-degree: 86%
 
 ---
@@ -142,6 +142,7 @@ ht-degree: 86%
 + 数据管理和隐私{#data-governance-and-privacy}
    + [数据治理框架](/help/privacy/data-governance-framework.md)
    + [使用标签对数据进行分类](/help/privacy/classify-data-using-lables.md)
+   + [创建数据使用策略](/help/privacy/create-data-usage-policies.md)
    + [在Journey Optimizer渠道中强制实施数据使用策略](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [屏蔽消息中的数据](/help/privacy/mask-data-in-messages.md)
 + 练习和挑战{#exercises-and-challenges}
