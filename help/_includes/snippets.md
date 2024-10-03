@@ -1,5 +1,5 @@
 ---
-source-git-commit: e3a349db221525ff3e1fed4ae962166740d419dc
+source-git-commit: f6e9e2b286c220bf90eab7632f2110176b0c7ba2
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 80%
@@ -41,6 +41,6 @@ Experience League LIVE：
 
 ## Platform视频 — 策略(#platform-video)
 
->>[!NOTE]
->>
-此视频在Adobe Experience Platform用户界面中演示了此功能。 Journey Optimizer左侧导航栏的数据管理和隐私部分中提供了相同的功能。
+>[!NOTE]
+>
+>此视频在Adobe Experience Platform用户界面中演示了此功能。 Journey Optimizer左侧导航栏的数据管理和隐私部分中提供了相同的功能。
