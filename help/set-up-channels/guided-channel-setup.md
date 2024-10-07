@@ -12,9 +12,9 @@ hidefromtoc: false
 hide: false
 exl-id: f1d135e4-208c-45d4-8d7c-5d8496fb79b7
 source-git-commit: 50f0641415818db8763e5de58a74b77b7eab5d16
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '138'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -28,5 +28,5 @@ ht-degree: 91%
 
 有关详细信息，请参阅产品文档：
 
-* [引导式渠道设置入门](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config.html)
-* [创建渠道设置](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/create-channel-set-up.html)
+* [引导式渠道设置入门](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config.html?lang=zh-Hans)
+* [创建渠道设置](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/create-channel-set-up.html?lang=zh-Hans)
