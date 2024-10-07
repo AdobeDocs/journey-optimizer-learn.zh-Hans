@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: f40562477ffa5cc0d8f0fd2d748fd8d821670053
 workflow-type: tm+mt
 source-wordcount: '646'
-ht-degree: 86%
+ht-degree: 97%
 
 ---
 
@@ -57,8 +57,8 @@ ht-degree: 86%
       + [导入和编辑 HTML 电子邮件内容](/help/channels/import-and-author-html-email-content.md)
       + [预览、验证和发布](/help/channels/preview-proof-and-publish.md)
       + [为电子邮件配置内容试验](/help/experimentation/content-experiments-for-emails.md)
-   + 内容卡片{#content-cards}
-      + [创建内容卡片](/help/channels/create-content-cards.md)
+   + 内容卡{#content-cards}
+      + [创建内容卡](/help/channels/create-content-cards.md)
    + 应用程序内渠道{#in-app-channel}
       + [创建应用程序内营销活动](/help/channels/create-an-in-app-campaign.md)
       + [在历程中创建应用程序内消息](/help/channels/create-an-in-app-message-in-a-journey.md)
@@ -75,9 +75,9 @@ ht-degree: 86%
       + [创建 Web 营销活动](/help/channels/author-a-web-campaign.md)
       + [Web 编辑器中的 SPA 支持](/help/channels/singel-page-application-support.md)
 + 内容管理{#content-management}
-   + AI Assistant内容加速器{#content-accelerator}
-      + [AI Assistant Content Accelerator简介](/help/content-management/introduction-to-the-ai-assistant-content-accelerator.md)
-      + [在Journey Optimizer - Content Accelerator中使用AI助手创建内容](/help/content-management/create-content-with-the-ai-assistant-content-accelerator.md)
+   + AI 助手内容加速器{#content-accelerator}
+      + [AI 助手内容加速器简介](/help/content-management/introduction-to-the-ai-assistant-content-accelerator.md)
+      + [使用 Journey Optimizer 中的 AI 助手 - 内容加速器创建内容](/help/content-management/create-content-with-the-ai-assistant-content-accelerator.md)
    + [管理资源](/help/assets-essentials-overview.md)
    + [管理内容模板](/help/content-management/content-templates.md)
    + [管理片段](/help/content-management/manage-fragments.md)
@@ -139,7 +139,7 @@ ht-degree: 86%
    + [访问管理](/help/set-up-access/access-management.md)
    + [配置基于属性的访问控制](/help/administration/attribute-based-access-control.md)
    + [创建和管理沙盒](/help/set-up-access/create-and-manage-sandboxes.md)
-+ 数据管理和隐私{#data-governance-and-privacy}
++ 数据治理和隐私{#data-governance-and-privacy}
    + [数据治理框架](/help/privacy/data-governance-framework.md)
    + [使用标签对数据进行分类](/help/privacy/classify-data-using-lables.md)
    + [创建数据使用策略](/help/privacy/create-data-usage-policies.md)
@@ -149,8 +149,8 @@ ht-degree: 86%
    + [配置培训沙盒](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=zh-Hans)
    + [挑战](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=zh-Hans)
 + Experience League Live 录像{#experience-league-live-recordings}
-   + [AI Bash — 在Adobe Experience Platform应用程序和营销活动中释放AI助手的功能](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
-   + [Summer Spotlight — 三个用户必须试用Adobe Journey Optimizer中的功能](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24)
+   + [AI Bash - 在 Adobe Experience Platform 应用程序和 Campaign 中解锁 AI 助手的力量](https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
+   + [Summer Spotlight - 三个必须尝试的 Adobe Journey Optimizer 功能](https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24)
    + [Journey Optimizer 中新增的基于代码的体验渠道](https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)
    + [Adobe Journey Optimizer 中 API 触发的消息传递](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=zh-Hans){target="_blank"}
    + [通过决策管理在适当的时间提供合适的优惠](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=zh-Hans){target="_blank"}
