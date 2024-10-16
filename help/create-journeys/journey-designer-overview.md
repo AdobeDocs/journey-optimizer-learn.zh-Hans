@@ -1,5 +1,5 @@
 ---
-title: 历程Designer — 概述
+title: 历程设计器 - 概述
 description: 此视频概述了如何使用历程设计器设计和管理客户历程。
 feature: Journeys
 role: User
@@ -9,14 +9,14 @@ duration: 98
 last-substantial-update: 2024-10-08T00:00:00Z
 jira: KT-16290
 source-git-commit: dde5bc9f9d453b5b3df8cc3625329ee81d1889ab
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '42'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# 历程Designer — 概述
+# 历程设计器 - 概述
 
 此视频概述了如何使用历程设计器设计和管理客户历程。
 

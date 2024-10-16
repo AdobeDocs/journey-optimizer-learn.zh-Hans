@@ -11,9 +11,9 @@ jira: KT-16263
 hide: false
 hidefromtoc: false
 source-git-commit: 810601d8bfdf71386831f439877316b3a91d5cc2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '79'
-ht-degree: 32%
+ht-degree: 100%
 
 ---
 
@@ -24,10 +24,10 @@ ht-degree: 32%
 
 >[!VIDEO](https://video.tv.adobe.com/v/29708/?learn=on)
 
-有关Journey Optimizer中[数据管理](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/action-privacy-restricted)的更多信息，请参阅产品文档。
+有关 Journey Optimizer 中的[数据治理](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/privacy/action-privacy-restricted)的更多信息，请参阅产品文档。
 
 ## 其他学习
 
-* [播放列表： Adobe Experience Platform数据管理入门](https://experienceleague.adobe.com/zh-hans/playlists/experience-platform-get-started-with-data-governance)
+* [播放列表：Adobe Experience Platform 数据治理入门](https://experienceleague.adobe.com/zh-hans/playlists/experience-platform-get-started-with-data-governance)
 
-  *了解有关Adobe Experience Platform上的数据治理以及如何使用标签对数据进行分类、创建数据使用策略以及在Experience Platform上实施数据使用策略的更多信息。*
+  *了解有关 Adobe Experience Platform 中的数据治理以及如何使用标签对数据进行分类、创建数据使用策略以及在 Experience Platform 上实施数据使用策略的更多信息。*

@@ -1,6 +1,6 @@
 ---
-title: 在Journey Optimizer渠道中强制实施数据使用策略
-description: 了解如何在Journey Optimizer渠道中强制实施数据使用标签设置。
+title: 在 Journey Optimizer 渠道中实施数据使用策略
+description: 了解如何在 Journey Optimizer 渠道中实施数据使用标签。
 feature: Governance, Privacy
 role: Data Architect, Admin, User
 level: Beginner
@@ -12,17 +12,17 @@ hide: false
 hidefromtoc: false
 badgePrivateBeta: label="Private Beta" type="Informative"
 source-git-commit: 810601d8bfdf71386831f439877316b3a91d5cc2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '62'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# 在Journey Optimizer渠道中强制实施数据使用策略
+# 在 Journey Optimizer 渠道中实施数据使用策略
 
-了解如何在Journey Optimizer渠道中强制实施数据使用策略。
+了解如何在 Journey Optimizer 渠道中实施数据使用策略。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434901/?learn=on)
 
-有关[数据管理](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/action-privacy-restricted)以及如何在Journey Optimizer中[使用同意策略](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/consent/consent-restricted)的更多信息，请参阅产品文档。
+有关 Journey Optimizer 中的[数据治理](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/privacy/action-privacy-restricted)以及如何[使用同意策略](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/privacy/consent/consent-restricted)的更多信息，请参阅产品文档。

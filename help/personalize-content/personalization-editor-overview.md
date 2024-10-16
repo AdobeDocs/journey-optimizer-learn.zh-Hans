@@ -1,6 +1,6 @@
 ---
-title: Personalization编辑器 — 概述
-description: 了解可在Journey Optimizer中个性化的内容。
+title: 个性化编辑器 - 概述
+description: 了解可在 Journey Optimizer 中个性化的内容。
 feature: Personalization
 role: User
 level: Beginner
@@ -9,15 +9,15 @@ duration: 90
 last-substantial-update: 2024-10-07T00:00:00Z
 jira: KT-16295
 source-git-commit: 32998cff3d2506b65b98c0396f37520ffe4140b4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '24'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Personalization编辑器 — 概述
+# 个性化编辑器 - 概述
 
-了解可在Journey Optimizer中个性化的内容。
+了解可在 Journey Optimizer 中个性化的内容。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434964/?learn=on)
