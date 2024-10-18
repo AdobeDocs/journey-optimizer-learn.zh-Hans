@@ -10,17 +10,17 @@ last-substantial-update: 2024-10-03T00:00:00Z
 jira: KT-16267
 hide: false
 hidefromtoc: false
-source-git-commit: 810601d8bfdf71386831f439877316b3a91d5cc2
-workflow-type: ht
+source-git-commit: da924ae1f11f87ef6d940d7ccfc0ac3b9cf3b896
+workflow-type: tm+mt
 source-wordcount: '120'
-ht-degree: 100%
+ht-degree: 88%
 
 ---
 
 
 # 创建数据使用策略
 
-了解如何创建和管理数据使用策略。通过数据使用策略，您可以基于数据的标签限制特定目的下的数据使用。要了解基于 API 的方法，请参阅[使用 API 创建数据使用策略|https://experienceleague.adobe.com/zh-hans/docs/experience-platform/data-governance/policies/create]。
+了解如何创建和管理数据使用策略。通过数据使用策略，您可以基于数据的标签限制特定目的下的数据使用。要了解基于API的方法，请参阅[使用API创建数据使用策略](https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/policies/create)。
 
 >[!NOTE]
 >
