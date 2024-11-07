@@ -7,10 +7,10 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 2d0a573812fbcbce347821532d5ab254b3a4c98c
+source-git-commit: 7b1947ff1df01b8119bd0dd5ddf8745cd229394e
 workflow-type: tm+mt
 source-wordcount: '372'
-ht-degree: 98%
+ht-degree: 81%
 
 ---
 
@@ -47,30 +47,31 @@ Journey Optimizer 帮助企业为其客户提供贴合心意的、情境式和�
 
 <table>
 <tr>
-  <td>
-    <a href="../introduction/journey-optimizer-overview.md">
-      <img alt="Journey Optimizer概述（视频）" src="../assets/334174.jpg"/>
+    <td>
+    <a href="../content-management/ai-assistant-content-accelerator-overview.md">
+      <img alt="使用AI助手内容加速器创建内容（视频）" src="../assets/3434635.jpg"/>
     </a>
     <div>
-      <a href="../introduction/journey-optimizer-overview-part-1.md">
-    <strong>Journey Optimizer 概述第 1 部分</strong>
+      <a href="../content-management/ai-assistant-content-accelerator-overview.md">
+    <strong>使用AI Assistant内容加速器创建内容</strong>
     </a>
     </div>
     <p>
-    <em>此视频演示了各家品牌可以如何使用 Adobe Journey Optimization 为其消费者提供个性化的全渠道历程。</em>
+    <em>了解如何使用AI Assistant内容加速器为文本和图像生成主动内容变体建议。
+</em>
     <p>
   </td>
     <td>
-    <a href="../introduction/journey-optimizer-overview-part-2.md">
-      <img alt="Journey Optimizer 概述第 2 部分 - 交付全渠道历程（视频）" src="../assets/334175.jpg"/>
+    <a href="../experimentation/content-experiments-for-emails.md">
+      <img alt="为电子邮件营销活动配置内容实验（视频）" src="../assets/3419893.jpeg"/>
     </a>
     <div>
-      <a href="../introduction/journey-optimizer-overview-part-2.md">
-    <strong>Journey Optimizer 概述第 2 部分</strong>
+      <a href="../experimentation/content-experiments-for-emails.md">
+    <strong>为电子邮件营销活动配置内容实验</strong>
     </a>
     </div>
     <p>
-    <em>此视频演示了各家品牌可以如何使用 Adobe Journey Optimizer 的决策管理、实时区段鉴别和商业事件管理功能将其消费者历程的体验提升到新的高度。</em>
+    <em>了解如何配置内容实验以进行A/B测试并探索电子邮件内容以最好地推动您的业务目标。</em>
     <p>
   </td>
   </td>
