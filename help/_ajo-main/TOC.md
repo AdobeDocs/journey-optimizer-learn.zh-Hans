@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: d9484c78c872880590869dc845953c3b8232b0e5
+source-git-commit: fb7f9c22ab23392da00f1d7770f33534748de8ea
 workflow-type: tm+mt
-source-wordcount: '688'
+source-wordcount: '678'
 ht-degree: 99%
 
 ---
@@ -17,8 +17,6 @@ ht-degree: 99%
 + Journey Optimizer 简介{#introduction-to-journey-optimizer}
    + [Journey Optimizer — 概述](/help/introduction/journey-optimizer-overview.md)
    + [Journey Optimizer 简介](/help/introduction/introduction.md)
-   + [Journey Optimizer 概述第 1 部分](/help/introduction/journey-optimizer-overview-part-1.md)
-   + [Journey Optimizer 概述第 2 部分](/help/introduction/journey-optimizer-overview-part-2.md)
    + [主要功能和用户界面](/help/introduction/key-capabilities-and-user-interface.md)
    + [架构](/help/introduction/architecture.md)
    + [面向营销人员的移动功能](/help/channels/mobile-capabilities.md)
