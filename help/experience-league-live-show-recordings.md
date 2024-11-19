@@ -2,8 +2,9 @@
 title: Experience League直播录制
 description: Experience League直播是Experience League团队制作的直播节目。 利用这个机会，您可以与Adobe产品专家联系，并学习可用于Adobe Experience Cloud应用程序的可操作性提示、技巧和策略。
 feature: Overview
+doc-type: Catalog
 exl-id: 459c062f-b56f-4611-99f5-8bb88ad5d476
-source-git-commit: 5f39cdfb854bc5b0920413785bdedf34329ef13f
+source-git-commit: f50cf10fe0b051ef158be29a7048cfcc8cc83e20
 workflow-type: tm+mt
 source-wordcount: '787'
 ht-degree: 10%
