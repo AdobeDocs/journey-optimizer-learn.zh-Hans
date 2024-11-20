@@ -4,10 +4,10 @@ description: Experience League直播是Experience League团队制作的直播节
 feature: Overview
 doc-type: Catalog
 exl-id: 459c062f-b56f-4611-99f5-8bb88ad5d476
-source-git-commit: 7ac7d6f068caf4e7e05c5e3aba48182128d4f8e6
+source-git-commit: 46f9f606490ce7364792e370e24ba1d76d8ffe1c
 workflow-type: tm+mt
-source-wordcount: '788'
-ht-degree: 10%
+source-wordcount: '774'
+ht-degree: 11%
 
 ---
 
@@ -22,7 +22,9 @@ Experience League直播是Experience League团队制作的直播节目。 利用
 * https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-30-24
   {description = Learn how Content Cards deliver key updates, promotions, and messages seamlessly within your app or website, ensuring a non-intrusive user experience. (November 6, 2024)}
 * https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24
+     {description = Learn about Federated Audience Composition provides a comprehensive approach to audience curation and activation with Real-Time CDP and Journey Optimizer. (October 24, 2024)}
 * https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24
+    {description = AI-driven tools are transforming the way we engage customers and streamline workflows. Learn how Adobe's AI capabilities will accelerate your productivity. (September 26, 2024)}
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -32,7 +34,7 @@ Experience League直播是Experience League团队制作的直播节目。 利用
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-30-24" title="揭示Adobe Journey Optimizer的内容卡片" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3436281/?quality=12&format=jpeg&nocache=1732141554372" alt="揭示Adobe Journey Optimizer的内容卡片"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3436281/?quality=12&format=jpeg&nocache=1732146043307" alt="揭示Adobe Journey Optimizer的内容卡片"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -55,7 +57,7 @@ Experience League直播是Experience League团队制作的直播节目。 利用
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" title="在Experience Ecostems中协调受众 — Experience Platform中的联合受众组成" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3436457?quality=12&format=jpeg&nocache=1732141554374" alt="在Experience Ecostems中协调受众 — Experience Platform中的联合受众组成"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3436457?quality=12&format=jpeg&nocache=1732146043310" alt="在Experience Ecostems中协调受众 — Experience Platform中的联合受众组成"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -65,7 +67,7 @@ Experience League直播是Experience League团队制作的直播节目。 利用
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" target="_blank" rel="referrer" title="在Experience Ecostems中协调受众 — Experience Platform中的联合受众组成">在Experience Ecostems中协调受众 — Experience Platform中的联合受众构成</a>
                     </p>
-                    <p class="is-size-6">了解联合受众构成如何通过Real-Time CDP和Journey Optimizer提供一种全面的受众管理和激活方法。</p>
+                    <p class="is-size-6">了解Federated Audience Composition，它提供了一种通过Real-Time CDP和Journey Optimizer进行受众管理和激活的综合方法。 （2024年10月24日）</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看</span>
@@ -78,7 +80,7 @@ Experience League直播是Experience League团队制作的直播节目。 利用
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24" title="AI Bash — 在Adobe Experience Platform应用程序和营销活动中释放人工智能助理的强大功能" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434781/?format=jpeg&nocache=1732141554366" alt="AI Bash — 在Adobe Experience Platform应用程序和营销活动中释放人工智能助理的强大功能"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434781/?format=jpeg&nocache=1732146043304" alt="AI Bash — 在Adobe Experience Platform应用程序和营销活动中释放人工智能助理的强大功能"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -88,7 +90,7 @@ Experience League直播是Experience League团队制作的直播节目。 利用
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24" target="_blank" rel="referrer" title="AI Bash — 在Adobe Experience Platform应用程序和营销活动中释放人工智能助理的强大功能">AI Bash - 在 Adobe Experience Platform 应用程序和 Campaign 中解锁 AI 助手的力量</a>
                     </p>
-                    <p class="is-size-6">AI驱动的工具正在改变我们与客户接触和简化工作流程的方式。 加入我们以AI为主题的Experience League直播网络研讨会，以跟上创新的步伐，并了解Adobe的功能将如何加快您的工作效率。</p>
+                    <p class="is-size-6">AI驱动的工具正在改变我们与客户接触和简化工作流程的方式。 了解Adobe的AI功能将如何提高您的工作效率。 （2024年9月26日）</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看</span>
@@ -121,7 +123,7 @@ Experience League直播是Experience League团队制作的直播节目。 利用
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24" title="Summer Spotlight — 三个必须尝试Adobe Journey Optimizer中的功能" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433225/?format=jpeg&nocache=1732141554889" alt="Summer Spotlight — 三个必须尝试Adobe Journey Optimizer中的功能"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433225/?format=jpeg&nocache=1732146045031" alt="Summer Spotlight — 三个必须尝试Adobe Journey Optimizer中的功能"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -144,7 +146,7 @@ Experience League直播是Experience League团队制作的直播节目。 利用
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24" title="Journey Optimizer中新增的基于代码的体验渠道" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428095/?quality=12&format=jpeg&nocache=1732141554907" alt="Journey Optimizer中新增的基于代码的体验渠道"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428095/?quality=12&format=jpeg&nocache=1732146045035" alt="Journey Optimizer中新增的基于代码的体验渠道"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -167,7 +169,7 @@ Experience League直播是Experience League团队制作的直播节目。 利用
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=zh-Hans" title="Adobe Journey Optimizer中的API触发消息传递" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422169/?format=jpeg&nocache=1732141555020" alt="Adobe Journey Optimizer中的API触发消息传递"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422169/?format=jpeg&nocache=1732146045417" alt="Adobe Journey Optimizer中的API触发消息传递"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -190,7 +192,7 @@ Experience League直播是Experience League团队制作的直播节目。 利用
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=zh-Hans" title="利用Adobe Journey Optimizer最大程度地挖掘移动应用程序的潜力" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3419194/?quality=12&format=jpeg&nocache=1732141554960" alt="利用Adobe Journey Optimizer最大程度地挖掘移动应用程序的潜力"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3419194/?quality=12&format=jpeg&nocache=1732146045235" alt="利用Adobe Journey Optimizer最大程度地挖掘移动应用程序的潜力"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -213,7 +215,7 @@ Experience League直播是Experience League团队制作的直播节目。 利用
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=zh-Hans" title="通过决策管理在适当的时间提供适当的优惠" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3410560/?quality=12&format=jpeg&nocache=1732141554959" alt="通过决策管理在适当的时间提供适当的优惠"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3410560/?quality=12&format=jpeg&nocache=1732146045377" alt="通过决策管理在适当的时间提供适当的优惠"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -236,7 +238,7 @@ Experience League直播是Experience League团队制作的直播节目。 利用
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-22-22.html?lang=zh-Hans" title="在Adobe Journey Optimizer中执行营销活动" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3409504/?quality=12&format=jpeg&nocache=1732141555017" alt="在Adobe Journey Optimizer中执行营销活动"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3409504/?quality=12&format=jpeg&nocache=1732146045412" alt="在Adobe Journey Optimizer中执行营销活动"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -259,7 +261,7 @@ Experience League直播是Experience League团队制作的直播节目。 利用
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=zh-Hans" title="Adobe Journey Optimizer的推送通知" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/342810/?quality=12&format=jpeg&nocache=1732141555019" alt="Adobe Journey Optimizer的推送通知"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/342810/?quality=12&format=jpeg&nocache=1732146045229" alt="Adobe Journey Optimizer的推送通知"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
