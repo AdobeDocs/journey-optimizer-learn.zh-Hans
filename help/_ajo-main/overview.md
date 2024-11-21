@@ -8,9 +8,9 @@ level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 7b1947ff1df01b8119bd0dd5ddf8745cd229394e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '372'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -49,29 +49,29 @@ Journey Optimizer 帮助企业为其客户提供贴合心意的、情境式和�
 <tr>
     <td>
     <a href="../content-management/ai-assistant-content-accelerator-overview.md">
-      <img alt="使用AI助手内容加速器创建内容（视频）" src="../assets/3434635.jpg"/>
+      <img alt="使用 AI 助手内容加速器创建内容（视频）" src="../assets/3434635.jpg"/>
     </a>
     <div>
       <a href="../content-management/ai-assistant-content-accelerator-overview.md">
-    <strong>使用AI Assistant内容加速器创建内容</strong>
-    </a>
+    <strong>使用 AI 助手内容加速器创建内容</strong>
+    </a>
     </div>
     <p>
-    <em>了解如何使用AI Assistant内容加速器为文本和图像生成主动内容变体建议。
+    <em>了解如何使用 AI 助手内容加速器为文本和图像生成主动内容变体建议。
 </em>
     <p>
   </td>
     <td>
     <a href="../experimentation/content-experiments-for-emails.md">
-      <img alt="为电子邮件营销活动配置内容实验（视频）" src="../assets/3419893.jpeg"/>
+      <img alt="为电子邮件营销活动配置内容试验（视频）" src="../assets/3419893.jpeg"/>
     </a>
     <div>
       <a href="../experimentation/content-experiments-for-emails.md">
-    <strong>为电子邮件营销活动配置内容实验</strong>
-    </a>
+    <strong>为电子邮件营销活动配置内容试验</strong>
+    </a>
     </div>
     <p>
-    <em>了解如何配置内容实验以进行A/B测试并探索电子邮件内容以最好地推动您的业务目标。</em>
+    <em>了解如何配置内容试验以进行 A/B 测试，并探索电子邮件内容以最佳推动业务目标的实现。</em>
     <p>
   </td>
   </td>

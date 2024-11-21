@@ -1,6 +1,6 @@
 ---
 title: 使用 API 触发营销活动
-description: 了解如何在AJO中触发来自外部系统的事务性短信和电子邮件消息。
+description: 了解如何在 AJO 中从外部系统触发交易型短信和电子邮件消息。
 feature: Campaigns, API
 role: User, Developer
 level: Experienced
@@ -10,9 +10,9 @@ jira: KT-10658
 thumbnail: 3425358.jpeg
 exl-id: 039ce9b1-6942-44ac-b8e3-068b0ad9264e
 source-git-commit: 4f5670b3e7a835bdda1accccdb2e79926d243744
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '48'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
 
