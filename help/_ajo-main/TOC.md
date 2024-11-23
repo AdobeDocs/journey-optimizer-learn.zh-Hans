@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: f445b5c7572cf8b85d1e1ef053b9385fcb9c3fbd
+source-git-commit: bf1a97a0950782838946ecf2e21d82e84913340f
 workflow-type: tm+mt
-source-wordcount: '599'
-ht-degree: 98%
+source-wordcount: '597'
+ht-degree: 99%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 98%
 
 + [Journey Optimizer 教程](/help/_ajo-main/overview.md)
 + Journey Optimizer 简介{#introduction-to-journey-optimizer}
-   + [Journey Optimizer — 概述](/help/introduction/journey-optimizer-overview.md)
+   + [Journey Optimizer - 概述](/help/introduction/journey-optimizer-overview.md)
    + [Journey Optimizer 简介](/help/introduction/introduction.md)
    + [主要功能和用户界面](/help/introduction/key-capabilities-and-user-interface.md)
    + [架构](/help/introduction/architecture.md)
@@ -151,7 +151,7 @@ ht-degree: 98%
 + 访问控制{#access-control}
    + [访问管理](/help/set-up-access/access-management.md)
    + [配置基于属性的访问控制](/help/administration/attribute-based-access-control.md)
-   + [创建和管理沙盒](/help/set-up-access/create-and-manage-sandboxes.md)
+   + [使用沙盒](/help/set-up-access/create-and-manage-sandboxes.md)
 + 数据治理和隐私{#data-governance-and-privacy}
    + [数据治理框架](/help/privacy/data-governance-framework.md)
    + [使用标签对数据进行分类](/help/privacy/classify-data-using-lables.md)
@@ -161,6 +161,6 @@ ht-degree: 98%
 + 练习和挑战{#exercises-and-challenges}
    + [配置培训沙盒](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=zh-Hans)
    + [挑战](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=zh-Hans)
-+ [Experience League直播录制](/help/experience-league-live-show-recordings.md)
++ [Experience League Live 节目录像](/help/experience-league-live-show-recordings.md)
 + Summit Labs {#summit-labs}
    + [使用 Adobe Journey Optimizer (2024) 构建个性化的移动体验](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
