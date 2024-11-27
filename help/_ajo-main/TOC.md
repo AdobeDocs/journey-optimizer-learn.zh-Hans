@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: bf1a97a0950782838946ecf2e21d82e84913340f
+source-git-commit: de27e7e7a1f5307e07ecd43ad578fab679c0c726
 workflow-type: tm+mt
-source-wordcount: '597'
+source-wordcount: '599'
 ht-degree: 99%
 
 ---
@@ -38,13 +38,13 @@ ht-degree: 99%
    + [用例 - 商业事件](/help/create-journeys/use-case-business-event.md)
    + [用例 - 读取受众](/help/create-journeys/use-case-read-audience.md)
    + [用例 - 受众鉴别](/help/create-journeys/use-case-audience-qualification.md)
-   + [创建测试用户档案](/help/create-journeys/test-a-journey.md)
+   + [创建测试轮廓](/help/create-journeys/test-a-journey.md)
    + [发布历程](/help/create-journeys/publish-a-journey.md)
    + [更新实时历程中的内容](/help/create-journeys/update-content-in-live-journey.md)
    + [将历程复制到另一个沙盒](/help/create-journeys/copy-a-journey.md)
 + 用户档案、受众和订阅{#profiles-audiences-subscriptions}
    + [用户档案和受众 - 概述](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
-   + [统一的用户档案和分段 - 概述](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
+   + [统一的轮廓和分段 - 概述](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [使用规则生成器创建受众](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [订阅和登陆页面](/help/subscriptions-and-landing-pages.md)
 + 渠道 {#channels}
@@ -97,7 +97,7 @@ ht-degree: 99%
       + [使用 AI 助手内容加速器创建内容](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
 + 个性化内容{#personalize-content}
    + [个性化编辑器 - 概述](/help/personalize-content/personalization-editor-overview.md)
-   + [根据用户档案和受众会员资格进行个性化](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
+   + [根据轮廓和受众会员资格进行个性化](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
    + [将优惠作为个性化内容添加](/help/personalize-content/add-offer-decisioning-to-messages.md)
    + [使用上下文事件信息进行个性化](/help/personalize-content/use-contextual-event-information-for-personalization.md)
    + [使用辅助函数进行个性化](/help/personalize-content/use-helper-functions-for-personalization.md)
@@ -131,6 +131,7 @@ ht-degree: 99%
    + [以 CSV 格式导出报告](/help/report-and-monitor/export-reports-in-csv-format.md)
    + [使用警报](/help/administration/alerts.md)
    + [通过 Customer Journey Analytics 增强的报告功能](/help/report-and-monitor/enhanced-reporting-with-customer-journey-analytics.md)
+   + [报表交互性](/help/report-and-monitor/adobe-journey-optimizer-reporting-interactivity.md)
 + 配置 {#configuration}
    + 配置渠道 {#channel-configuration}
       + [配置渠道](/help/set-up-channels/configure-channels.md)
