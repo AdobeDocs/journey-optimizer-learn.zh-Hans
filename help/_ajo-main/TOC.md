@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: 20c8649624e91fcc77745309a4816bd02e6d09bd
-workflow-type: ht
-source-wordcount: '603'
+source-git-commit: 55205636bb73af692c24ebabe4168a514b547b6f
+workflow-type: tm+mt
+source-wordcount: '601'
 ht-degree: 100%
 
 ---
@@ -39,7 +39,7 @@ ht-degree: 100%
    + [用例 - 事务性历程](/help/create-journeys/use-case-transactional-journey.md)
    + [用例 - 商业事件](/help/create-journeys/use-case-business-event.md)
    + [用例 - 读取受众](/help/create-journeys/use-case-read-audience.md)
-   + [用例 - 受众鉴别](/help/create-journeys/use-case-audience-qualification.md)
+   + [用例 - 受众资格筛选](/help/create-journeys/use-case-audience-qualification.md)
    + [创建测试轮廓](/help/create-journeys/test-a-journey.md)
    + [发布历程](/help/create-journeys/publish-a-journey.md)
    + [更新实时历程中的内容](/help/create-journeys/update-content-in-live-journey.md)
@@ -100,7 +100,7 @@ ht-degree: 100%
 + 个性化内容{#personalize-content}
    + [个性化编辑器 - 概述](/help/personalize-content/personalization-editor-overview.md)
    + [根据轮廓和受众会员资格进行个性化](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
-   + [将优惠作为个性化内容添加](/help/personalize-content/add-offer-decisioning-to-messages.md)
+   + [将产品建议作为个性化内容添加](/help/personalize-content/add-offer-decisioning-to-messages.md)
    + [使用上下文事件信息进行个性化](/help/personalize-content/use-contextual-event-information-for-personalization.md)
    + [使用辅助函数进行个性化](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [使用和管理个性化库中已保存的表达式](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
@@ -108,20 +108,20 @@ ht-degree: 100%
 + 决策管理{#decision-management}
    + [决策管理简介](/help/decision-management/introduction-to-decision-management.md)
    + [决策管理功能演示](/help/decision-management/demo-of-decision-management-capabilities.md)
-   + [创建投放位置](/help/decision-management/create-placements.md)
+   + [创建放置环境](/help/decision-management/create-placements.md)
    + [创建规则](/help/decision-management/create-rules.md)
    + [创建标记](/help/decision-management/create-tags.md)
-   + [创建个性化优惠](/help/decision-management/create-personalized-offers.md)
+   + [创建个性化产品建议](/help/decision-management/create-personalized-offers.md)
    + [创建 AI 模型](/help/decision-management/create-ai-models.md)
-   + [创建后备优惠](/help/decision-management/create-fallback-offers.md)
+   + [创建后备产品建议](/help/decision-management/create-fallback-offers.md)
    + [创建收藏集](/help/decision-management/create-collections.md)
    + [创建决策](/help/decision-management/create-decisions.md)
-   + [通过 Decisions API 提供优惠](/help/decision-management/deliver-offers-with-the-decisions-api.md)
+   + [通过 Decisions API 提供产品建议](/help/decision-management/deliver-offers-with-the-decisions-api.md)
    + [频次上限](/help/decision-management/frequency-capping.md)
 + 数据管理 {#data-management}
    + [概述](/help/data-management/set-up-data-overview.md)
    + [创建架构](/help/data-management/create-schema.md)
-   + [映射身份](/help/data-management/map-identities.md)
+   + [映射身份标识](/help/data-management/map-identities.md)
    + [创建数据集并摄取数据](/help/data-management/create-datasets-and-ingest-data.md)
    + [配置源连接器](/help/data-management/configure-source-connectors.md)
    + [配置数据集导出目标](/help/data-management/configure-dataset-export-destination.md)
@@ -133,7 +133,6 @@ ht-degree: 100%
    + [以 CSV 格式导出报告](/help/report-and-monitor/export-reports-in-csv-format.md)
    + [使用警报](/help/administration/alerts.md)
    + [通过 Customer Journey Analytics 增强的报告功能](/help/report-and-monitor/enhanced-reporting-with-customer-journey-analytics.md)
-   + [报告交互功能](/help/report-and-monitor/adobe-journey-optimizer-reporting-interactivity.md)
 + 配置 {#configuration}
    + 配置渠道 {#channel-configuration}
       + [配置渠道](/help/set-up-channels/configure-channels.md)
