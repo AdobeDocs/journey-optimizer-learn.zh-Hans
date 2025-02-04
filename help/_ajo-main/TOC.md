@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: 55205636bb73af692c24ebabe4168a514b547b6f
-workflow-type: ht
-source-wordcount: '601'
-ht-degree: 100%
+source-git-commit: 73a5d684e42e738576477f34a3995485b313b77e
+workflow-type: tm+mt
+source-wordcount: '603'
+ht-degree: 99%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 100%
 + [Journey Optimizer 教程](/help/_ajo-main/overview.md)
 + 用例 {#use-cases}
    + [客户入门](/help/use-cases/customer-onboarding.md)
+   + [已放弃的购物车](help/use-cases/abandoned-shopping-cart.md)
 + Journey Optimizer 简介{#introduction-to-journey-optimizer}
    + [Journey Optimizer - 概述](/help/introduction/journey-optimizer-overview.md)
    + [Journey Optimizer 简介](/help/introduction/introduction.md)
