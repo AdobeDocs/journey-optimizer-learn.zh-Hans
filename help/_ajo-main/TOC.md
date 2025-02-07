@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: fce89856e1fb8459af493f3b722b9a098a3f1b03
+source-git-commit: cad09b4cc870a9a241c92940e424bb2fbe03e0d6
 workflow-type: tm+mt
-source-wordcount: '611'
-ht-degree: 98%
+source-wordcount: '605'
+ht-degree: 99%
 
 ---
 
@@ -54,7 +54,6 @@ ht-degree: 98%
    + [移动应用程序优化 - 概述](/help/channels/mobile-app-optimization-overview.md)
    + 基于代码的体验渠道{#code-based-experience-channel}
       + [创建基于代码的体验营销活动](/help/channels/create-a-code-based-experience-campaign.md)
-      + [在基于代码的渠道中使用决策](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
    + 直邮渠道{#direct-mail-channel}
       + [创建直邮](/help/channels/direct-mail.md)
    + 电子邮件渠道{#email-channel}
@@ -168,3 +167,4 @@ ht-degree: 98%
 + [Experience League Live 节目录像](/help/experience-league-live-show-recordings.md)
 + Summit Labs {#summit-labs}
    + [使用 Adobe Journey Optimizer (2024) 构建个性化的移动体验](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
+   + [备忘单](/help/summit-lab-assets/l535-assets.md)
