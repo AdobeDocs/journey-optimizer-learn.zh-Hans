@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: a7b449f1c8f31f2f13ceca2107624f026f46d5e6
+source-git-commit: fce89856e1fb8459af493f3b722b9a098a3f1b03
 workflow-type: tm+mt
-source-wordcount: '603'
-ht-degree: 99%
+source-wordcount: '611'
+ht-degree: 98%
 
 ---
 
@@ -54,6 +54,7 @@ ht-degree: 99%
    + [移动应用程序优化 - 概述](/help/channels/mobile-app-optimization-overview.md)
    + 基于代码的体验渠道{#code-based-experience-channel}
       + [创建基于代码的体验营销活动](/help/channels/create-a-code-based-experience-campaign.md)
+      + [在基于代码的渠道中使用决策](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
    + 直邮渠道{#direct-mail-channel}
       + [创建直邮](/help/channels/direct-mail.md)
    + 电子邮件渠道{#email-channel}
