@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: cad09b4cc870a9a241c92940e424bb2fbe03e0d6
+source-git-commit: 697fde1c593052ad9e2dc9eb0bc8f8bb6fafe1ff
 workflow-type: tm+mt
-source-wordcount: '605'
-ht-degree: 99%
+source-wordcount: '621'
+ht-degree: 96%
 
 ---
 
@@ -49,11 +49,13 @@ ht-degree: 99%
    + [用户档案和受众 - 概述](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
    + [统一的轮廓和分段 - 概述](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [使用规则生成器创建受众](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
+   + [通过上传CSV文件创建受众](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
    + [订阅和登陆页面](/help/subscriptions-and-landing-pages.md)
 + 渠道 {#channels}
    + [移动应用程序优化 - 概述](/help/channels/mobile-app-optimization-overview.md)
    + 基于代码的体验渠道{#code-based-experience-channel}
       + [创建基于代码的体验营销活动](/help/channels/create-a-code-based-experience-campaign.md)
+      + [在基于代码的渠道中使用决策](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
    + 直邮渠道{#direct-mail-channel}
       + [创建直邮](/help/channels/direct-mail.md)
    + 电子邮件渠道{#email-channel}
