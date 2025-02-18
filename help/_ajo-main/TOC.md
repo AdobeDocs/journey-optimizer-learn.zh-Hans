@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: 2e871d0866b2dc5f4c46a664aa62ca69e4ec4e4a
-workflow-type: ht
-source-wordcount: '621'
+source-git-commit: fbced616531cc24465e6fcc0baa18f37cf6de88c
+workflow-type: tm+mt
+source-wordcount: '625'
 ht-degree: 100%
 
 ---
@@ -151,8 +151,9 @@ ht-degree: 100%
       + [创建事件](/help/set-up-journeys/create-events.md)
       + [创建操作](/help/set-up-journeys/create-actions.md)
    + 业务规则{#business-rules}
-      + [配置频率上限规则](/help/configuration/configure-frequency-capping-rules.md)
-      + [测试和报告频率规则](/help/configuration/test-and-report-on-frequency-rules.md)
+      + [配置频率上限规则](/help/business-rules/configure-frequency-capping-rules.md)
+      + [使用规则集](/help/business-rules/work-with-rule-sets.md)
+      + [测试和报告频率规则](/help/business-rules/test-and-report-on-frequency-rules.md)
 + 访问控制{#access-control}
    + [访问管理](/help/set-up-access/access-management.md)
    + [配置基于属性的访问控制](/help/administration/attribute-based-access-control.md)
