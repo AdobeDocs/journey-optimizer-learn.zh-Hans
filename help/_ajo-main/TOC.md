@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: fbced616531cc24465e6fcc0baa18f37cf6de88c
+source-git-commit: 3e27236efac68961a2bd0a12d1b6e78431de0655
 workflow-type: tm+mt
-source-wordcount: '625'
-ht-degree: 100%
+source-wordcount: '629'
+ht-degree: 99%
 
 ---
 
@@ -171,3 +171,4 @@ ht-degree: 100%
 + Summit Labs {#summit-labs}
    + [使用 Adobe Journey Optimizer (2024) 构建个性化的移动体验](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
    + [备忘单](/help/summit-lab-assets/l535-assets.md)
+   + [安装移动应用程序](/help/summit-lab-assets/install-mobile-app.md)
