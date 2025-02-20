@@ -8,9 +8,9 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
-source-git-commit: f32ce2e2fd32bc11e46b6e37f62e60d641038310
+source-git-commit: 278f78c256a4124e287e6f7d8b11adad39d18275
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '170'
 ht-degree: 4%
 
 ---
@@ -45,11 +45,10 @@ ht-degree: 4%
 
    现在，您应该能够在您的iPhone上启动* SecureFinancial应用程序**：
 
-2. 打开应用程序。
+1. 打开应用程序。
 
-3. 在弹出窗口中，单击&#x200B;**允许**&#x200B;以允许DX演示应用向您发送通知。
+1. 在弹出窗口中，单击&#x200B;**允许**&#x200B;以允许DX演示应用向您发送通知。
 
-   ![通知弹出窗口](/help/summit/l820-lab-workbook/assets/1-2-allow-notifications.png){width="250" align="center" zoomable="yes"}
 
 >[!TAB Android]
 
