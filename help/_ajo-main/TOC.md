@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: eb429656bc1e86a8be9e8bac3d5bfff9c5807b1e
+source-git-commit: e9aa3f63bfc54d165dd044a645aaa366f34c2921
 workflow-type: tm+mt
-source-wordcount: '638'
-ht-degree: 99%
+source-wordcount: '635'
+ht-degree: 97%
 
 ---
 
@@ -110,9 +110,9 @@ ht-degree: 99%
    + [使用辅助函数进行个性化](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [使用和管理个性化库中已保存的表达式](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
    + [使用条件规则生成器创建动态内容](/help/personalize-content/create-dynamic-content.md)
-+ 决策管理{#decision-management}
-   + [决策管理简介](/help/decision-management/introduction-to-decision-management.md)
-   + [决策管理功能演示](/help/decision-management/demo-of-decision-management-capabilities.md)
++ 决策 {#decisioning}
+   + [决策简介](/help/decision-management/introduction-to-decisioning.md)
+   + [决策功能演示](/help/decision-management/demo-of-decision-management-capabilities.md)
    + [创建放置环境](/help/decision-management/create-placements.md)
    + [创建规则](/help/decision-management/create-rules.md)
    + [创建标记](/help/decision-management/create-tags.md)
