@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: 8727d3b84573f78ac28da260177aab607014f6fe
+source-git-commit: 070dd91ef8fee8ff1801d6cfb5fc4a6658fc9d15
 workflow-type: tm+mt
 source-wordcount: '647'
 ht-degree: 97%
@@ -110,7 +110,7 @@ ht-degree: 97%
    + [使用辅助函数进行个性化](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [使用和管理个性化库中已保存的表达式](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
    + [使用条件规则生成器创建动态内容](/help/personalize-content/create-dynamic-content.md)
-+ 决策功能{#decision-capabilites}
++ 决策功能{#decision-capabilities}
    + 决策 {#decisioning}
       + [Decisioning简介](/help/decisioning/introduction-to-decisioning.md)
       + [端到端决策演练](/help/decisioning/decisioning-end-to-end.md)
