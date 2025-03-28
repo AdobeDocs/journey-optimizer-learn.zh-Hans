@@ -1,7 +1,7 @@
 ---
 title: 使用GenStudio for Performance Marketing创建和发送电子邮件
 description: 了解将电子邮件模板从Journey Optimizer导出到GenStudio for Performance Marketing、在GenStudio中使用模板精心编制符合品牌规范的电子邮件，并将它们无缝导入回Journey Optimizer的过程。
-feature: Emails, Templates
+feature: Email Design, Templates
 topic: Content Management
 role: User
 level: Beginner, Intermediate
@@ -9,7 +9,7 @@ doc-type: Feature Video
 duration: 324
 last-substantial-update: 2025-03-28T00:00:00Z
 jira: KT-17531
-source-git-commit: 1f1b42fdd644cf9ac17e8ed055a521f114e5bb14
+source-git-commit: 4c3ab10c177c1e314fa09dcc2be356d2ca6d47e8
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 8%
