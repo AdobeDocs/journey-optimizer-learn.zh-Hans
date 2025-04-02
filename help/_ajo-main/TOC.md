@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 1f1b42fdd644cf9ac17e8ed055a521f114e5bb14
 workflow-type: tm+mt
 source-wordcount: '662'
-ht-degree: 95%
+ht-degree: 99%
 
 ---
 
@@ -50,7 +50,7 @@ ht-degree: 95%
    + [统一的轮廓和分段 - 概述](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [使用规则生成器创建受众](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [通过上传 CSV 文件创建受众。](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
-   + [按需评估受众](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/evaluate-audiences-on-demand)
+   + [按需评估受众](https://experienceleague.adobe.com/zh-hans/docs/platform-learn/tutorials/audiences/evaluate-audiences-on-demand)
    + [订阅和登陆页面](/help/subscriptions-and-landing-pages.md)
 + 渠道 {#channels}
    + [移动应用程序优化 - 概述](/help/channels/mobile-app-optimization-overview.md)
@@ -91,7 +91,7 @@ ht-degree: 95%
    + [消息创作 - 概述](/help/content-management/message-authoring-overview.md)
    + [数字资源管理 - 概述](/help/content-management/digital-asset-management-overview.md)
    + [管理资源](/help/assets-essentials-overview.md)
-   + [使用Adobe Express编辑资源](/help/content-management/edit-assets-with-adobe-express.md)
+   + [使用 Adobe Express 编辑资源](/help/content-management/edit-assets-with-adobe-express.md)
    + [管理片段](/help/content-management/manage-fragments.md)
    + [创建表达式片段](/help/content-management/expression-fragments.md)
    + [试验 - 概述](/help/content-management/experimentation-overview.md)
@@ -115,7 +115,7 @@ ht-degree: 95%
    + [使用条件规则生成器创建动态内容](/help/personalize-content/create-dynamic-content.md)
 + 决策功能{#decision-capabilities}
    + 决策 {#decisioning}
-      + [Decisioning简介](/help/decisioning/introduction-to-decisioning.md)
+      + [决策功能简介](/help/decisioning/introduction-to-decisioning.md)
       + [端到端决策演练](/help/decisioning/decisioning-end-to-end.md)
    + 决策管理{#decision-management}
       + [决策管理简介](/help/decision-management/introduction-to-decision-management.md)
