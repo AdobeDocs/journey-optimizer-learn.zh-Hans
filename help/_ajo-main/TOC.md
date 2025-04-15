@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
 source-git-commit: 1f1b42fdd644cf9ac17e8ed055a521f114e5bb14
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '662'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -15,9 +15,9 @@ ht-degree: 99%
 
 + [Journey Optimizer 教程](/help/_ajo-main/overview.md)
 + 用例 {#use-cases}
-   + [客户入门](/help/use-cases/customer-onboarding.md)
+   + [客户加入](/help/use-cases/customer-onboarding.md)
    + [放弃购物车](/help/use-cases/abandoned-cart.md)
-+ Journey Optimizer 简介{#introduction-to-journey-optimizer}
++ Journey Optimizer 简介 {#introduction-to-journey-optimizer}
    + [Journey Optimizer - 概述](/help/introduction/journey-optimizer-overview.md)
    + [Journey Optimizer 简介](/help/introduction/introduction.md)
    + [主要功能和用户界面](/help/introduction/key-capabilities-and-user-interface.md)
@@ -45,7 +45,7 @@ ht-degree: 99%
    + [发布历程](/help/create-journeys/publish-a-journey.md)
    + [更新实时历程中的内容](/help/create-journeys/update-content-in-live-journey.md)
    + [将历程复制到另一个沙盒](/help/create-journeys/copy-a-journey.md)
-+ 用户档案、受众和订阅{#profiles-audiences-subscriptions}
++ 用户档案、受众和订阅 {#profiles-audiences-subscriptions}
    + [用户档案和受众 - 概述](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
    + [统一的轮廓和分段 - 概述](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [使用规则生成器创建受众](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
@@ -82,7 +82,7 @@ ht-degree: 99%
       + [配置、创作和投放短信消息](/help/channels/author-sms-messages.md)
       + [创建彩信](/help/channels/author-mms.md)
       + [短信 - Sinch 和 Infobip 的双重选择加入](/help/channels/sms-double-opt-in.md)
-   + Web 渠道 {#web-channel}
+   + 网页渠道 {#web-channel}
       + [Web 个性化 - 概述](/help/channels/web-personalization-overview.md)
       + [创建 Web 营销活动](/help/channels/create-a-web-campaign.md)
       + [创建 Web 营销活动](/help/channels/author-a-web-campaign.md)
@@ -95,17 +95,17 @@ ht-degree: 99%
    + [管理片段](/help/content-management/manage-fragments.md)
    + [创建表达式片段](/help/content-management/expression-fragments.md)
    + [试验 - 概述](/help/content-management/experimentation-overview.md)
-   + [使用GenStudio创建电子邮件](/help/content-management/create-an-email-using-genstudio.md)
-   + 多语言消息传送{#multilingual-messaging}
+   + [使用 GenStudio 创建电子邮件](/help/content-management/create-an-email-using-genstudio.md)
+   + 多语言消息传送 {#multilingual-messaging}
       + [设置多语言消息传送](/help/content-management/set-up-multilingual-messages.md)
       + [创建多语言消息](/help/content-management/create-multilingual-messages.md)
-   + 用于内容生成的 AI 助手{#content-accelerator}
+   + 用于内容生成的 AI 助手 {#content-accelerator}
       + [用于内容生成的 AI 助手 - 概述](/help/content-management/ai-assistant-content-accelerator-overview.md)
       + [借助用于内容生成的 AI 助手创建内容](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
    + 内容模板{#content-templates}
       + [创建内容模板](/help/content-management/templates/create-content-templates.md)
       + [锁定模板中的内容](/help/content-management/templates/content-locking.md)
-+ 个性化内容{#personalize-content}
++ 个性化内容 {#personalize-content}
    + [个性化编辑器 - 概述](/help/personalize-content/personalization-editor-overview.md)
    + [根据轮廓和受众会员资格进行个性化](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
    + [将产品建议作为个性化内容添加](/help/personalize-content/add-offer-decisioning-to-messages.md)
@@ -117,7 +117,7 @@ ht-degree: 99%
    + 决策 {#decisioning}
       + [决策功能简介](/help/decisioning/introduction-to-decisioning.md)
       + [端到端决策演练](/help/decisioning/decisioning-end-to-end.md)
-   + 决策管理{#decision-management}
+   + 决策管理 {#decision-management}
       + [决策管理简介](/help/decision-management/introduction-to-decision-management.md)
       + [决策管理功能演示](/help/decision-management/demo-of-decision-management-capabilities.md)
       + [创建放置环境](/help/decision-management/create-placements.md)
@@ -138,7 +138,7 @@ ht-degree: 99%
    + [配置源连接器](/help/data-management/configure-source-connectors.md)
    + [配置数据集导出目标](/help/data-management/configure-dataset-export-destination.md)
    + [将数据集导出到云存储位置](/help/data-management/export-datasets.md)
-+ 报告和监测{#report-and-monitor}
++ 报告和监测 {#report-and-monitor}
    + [测量和报告 - 概述](/help/report-and-monitor/measurement-and-reporting-overview.md)
    + [实时和全局报表](/help/report-and-monitor/live-and-global-reports.md)
    + [渠道级别报告](/help/report-and-monitor/channel-level-reports.md)
@@ -159,21 +159,21 @@ ht-degree: 99%
       + [配置数据源](/help/set-up-journeys/configure-data-sources.md)
       + [创建事件](/help/set-up-journeys/create-events.md)
       + [创建操作](/help/set-up-journeys/create-actions.md)
-   + 业务规则{#business-rules}
+   + 业务规则 {#business-rules}
       + [配置频率上限规则](/help/business-rules/configure-frequency-capping-rules.md)
       + [使用规则集](/help/business-rules/work-with-rule-sets.md)
       + [测试和报告频率规则](/help/business-rules/test-and-report-on-frequency-rules.md)
-+ 访问控制{#access-control}
++ 访问控制 {#access-control}
    + [访问管理](/help/set-up-access/access-management.md)
    + [配置基于属性的访问控制](/help/administration/attribute-based-access-control.md)
    + [使用沙盒](/help/set-up-access/create-and-manage-sandboxes.md)
-+ 数据治理和隐私{#data-governance-and-privacy}
++ 数据管理和隐私 {#data-governance-and-privacy}
    + [数据治理框架](/help/privacy/data-governance-framework.md)
    + [使用标签对数据进行分类](/help/privacy/classify-data-using-lables.md)
    + [创建数据使用策略](/help/privacy/create-data-usage-policies.md)
    + [在 Journey Optimizer 渠道中实施数据使用策略](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [屏蔽消息中的数据](/help/privacy/mask-data-in-messages.md)
-+ 练习和挑战{#exercises-and-challenges}
++ 练习和挑战 {#exercises-and-challenges}
    + [配置培训沙盒](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=zh-Hans)
    + [挑战](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=zh-Hans)
 + [Experience League Live 节目录像](/help/experience-league-live-show-recordings.md)
