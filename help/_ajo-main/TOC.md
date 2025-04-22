@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: 1f1b42fdd644cf9ac17e8ed055a521f114e5bb14
-workflow-type: ht
-source-wordcount: '662'
-ht-degree: 100%
+source-git-commit: 602252c2f39bb97486460486ef9a6fec628a3aee
+workflow-type: tm+mt
+source-wordcount: '671'
+ht-degree: 99%
 
 ---
 
@@ -89,22 +89,25 @@ ht-degree: 100%
       + [Web 编辑器中的 SPA 支持](/help/channels/singel-page-application-support.md)
 + 内容管理{#content-management}
    + [消息创作 - 概述](/help/content-management/message-authoring-overview.md)
-   + [数字资源管理 - 概述](/help/content-management/digital-asset-management-overview.md)
-   + [管理资源](/help/assets-essentials-overview.md)
-   + [使用 Adobe Express 编辑资源](/help/content-management/edit-assets-with-adobe-express.md)
-   + [管理片段](/help/content-management/manage-fragments.md)
-   + [创建表达式片段](/help/content-management/expression-fragments.md)
-   + [试验 - 概述](/help/content-management/experimentation-overview.md)
-   + [使用 GenStudio 创建电子邮件](/help/content-management/create-an-email-using-genstudio.md)
+   + [管理资源]{#assets}
+      + [数字资源管理 - 概述](/help/content-management/digital-asset-management-overview.md)
+      + [管理资源](/help/assets-essentials-overview.md)
+      + [使用 Adobe Express 编辑资源](/help/content-management/edit-assets-with-adobe-express.md)
+   + 使用片段 {#fragments}
+      + [管理片段](/help/content-management/manage-fragments.md)
+      + [创建表达式片段](/help/content-management/expression-fragments.md)
+      + [使用AEM内容片段](/help/content-management/aem_content_fragments.md)
+   + 内容模板{#content-templates}
+      + [创建内容模板](/help/content-management/templates/create-content-templates.md)
+      + [锁定模板中的内容](/help/content-management/templates/content-locking.md)
    + 多语言消息传送 {#multilingual-messaging}
       + [设置多语言消息传送](/help/content-management/set-up-multilingual-messages.md)
       + [创建多语言消息](/help/content-management/create-multilingual-messages.md)
    + 用于内容生成的 AI 助手 {#content-accelerator}
       + [用于内容生成的 AI 助手 - 概述](/help/content-management/ai-assistant-content-accelerator-overview.md)
       + [借助用于内容生成的 AI 助手创建内容](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
-   + 内容模板{#content-templates}
-      + [创建内容模板](/help/content-management/templates/create-content-templates.md)
-      + [锁定模板中的内容](/help/content-management/templates/content-locking.md)
+   + [试验 - 概述](/help/content-management/experimentation-overview.md)
+   + [使用 GenStudio 创建电子邮件](/help/content-management/create-an-email-using-genstudio.md)
 + 个性化内容 {#personalize-content}
    + [个性化编辑器 - 概述](/help/personalize-content/personalization-editor-overview.md)
    + [根据轮廓和受众会员资格进行个性化](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
