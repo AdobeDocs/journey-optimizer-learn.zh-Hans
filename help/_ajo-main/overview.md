@@ -7,10 +7,10 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 66092b7d9d2a377dcd3ad1e5a9da7891b117f7be
-workflow-type: ht
-source-wordcount: '378'
-ht-degree: 100%
+source-git-commit: 812d668949923db814f0ec44d858b72d9bac472d
+workflow-type: tm+mt
+source-wordcount: '375'
+ht-degree: 90%
 
 ---
 
@@ -49,15 +49,15 @@ Journey Optimizer 使公司能够创建有黏性的情境式个性化客户体�
 <tr>
     <td>
     <a href="../content-management/ai-assistant-content-accelerator-overview.md">
-      <img alt="使用 AI 助手内容加速器创建内容（视频）" src="../assets/3434635.jpg"/>
+      <img alt="使用AI助手内容加速器创建内容（视频）" src="../assets/3434635.jpg"/>
     </a>
     <div>
       <a href="../content-management/ai-assistant-content-accelerator-overview.md">
-    <strong>使用 AI 助手内容加速器创建内容</strong>
-    </a>
+    <strong>使用AI Assistant内容加速器创建内容</strong>
+    </a>
     </div>
     <p>
-    <em>了解如何使用 AI 助手内容加速器为文本和图像生成主动内容变体建议。
+    <em>了解如何使用AI Assistant Content Accelerator为文本和图像生成主动内容变体建议。
 </em>
     <p>
   </td>
