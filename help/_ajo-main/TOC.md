@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: bc284bc408bb05e9454b3de4193b05c95643797b
+source-git-commit: 6dd5b60426226724bb7855594fac387f7f6d8a7d
 workflow-type: tm+mt
 source-wordcount: '671'
 ht-degree: 99%
@@ -89,7 +89,7 @@ ht-degree: 99%
       + [Web 编辑器中的 SPA 支持](/help/channels/singel-page-application-support.md)
 + 内容管理{#content-management}
    + [消息创作 - 概述](/help/content-management/message-authoring-overview.md)
-   + [管理资源]{#assets}
+   + 管理资产 {#assets}
       + [数字资源管理 - 概述](/help/content-management/digital-asset-management-overview.md)
       + [管理资源](/help/assets-essentials-overview.md)
       + [使用 Adobe Express 编辑资源](/help/content-management/edit-assets-with-adobe-express.md)
