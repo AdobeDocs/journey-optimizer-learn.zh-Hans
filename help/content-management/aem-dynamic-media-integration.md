@@ -9,18 +9,23 @@ doc-type: Feature Video
 duration: 222
 last-substantial-update: 2025-04-23T00:00:00Z
 jira: KT-17533
-hidefromtoc: true
-hide: true
-index: false
-source-git-commit: b5f93bf73bc58eb170b5b10158a85ed69dfa1c1a
+hidefromtoc: false
+hide: false
+index: true
+badge: label="限量发布版" type="Informative"
+exl-id: bb544d0d-4c11-412c-afa9-377d784c33e2
+source-git-commit: 948d5467594acb7d3e0a4e0cc64fcf68285a71ba
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 0%
+source-wordcount: '122'
+ht-degree: 17%
 
 ---
 
-
 # Adobe Experience Manager Dynamic Media集成
+
+>[!AVAILABILITY]
+>
+>此集成仅面向一部分组织（有限发布版）。要获得访问权限，请与 Adobe 代表联系。
 
 了解如何将Adobe Experience Manager Dynamic Media与Adobe Journey Optimizer集成以实现实时内容更新和个性化。
 
