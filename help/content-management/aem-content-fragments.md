@@ -1,6 +1,6 @@
 ---
-title: 使用Adobe Experience Manager内容片段
-description: 了解Adobe Experience Manager (AEM)如何与Adobe Journey Optimizer无缝集成以简化内容管理并确保跨渠道的品牌一致性。 了解如何创建、批准和渲染内容片段，以及轻松地交换和模拟新内容。 非常适合寻求高效的内容管理和一致的品牌推广的用户。
+title: 使用 Adobe Experience Manager 内容片段
+description: 了解 Adobe Experience Manager (AEM) 如何与 Adobe Journey Optimizer 无缝集成，以简化内容管理并确保各渠道中的品牌一致性。 了解如何创建、批准和渲染内容片段，以及轻松交换和模拟新内容。 非常适合寻求高效的内容管理和一致的品牌推广的用户。
 feature: Fragments
 topic: Content Management
 role: User
@@ -16,12 +16,12 @@ index: false
 source-git-commit: 210b854d56cc71193476118aacf5469068e84eda
 workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 使用Adobe Experience Manager内容片段
+# 使用 Adobe Experience Manager 内容片段
 
-了解Adobe Experience Manager (AEM)如何与Adobe Journey Optimizer无缝集成以简化内容管理并确保跨渠道的品牌一致性。 了解如何创建、批准和渲染内容片段，以及轻松地交换和模拟新内容。 非常适合寻求高效的内容管理和一致的品牌推广的用户。
+了解 Adobe Experience Manager (AEM) 如何与 Adobe Journey Optimizer 无缝集成，以简化内容管理并确保各渠道中的品牌一致性。 了解如何创建、批准和渲染内容片段，以及轻松交换和模拟新内容。 非常适合寻求高效的内容管理和一致的品牌推广的用户。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457691/?learn=on&enablevpops)
