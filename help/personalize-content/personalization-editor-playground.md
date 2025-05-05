@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # Personalization编辑器游乐场
 
-[个性化编辑器游乐场](https://experienceleague.adobe.com/en/apps/journey-optimizer/ajo-personalization#)提供了一个模拟环境，可以使用示例数据编写和测试个性化代码，而无需实时数据集。
+[个性化编辑器游乐场](https://experienceleague.adobe.com/zh-hans/apps/journey-optimizer/ajo-personalization#)提供了一个模拟环境，可以使用示例数据编写和测试个性化代码，而无需实时数据集。
 
 了解如何利用预定义的代码示例、编辑虚拟配置文件负载以及实时预览个性化代码的输出。
 

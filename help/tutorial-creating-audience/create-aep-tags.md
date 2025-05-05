@@ -19,7 +19,7 @@ ht-degree: 2%
 
 Adobe Experience Platform Tags(以前称为Adobe Launch)可帮助在您的网站上管理和部署*营销和分析技术，而无需更改网站的代码。
 
-此[视频介绍了创建Adobe Experience Tags的过程](https://experienceleague.adobe.com/en/playlists/experience-platform-get-started-with-tags)
+此[视频介绍了创建Adobe Experience Tags的过程](https://experienceleague.adobe.com/zh-hans/playlists/experience-platform-get-started-with-tags)
 
 * 登录到数据收集
 * 单击“标记” — >“新建属性”

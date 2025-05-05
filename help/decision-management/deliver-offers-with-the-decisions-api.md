@@ -23,4 +23,4 @@ ht-degree: 100%
 
 >[!INFO]
 >
-> 此视频是[面向营销人员的决策管理入门](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)课程的一部分，可在 Experience League 上免费观看！
+> 此视频是[面向营销人员的决策管理入门](https://experienceleague.adobe.com/?lang=zh-hans&recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)课程的一部分，可在 Experience League 上免费观看！
