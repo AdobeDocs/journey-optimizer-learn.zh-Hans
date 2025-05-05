@@ -23,4 +23,4 @@ ht-degree: 100%
 * 在消息中集成（取消）订阅选项
 * 配置相关历程
 
->[!VIDEO](https://video.tv.adobe.com/v/341280?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/344396?quality=12&learn=on&captions=chi_hans){transcript=true}

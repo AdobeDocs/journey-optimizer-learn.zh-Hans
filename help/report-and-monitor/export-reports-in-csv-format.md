@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解如何为报告和单个构件下载 CSV 报告。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424603/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439624/?learn=on&captions=chi_hans)

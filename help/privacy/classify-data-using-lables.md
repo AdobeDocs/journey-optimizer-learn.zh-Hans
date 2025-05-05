@@ -24,4 +24,4 @@ ht-degree: 100%
 >
 >此视频演示了 Adobe Experience Platform 用户界面中的这项功能。在 Journey Optimizer 用户界面左侧导航的“数据管理”部分中，提供了相同的功能。
 
->[!VIDEO](https://video.tv.adobe.com/v/29709?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422787?learn=on&captions=chi_hans)

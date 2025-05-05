@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解 Journey Optimizer 的主要功能和角色。了解如何在用户界面中导航。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424995?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430322?quality=12&learn=on&captions=chi_hans){transcript=true}

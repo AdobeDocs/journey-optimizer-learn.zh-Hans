@@ -21,4 +21,4 @@ ht-degree: 57%
 
 了解如何为 SMS 配置双重选择加入。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427129/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3440290/?learn=on&captions=chi_hans)

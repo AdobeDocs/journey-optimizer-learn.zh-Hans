@@ -22,7 +22,7 @@ ht-degree: 100%
 
 了解什么是 IP 预热，并学习如何在 Adobe Journey Optimizer 中设置和执行 IP 预热计划。
 
->[!VIDEO](https://video.tv.adobe.com/v/3432637/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453850/?learn=on&captions=chi_hans)
 
 要获取关于[目标选择条件](https://experienceleague.adobe.com/zh-hans/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/targeting-criteria)、[IP 预热期间的 ISP 特定考虑因素](https://experienceleague.adobe.com/zh-hans/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/isp-specific-considerations-during-ip-warming)和 IP 预热期间[数量](https://experienceleague.adobe.com/zh-hans/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/volume)的最佳实践，请参阅[可投放性最佳实践指南](https://experienceleague.adobe.com/zh-hans/docs/deliverability-learn/deliverability-best-practice-guide/introduction)。
 

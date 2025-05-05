@@ -20,6 +20,6 @@ ht-degree: 100%
 
 了解如何使用 XDM 个人用户档案类别和各种字段组在 Adobe Experience Platform 中创建架构。
 
->[!VIDEO](https://video.tv.adobe.com/v/27012?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430217?quality=12&learn=on&captions=chi_hans){transcript=true}
 
 有关详细的产品文档，请参阅[架构入门](https://experienceleague.adobe.com/docs/journey-optimizer/using/data-management/get-started-schemas.html?lang=zh-Hans)、[在 UI 中创建架构](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=zh-Hans)和[使用 API 创建架构](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-api.html?lang=zh-Hans)。

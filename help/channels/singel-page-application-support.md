@@ -30,4 +30,4 @@ ht-degree: 100%
 
 有关更多信息，请访问 [Web 渠道入门文档](https://experienceleague.adobe.com/docs/journey-optimizer/using/web/get-started-web.html?lang=zh-Hans)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424536/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446895/?learn=on&captions=chi_hans)

@@ -18,6 +18,6 @@ ht-degree: 100%
 
 了解如何为决策管理创建[后备优惠](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/managing-offers-in-the-offer-library/creating-fallback-offers.html?lang=zh-Hans)。后备优惠是向不符合任何个性化优惠条件的客户显示的默认优惠。
 
->[!VIDEO](https://video.tv.adobe.com/v/329383?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/341342?quality=12&learn=on&captions=chi_hans){transcript=true}
 
 要了解有关如何使用 API 创建后备优惠的更多信息，请参阅[产品指南](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/fallback-offers/create.html?lang=zh-Hans)

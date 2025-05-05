@@ -20,4 +20,4 @@ ht-degree: 100%
 
 了解如何导入现有 HTML 内容、调整设计、添加镜像页面和取消订阅链接，以及如何对内容进行编码。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427083?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430266?quality=12&learn=on&captions=chi_hans){transcript=true}

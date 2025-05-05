@@ -23,4 +23,4 @@ ht-degree: 100%
 
 多语言消息功能允许您在单个营销活动或历程中创建多种语言的内容。了解如何在 Journey Optimizer 中创建多语言消息。
 
->[!VIDEO](https://video.tv.adobe.com/v/3430921/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452124/?learn=on&captions=chi_hans)

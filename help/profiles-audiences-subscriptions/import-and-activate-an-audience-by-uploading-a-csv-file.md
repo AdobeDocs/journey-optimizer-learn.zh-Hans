@@ -20,4 +20,4 @@ ht-degree: 100%
 
 了解如何通过上传 CSV 文件来高效导入和激活受众。了解如何使用 CSV 文件中的扩充属性个性化内容，确保为受众提供更加定制化的体验。
 
->[!VIDEO](https://video.tv.adobe.com/v/3444298/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444353/?learn=on&enablevpops&captions=chi_hans)

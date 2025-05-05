@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解如何将 Journey Optimizer 连接到彩信服务提供商，以及如何创建彩信渠道表面。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428816/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3437110/?learn=on&captions=chi_hans)

@@ -20,4 +20,4 @@ ht-degree: 100%
 
 了解如何创建数据集、将其映射到架构、向其添加数据、确认已摄取数据。
 
->[!VIDEO](https://video.tv.adobe.com/v/334293?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416647?quality=12&learn=on&captions=chi_hans){transcript=true}

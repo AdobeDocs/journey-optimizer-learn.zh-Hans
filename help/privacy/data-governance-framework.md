@@ -22,7 +22,7 @@ ht-degree: 100%
 
 了解 Adobe Experience Platform 中的数据治理框架。
 
->[!VIDEO](https://video.tv.adobe.com/v/29708/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/32134/?learn=on&captions=chi_hans)
 
 有关 Journey Optimizer 中的[数据治理](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/privacy/action-privacy-restricted)的更多信息，请参阅产品文档。
 

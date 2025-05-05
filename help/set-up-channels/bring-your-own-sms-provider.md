@@ -23,4 +23,4 @@ ht-degree: 100%
 
 了解如何在 Journey Optimizer 中添加和配置默认提供商 Sinch、Infobip 和 Twilio 之外的其他短信提供商。
 
->[!VIDEO](https://video.tv.adobe.com/v/3432088/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443638/?learn=on&captions=chi_hans)

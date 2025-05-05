@@ -21,4 +21,4 @@ ht-degree: 100%
 Journey Optimizer 的报告功能现在与 Customer Journey Analytics 功能完全集成，在两个平台之间实现了报告标准化，并提高了数据一致性和可靠性。Journey Optimizer 与 Customer Journey Analytics 之间的这种无缝集成能够帮助更清晰地了解绩效指标，使用户能够做出更加明智的决策。
 有关详细信息，请参阅 [Customer Journey Analytics 中的分析](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/reporting/channel-report/report-cja-manage#analyze){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/3430413/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443161/?learn=on&captions=chi_hans)

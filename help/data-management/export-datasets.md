@@ -27,6 +27,6 @@ ht-degree: 100%
 >[!NOTE]
 >在 Beta 阶段，会显示所有数据集。此功能正式发布后，将仅限用于系统生成的数据集。
 
->[!VIDEO](https://video.tv.adobe.com/v/3418688/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432006/?quality=12&learn=on&captions=chi_hans){transcript=true}
 
 有关更多信息，请参阅[产品文档](https://experienceleague.adobe.com/docs/journey-optimizer/using/data-management/datasets/export-datasets.html?lang=zh-Hans)。

@@ -20,6 +20,6 @@ ht-degree: 15%
 
 了解如何创建客户频率上限规则集，以根据通信类型限制发送给客户的通信数量。
 
->[!VIDEO](https://video.tv.adobe.com/v/3435531/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444736/?learn=on&enablevpops&captions=chi_hans)
 
 有关更多信息，请参阅[产品文档](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/configuration/rule-sets)。

@@ -23,4 +23,4 @@ ht-degree: 100%
 
 了解如何创建消息预设、如何使用这些预设以及如何委派子域和创建 IP 池。
 
->[!VIDEO](https://video.tv.adobe.com/v/334343?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416657?quality=12&learn=on&captions=chi_hans){transcript=true}

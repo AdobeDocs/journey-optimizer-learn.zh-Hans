@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解如何将 Journey Optimizer 连接到短信服务提供商，以及如何创建短信渠道平面。
 
->[!VIDEO](https://video.tv.adobe.com/v/3413355?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3418543?quality=12&learn=on&captions=chi_hans){transcript=true}

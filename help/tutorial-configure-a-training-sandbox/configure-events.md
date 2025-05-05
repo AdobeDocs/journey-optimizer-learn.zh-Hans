@@ -21,7 +21,7 @@ ht-degree: 100%
 
 以下视频介绍了如何创建事件：
 
->[!VIDEO](https://video.tv.adobe.com/v/336253?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431516?quality=12&learn=on&captions=chi_hans){transcript=true}
 
 ## 创建 Luma 在线购买事件
 

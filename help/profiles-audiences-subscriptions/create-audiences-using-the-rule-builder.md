@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解 Journey Optimizer 如何使用规则生成受众，并了解如何使用属性、事件和现有受众创建受众。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425020?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430330?quality=12&learn=on&captions=chi_hans){transcript=true}

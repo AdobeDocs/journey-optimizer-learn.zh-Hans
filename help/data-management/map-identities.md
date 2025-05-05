@@ -20,4 +20,4 @@ ht-degree: 100%
 
 了解如何以及何时将架构字段标记为身份，如何创建命名空间，何时将某个身份设为主要身份，以及如何摄取和验证身份数据。
 
->[!VIDEO](https://video.tv.adobe.com/v/335918?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3418468?quality=12&learn=on&captions=chi_hans){transcript=true}

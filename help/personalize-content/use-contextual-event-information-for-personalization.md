@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解如何使用历程中的情境式事件信息来对消息进行个性化。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425027?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3428535?quality=12&learn=on&captions=chi_hans){transcript=true}

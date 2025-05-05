@@ -18,4 +18,4 @@ ht-degree: 100%
 
 了解各家品牌可以如何使用决策管理功能来定义和管理优惠、利用实时客户数据，以及提供与客户预期相符的体验。
 
->[!VIDEO](https://video.tv.adobe.com/v/326841?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/340353?quality=12&learn=on&captions=chi_hans){transcript=true}

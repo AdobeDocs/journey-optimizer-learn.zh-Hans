@@ -19,6 +19,6 @@ ht-degree: 100%
 
 了解如何为决策管理创建[决策](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioning/create-manage-activities/create-offer-activities.html?lang=zh-Hans)。决策可将您的投放位置和收藏集合并为一个实体，以便做出可以为客户提供最相关优惠的决策。
 
->[!VIDEO](https://video.tv.adobe.com/v/329606?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/346691?quality=12&learn=on&captions=chi_hans){transcript=true}
 
 要详细了解如何使用批量决策 API 创建决策，请参阅[产品指南](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioning/api-reference/offer-delivery-api/batch-decisioning-api.html?lang=zh-Hans)。

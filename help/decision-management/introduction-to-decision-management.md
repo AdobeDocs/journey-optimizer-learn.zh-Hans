@@ -18,7 +18,7 @@ ht-degree: 100%
 
 概要了解 Journey Optimizer 的决策管理。该视频介绍了决策管理功能可解决的业务挑战、关键功能、基本架构和主要使用案例。
 
->[!VIDEO](https://video.tv.adobe.com/v/326961?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/340414?quality=12&learn=on&captions=chi_hans){transcript=true}
 
 
 

@@ -21,6 +21,6 @@ ht-degree: 100%
 
 了解操作是什么，如何使用 Journey Optimizer 中的“编辑用户档案”和“跳转”操作，以及如何配置自定义操作。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428396?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430276?quality=12&learn=on&captions=chi_hans){transcript=true}
 
 访问产品文档，详细了解如何[配置自定义操作](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/configuration/configure-journeys/action-journeys/about-custom-action-configuration){target="_blank"}。

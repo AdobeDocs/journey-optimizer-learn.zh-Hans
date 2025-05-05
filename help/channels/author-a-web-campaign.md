@@ -23,4 +23,4 @@ ht-degree: 100%
 >[!NOTE]
 > 您必须安装 [Adobe Experience Cloud 可视化编辑帮助程序 Chrome 扩展程序](https://chrome.google.com/webstore/detail/adobe-experience-cloud-vi/kgmjjkfjacffaebgpkpcllakjifppnca)才能将网站加载到 Adobe Journey Optimizer 中。
 
->[!VIDEO](https://video.tv.adobe.com/v/3418803/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452645/?quality=12&learn=on&captions=chi_hans){transcript=true}

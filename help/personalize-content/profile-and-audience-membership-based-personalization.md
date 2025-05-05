@@ -20,4 +20,4 @@ ht-degree: 100%
 
 了解如何在消息中添加基于用户档案的个性化推送，以及如何将受众会员资格用作个性化块的先决条件。
 
->[!VIDEO](https://video.tv.adobe.com/v/334078?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416235?quality=12&learn=on&captions=chi_hans){transcript=true}

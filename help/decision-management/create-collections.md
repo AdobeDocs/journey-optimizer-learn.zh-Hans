@@ -20,4 +20,4 @@ ht-degree: 100%
 
 收藏集用来管理逻辑组中的优惠，它也是针对决策管理活动进行构建所必需的。您可使用动态收藏集根据标记对优惠进行分组，使用静态收藏集手动整理优惠。
 
->[!VIDEO](https://video.tv.adobe.com/v/329376?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/346685?quality=12&learn=on&captions=chi_hans){transcript=true}

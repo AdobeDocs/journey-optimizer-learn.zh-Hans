@@ -18,4 +18,4 @@ ht-degree: 100%
 
 了解如何在消息中使用已保存的个性化库项目，以及如何创建和管理个性化库项目。
 
->[!VIDEO](https://video.tv.adobe.com/v/340941?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/344983?quality=12&learn=on&captions=chi_hans){transcript=true}

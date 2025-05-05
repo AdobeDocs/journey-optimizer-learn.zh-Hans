@@ -20,4 +20,4 @@ ht-degree: 100%
 
 了解实时报表和全局报表之间的差异，如何访问和分析历程和消息特定报表，以及如何修改报表仪表板。 
 
->[!VIDEO](https://video.tv.adobe.com/v/334108?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416273?quality=12&learn=on&captions=chi_hans){transcript=true}

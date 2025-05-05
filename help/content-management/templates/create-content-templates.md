@@ -19,4 +19,4 @@ ht-degree: 100%
 
 了解如何创建、编辑和使用内容模板。
 
->[!VIDEO](https://video.tv.adobe.com/v/3413743?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3418582?quality=12&learn=on&captions=chi_hans){transcript=true}

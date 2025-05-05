@@ -20,4 +20,4 @@ ht-degree: 100%
 
 了解如何创建统一的用户档案，然后根据用户档案属性构建区段，以便个性化客户历程。
 
->[!VIDEO](https://video.tv.adobe.com/v/342114?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/345506?quality=12&learn=on&captions=chi_hans){transcript=true}

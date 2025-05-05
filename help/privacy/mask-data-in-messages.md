@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解数据屏蔽的含义以及何时且为什么需要屏蔽数据。了解如何屏蔽 Journey Optimizer 消息中的数据。
 
->[!VIDEO](https://video.tv.adobe.com/v/3409395?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413050?quality=12&learn=on&captions=chi_hans){transcript=true}

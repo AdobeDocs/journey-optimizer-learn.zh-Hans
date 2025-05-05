@@ -20,4 +20,4 @@ ht-degree: 0%
 
 了解如何使用Adobe Journey Optimizer中的“行动手册”功能实施放弃的购物车用例。
 
->[!VIDEO](https://video.tv.adobe.com/v/3443964/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443974/?learn=on&enablevpops&captions=chi_hans)

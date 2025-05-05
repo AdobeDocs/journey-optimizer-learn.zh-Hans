@@ -22,4 +22,4 @@ ht-degree: 100%
 
 了解如何为您的应用程序创建内容卡。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434783/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434793/?learn=on&captions=chi_hans)

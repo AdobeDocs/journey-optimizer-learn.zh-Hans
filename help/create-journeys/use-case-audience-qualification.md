@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解受众鉴别历程的适用用例。了解如何使用受众鉴别构建历程以及可以应用的最佳实践。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425028?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446214?quality=12&learn=on&captions=chi_hans){transcript=true}

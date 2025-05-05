@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解如何在渠道级别访问、导航和导出报告。有关更多信息，请访问[渠道报告文档](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/channel-report/channel-report.html?lang=zh-Hans)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424537/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448049/?learn=on&captions=chi_hans)

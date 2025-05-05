@@ -19,7 +19,7 @@ ht-degree: 100%
 
 以下视频教程说明了如何创建数据集和手动摄取数据：
 
->[!VIDEO](https://video.tv.adobe.com/v/334293?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416647?quality=12&learn=on&captions=chi_hans){transcript=true}
 
 创建以下数据集：
 

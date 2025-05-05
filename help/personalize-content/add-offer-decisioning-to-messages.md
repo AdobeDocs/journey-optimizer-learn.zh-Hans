@@ -20,4 +20,4 @@ ht-degree: 100%
 
 了解如何在 Journey Optimizer 中向消息添加决策管理组件。
 
->[!VIDEO](https://video.tv.adobe.com/v/334088?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3415686?quality=12&learn=on&captions=chi_hans){transcript=true}

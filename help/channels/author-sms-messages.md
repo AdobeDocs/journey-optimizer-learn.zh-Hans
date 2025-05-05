@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解如何在 Journey Optimizer 营销活动和历程中配置、创作和投放短信消息。
 
->[!VIDEO](https://video.tv.adobe.com/v/3420509?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422699?quality=12&learn=on&captions=chi_hans){transcript=true}

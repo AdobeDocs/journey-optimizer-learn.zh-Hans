@@ -22,4 +22,4 @@ ht-degree: 100%
 
 有关从 Adobe Journey Optimizer 将数据集导出到云存储位置的更多信息，请访问[文档](https://experienceleague.adobe.com/docs/journey-optimizer/using/data-management/datasets/export-datasets.html?lang=zh-Hans)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424392/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448828/?learn=on&captions=chi_hans)

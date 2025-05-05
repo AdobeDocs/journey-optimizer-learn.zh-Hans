@@ -20,4 +20,4 @@ ht-degree: 100%
 
 了解如何使用 CNAME 创建子域以指向特定于 Adobe 的记录。
 
->[!VIDEO](https://video.tv.adobe.com/v/339484?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/342228?quality=12&learn=on&captions=chi_hans){transcript=true}

@@ -20,4 +20,4 @@ ht-degree: 100%
 
 了解如何设置直邮渠道以及如何创建和预览直邮营销活动。
 
->[!VIDEO](https://video.tv.adobe.com/v/3422019/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449364/?learn=on&captions=chi_hans){transcript=true}

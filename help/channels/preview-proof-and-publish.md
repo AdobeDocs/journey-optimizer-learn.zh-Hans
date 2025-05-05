@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解如何使用 Litmus 跨收件箱测试电子邮件呈现，如何根据测试资料预览个性化电子邮件、发送验证和发布电子邮件。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425026?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430336?quality=12&learn=on&captions=chi_hans){transcript=true}

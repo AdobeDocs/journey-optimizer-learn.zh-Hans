@@ -28,6 +28,6 @@ ht-degree: 100%
 >
 >观看此[教程](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)，了解如何在 Journey Optimizer 渠道中实施策略。
 
->[!VIDEO](https://video.tv.adobe.com/v/32977/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37121/?learn=on&captions=chi_hans)
 
 有关如何在 Journey Optimizer 中[使用同意策略](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/privacy/consent/consent-restricted)的更多信息，请参阅产品文档。

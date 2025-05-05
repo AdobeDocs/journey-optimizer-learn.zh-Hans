@@ -22,4 +22,4 @@ ht-degree: 100%
 
 了解 Adobe Journey Optimizer 的基本架构、集成点以及 Journey Optimizer 与其他 Adobe 应用程序的关系。
 
->[!VIDEO](https://video.tv.adobe.com/v/334205?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3415691?quality=12&learn=on&captions=chi_hans){transcript=true}
