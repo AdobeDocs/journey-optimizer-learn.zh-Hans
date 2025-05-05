@@ -22,4 +22,4 @@ ht-degree: 62%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429845/?learn=on)
 
-有关Journey Optimizer中支持的用例的更多信息，请参阅[使用AI助手](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-assistant)。 有关详细文档，请访问Adobe Experience Platform](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/home)文档中的[AI助手。
+有关Journey Optimizer中支持的用例的更多信息，请参阅[使用AI助手](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-assistant)。 有关详细文档，请访问Adobe Experience Platform[&#128279;](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/home)文档中的AI助手。
