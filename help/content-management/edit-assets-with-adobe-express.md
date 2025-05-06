@@ -9,12 +9,12 @@ doc-type: Feature Video
 duration: 300
 last-substantial-update: 2025-03-27T00:00:00Z
 jira: KT-17529
-hidefromtoc: true
-hide: true
-index: false
+hidefromtoc: false
+hide: false
+index: true
 exl-id: c42fca4f-bc31-43ad-9e3a-9936a6623051
-source-git-commit: 55f3c99e9c21155ee227d73add83b4790b904d83
-workflow-type: ht
+source-git-commit: fd50ce73503ca6b42e0171d8476ea08928ebd165
+workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 100%
 
@@ -28,6 +28,6 @@ ht-degree: 100%
 
 了解如何使用 Adobe Express 工具在 Adobe Journey Optimizer 中编辑资源。
 
->[!VIDEO](https://video.tv.adobe.com/v/3455533/?learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3455523/?learn=on&enablevpops)
 
 有关如何从内容编辑器访问此功能的更多信息，请参阅 [Journey Optimizer 产品文档](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/assets-images/express)。要了解有关 Adobe Express 的更多信息，请参阅[此文档](https://helpx.adobe.com/cn/express/user-guide.html)。
