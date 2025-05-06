@@ -109,7 +109,7 @@ ht-degree: 1%
 
 1. 在以下文本字段中，添加一个您可以记住的&#x200B;*`<custom string value>`*。
 
-1. 要保存该值，请单击**[!UICONTROL 添加**] `<custom string value>`。
+1. 要保存该值，请单击&#x200B;**[!UICONTROL 添加**] `<custom string value>`。
 
    此自定义字符串值稍后将用于触发消息。
 
@@ -204,6 +204,7 @@ ht-degree: 1%
          5. 自定义位置
          6. 自定义动画
          7. 消息圆角
+
    <br>
 4. 当您完成内容创作并对消息感到满意时，请单击&#x200B;**[!UICONTROL 查看以激活]按钮**。
 
