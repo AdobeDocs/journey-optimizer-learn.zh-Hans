@@ -10,10 +10,10 @@ last-substantial-update: 2025-05-01T00:00:00Z
 jira: KT-17876
 index: false
 exl-id: 2e756b8a-4fd8-47d5-99ea-4a18cdd6d974
-source-git-commit: 4bc6062a440fb62b8a05c1bcfb5244eb75fb72c8
+source-git-commit: 2744e115ee5569328cb187d1288b4f01b22c82de
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 0%
+source-wordcount: '135'
+ht-degree: 3%
 
 ---
 
@@ -26,3 +26,9 @@ ht-degree: 0%
 在本课程中，您将内容试验应用于推送消息。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457924/?learn=on&enablevpops)
+
+## 其他资源
+
+* [试验 — 概述](/help/content-management/experimentation-overview.md)
+*[为电子邮件营销活动配置内容实验](/help/create-campaigns/content-experiments.md)
+* [推送通知 - 概述](/help/channels/push-notifications-overview.md)
