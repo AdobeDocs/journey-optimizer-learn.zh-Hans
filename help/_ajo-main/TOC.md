@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: f24ee1c6024e7ed7242448fe119a1437d6a69cb6
+source-git-commit: 55af4c67ad3839ac306416bdf58d7d98602cd8d3
 workflow-type: tm+mt
-source-wordcount: '707'
-ht-degree: 93%
+source-wordcount: '726'
+ht-degree: 92%
 
 ---
 
@@ -17,7 +17,6 @@ ht-degree: 93%
 + 用例 {#use-cases}
    + [客户加入](/help/use-cases/customer-onboarding.md)
    + [放弃购物车](/help/use-cases/abandoned-cart.md)
-   + [将编排扩展到全渠道参与](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 
 + Journey Optimizer 简介 {#introduction-to-journey-optimizer}
    + [Journey Optimizer - 概述](/help/introduction/journey-optimizer-overview.md)
@@ -190,6 +189,18 @@ ht-degree: 93%
    + [创建AEP标记](../tutorial-creating-audience/create-aep-tags.md)
    + [创建Web窗体](../tutorial-creating-audience/create-web-form.md)
    + [调试解决方案](../tutorial-creating-audience/debug.md)
++ 网页决策 {#getting-started-with-decisioning-webpage}
+   + [介绍](../getting-started-with-decisioning-webpage/introduction.md)
+   + [创建标记](../getting-started-with-decisioning-webpage/create-tags.md)
+   + [创建优惠](../getting-started-with-decisioning-webpage/create-offers.md)
+   + [创建收藏集](../getting-started-with-decisioning-webpage/create-collection.md)
+   + [创建选择策略](../getting-started-with-decisioning-webpage/create-selection-strategy.md)
+   + [创建渠道](../getting-started-with-decisioning-webpage/create-channel.md)
+   + [创建营销活动](../getting-started-with-decisioning-webpage/create-campaign.md)
+   + [创建决策策略](../getting-started-with-decisioning-webpage/create-decision-policy.md)
+   + [创建AEP标记](../getting-started-with-decisioning-webpage/create-aep-tags.md)
+   + [创建网页](../getting-started-with-decisioning-webpage/create-web-page.md)
+
 + Summit Labs {#summit-labs}
    + [使用 Adobe Journey Optimizer (2024) 构建个性化的移动体验](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
    + [在Adobe Journey Optimizer中将编排扩展到全渠道参与（2025年）](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
