@@ -7,13 +7,13 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-05T00:00:00Z
 jira: KT-17728
-source-git-commit: a675979bc590190e0481e63efbc2cfd30752b7c0
+exl-id: 186e4a7d-6077-401f-9958-2f955214bc35
+source-git-commit: 6bf0c2487afff4811aa94e9591ae29c38af15d34
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
 
 ---
-
 
 # 创建决策策略
 
@@ -42,4 +42,4 @@ ht-degree: 0%
 此代码会浏览为用户选择的个性化优惠列表，并在网页上显示每个优惠的文本。 该可视化图表在段落中显示来自每个选件的消息（称为offerText），以便用户清楚地看到其定制的内容。
 如果没有可用的个性化优惠，则会显示一个后备优惠，以确保空间不会留空。
 
-单击保存，然后单击激活营销活动
+单击保存，然后单击激活营销活动。
