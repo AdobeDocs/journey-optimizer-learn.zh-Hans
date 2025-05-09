@@ -20,7 +20,7 @@ ht-degree: 0%
 
 * 登录到Adobe Experience Platform
 
-* 在Journey Optimizer中创建一个名为财务顾问的基于XDM事件的架构。 如果您不熟悉如何创建架构，请按照此[文档](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui)进行操作
+* 在Journey Optimizer中创建一个名为财务顾问的基于XDM事件的架构。 如果您不熟悉如何创建架构，请按照此[文档](https://experienceleague.adobe.com/zh-hans/docs/experience-platform/xdm/tutorials/create-schema-ui)进行操作
 
 * 将以下结构添加到架构中。 PreferredFinancialInstrument元素存储用户对股票、债券、CD的偏好
   ![xdm-schema](assets/xdm-schema.png)
