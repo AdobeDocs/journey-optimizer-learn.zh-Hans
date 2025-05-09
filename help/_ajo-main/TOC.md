@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: 217e3e8b416c89f2d7141849028dc4d88e0bd484
+source-git-commit: 2ca9ffee1a2326b8ae55a8e8de496a632fea79c8
 workflow-type: tm+mt
-source-wordcount: '751'
+source-wordcount: '714'
 ht-degree: 96%
 
 ---
@@ -17,10 +17,8 @@ ht-degree: 96%
 + 用例 {#use-cases}
    + [客户加入](/help/use-cases/customer-onboarding.md)
    + [放弃购物车](/help/use-cases/abandoned-cart.md)
-   + [根据用户首选项创建受众](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/tutorial-creating-audiences/introduction)
-   + [网页上的决策](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/getting-started-with-decisioning-webpage/introduction)
+   + [提高客户参与度](/help/use-cases/enhance-customer-engagement.md)
    + [将编排扩展到全渠道参与](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
-
 + Journey Optimizer 简介 {#introduction-to-journey-optimizer}
    + [Journey Optimizer - 概述](/help/introduction/journey-optimizer-overview.md)
    + [Journey Optimizer 简介](/help/introduction/introduction.md)
@@ -55,6 +53,7 @@ ht-degree: 96%
    + [统一的轮廓和分段 - 概述](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [使用规则生成器创建受众](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [通过上传 CSV 文件创建受众。](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
+   + [使用Web SDK创建受众（教程）](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction)
    + [按需评估受众](https://experienceleague.adobe.com/zh-hans/docs/platform-learn/tutorials/audiences/evaluate-audiences-on-demand)
    + [订阅和登陆页面](/help/subscriptions-and-landing-pages.md)
 + 渠道 {#channels}
@@ -140,6 +139,7 @@ ht-degree: 96%
       + [创建决策](/help/decision-management/create-decisions.md)
       + [通过 Decisions API 提供产品建议](/help/decision-management/deliver-offers-with-the-decisions-api.md)
       + [频次上限](/help/decision-management/frequency-capping.md)
+   + [使用Decisioning个性化Web优惠（教程）](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction)
 + 数据管理 {#data-management}
    + [概述](/help/data-management/set-up-data-overview.md)
    + [创建架构](/help/data-management/create-schema.md)
@@ -187,24 +187,6 @@ ht-degree: 96%
    + [配置培训沙盒](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=zh-Hans)
    + [挑战](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=zh-Hans)
 + [Experience League Live 节目录像](/help/experience-league-live-show-recordings.md)
-+ 使用 Web SDK 创建受众 {#tutorial-creating-audiences}
-   + [简介](../tutorial-creating-audience/introduction.md)
-   + [创建架构、数据集等](../tutorial-creating-audience/create-schema-and-dataset.md)
-   + [创建 AEP 标记](../tutorial-creating-audience/create-aep-tags.md)
-   + [创建 Web 表单](../tutorial-creating-audience/create-web-form.md)
-   + [调试解决方案](../tutorial-creating-audience/debug.md)
-+ 网页决策 {#getting-started-with-decisioning-webpage}
-   + [介绍](../getting-started-with-decisioning-webpage/introduction.md)
-   + [创建标记](../getting-started-with-decisioning-webpage/create-tags.md)
-   + [创建优惠](../getting-started-with-decisioning-webpage/create-offers.md)
-   + [创建收藏集](../getting-started-with-decisioning-webpage/create-collection.md)
-   + [创建选择策略](../getting-started-with-decisioning-webpage/create-selection-strategy.md)
-   + [创建渠道](../getting-started-with-decisioning-webpage/create-channel.md)
-   + [创建营销活动](../getting-started-with-decisioning-webpage/create-campaign.md)
-   + [创建决策策略](../getting-started-with-decisioning-webpage/create-decision-policy.md)
-   + [创建 AEP 标记](../getting-started-with-decisioning-webpage/create-aep-tags.md)
-   + [创建网页](../getting-started-with-decisioning-webpage/create-web-page.md)
-
 + Summit Labs {#summit-labs}
    + [使用 Adobe Journey Optimizer (2024) 构建个性化的移动体验](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
    + [在 Adobe Journey Optimizer (2025) 中将编排扩展到全渠道参与](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
