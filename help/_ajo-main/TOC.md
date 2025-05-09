@@ -17,8 +17,8 @@ ht-degree: 96%
 + 用例 {#use-cases}
    + [客户加入](/help/use-cases/customer-onboarding.md)
    + [放弃购物车](/help/use-cases/abandoned-cart.md)
-   + [根据用户首选项创建受众](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/tutorial-creating-audiences/introduction)
-   + [网页上的决策](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/getting-started-with-decisioning-webpage/introduction)
+   + [根据用户首选项创建受众](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/tutorial-creating-audiences/introduction)
+   + [网页上的决策](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/getting-started-with-decisioning-webpage/introduction)
    + [将编排扩展到全渠道参与](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 
 + Journey Optimizer 简介 {#introduction-to-journey-optimizer}
