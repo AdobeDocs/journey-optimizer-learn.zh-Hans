@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: 2ca9ffee1a2326b8ae55a8e8de496a632fea79c8
+source-git-commit: 2790e0765b1a4ee281516c437ef18cf35c7bf4d2
 workflow-type: tm+mt
 source-wordcount: '714'
 ht-degree: 96%
@@ -17,7 +17,7 @@ ht-degree: 96%
 + 用例 {#use-cases}
    + [客户加入](/help/use-cases/customer-onboarding.md)
    + [放弃购物车](/help/use-cases/abandoned-cart.md)
-   + [提高客户参与度](/help/use-cases/enhance-customer-engagement.md)
+   + [提升客户参与度](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [将编排扩展到全渠道参与](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + Journey Optimizer 简介 {#introduction-to-journey-optimizer}
    + [Journey Optimizer - 概述](/help/introduction/journey-optimizer-overview.md)
@@ -53,7 +53,7 @@ ht-degree: 96%
    + [统一的轮廓和分段 - 概述](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [使用规则生成器创建受众](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [通过上传 CSV 文件创建受众。](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
-   + [使用Web SDK创建受众（教程）](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction)
+   + [使用Web SDK创建受众（教程）](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
    + [按需评估受众](https://experienceleague.adobe.com/zh-hans/docs/platform-learn/tutorials/audiences/evaluate-audiences-on-demand)
    + [订阅和登陆页面](/help/subscriptions-and-landing-pages.md)
 + 渠道 {#channels}
@@ -139,7 +139,7 @@ ht-degree: 96%
       + [创建决策](/help/decision-management/create-decisions.md)
       + [通过 Decisions API 提供产品建议](/help/decision-management/deliver-offers-with-the-decisions-api.md)
       + [频次上限](/help/decision-management/frequency-capping.md)
-   + [使用Decisioning个性化Web优惠（教程）](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction)
+   + [使用Decisioning个性化Web优惠（教程）](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
 + 数据管理 {#data-management}
    + [概述](/help/data-management/set-up-data-overview.md)
    + [创建架构](/help/data-management/create-schema.md)
