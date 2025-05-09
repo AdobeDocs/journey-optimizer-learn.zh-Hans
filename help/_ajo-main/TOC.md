@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 217e3e8b416c89f2d7141849028dc4d88e0bd484
 workflow-type: tm+mt
 source-wordcount: '751'
-ht-degree: 89%
+ht-degree: 96%
 
 ---
 
@@ -17,8 +17,8 @@ ht-degree: 89%
 + 用例 {#use-cases}
    + [客户加入](/help/use-cases/customer-onboarding.md)
    + [放弃购物车](/help/use-cases/abandoned-cart.md)
-   + [根据用户首选项创建受众](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/tutorial-creating-audiences/introduction)
-   + [网页上的决策](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/getting-started-with-decisioning-webpage/introduction)
+   + [根据用户首选项创建受众](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/tutorial-creating-audiences/introduction)
+   + 网页上的[决策](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/getting-started-with-decisioning-webpage/introduction)
    + [将编排扩展到全渠道参与](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 
 + Journey Optimizer 简介 {#introduction-to-journey-optimizer}
@@ -94,10 +94,10 @@ ht-degree: 89%
       + [Web 编辑器中的 SPA 支持](/help/channels/singel-page-application-support.md)
 + 内容管理{#content-management}
    + [消息创作 - 概述](/help/content-management/message-authoring-overview.md)
-   + 管理资产 {#assets}
+   + 管理资源 {#assets}
       + [数字资源管理 - 概述](/help/content-management/digital-asset-management-overview.md)
       + [管理资源](/help/assets-essentials-overview.md)
-      + [AEM Dynamic Media集成](/help/content-management/aem-dynamic-media-integration.md)
+      + [AEM Dynamic Media 集成](/help/content-management/aem-dynamic-media-integration.md)
       + [使用 Adobe Express 编辑资源](/help/content-management/edit-assets-with-adobe-express.md)
    + 使用片段 {#fragments}
       + [管理片段](/help/content-management/manage-fragments.md)
@@ -122,7 +122,7 @@ ht-degree: 89%
    + [使用辅助函数进行个性化](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [使用和管理个性化库中已保存的表达式](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
    + [使用条件规则生成器创建动态内容](/help/personalize-content/create-dynamic-content.md)
-   + [Personalization编辑器游乐场](/help/personalize-content/personalization-editor-playground.md)
+   + [个性化编辑器游乐场](/help/personalize-content/personalization-editor-playground.md)
 + 决策功能{#decision-capabilities}
    + 决策 {#decisioning}
       + [决策功能简介](/help/decisioning/introduction-to-decisioning.md)
@@ -186,12 +186,12 @@ ht-degree: 89%
 + 练习和挑战 {#exercises-and-challenges}
    + [配置培训沙盒](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=zh-Hans)
    + [挑战](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=zh-Hans)
-+ [Experience League Live Show录像](/help/experience-league-live-show-recordings.md)
-+ 使用Web SDK创建受众 {#tutorial-creating-audiences}
++ [Experience League Live 节目录像](/help/experience-league-live-show-recordings.md)
++ 使用 Web SDK 创建受众 {#tutorial-creating-audiences}
    + [简介](../tutorial-creating-audience/introduction.md)
-   + [创建架构，数据集……等](../tutorial-creating-audience/create-schema-and-dataset.md)
-   + [创建AEP标记](../tutorial-creating-audience/create-aep-tags.md)
-   + [创建Web窗体](../tutorial-creating-audience/create-web-form.md)
+   + [创建架构、数据集等](../tutorial-creating-audience/create-schema-and-dataset.md)
+   + [创建 AEP 标记](../tutorial-creating-audience/create-aep-tags.md)
+   + [创建 Web 表单](../tutorial-creating-audience/create-web-form.md)
    + [调试解决方案](../tutorial-creating-audience/debug.md)
 + 网页决策 {#getting-started-with-decisioning-webpage}
    + [介绍](../getting-started-with-decisioning-webpage/introduction.md)
@@ -202,10 +202,10 @@ ht-degree: 89%
    + [创建渠道](../getting-started-with-decisioning-webpage/create-channel.md)
    + [创建营销活动](../getting-started-with-decisioning-webpage/create-campaign.md)
    + [创建决策策略](../getting-started-with-decisioning-webpage/create-decision-policy.md)
-   + [创建AEP标记](../getting-started-with-decisioning-webpage/create-aep-tags.md)
+   + [创建 AEP 标记](../getting-started-with-decisioning-webpage/create-aep-tags.md)
    + [创建网页](../getting-started-with-decisioning-webpage/create-web-page.md)
 
 + Summit Labs {#summit-labs}
    + [使用 Adobe Journey Optimizer (2024) 构建个性化的移动体验](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
-   + [在Adobe Journey Optimizer中将编排扩展到全渠道参与（2025年）](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
+   + [在 Adobe Journey Optimizer (2025) 中将编排扩展到全渠道参与](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 
