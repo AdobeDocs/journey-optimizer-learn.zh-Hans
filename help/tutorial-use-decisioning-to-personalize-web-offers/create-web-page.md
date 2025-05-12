@@ -8,9 +8,9 @@ feature: Decisioning
 last-substantial-update: 2025-05-05T00:00:00Z
 jira: KT-17728
 exl-id: 72a67137-303d-4dfe-9b70-322c81e5fb27
-source-git-commit: 2ca9ffee1a2326b8ae55a8e8de496a632fea79c8
+source-git-commit: 9a35160921988103182815efd3551151c09b9bb4
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -21,18 +21,27 @@ ht-degree: 0%
 
 以下脚本负责使用Adobe Journey Optimizer在网页上获取和显示个性化优惠。
 
-1. 解码HTML实体：有一个辅助函数可安全地将选件内容中的任何特殊字符转换为可读的HTML。
+1. 解码HTML实体：
 
-2. 运行个性化：
-调用后，它会向Adobe的Web SDK发送请求(sendEvent)，以获取页面上特定区域(#ajo-offer元素)的个性化内容。
-如果返回选件，则会解码HTML并将其插入到页面中。
-如果未返回任何内容，则会记录警告。
+   有一个辅助函数，可安全地将选件内容中的任何特殊字符转换为可读的HTML。
 
-3. 等待SDK：
-由于Adobe SDK (alloy)以异步方式加载，因此脚本会等到完全加载后再发出请求。
-它每200毫秒检查一次合金，最多20次，以避免错误。
+1. 运行个性化：
 
-4. 在页面加载时：当页面完成加载时，脚本通过调用waitForAlloy()来启动进程。
+   调用后，它会向Adobe的Web SDK发送请求(`sendEvent`)，以获取页面上特定区域（`#ajo-offer`元素）的个性化内容。
+
+   如果返回选件，则会解码HTML并将其插入到页面中。
+
+   如果未返回任何内容，则会记录警告。
+
+1. 等待SDK：
+
+   由于Adobe SDK (alloy)以异步方式加载，因此脚本会等到完全加载后再发出请求。
+
+   它每200毫秒检查一次合金，最多20次，以避免错误。
+
+1. 页面加载时：
+
+   当页面完成加载时，脚本通过调用`waitForAlloy()`启动进程。
 
 
 
