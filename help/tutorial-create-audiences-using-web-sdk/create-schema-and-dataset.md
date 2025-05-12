@@ -22,7 +22,7 @@ ht-degree: 0%
 * 登录到Adobe Experience Platform
 * 数据管理 — >架构 — >创建架构
 
-* 创建名为&#x200B;_财务顾问_&#x200B;的基于XDM事件的架构。 如果您不熟悉如何创建架构，请按照此[文档](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui)进行操作
+* 创建名为&#x200B;_财务顾问_&#x200B;的基于XDM事件的架构。 如果您不熟悉如何创建架构，请按照此[文档](https://experienceleague.adobe.com/zh-hans/docs/experience-platform/xdm/tutorials/create-schema-ui)进行操作
 
 * 将以下结构添加到架构中。 PreferredFinancialInstrument元素存储用户对股票、债券、CD的偏好。 **__techmarketingdemos_**&#x200B;是租户ID，在您的环境中将不同。
   ![xdm-schema](assets/xdm-schema.png)
