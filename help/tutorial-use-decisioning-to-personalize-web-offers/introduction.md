@@ -1,6 +1,6 @@
 ---
 title: 使用Decisioning个性化Web优惠
-description: 了解如何使用Adobe Journey Optimizer (AJO) Decisioning通过利用Adobe Experience Platform (AEP)中构建的受众分段在网页上提供个性化优惠。
+description: 了解如何使用Journey Optimizer (AJO) Decisioning通过利用Experience Platform (AEP)中构建的受众分段在网页上提供个性化优惠。
 feature: Decisioning
 role: User
 level: Beginner
@@ -8,9 +8,9 @@ doc-type: Tutorial
 last-substantial-update: 2025-05-05T00:00:00Z
 jira: KT-17728
 exl-id: 382ee746-e8cd-4843-bfe9-913df8914136
-source-git-commit: 2ca9ffee1a2326b8ae55a8e8de496a632fea79c8
+source-git-commit: 0c42bf9a9af53bf80a14d904733ae0c1f03be0ee
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '261'
 ht-degree: 1%
 
 ---
