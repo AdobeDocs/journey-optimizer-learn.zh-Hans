@@ -6,10 +6,10 @@ level: Beginner
 breadcrumb-title: create-audiences-using-web-sdk
 breadcrumb-url: /docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction
 auto-video-transcripts: true
-source-git-commit: 163edfb3367d03729d68c9339ee2af4a0fe3a1b3
+source-git-commit: 15b2379c251ed0d7583a01fb6af67815322456cf
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 14%
+source-wordcount: '91'
+ht-degree: 16%
 
 ---
 
@@ -18,6 +18,7 @@ ht-degree: 14%
 
 + [简介](./introduction.md)
 + [创建架构、数据集等](./create-schema-and-dataset.md)
++ [创建受众](./create-audiences.md)
 + [创建 AEP 标记](./create-aep-tags.md)
 + [创建 Web 表单](./create-web-form.md)
 + [调试解决方案](./debug.md)
