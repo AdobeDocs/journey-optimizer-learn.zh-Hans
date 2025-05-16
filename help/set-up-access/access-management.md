@@ -22,4 +22,4 @@ ht-degree: 100%
 
 了解如何管理产品轮廓和权限，以及如何添加和管理用户。
 
->[!VIDEO](https://video.tv.adobe.com/v/333998?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416278?quality=12&learn=on&captions=chi_hans){transcript=true}
