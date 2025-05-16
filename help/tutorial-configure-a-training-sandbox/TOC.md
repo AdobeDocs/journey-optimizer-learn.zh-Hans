@@ -8,9 +8,9 @@ role: Admin
 level: Beginner
 auto-video-transcripts: true
 source-git-commit: 007d349d95e4fa2a84dfb4f0830fba8af4cf106b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '63'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 84%
 # 教程 - 配置培训沙盒 {#configure-a-training-sandbox}
 
 + [配置培训沙盒](/help/tutorial-configure-a-training-sandbox/introduction-and-prerequisites.md)
-+ 步骤1：设置数据结构并导入示例数据 {#set-up-data-structure-and-ingest-data}
++ 步骤 1：设置数据结构并导入样本数据 {#set-up-data-structure-and-ingest-data}
    + [使用 Postman 设置数据结构并导入样本数据](https://experienceleague.adobe.com/docs/platform-learn/tutorials/import-sample-data.html?lang=zh-Hans)
    + [设置数据结构（手动）](/help/tutorial-configure-a-training-sandbox/manual-data-set-up.md)
    + [导入样本数据（手动）](/help/tutorial-configure-a-training-sandbox/manual-data-ingestion.md)

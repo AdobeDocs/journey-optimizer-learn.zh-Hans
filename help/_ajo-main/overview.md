@@ -8,9 +8,9 @@ level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: f6ddb0f7b8b7570582eaaa3b20fd3a70450cdaf1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '377'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -49,15 +49,15 @@ Journey Optimizer 使公司能够创建有黏性的情境式个性化客户体�
 <tr>
     <td>
     <a href="../content-management/create-content-using-ai-assistant-for-content-generation.md">
-      <img alt="使用AI助手创建内容以生成内容（视频）" src="../assets/3434635.jpg"/>
+      <img alt="借助用于内容生成的 AI 助手创建内容（视频）" src="../assets/3434635.jpg"/>
     </a>
     <div>
       <a href="../content-management/create-content-using-ai-assistant-for-content-generation.md">
-    <strong>使用AI助手创建内容以生成内容</strong>
-    </a>
+    <strong>借助用于内容生成的 AI 助手创建内容</strong>
+    </a>
     </div>
     <p>
-    <em>了解如何使用AI助手生成内容，以便为文本和图像生成主动内容变体建议。
+    <em>了解如何借助用于内容生成的 AI 助手为文本和图像生成主动内容变体建议。
 </em>
     <p>
   </td>
