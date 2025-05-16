@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## 安装节点.js
 
-如果未安装Node.js，请从此处](https://nodejs.org/)下载并[安装它
+如果未安装Node.js，请从此处[&#128279;](https://nodejs.org/)下载并安装它
 
 通过运行以下命令来验证安装：
 
