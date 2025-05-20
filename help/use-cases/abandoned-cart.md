@@ -20,6 +20,6 @@ ht-degree: 29%
 
 了解如何使用 Adobe Journey Optimizer 中的战术手册功能，实现废弃购物车用例。
 
->[!VIDEO](https://video.tv.adobe.com/v/3443964/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443974/?learn=on&enablevpops&captions=chi_hans)
 
 有关详细信息，请访问[配置Playbook沙盒](https://experienceleague.adobe.com/zh-hans/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}和[创建和发布Playbook实例](https://experienceleague.adobe.com/zh-hans/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}。
