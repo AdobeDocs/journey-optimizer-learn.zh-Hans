@@ -10,10 +10,10 @@ last-substantial-update: 2025-05-01T00:00:00Z
 jira: KT-17874
 index: false
 exl-id: c4f9447b-e79f-45ea-bd93-ed299da7aef6
-source-git-commit: 2744e115ee5569328cb187d1288b4f01b22c82de
+source-git-commit: 7dd827b24c709149201139d180e5bec4c1c6d5dd
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 12%
+source-wordcount: '97'
+ht-degree: 0%
 
 ---
 
@@ -23,7 +23,4 @@ ht-degree: 12%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457896/?learn=on&enablevpops)
 
-## 其他资源
-
-* [构建历程的简介](/help/create-journeys/introduction-to-building-a-journey.md)
-* [用例 - 受众资格筛选](/help/create-journeys/use-case-audience-qualification.md)
+有关此主题的更多指导，请参阅[构建历程简介](/help/create-journeys/introduction-to-building-a-journey.md)和[用例 — 受众鉴别](/help/create-journeys/use-case-audience-qualification.md)。

@@ -10,10 +10,10 @@ last-substantial-update: 2025-05-01T00:00:00Z
 jira: KT-17876
 index: false
 exl-id: 2e756b8a-4fd8-47d5-99ea-4a18cdd6d974
-source-git-commit: 2744e115ee5569328cb187d1288b4f01b22c82de
+source-git-commit: 7dd827b24c709149201139d180e5bec4c1c6d5dd
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 3%
+source-wordcount: '141'
+ht-degree: 0%
 
 ---
 
@@ -27,8 +27,5 @@ ht-degree: 3%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457924/?learn=on&enablevpops)
 
-## 其他资源
 
-* [试验 — 概述](/help/content-management/experimentation-overview.md)
-*[为电子邮件营销活动配置内容实验](/help/create-campaigns/content-experiments.md)
-* [推送通知 - 概述](/help/channels/push-notifications-overview.md)
+有关此主题的更多指导，请参阅[试验 — 概述](/help/content-management/experimentation-overview.md)、[为电子邮件营销活动配置内容试验](/help/create-campaigns/content-experiments.md)和[推送通知 — 概述](/help/channels/push-notifications-overview.md)。
