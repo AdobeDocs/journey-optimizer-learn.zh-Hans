@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: 455f76386b60c619c4bc4a6da67de4b96a1c2e03
+source-git-commit: 0537383a1eb59dec48bc46be83b7c5cb43f695b2
 workflow-type: tm+mt
-source-wordcount: '719'
-ht-degree: 99%
+source-wordcount: '735'
+ht-degree: 97%
 
 ---
 
@@ -19,6 +19,10 @@ ht-degree: 99%
    + [放弃购物车](/help/use-cases/abandoned-cart.md)
    + [提升客户参与度](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [将编排扩展到全渠道参与](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
+用例行动手册 {#use-case-playbooks}
+   + [概述](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
+   + [配置行动手册沙盒](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
+   + [创建并发布战术手册实例](http://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Journey Optimizer 简介 {#introduction-to-journey-optimizer}
    + [Journey Optimizer - 概述](/help/introduction/journey-optimizer-overview.md)
    + [Journey Optimizer 简介](/help/introduction/introduction.md)
