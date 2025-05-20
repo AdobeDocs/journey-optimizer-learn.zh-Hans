@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: 2790e0765b1a4ee281516c437ef18cf35c7bf4d2
-workflow-type: ht
-source-wordcount: '714'
-ht-degree: 100%
+source-git-commit: 455f76386b60c619c4bc4a6da67de4b96a1c2e03
+workflow-type: tm+mt
+source-wordcount: '719'
+ht-degree: 99%
 
 ---
 
@@ -188,6 +188,7 @@ ht-degree: 100%
    + [挑战](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=zh-Hans)
 + [Experience League Live 节目录像](/help/experience-league-live-show-recordings.md)
 + Summit Labs {#summit-labs}
+   + [2025 Summit实验室备忘单](/help/summit-lab-assets/l535-assets.md)
    + [使用 Adobe Journey Optimizer (2024) 构建个性化的移动体验](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
    + [在 Adobe Journey Optimizer (2025) 中将编排扩展到全渠道参与](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 
