@@ -20,6 +20,6 @@ ht-degree: 0%
 
 了解如何在Adobe Journey Optimizer中配置自定义短信提供程序、为入站消息设置API凭据和Webhook、管理选择加入/选择退出关键词，以及使用本机工具和自定义负载启动个性化短信营销活动。
 
-有关详细信息，请参阅[配置自定义SMS提供程序](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/configure-sms/sms-configuration-custom)。
+有关详细信息，请参阅[配置自定义SMS提供程序](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/channels/sms/configure-sms/sms-configuration-custom)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431625/?learn=on&enablevpops)
