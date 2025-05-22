@@ -22,4 +22,4 @@ ht-degree: 9%
 
 有关详细信息，请参阅[配置自定义SMS提供程序](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/channels/sms/configure-sms/sms-configuration-custom)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3431625/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443616/?learn=on&enablevpops&captions=chi_hans)
