@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: 7ff7eaa6fe6001b1d1923b950d0a8079a53feeb4
+source-git-commit: fbf3e591a39ca0fbc1572be602a2f1b2c10a7854
 workflow-type: tm+mt
-source-wordcount: '735'
+source-wordcount: '734'
 ht-degree: 98%
 
 ---
@@ -20,9 +20,9 @@ ht-degree: 98%
    + [提升客户参与度](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [将编排扩展到全渠道参与](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + 用例战术手册 {#use-case-playbooks}
-   + [概述](https://experienceleague.adobe.com/zh-hans/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
-   + [配置行动手册沙盒](https://experienceleague.adobe.com/zh-hans/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
-   + [创建并发布战术手册实例](http://experienceleague.adobe.com/zh-hans/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
+   + [概述](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
+   + [配置行动手册沙盒](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
+   + [创建并发布战术手册实例](http://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Journey Optimizer 简介 {#introduction-to-journey-optimizer}
    + [Journey Optimizer - 概述](/help/introduction/journey-optimizer-overview.md)
    + [Journey Optimizer 简介](/help/introduction/introduction.md)
@@ -167,7 +167,7 @@ ht-degree: 98%
       + [委派 CName 子域](/help/set-up-channels/delegate-cname-subdomains.md)
       + [设置和执行 IP 预热计划](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
       + [配置短信 API 凭据和渠道平面](/help/set-up-channels/set-up-sms-channel.md)
-      + [自带短信提供商（Beta 版）](/help/set-up-channels/bring-your-own-sms-provider.md)
+      + [配置自定义 SMS 提供商](/help/set-up-channels/configure-custom-sms-provider.md)
       + [配置彩信 API 凭据和渠道表面](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
    + 配置历程 {#journey-configuration}
       + [配置数据源](/help/set-up-journeys/configure-data-sources.md)
