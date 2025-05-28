@@ -12,20 +12,15 @@ jira: KT-17533
 hidefromtoc: false
 hide: false
 index: true
-badge: label="限量发布版" type="Informative"
 exl-id: bb544d0d-4c11-412c-afa9-377d784c33e2
-source-git-commit: 948d5467594acb7d3e0a4e0cc64fcf68285a71ba
-workflow-type: ht
-source-wordcount: '122'
+source-git-commit: dbe14c7a6a4a2197a6954a9920508a152dc65fc5
+workflow-type: tm+mt
+source-wordcount: '101'
 ht-degree: 100%
 
 ---
 
 # Adobe Experience Manager Dynamic Media 集成
-
->[!AVAILABILITY]
->
->此集成仅面向一部分组织（有限发布版）。要获得访问权限，请与 Adobe 代表联系。
 
 了解如何将 Adobe Experience Manager Dynamic Media 与 Adobe Journey Optimizer 集成，以实现实时内容更新和个性化。
 
