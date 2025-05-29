@@ -5,12 +5,11 @@ feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-05-05T00:00:00Z
-jira: KT-17728
-exl-id: 3528d8be-dc0b-4049-bca6-4a4a5fd0909f
-source-git-commit: 461906416a976ef9a9dea4fdb583b853b4fe61c7
+last-substantial-update: 2025-05-31T00:00:00Z
+jira: KT-18188
+source-git-commit: 58d2964644bc199b9db212040676d87d54f767b9
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -21,12 +20,12 @@ ht-degree: 0%
 
 创建选择策略
 
-* 登录Journey Optimizer
+* 登录到Journey Optimizer
 
 * 导航到“决策” — >“策略设置” — >“选择策略” — >“创建选择策略”
 
-* 提供屏幕快照中所示的选择策略名称、收藏集、资格和排名方法
+* 提供选择策略名称、收藏集、资格和排名方法，如屏幕快照中所示
 
 
-![选择策略](assets/fine_wise_selection_strategy1.png)
-
+确保使用公式作为排名方法
+![选择策略](assets/selection-strategy.png)
