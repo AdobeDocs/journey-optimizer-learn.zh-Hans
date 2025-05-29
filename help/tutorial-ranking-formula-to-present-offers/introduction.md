@@ -22,7 +22,7 @@ ht-degree: 0%
 
 本教程以Adobe Journey Optimizer和Adobe Experience Platform的关键概念为基础。 在继续之前，请确保满足以下先决条件：
 
-* [身份拼接教程](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorial-on-identity-stitching-in-aep/introduction)已完成，CRM ID已成功与Adobe Experience Platform中的ECID关联。
+* [身份拼接教程](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorial-on-identity-stitching-in-aep/introduction)已完成，CRM ID已成功与Adobe Experience Platform中的ECID关联。
 
 * 熟悉如何在AJO中创建选件项目，包括内容定义、元数据设置和资格规则。
 
