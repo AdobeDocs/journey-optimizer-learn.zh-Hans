@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解用于内容生成的 AI 助手如何通过为文本和图像提供主动内容变体建议来帮助营销人员。
 
->[!VIDEO](https://video.tv.adobe.com/v/3432686/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3463110/?learn=on&captions=chi_hans)

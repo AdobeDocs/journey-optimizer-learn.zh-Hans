@@ -20,4 +20,4 @@ ht-degree: 0%
 探索创建Adobe Journey Optimizer背后的核心原因，以及它如何使品牌厂商跨渠道提供一致、实时和个性化的客户体验。
 
 <!-- 62_S520_3442520_84_why-adobe-built-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458179/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460507/?learn=on&enablevpops=true&captions=chi_hans)

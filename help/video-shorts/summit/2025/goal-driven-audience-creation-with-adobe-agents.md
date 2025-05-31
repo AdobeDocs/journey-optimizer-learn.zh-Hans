@@ -20,4 +20,4 @@ ht-degree: 0%
 观看Adobe的Audience Agent如何使用人工智能通过实时数据和机器学习模型创建精确、目标驱动的受众。
 
 <!-- 62_S653_3442539_281_goaldriven-audience-creation-with-adobe-agents -->
->[!VIDEO](https://video.tv.adobe.com/v/3458193/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460307/?learn=on&enablevpops=true&captions=chi_hans)

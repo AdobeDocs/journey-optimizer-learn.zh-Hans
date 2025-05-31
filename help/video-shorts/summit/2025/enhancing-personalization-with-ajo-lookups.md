@@ -20,4 +20,4 @@ ht-degree: 0%
 探索如何在Adobe Journey Optimizer中使用基于记录的数据集进行个性化消息传递，而不会使客户配置文件膨胀。
 
 <!-- 62_S522_3442522_70_enhancing-personalization-with-ajo-lookups -->
->[!VIDEO](https://video.tv.adobe.com/v/3458226/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460341/?learn=on&enablevpops=true&captions=chi_hans)

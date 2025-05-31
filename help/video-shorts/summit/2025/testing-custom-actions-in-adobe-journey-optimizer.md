@@ -20,4 +20,4 @@ ht-degree: 0%
 了解如何直接在Adobe Journey Optimizer中测试自定义操作，而无需运行完整的历程，从而节省时间和精力。
 
 <!-- 62_S522_3442522_39_testing-custom-actions-in-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458211/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460452/?learn=on&enablevpops=true&captions=chi_hans)

@@ -20,4 +20,4 @@ ht-degree: 0%
 了解Adobe Journey Optimizer如何支持RCS消息传送，并直接在用户的消息收件箱中提供品牌化、交互式和类似应用程序的体验。
 
 <!-- 72_S520_3442520_186_rcs-messaging-the-future-of-rich-communication -->
->[!VIDEO](https://video.tv.adobe.com/v/3458209/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460377/?learn=on&enablevpops=true&captions=chi_hans)

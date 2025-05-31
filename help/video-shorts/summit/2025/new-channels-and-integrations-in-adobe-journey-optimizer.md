@@ -20,4 +20,4 @@ ht-degree: 0%
 探索Adobe Journey Optimizer中的最新渠道创新和集成，包括WhatsApp、iOS Live Activities和RCS消息传送，以增强客户参与度。
 
 <!-- 62_S520_3442520_207_new-channels-and-integrations-in-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458234/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460352/?learn=on&enablevpops=true&captions=chi_hans)

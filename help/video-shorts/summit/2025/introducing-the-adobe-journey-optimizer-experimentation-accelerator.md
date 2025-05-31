@@ -20,4 +20,4 @@ ht-degree: 0%
 探索新的GenAI支持的Experimentation Accelerator，它旨在优化测试、揭示见解并提升业务影响。
 
 <!-- 62_S531_3442531_100_introducing-the-adobe-journey-optimizer-experimentation-accelerator -->
->[!VIDEO](https://video.tv.adobe.com/v/3458230/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460363/?learn=on&enablevpops=true&captions=chi_hans)

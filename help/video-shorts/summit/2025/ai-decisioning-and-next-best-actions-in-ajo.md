@@ -20,4 +20,4 @@ ht-degree: 0%
 探索Adobe Journey Optimizer如何使用AI优化历程、路径和渠道，以提供个性化的客户体验。
 
 <!-- 62_S520_3442520_184_ai-decisioning-and-next-best-actions-in-ajo -->
->[!VIDEO](https://video.tv.adobe.com/v/3458188/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460241/?learn=on&enablevpops=true&captions=chi_hans)
