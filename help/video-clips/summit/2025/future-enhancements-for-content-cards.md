@@ -20,4 +20,4 @@ ht-degree: 0%
 快速浏览即将推出的内容卡功能，包括新模板、消息收件箱等。
 
 <!-- 62_S603_3442534_83_future-enhancements-for-content-cards -->
->[!VIDEO](https://video.tv.adobe.com/v/3458202/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460330/?learn=on&enablevpops=true&captions=chi_hans)

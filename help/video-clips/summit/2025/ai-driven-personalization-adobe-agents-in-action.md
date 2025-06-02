@@ -20,4 +20,4 @@ ht-degree: 0%
 了解Adobe的智能代理如何大规模编排超个性化的客户体验，从而解决预算紧张和内容生产瓶颈等难题。
 
 <!-- 72_S653_3442539_83_aidriven-personalization-adobe-agents-in-action -->
->[!VIDEO](https://video.tv.adobe.com/v/3458198/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460127/?learn=on&enablevpops=true&captions=chi_hans)

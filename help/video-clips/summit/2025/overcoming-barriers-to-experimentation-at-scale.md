@@ -20,4 +20,4 @@ ht-degree: 0%
 了解Adobe如何使用平台驱动型解决方案识别并解决扩展实验（从构思到执行）过程中的关键障碍。
 
 <!-- 62_S531_3442531_165_overcoming-barriers-to-experimentation-at-scale -->
->[!VIDEO](https://video.tv.adobe.com/v/3458237/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460385/?learn=on&enablevpops=true&captions=chi_hans)

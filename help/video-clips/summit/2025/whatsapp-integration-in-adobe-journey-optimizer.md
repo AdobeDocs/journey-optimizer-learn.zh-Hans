@@ -20,4 +20,4 @@ ht-degree: 0%
 了解AJO与WhatsApp业务的原生集成如何实现无缝营销和事务性通信。
 
 <!-- 72_S520_3442520_49_whatsapp-integration-in-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458215/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460482/?learn=on&enablevpops=true&captions=chi_hans)
