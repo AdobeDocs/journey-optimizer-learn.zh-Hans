@@ -32,7 +32,7 @@ Adobe Journey Optimizer中的排名公式在Offer Decisioning过程中使用，�
 
 标准1
 
-此条件筛选决策项（优惠）**以仅包含**标记为“IncomeLevel”的优惠。
+此条件筛选决策项（优惠）**以仅包含**&#x200B;标记为“IncomeLevel”的优惠。
 然后，这些过滤的选件将根据您定义的其他逻辑继续执行下一步，例如排名或投放。
 ![criteria_one](assets/income-related-formula.png)
 
