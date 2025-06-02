@@ -7,13 +7,13 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-30T00:00:00Z
 jira: KT-18188
-source-git-commit: 58d2964644bc199b9db212040676d87d54f767b9
+exl-id: deb16dd5-23cd-495a-ac91-d22fd77f49bd
+source-git-commit: 666d25d1ed06ab76331d197a1677731516f73d7c
 workflow-type: tm+mt
-source-wordcount: '538'
+source-wordcount: '607'
 ht-degree: 1%
 
 ---
-
 
 # 创建营销活动
 
@@ -88,11 +88,14 @@ ht-degree: 1%
      用于对每个合格选件进行评分的逻辑表达式。 得分最高的选件在个性化体验中呈现。
 
 
+6. **插入决策策略**
 
-6. **发布营销活动**\
+   ![个性化编辑器](assets/personalization-editor.png)
+
+   Handlebars代码循环执行Adobe Journey Optimizer中特定决策策略返回的优惠，并为每个优惠创建`<div>`。 每个`<div>`都使用带有优惠内部名称的data-tags属性来帮助轮播组并按类别组织优惠，以便顺利导航。 每个`<div>`中的内容都显示了个性化优惠文本，支持以动态和可视方式分段显示多个优惠。
+
+
+7. **发布营销活动**\
    激活营销活动以开始实时提供个性化优惠。
 
-
-
-
-
+![img](assets/personalization-editor.png)

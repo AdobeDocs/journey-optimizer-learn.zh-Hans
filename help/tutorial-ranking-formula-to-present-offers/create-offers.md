@@ -7,13 +7,13 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-30T00:00:00Z
 jira: KT-18188
-source-git-commit: 58d2964644bc199b9db212040676d87d54f767b9
+exl-id: 7dd49746-bea6-4679-9d88-d8f9d2aa5b52
+source-git-commit: fb0ef6d502c6e3ba37ef528683a8888ed83f2990
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 0%
 
 ---
-
 
 # 使用邮政编码定位创建基于位置的选件
 
@@ -73,12 +73,9 @@ ht-degree: 0%
 </div>
 ```
 
-将这些优惠分组到一个名为&#x200B;**_GenericOffers_**&#x200B;的集合中
+将这些优惠分组到一个名为&#x200B;**收入相关优惠**&#x200B;的集合中
 
 选件适用于所有访客（这意味着没有严格的资格限制），则排名公式对于根据用户档案上下文确定应显示哪个选件至关重要。
 由于资格规则不筛选选件，因此这三者都被视为候选人。
 选择策略将检索全部三个。
 排名公式会根据用户档案属性（如邮政编码和annualIncome）对他们进行评分，以选出最佳用户档案。
-
-
-

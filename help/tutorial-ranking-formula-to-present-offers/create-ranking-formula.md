@@ -7,13 +7,13 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-30T00:00:00Z
 jira: KT-18188
-source-git-commit: 58d2964644bc199b9db212040676d87d54f767b9
+exl-id: eee1b86e-b33f-408e-9faf-90317bc5e861
+source-git-commit: 69868d1f303fa0c67530b3343a678a850a8e493b
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '325'
 ht-degree: 0%
 
 ---
-
 
 # 创建排名公式
 
@@ -31,35 +31,34 @@ Adobe Journey Optimizer中的排名公式在Offer Decisioning过程中使用，�
 
 
 标准1
-![criteria_one](assets/criteria1.png)
 
-标准1包含三个标准：
-
-* 选件。_techmarketingdemos.offerDetails.zipCode == &quot;92128&quot; — 检查与选件关联的邮政编码。
-
-* _techmarketingdemos.zipCode == &quot;92128&quot; — 检查用户配置文件上的邮政编码。
-
-* _techmarketingdemos.annualIncome > 100000 — 检查用户个人资料中的收入级别。
-
-如果满足所有这些标准，选件将获得40分。
+此条件筛选决策项（优惠）**以仅包含**标记为“IncomeLevel”的优惠。
+然后，这些过滤的选件将根据您定义的其他逻辑继续执行下一步，例如排名或投放。
+![criteria_one](assets/income-related-formula.png)
 
 
+以下表达式用于创建排名得分
+
+```pql
+if(   offer._techmarketingdemos.offerDetails.zipCode = _techmarketingdemos.zipCode,   _techmarketingdemos.annualIncome / 1000 + 10000,   if(     not offer._techmarketingdemos.offerDetails.zipCode,     _techmarketingdemos.annualIncome / 1000,     -9999   ) )
+```
+
+公式的作用
+
+* 如果选件与用户具有相同的邮政编码，则将其分值设置为非常高，以便最先选择它。
+
+* 如果选件根本没有邮政编码（它属于常规选件），请根据用户的收入为其提供正常分数。
+
+* 如果选件的邮政编码与用户不同，请将其分值设得很低，这样就不会选中该选件。
+
+这样，系统就可以：
+
+* 始终首先尝试显示邮政编码匹配选件，
+
+* 如果未找到匹配项，则回退到常规选件，并避免显示专用于其他邮政编码的选件。
 
 
-
-
-标准2
-![标准_二](assets/criteria2.png)
-
-标准2包含三个标准：
-
-* 选件。_techmarketingdemos.offerDetails.zipCode == &quot;92126&quot; — 检查与选件关联的邮政编码。
-
-* _techmarketingdemos.zipCode == &quot;92126&quot; — 检查用户配置文件上的邮政编码。
-
-* _techmarketingdemos.annualIncome &lt; 100000 — 检查用户个人资料中的收入级别。
-
-如果满足所有这些标准，选件将获得30分。
+如果选件项目不满足任何筛选条件（例如不具有“IncomeLevel”标记），则选件将获得默认排名得分10。
 
 
 
