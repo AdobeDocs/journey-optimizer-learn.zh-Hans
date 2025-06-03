@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: 7bc03eeca746ff5ee9394263e26b3585a1647c71
+source-git-commit: d33da3a0df7b9ab8d3d9e69db485ce382b9ce63f
 workflow-type: tm+mt
-source-wordcount: '739'
-ht-degree: 98%
+source-wordcount: '756'
+ht-degree: 96%
 
 ---
 
@@ -20,9 +20,9 @@ ht-degree: 98%
    + [提升客户参与度](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [将编排扩展到全渠道参与](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + 用例战术手册 {#use-case-playbooks}
-   + [概述](https://experienceleague.adobe.com/zh-hans/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
-   + [配置行动手册沙盒](https://experienceleague.adobe.com/zh-hans/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
-   + [创建并发布战术手册实例](http://experienceleague.adobe.com/zh-hans/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
+   + [概述](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
+   + [配置行动手册沙盒](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
+   + [创建并发布战术手册实例](http://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Journey Optimizer 简介 {#introduction-to-journey-optimizer}
    + [Journey Optimizer - 概述](/help/introduction/journey-optimizer-overview.md)
    + [Journey Optimizer 简介](/help/introduction/introduction.md)
@@ -164,13 +164,18 @@ ht-degree: 98%
 + 配置 {#configuration}
    + 配置渠道 {#channel-configuration}
       + [配置渠道](/help/set-up-channels/configure-channels.md)
-      + [引导式渠道设置](/help/set-up-channels/guided-channel-setup.md)
-      + [设置电子邮件渠道](/help/set-up-channels/set-up-email-channel.md)
-      + [委派 CName 子域](/help/set-up-channels/delegate-cname-subdomains.md)
-      + [设置和执行 IP 预热计划](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
-      + [配置短信 API 凭据和渠道平面](/help/set-up-channels/set-up-sms-channel.md)
-      + [配置自定义 SMS 提供商](/help/set-up-channels/configure-custom-sms-provider.md)
-      + [配置彩信 API 凭据和渠道表面](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
+      + 电子邮件渠道 {#email-channel}
+         + [创建和IP池](/help/set-up-channels/create-ip-pool.md)
+         + [设置子域](/help/set-up-channels/set-up-subdomain.md)
+         + [委派 CName 子域](/help/set-up-channels/delegate-cname-subdomains.md)
+         + [设置电子邮件渠道](/help/set-up-channels/set-up-email-channel.md)
+         + [设置和执行 IP 预热计划](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
+      + 短信/彩信渠道 {#sms-mms-channel}
+         + [配置短信 API 凭据和渠道平面](/help/set-up-channels/set-up-sms-channel.md)
+         + [配置自定义 SMS 提供商](/help/set-up-channels/configure-custom-sms-provider.md)
+         + [配置彩信 API 凭据和渠道表面](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
+      + Web和移动渠道 {#web-and-mobile-channels}
+         + [引导式渠道设置](/help/set-up-channels/guided-channel-setup.md)
    + 配置历程 {#journey-configuration}
       + [配置数据源](/help/set-up-journeys/configure-data-sources.md)
       + [创建事件](/help/set-up-journeys/create-events.md)
