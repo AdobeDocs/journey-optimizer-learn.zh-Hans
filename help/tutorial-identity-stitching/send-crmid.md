@@ -6,14 +6,15 @@ role: User
 level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-19T00:00:00Z
+recommendations: noDisplay, noCatalog
 jira: KT-18089
-source-git-commit: 502cdc41b666959141ff4dfc63608cc463009811
+exl-id: e080149c-0ac0-4559-b99d-ebad9f03b98b
+source-git-commit: 82d82b3aac2bf91e259b01fd8c6b4d6065f9640a
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 0%
 
 ---
-
 
 # 构建示例应用程序以模拟登录活动
 
@@ -53,5 +54,3 @@ Adobe Experience Platform标记脚本使用`<script>`标记包含在HTML页面�
 `<script src="https://assets.adobedtm.com/b5eu4857867/4e4d84957/launch-b69e276bb9b5-development.min.js" async crossorigin="anonymous"></script>`
 
 AEP Tags脚本是通过发布在之前步骤中创建的启用了Web SDK的属性并从“环境”选项卡复制嵌入代码来获取的。
-
-
