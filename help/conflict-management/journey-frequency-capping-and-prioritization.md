@@ -22,4 +22,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435530/?learn=on&enablevpops)
 
-有关[历程上限和仲裁](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/conflict-prioritization/capping-rules/journey-capping)的更多信息，请参阅产品文档。
+有关[历程上限和仲裁](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/conflict-prioritization/capping-rules/journey-capping)的更多信息，请参阅产品文档。

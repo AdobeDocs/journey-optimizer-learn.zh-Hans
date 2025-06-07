@@ -22,4 +22,4 @@ ht-degree: 6%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435528/?learn=on&enablevpops)
 
-请参阅产品文档，以详细了解如何[检测历程和营销活动中的潜在冲突](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/conflict-prioritization/conflicts)。
+请参阅产品文档，以详细了解如何[检测历程和营销活动中的潜在冲突](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/conflict-prioritization/conflicts)。
