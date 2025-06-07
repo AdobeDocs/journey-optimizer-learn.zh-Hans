@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: 6aa071d253ed1c84fc827d1fce884dc8e646807c
+source-git-commit: 3df01adcd0c400e6fd90c8ea29dd10b2bd774756
 workflow-type: tm+mt
-source-wordcount: '762'
+source-wordcount: '769'
 ht-degree: 95%
 
 ---
@@ -20,9 +20,9 @@ ht-degree: 95%
    + [提升客户参与度](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [将编排扩展到全渠道参与](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + 用例战术手册 {#use-case-playbooks}
-   + [概述](https://experienceleague.adobe.com/zh-hans/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
-   + [配置行动手册沙盒](https://experienceleague.adobe.com/zh-hans/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
-   + [创建并发布战术手册实例](http://experienceleague.adobe.com/zh-hans/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
+   + [概述](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
+   + [配置行动手册沙盒](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
+   + [创建并发布战术手册实例](http://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Journey Optimizer 简介 {#introduction-to-journey-optimizer}
    + [Journey Optimizer - 概述](/help/introduction/journey-optimizer-overview.md)
    + [Journey Optimizer 简介](/help/introduction/introduction.md)
@@ -52,9 +52,11 @@ ht-degree: 95%
    + [更新实时历程中的内容](/help/create-journeys/update-content-in-live-journey.md)
    + [将历程复制到另一个沙盒](/help/create-journeys/copy-a-journey.md)
    + [在批量分段后触发每日历程运行](/help/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
-   + [历程中的入站操作疑难解答](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/troubleshooting-inbound){target="_blank"}
-   + 冲突管理 {#conflict-management}
-      + [识别潜在冲突](/help/create-journeys/identify-potential-conflicts.md)
+   + [历程中的入站操作疑难解答](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/troubleshooting-inbound){target="_blank"}
++ 冲突管理 {#conflict-management}
+   + [识别潜在冲突](/help/conflict-management/identify-potential-conflicts.md)
+   + [分配优先级分数](/help/conflict-management/assign-priority-score.md)
+   + [历程频度上限和优先顺序](/help/conflict-management/journey-frequency-capping-and-prioritization.md)
 + 用户档案、受众和订阅 {#profiles-audiences-subscriptions}
    + [用户档案和受众 - 概述](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
    + [统一的轮廓和分段 - 概述](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
