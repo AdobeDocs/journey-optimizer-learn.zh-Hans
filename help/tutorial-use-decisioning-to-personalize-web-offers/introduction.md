@@ -8,10 +8,10 @@ doc-type: Tutorial
 last-substantial-update: 2025-05-05T00:00:00Z
 jira: KT-17728
 exl-id: 382ee746-e8cd-4843-bfe9-913df8914136
-source-git-commit: 71c406e7a06c49f01245970c280c6a7beb84da5f
+source-git-commit: 7d812f589172c5052a1e9bfcf6a99d0769a6c2c7
 workflow-type: tm+mt
-source-wordcount: '256'
-ht-degree: 1%
+source-wordcount: '226'
+ht-degree: 2%
 
 ---
 
@@ -19,8 +19,6 @@ ht-degree: 1%
 
 本教程以之前使用Adobe Experience Platform (AEP) Web SDK创建的受众分段设置为基础。 在[之前的教程](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction)中，捕获了用户偏好设置(如股票、债券或存款证(CD)中的利息)，并将其用于在Experience Platform中将个人细分为目标受众。 本教程在此基础上再接再厉，使用Adobe Journey Optimizer (AJO) Decisioning实时为这些受众提供个性化的金融优惠，从而提高参与度和转化结果。
 
-您可以使用以下链接实时测试个性化AJO优惠。
-[单击此处查看实时演示](https://gbedekar489.github.io/finwise/welcome.html)。 该页面会根据您的投资偏好显示实时优惠。
 
 ## 本教程的先决条件
 
