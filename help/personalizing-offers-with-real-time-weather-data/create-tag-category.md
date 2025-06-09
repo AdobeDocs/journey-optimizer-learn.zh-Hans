@@ -23,7 +23,7 @@ ht-degree: 64%
 创建收藏集的步骤
 
 * 登录到Journey Optimizer
-* 导航到标记 — >创建标记类别(_**WeatherRelatedOffers**_)
+* 导航到标记 — >创建标记类别(_&#x200B;**WeatherRelatedOffers**&#x200B;_)
 * 单击“保存”
-* 单击“创建标签”(Create Tags)（热、冷、弹簧）。 这些标记应位于&#x200B;_**WeatherRelatedOffers**_&#x200B;标记类别下
+* 单击“创建标签”(Create Tags)（热、冷、弹簧）。 这些标记应位于&#x200B;_&#x200B;**WeatherRelatedOffers**&#x200B;_&#x200B;标记类别下
 
