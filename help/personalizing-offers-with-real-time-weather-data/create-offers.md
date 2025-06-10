@@ -8,7 +8,7 @@ doc-type: Tutorial
 last-substantial-update: 2025-06-10T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
-source-git-commit: dac6b373226bd0be2533cf859e4f250018cf568b
+source-git-commit: c04a15418e31dc82597b7759386907013728bb0d
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
@@ -54,8 +54,8 @@ ht-degree: 0%
 
 ### 创建收藏集
 
-导航到决策 — >目录 — >收藏集 — >创建收藏集
-将收藏集命名为&#x200B;**天气相关优惠**
+导航到&#x200B;**_决策 — >目录 — >集合 — >创建集合_**
+将收藏集命名为**天气相关优惠**
 
 使用规则生成器对此收藏集中的这些优惠进行分组。
 

@@ -8,9 +8,9 @@ doc-type: Tutorial
 last-substantial-update: 2025-06-10T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
-source-git-commit: d46c5a922b8448f57b8a730188284294c3caba96
+source-git-commit: c04a15418e31dc82597b7759386907013728bb0d
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,9 @@ Adobe Journey Optimizer中的排名公式在Offer Decisioning过程中使用，�
 
 * 登录到Journey Optimizer
 
-* 决策 — >策略设置 — >排名公式 — >创建公式
+* 导航到&#x200B;_**决策 — >策略设置 — >排名公式 — >创建公式**_
 
-命名公式&#x200B;_&#x200B;**天气 — 相关 — 选件**&#x200B;_
+命名公式&#x200B;_**天气 — 相关 — 选件**_
 
 
 
