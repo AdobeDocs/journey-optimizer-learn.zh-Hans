@@ -7,7 +7,7 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-06-10T00:00:00Z
 jira: KT-18258
-source-git-commit: c04a15418e31dc82597b7759386907013728bb0d
+source-git-commit: 13c891c02a9a2da3ff742afaab7ceb449a417b5e
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 提供符合客户心情和环境的相关优惠
 
-炎热的天气下，可以购买冷饮料或空调设备。 下雨天促销夹克或雨伞
+炎热的天气下，可以购买冷饮料或空调设备。 下雨天促销夹克或雨伞的
 
 基于天气的选件示例
 
@@ -31,14 +31,14 @@ ht-degree: 0%
 
 ## 本教程的先决条件
 
-* 对Experience Platform的访问权限
+* 访问Experience Platform。
 
-* 对Adobe Experience Platform标记的基本了解
+* 对Adobe Experience Platform标记的基本了解。
 
-* 基本了解Experience Platform概念（用户档案、受众、数据集）
+* 基本了解Experience Platform概念（用户档案、受众、数据集）。
 
-* 熟悉Journey Optimizer
+* 熟悉Journey Optimizer。
 
-* JavaScript基础知识（阅读和编写简单的函数）
+* JavaScript基础知识（读写简单函数）。
 
-* 能够使用浏览器DevTools（“控制台”和“网络”选项卡）
+* 能够使用浏览器DevTools（“控制台”和“网络”选项卡）。
