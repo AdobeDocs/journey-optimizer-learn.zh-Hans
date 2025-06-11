@@ -26,7 +26,7 @@ ht-degree: 0%
 * 登录到Adobe Experience Platform
 * 导航到&#x200B;_&#x200B;**数据管理 — >架构 — >创建架构**&#x200B;_
 
-* 创建名为&#x200B;**_Weather-Schema_**&#x200B;的基于XDM事件的架构。 如果您不熟悉如何创建架构，请按照此[文档](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui)进行操作
+* 创建名为&#x200B;**_Weather-Schema_**&#x200B;的基于XDM事件的架构。 如果您不熟悉如何创建架构，请按照此[文档](https://experienceleague.adobe.com/zh-hans/docs/experience-platform/xdm/tutorials/create-schema-ui)进行操作
 
 
 * 确保架构具有以下具有相应数据类型的字段。
