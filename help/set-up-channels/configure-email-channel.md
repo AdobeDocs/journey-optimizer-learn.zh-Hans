@@ -22,4 +22,4 @@ ht-degree: 0%
 
 了解如何在Adobe Journey Optimizer中配置电子邮件渠道。 此视频介绍如何设置电子邮件配置，包括子域、IP池、取消订阅管理、发件人个性化、密件抄送和种子列表、重试逻辑以及跟踪参数。 它强调法规遵从性、可投放性和个性化，以优化营销电子邮件性能。
 
->[!VIDEO](https://video.tv.adobe.com/v/334343?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416657?quality=12&learn=on&captions=chi_hans){transcript=true}
