@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: 97c1c72a7bc0b0cc87ab7bf66ea6849e2427d2ee
+source-git-commit: 96d9d525a3d9be399f7fa229b67166acf8130721
 workflow-type: tm+mt
-source-wordcount: '774'
-ht-degree: 94%
+source-wordcount: '815'
+ht-degree: 89%
 
 ---
 
@@ -17,12 +17,14 @@ ht-degree: 94%
 + 用例 {#use-cases}
    + [客户加入](/help/use-cases/customer-onboarding.md)
    + [放弃购物车](/help/use-cases/abandoned-cart.md)
+   + [使用Web SDK在Adobe Journey Optimizer中使用实时天气数据个性化优惠](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
+   + [在Journey Optimizer中使用排名公式来提供个性化优惠](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
    + [提升客户参与度](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [将编排扩展到全渠道参与](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + 用例战术手册 {#use-case-playbooks}
-   + [概述](https://experienceleague.adobe.com/zh-hans/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
-   + [配置行动手册沙盒](https://experienceleague.adobe.com/zh-hans/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
-   + [创建并发布战术手册实例](http://experienceleague.adobe.com/zh-hans/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
+   + [概述](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
+   + [配置行动手册沙盒](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
+   + [创建并发布战术手册实例](http://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Journey Optimizer 简介 {#introduction-to-journey-optimizer}
    + [Journey Optimizer - 概述](/help/introduction/journey-optimizer-overview.md)
    + [Journey Optimizer 简介](/help/introduction/introduction.md)
@@ -52,7 +54,7 @@ ht-degree: 94%
    + [更新实时历程中的内容](/help/create-journeys/update-content-in-live-journey.md)
    + [将历程复制到另一个沙盒](/help/create-journeys/copy-a-journey.md)
    + [在批量分段后触发每日历程运行](/help/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
-   + [历程中的入站操作疑难解答](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/troubleshooting-inbound){target="_blank"}
+   + [历程中的入站操作疑难解答](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/troubleshooting-inbound){target="_blank"}
 + 冲突管理 {#conflict-management}
    + [识别潜在冲突](/help/conflict-management/identify-potential-conflicts.md)
    + [分配优先级分数](/help/conflict-management/assign-priority-score.md)
@@ -136,6 +138,10 @@ ht-degree: 94%
       + [决策功能简介](/help/decisioning/introduction-to-decisioning.md)
       + [端到端决策演练](/help/decisioning/decisioning-end-to-end.md)
       + [在公式生成器界面中导航](/help/decisioning/formula-builder-ui.md)
+      + [使用实时天气数据个性化优惠](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
+      + [使用排名公式来提供个性化优惠](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
+
+
    + 决策管理 {#decision-management}
       + [决策管理简介](/help/decision-management/introduction-to-decision-management.md)
       + [决策管理功能演示](/help/decision-management/demo-of-decision-management-capabilities.md)
