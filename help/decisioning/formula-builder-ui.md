@@ -24,4 +24,4 @@ Adobe Journey Optimizer中的公式生成器是一个可视化界面，用于创
 
 此视频简要介绍了公式生成器用户界面。
 
->[!VIDEO](https://video.tv.adobe.com/v/3463738?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3463749?quality=12&learn=on&captions=chi_hans){transcript=true}
