@@ -8,9 +8,9 @@ doc-type: Feature Video
 duration: 274
 last-substantial-update: 2025-06-07T00:00:00Z
 jira: KT-18267
-source-git-commit: cd99fb618d94e507b7d6dfd8810a275287eb96df
+source-git-commit: dfe947bd40b787ac6e3e1a6f3e2c4c9f25791a1d
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 了解如何排列入站操作的优先级，确保在客户符合使用相同渠道配置的多个入站操作资格时，向客户交付最高优先级的内容。
 
->[!VIDEO](https://video.tv.adobe.com/v/3447625/?learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3435530/?learn=on&enablevpops)
 
-有关[历程上限和仲裁](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/conflict-prioritization/capping-rules/journey-capping)的更多信息，请参阅产品文档。
+有关[历程上限和仲裁](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/conflict-prioritization/capping-rules/journey-capping)的更多信息，请参阅产品文档。
