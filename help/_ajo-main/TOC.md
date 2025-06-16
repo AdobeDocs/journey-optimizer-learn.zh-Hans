@@ -17,8 +17,8 @@ ht-degree: 94%
 + 用例 {#use-cases}
    + [客户加入](/help/use-cases/customer-onboarding.md)
    + [放弃购物车](/help/use-cases/abandoned-cart.md)
-   + [使用Web SDK在Adobe Journey Optimizer中使用实时天气数据对优惠进行个性化设置](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
-   + [在Journey Optimizer中使用排名公式来提供个性化优惠](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
+   + [使用Web SDK在Adobe Journey Optimizer中使用实时天气数据对优惠进行个性化设置](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
+   + [在Journey Optimizer中使用排名公式来提供个性化优惠](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
    + [提升客户参与度](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [将编排扩展到全渠道参与](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + 用例战术手册 {#use-case-playbooks}
@@ -138,8 +138,8 @@ ht-degree: 94%
       + [决策功能简介](/help/decisioning/introduction-to-decisioning.md)
       + [端到端决策演练](/help/decisioning/decisioning-end-to-end.md)
       + [浏览公式生成器界面](/help/decisioning/formula-builder-ui.md)
-      + [使用实时天气数据个性化优惠](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
-      + [使用排名公式来提供个性化优惠](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
+      + [使用实时天气数据个性化优惠](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
+      + [使用排名公式来提供个性化优惠](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
 
 
    + 决策管理 {#decision-management}
