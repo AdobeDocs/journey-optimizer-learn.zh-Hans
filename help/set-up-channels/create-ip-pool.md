@@ -20,4 +20,4 @@ ht-degree: 100%
 
 了解如何创建 IP 池以保护发件人信誉并提高电子邮件可投放性。
 
->[!VIDEO](https://video.tv.adobe.com/v/3463145/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463259/?learn=on&enablevpops&captions=chi_hans)

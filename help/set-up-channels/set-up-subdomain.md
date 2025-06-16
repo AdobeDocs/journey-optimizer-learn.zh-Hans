@@ -20,4 +20,4 @@ ht-degree: 100%
 
 了解如何在 Adobe Journey Optimizer 中为电子邮件渠道设置子域。
 
->[!VIDEO](https://video.tv.adobe.com/v/3458490/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463235/?learn=on&enablevpops&captions=chi_hans)
