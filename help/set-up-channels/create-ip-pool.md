@@ -1,6 +1,6 @@
 ---
-title: 创建IP池
-description: 了解如何在Journey Optimizer (AJO)中创建IP池，以保护您的发件人信誉并提高电子邮件可投放性。
+title: 创建 IP 池
+description: 了解如何在 Journey Optimizer (AJO) 中创建 IP 池，以保护发件人信誉并提高电子邮件可投放性。
 feature: Channel Configuration, Deliverability
 role: Admin
 level: Beginner
@@ -8,16 +8,16 @@ doc-type: Feature Video
 duration: 131
 last-substantial-update: 2025-06-03T00:00:00Z
 jira: KT-17709
-source-git-commit: cce0bc62c653f544f2d07f3184a94bd4e880feaa
-workflow-type: tm+mt
+exl-id: 248c6cd8-ae73-46d7-902a-a4398d431267
+source-git-commit: b73589447a96b63d60434850000b5dd7abd176c2
+workflow-type: ht
 source-wordcount: '42'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# 创建 IP 池
 
-# 创建IP池
+了解如何创建 IP 池以保护发件人信誉并提高电子邮件可投放性。
 
-了解如何创建IP池以保护您的发件人信誉并提高电子邮件可投放性。
-
->[!VIDEO](https://video.tv.adobe.com/v/3463259/?learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3463145/?learn=on&enablevpops)
