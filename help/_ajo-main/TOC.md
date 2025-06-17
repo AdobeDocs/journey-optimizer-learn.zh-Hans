@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: b29ec5eb30db089d8b7dd2d8133640ac84874e7d
+source-git-commit: b237731f00ee1ec979edaf566ac932221ef3552f
 workflow-type: tm+mt
-source-wordcount: '815'
-ht-degree: 94%
+source-wordcount: '822'
+ht-degree: 93%
 
 ---
 
@@ -17,8 +17,8 @@ ht-degree: 94%
 + 用例 {#use-cases}
    + [客户加入](/help/use-cases/customer-onboarding.md)
    + [放弃购物车](/help/use-cases/abandoned-cart.md)
-   + [使用Web SDK在Adobe Journey Optimizer中使用实时天气数据对优惠进行个性化设置](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
-   + [在Journey Optimizer中使用排名公式来提供个性化优惠](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
+   + [使用Web SDK在Adobe Journey Optimizer中使用实时天气数据对优惠进行个性化设置](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
+   + [在Journey Optimizer中使用排名公式来提供个性化优惠](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
    + [提升客户参与度](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [将编排扩展到全渠道参与](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + 用例战术手册 {#use-case-playbooks}
@@ -71,6 +71,7 @@ ht-degree: 94%
    + [移动应用程序优化 - 概述](/help/channels/mobile-app-optimization-overview.md)
    + 基于代码的体验渠道{#code-based-experience-channel}
       + [创建基于代码的体验营销活动](/help/channels/create-a-code-based-experience-campaign.md)
+      + [向基于代码的体验模板添加可编辑字段](/help/channels/editable-fields-in-code-based-experiences.md)
       + [在基于代码的渠道中使用决策](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
    + 直邮渠道{#direct-mail-channel}
       + [创建直邮](/help/channels/direct-mail.md)
@@ -138,8 +139,8 @@ ht-degree: 94%
       + [决策功能简介](/help/decisioning/introduction-to-decisioning.md)
       + [端到端决策演练](/help/decisioning/decisioning-end-to-end.md)
       + [浏览公式生成器界面](/help/decisioning/formula-builder-ui.md)
-      + [使用实时天气数据个性化优惠](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
-      + [使用排名公式来提供个性化优惠](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
+      + [使用实时天气数据个性化优惠](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
+      + [使用排名公式来提供个性化优惠](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
 
 
    + 决策管理 {#decision-management}
