@@ -9,9 +9,9 @@ last-substantial-update: 2025-05-05T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-17728
 exl-id: a48a3702-4d66-467b-a7ec-9d91b81b771d
-source-git-commit: 82d82b3aac2bf91e259b01fd8c6b4d6065f9640a
+source-git-commit: 09c69d341e71af641febd74d319c28af1932ecec
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '138'
 ht-degree: 4%
 
 ---
@@ -22,6 +22,8 @@ ht-degree: 4%
 
 1. 登录Journey Optimizer。
 1. 单击&#x200B;**[!UICONTROL 历程管理]** > **[!UICONTROL 促销活动]** > **[!UICONTROL 创建促销活动]** > **[!UICONTROL 计划营销]**。
+1. 为活动提供有意义的名称
+1. 导航到&#x200B;_**操作**_&#x200B;选项卡
 1. 选择&#x200B;**[!UICONTROL 基于代码的体验]**&#x200B;操作，然后选择在上一步中创建的配置。
 1. 单击&#x200B;**[!UICONTROL 编辑内容]**。
 
