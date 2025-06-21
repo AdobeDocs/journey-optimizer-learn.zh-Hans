@@ -24,4 +24,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464001/?learn=on&enablevpops&captions=chi_hans)
 
-有关详细信息，请参阅详细的[产品文档](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/code-based-form-fields)。
+有关详细信息，请参阅详细的[产品文档](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/code-based-form-fields)。
