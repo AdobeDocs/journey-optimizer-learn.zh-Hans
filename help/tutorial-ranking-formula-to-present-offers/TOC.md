@@ -6,10 +6,10 @@ level: Beginner
 breadcrumb-title: 基于用户 — zip-code-and-income的personalizing-offers-with-ranking-formulations
 breadcrumb-url: /docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction
 auto-video-transcripts: true
-source-git-commit: d46c5a922b8448f57b8a730188284294c3caba96
+source-git-commit: b9feb65fb7af8fb495f81841ab9235e4ae80ecd7
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 14%
+source-wordcount: '72'
+ht-degree: 13%
 
 ---
 
@@ -21,4 +21,5 @@ ht-degree: 14%
 + [创建排名公式](./create-ranking-formula.md)
 + [创建选择策略](./selection-strategy.md)
 + [创建营销活动](./create-campaign.md)
++ [创建可编辑字段](./editable-fields.md)
 + [创建网页](./display-offers.md)
