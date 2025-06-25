@@ -18,7 +18,7 @@ ht-degree: 1%
 
 # 在基于AJO代码的体验中使用可编辑的表单字段
 
-在许多营销历程（尤其是在受监管的行业）中，包含法律免责声明至关重要，该声明可能因促销活动、地理位置或产品而异。 通过直接在AJO Personalization编辑器中使用[可编辑字段](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/form-fields-in-code-based-experiences)，营销人员和法律团队可以保持对免责声明文本的完全控制，而无需涉及开发人员或修改决策逻辑。
+在许多营销历程（尤其是在受监管的行业）中，包含法律免责声明至关重要，该声明可能因促销活动、地理位置或产品而异。 通过直接在AJO Personalization编辑器中使用[可编辑字段](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/form-fields-in-code-based-experiences)，营销人员和法律团队可以保持对免责声明文本的完全控制，而无需涉及开发人员或修改决策逻辑。
 
 这样可以实现快速更新，并确保跨营销活动的合规性，同时利用优惠等决策内容。
 
