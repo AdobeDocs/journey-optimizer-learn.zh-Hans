@@ -22,6 +22,6 @@ ht-degree: 100%
 
 了解如何在可编辑片段中制作 HTML 组件，以便对内容和样式进行动态更新。您将了解如何构建 HTML、配置内联可编辑字段并将它们与默认内容和 CSS 相关联，然后在实时营销活动环境中测试和验证改动。
 
->[!VIDEO](https://video.tv.adobe.com/v/3464363/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464378/?learn=on&enablevpops&captions=chi_hans)
 
 有关此功能的更多信息，请参阅[产品文档](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/content-management/fragments/customizable-fragments){target="_blank"}。
