@@ -26,7 +26,7 @@ ht-degree: 0%
 
 - 安装了Adobe Web SDK扩展且正在使用的Adobe Experience Platform Launch资产。
 
-- 已配置一个[数据流](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/collect-event-data/create-dataset)并将其映射到您的AEP沙盒。
+- 已配置一个[数据流](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/decisioning/experience-decisioning/collect-event-data/create-dataset)并将其映射到您的AEP沙盒。
 
 - 部署Launch的网站。
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 要收集体验事件，您首先需要创建一个将发送这些事件的数据集。
 
-按照此[文章中提到的步骤创建所需的架构和数据集](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/collect-event-data/create-dataset)
+按照此[文章中提到的步骤创建所需的架构和数据集](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/decisioning/experience-decisioning/collect-event-data/create-dataset)
 
 ## 在AEP中创建数据流
 
