@@ -9,9 +9,9 @@ duration: 309
 last-substantial-update: 2025-07-09T00:00:00Z
 jira: KT-18333
 thumbnail: KT-18333.jpeg
-source-git-commit: 3aa1d7e0449397dcfb2d8003cc79587c4a2e18f3
+source-git-commit: 9485af5ec6af5f3e808a8e51aca1bb10b4c95737
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
@@ -22,3 +22,5 @@ ht-degree: 0%
 了解如何使用自定义短信提供商在Adobe Journey Optimizer中配置和发送品牌化交互式RCS消息。 本教程将指导您设置API凭据、Webhook和渠道配置，然后构建历程以提供丰富、个性化的消息传递体验 — 所有这些都在本机消息传递应用程序内完成。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464755/?learn=on&enablevpops)
+
+有关如何配置RCS的详细信息，请参阅[产品文档](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/configure-sms/sms-configuration)。
