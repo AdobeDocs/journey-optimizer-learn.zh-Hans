@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: 3028f97274815d21de68793ed3ae42053ea393b1
-workflow-type: ht
-source-wordcount: '830'
-ht-degree: 100%
+source-git-commit: cd7a4d88de8920e40631bcc391870333444f92f9
+workflow-type: tm+mt
+source-wordcount: '838'
+ht-degree: 99%
 
 ---
 
@@ -50,6 +50,7 @@ ht-degree: 100%
    + [用例 - 读取受众](/help/create-journeys/use-case-read-audience.md)
    + [用例 - 受众资格筛选](/help/create-journeys/use-case-audience-qualification.md)
    + [创建测试轮廓](/help/create-journeys/test-a-journey.md)
+   + [通过历程练习验证历程逻辑](/help/create-journeys/journey-dry-run.md)
    + [发布历程](/help/create-journeys/publish-a-journey.md)
    + [更新实时历程中的内容](/help/create-journeys/update-content-in-live-journey.md)
    + [将历程复制到另一个沙盒](/help/create-journeys/copy-a-journey.md)
