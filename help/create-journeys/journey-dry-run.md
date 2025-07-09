@@ -25,6 +25,6 @@ ht-degree: 0%
 
 本教程介绍了Adobe Journey Optimizer中的历程练习功能，该功能可让营销人员测试旅程逻辑，而无需发送真正的通信。 您将学习如何在试运行模式下激活历程，配置禁用等待时间和外部数据源等选项，以及解释配置文件流量量度以验证受众分段和条件逻辑。 了解如何识别和修复问题（例如条件节点中的拼写错误），以及如何在启动旅程实时之前访问和导出试运行报告以供进一步分析。
 
->[!VIDEO](https://video.tv.adobe.com/v/3464681/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464692/?learn=on&enablevpops&captions=chi_hans)
 
 有关此功能的详细信息，请参阅[产品文档](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/orchestrate-journeys/create-journey/journey-dry-run)。
