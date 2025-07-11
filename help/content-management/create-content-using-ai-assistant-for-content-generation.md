@@ -21,4 +21,4 @@ ht-degree: 0%
 
 了解如何使用AI助手生成内容，以便为文本和图像生成主动内容变体建议。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434635/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434645/?learn=on&captions=chi_hans)
