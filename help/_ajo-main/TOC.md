@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: e4b289bcc7c9aac4f7993153d21ae0ad5e050d4e
+source-git-commit: ea0c8ff52b1f21fc0ce77871c6b32af42775fad9
 workflow-type: tm+mt
-source-wordcount: '843'
+source-wordcount: '841'
 ht-degree: 98%
 
 ---
@@ -185,7 +185,7 @@ ht-degree: 98%
          + [配置短信 API 凭据和渠道平面](/help/set-up-channels/set-up-sms-channel.md)
          + [配置自定义短信服务提供商](/help/set-up-channels/configure-custom-sms-provider.md)
          + [配置彩信 API 凭据和渠道表面](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
-         + [为业务设置RCS](/help/set-up-channels/set-up-rcs.md)
+         + [设置RCS](/help/set-up-channels/set-up-rcs.md)
       + Web 和移动渠道 {#web-and-mobile-channels}
          + [引导式渠道设置](/help/set-up-channels/guided-channel-setup.md)
    + 配置历程 {#journey-configuration}
