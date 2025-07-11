@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: 14672bd5743c5fbadfc0e38308d82b6e7b6893dc
+source-git-commit: e1fac28df665a0ca6d25a7655f22bd1eb787b5e1
 workflow-type: tm+mt
 source-wordcount: '843'
-ht-degree: 98%
+ht-degree: 97%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 98%
 + 用例战术手册 {#use-case-playbooks}
    + [概述](https://experienceleague.adobe.com/zh-hans/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
    + [配置战术手册沙盒](https://experienceleague.adobe.com/zh-hans/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
-   + [创建并发布战术手册实例](http://experienceleague.adobe.com/zh-hans/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
+   + [创建并发布战术手册实例](https://experienceleague.adobe.com/zh-hans/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Journey Optimizer 简介 {#introduction-to-journey-optimizer}
    + [Journey Optimizer - 概述](/help/introduction/journey-optimizer-overview.md)
    + [Journey Optimizer 简介](/help/introduction/introduction.md)
@@ -55,7 +55,7 @@ ht-degree: 98%
    + [更新实时历程中的内容](/help/create-journeys/update-content-in-live-journey.md)
    + [将历程复制到另一个沙盒](/help/create-journeys/copy-a-journey.md)
    + [在批量分段后触发每日历程运行](/help/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
-   + [历程中的入站操作故障排除](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/troubleshooting-inbound){target="_blank"}
+   + [历程中的入站操作故障排除](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/troubleshoot-journey/troubleshooting-inbound){target="_blank"}
 + 冲突管理 {#conflict-management}
    + [识别潜在冲突](/help/conflict-management/identify-potential-conflicts.md)
    + [分配优先级分数](/help/conflict-management/assign-priority-score.md)
@@ -207,8 +207,8 @@ ht-degree: 98%
    + [在 Journey Optimizer 渠道中实施数据使用策略](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [屏蔽消息中的数据](/help/privacy/mask-data-in-messages.md)
 + 练习和挑战 {#exercises-and-challenges}
-   + [配置培训沙盒](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=zh-Hans)
-   + [挑战](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=zh-Hans)
+   + [配置培训沙盒](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
+   + [挑战](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
 + [Experience League Live 节目录像](/help/experience-league-live-show-recordings.md)
 + Summit Labs {#summit-labs}
    + [2025 Summit Lab 备忘单](/help/summit-lab-assets/l535-assets.md)
