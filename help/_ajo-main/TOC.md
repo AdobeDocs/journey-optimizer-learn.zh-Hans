@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: ea0c8ff52b1f21fc0ce77871c6b32af42775fad9
+source-git-commit: 14672bd5743c5fbadfc0e38308d82b6e7b6893dc
 workflow-type: tm+mt
-source-wordcount: '841'
+source-wordcount: '843'
 ht-degree: 98%
 
 ---
@@ -94,7 +94,7 @@ ht-degree: 98%
    + 推送渠道{#push-channel}
       + [推送通知 - 概述](/help/channels/push-notifications-overview.md)
       + [配置和发送推送营销活动](/help/channels/create-a-push-campaign.md)
-   + 短信渠道{#sms-channel}
+   + 短信/彩信渠道{#sms-channel}
       + [短信/彩信消息 - 概述](/help/channels/sms-mms-messages-overview.md)
       + [配置、创作和投放短信消息](/help/channels/author-sms-messages.md)
       + [创建彩信](/help/channels/author-mms.md)
@@ -181,7 +181,7 @@ ht-degree: 98%
          + [委派 CName 子域](/help/set-up-channels/delegate-cname-subdomains.md)
          + [配置电子邮件渠道](/help/set-up-channels/configure-email-channel.md)
          + [设置和执行 IP 预热计划](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
-      + 短信/彩信渠道 {#sms-mms-channel}
+      + SMS/MMS/RCS渠道 {#sms-mms-channel}
          + [配置短信 API 凭据和渠道平面](/help/set-up-channels/set-up-sms-channel.md)
          + [配置自定义短信服务提供商](/help/set-up-channels/configure-custom-sms-provider.md)
          + [配置彩信 API 凭据和渠道表面](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
