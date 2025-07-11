@@ -1,5 +1,5 @@
 ---
-title: 使用基于用户邮政编码和收入的排名公式个性化优惠
+title: 使用基于邮政编码和收入的排名公式个性化优惠
 description: 使用Adobe Journey Optimizer的排名公式动态地提供最相关的财务优惠（针对每个用户的邮政编码和收入级别量身打造），以实现更高的参与度和更智能的个性化。
 feature: Decisioning
 role: User
@@ -7,9 +7,10 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-27T00:00:00Z
 jira: KT-18188
-source-git-commit: 58d2964644bc199b9db212040676d87d54f767b9
+exl-id: 11685f7c-8048-4318-9c28-71bd7da8f7ff
+source-git-commit: 85d3def3afb1d073b133df40e4cbf32d00a3a5c9
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
@@ -39,5 +40,3 @@ ht-degree: 0%
 * 定义选择策略以对优惠进行分组和优先级排序。
 
 * 构建决策策略以向每个人提供最相关的优惠。
-
-
