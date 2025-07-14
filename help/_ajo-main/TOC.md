@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: e1fac28df665a0ca6d25a7655f22bd1eb787b5e1
 workflow-type: tm+mt
 source-wordcount: '843'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -50,12 +50,12 @@ ht-degree: 97%
    + [用例 - 读取受众](/help/create-journeys/use-case-read-audience.md)
    + [用例 - 受众资格筛选](/help/create-journeys/use-case-audience-qualification.md)
    + [创建测试轮廓](/help/create-journeys/test-a-journey.md)
-   + [通过历程练习验证历程逻辑](/help/create-journeys/journey-dry-run.md)
+   + [通过历程试运行验证历程逻辑](/help/create-journeys/journey-dry-run.md)
    + [发布历程](/help/create-journeys/publish-a-journey.md)
    + [更新实时历程中的内容](/help/create-journeys/update-content-in-live-journey.md)
    + [将历程复制到另一个沙盒](/help/create-journeys/copy-a-journey.md)
    + [在批量分段后触发每日历程运行](/help/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
-   + [历程中的入站操作故障排除](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/orchestrate-journeys/troubleshoot-journey/troubleshooting-inbound){target="_blank"}
+   + [历程中的入站操作故障排除](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/troubleshoot-journey/troubleshooting-inbound){target="_blank"}
 + 冲突管理 {#conflict-management}
    + [识别潜在冲突](/help/conflict-management/identify-potential-conflicts.md)
    + [分配优先级分数](/help/conflict-management/assign-priority-score.md)
@@ -207,7 +207,7 @@ ht-degree: 97%
    + [在 Journey Optimizer 渠道中实施数据使用策略](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [屏蔽消息中的数据](/help/privacy/mask-data-in-messages.md)
 + 练习和挑战 {#exercises-and-challenges}
-   + [配置培训沙盒](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
+   + [配置培训沙盒](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
    + [挑战](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
 + [Experience League Live 节目录像](/help/experience-league-live-show-recordings.md)
 + Summit Labs {#summit-labs}
