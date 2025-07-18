@@ -20,7 +20,7 @@ ht-degree: 0%
 要启用AJO选件展示次数和点击次数报表，必须配置以下组件：
 >[!NOTE]
 >
-> [上一教程](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/create-schema-and-dataset)的创建架构和数据集部分中已完成这些先决条件
+> [上一教程](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/create-schema-and-dataset)的创建架构和数据集部分中已完成这些先决条件
 
 ## &#x200B;1. Adobe Experience Platform (AEP)中的数据集
 
