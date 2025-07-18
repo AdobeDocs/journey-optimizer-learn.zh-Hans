@@ -1,6 +1,6 @@
 ---
-title: 使用补充ID解锁历程再进入
-description: 在本教程中，您将了解如何在Adobe Journey Optimizer中启用和应用补充标识符。 您将看到使用补充标识符如何让配置文件重新输入历程、循环访问对象数组，以及使用上下文数据（如产品ID、送货信息等）个性化消息。
+title: 使用补充 ID 解锁历程重新进入
+description: 在本教程中，您将了解如何在 Adobe Journey Optimizer 中启用和应用补充标识符。您将了解如何使用补充标识符让轮廓重新进入历程、迭代对象数组，以及使用上下文数据（如产品 ID、发货信息等）对消息进行个性化设置。
 feature: Journeys
 role: User
 level: Beginner
@@ -8,20 +8,20 @@ doc-type: Feature Video
 duration: 553
 last-substantial-update: 2025-07-12T00:00:00Z
 jira: KT-18442
-source-git-commit: 45a49cc53d251eae1802b2696a2b0c614c61b7dd
-workflow-type: tm+mt
+exl-id: f8649b75-bd07-4499-bb96-389db1470a42
+source-git-commit: 8e50f8c485295e680596403dd25afc5748e26dc7
+workflow-type: ht
 source-wordcount: '114'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-
-# 使用补充ID解锁历程再进入
+# 使用补充 ID 解锁历程重新进入
 
 {{limited-availability}}
 
-在本教程中，您将了解如何在Adobe Journey Optimizer中启用和应用补充标识符。 您将看到使用补充标识符如何让配置文件重新输入历程、循环访问对象数组，以及使用上下文数据（如产品ID、送货信息等）个性化消息。
+在本教程中，您将了解如何在 Adobe Journey Optimizer 中启用和应用补充标识符。您将了解如何使用补充标识符让轮廓重新进入历程、迭代对象数组，以及使用上下文数据（如产品 ID、发货信息等）对消息进行个性化设置。
 
->[!VIDEO](https://video.tv.adobe.com/v/3464802/?learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3464792/?learn=on&enablevpops)
 
-有关补充ID的详细信息，请参阅[产品文档](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/supplemental-identifier)。
+有关补充 ID 的更多信息，请参阅[产品文档](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/supplemental-identifier)。

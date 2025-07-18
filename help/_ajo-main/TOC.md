@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
 source-git-commit: 032e1ac6bf969975e598f2a763cde94ba17856b0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '849'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -52,7 +52,7 @@ ht-degree: 98%
    + [创建测试轮廓](/help/create-journeys/test-a-journey.md)
    + [通过历程试运行验证历程逻辑](/help/create-journeys/journey-dry-run.md)
    + [发布历程](/help/create-journeys/publish-a-journey.md)
-   + [使用补充ID解锁历程再进入](/help/create-journeys/unlock-journey-reentry-with-supplemental-id.md)
+   + [使用补充 ID 解锁历程重新进入](/help/create-journeys/unlock-journey-reentry-with-supplemental-id.md)
    + [更新实时历程中的内容](/help/create-journeys/update-content-in-live-journey.md)
    + [将历程复制到另一个沙盒](/help/create-journeys/copy-a-journey.md)
    + [在批量分段后触发每日历程运行](/help/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
@@ -182,11 +182,11 @@ ht-degree: 98%
          + [委派 CName 子域](/help/set-up-channels/delegate-cname-subdomains.md)
          + [配置电子邮件渠道](/help/set-up-channels/configure-email-channel.md)
          + [设置和执行 IP 预热计划](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
-      + SMS/MMS/RCS渠道 {#sms-mms-channel}
+      + 短信/彩信/RCS 渠道 {#sms-mms-channel}
          + [配置短信 API 凭据和渠道平面](/help/set-up-channels/set-up-sms-channel.md)
          + [配置自定义短信服务提供商](/help/set-up-channels/configure-custom-sms-provider.md)
          + [配置彩信 API 凭据和渠道表面](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
-         + [设置RCS](/help/set-up-channels/set-up-rcs.md)
+         + [设置 RCS](/help/set-up-channels/set-up-rcs.md)
       + Web 和移动渠道 {#web-and-mobile-channels}
          + [引导式渠道设置](/help/set-up-channels/guided-channel-setup.md)
    + 配置历程 {#journey-configuration}
