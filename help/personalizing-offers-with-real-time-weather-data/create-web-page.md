@@ -8,14 +8,45 @@ doc-type: Tutorial
 last-substantial-update: 2025-06-10T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
-source-git-commit: a9fc14da78e1c67b01aef5dcdd417ce02d36d50a
+exl-id: 609a5ddf-d6c6-4f19-bd7f-bca8c266b759
+source-git-commit: 23832f2e59ca7558fd403f0a9753db3923023e6d
 workflow-type: tm+mt
-source-wordcount: '294'
-ht-degree: 1%
+source-wordcount: '418'
+ht-degree: 0%
 
 ---
 
 # 测试解决方案
+
+要端到端地测试解决方案，[weather-offers.html](assets/weather-offers.html)和[weather-related-offers-script.js](assets/weather-related-offers-script.js)文件必须托管在Web服务器或公共托管服务（如Github Pages）上。 这是必需的，因为：
+ — 浏览器的地理位置API仅适用于HTTPS或本地主机
+
+要使内容保持有序并确保相对路径正常工作，我们建议使用下列文件夹结构来托管解决方案：
+
+![文件夹结构](assets/folder-structure.png)
+
+## 下载提供的文件
+
+[HTML文件](assets/weather-offers.html)
+
+[Javascript文件](assets/weather-related-offers-script.js)
+
+
+## 更新javascript文件中的表面url
+
+打开`weather-related-offers-script.js`并更新` "web://yourdomain.com/weather/weather-offers.html#offerContainer"`bt，将`yourdomain.com`替换为托管HTML文件的实际域。
+
+## 更新Adobe Experience Platform标记属性
+
+在文本编辑器中打开weather-offers.html文件，并将脚本标记替换为在本教程的前面步骤中创建的Adobe Experience Platform标记属性的脚本标记。 确保保存文件
+
+```
+<script src="https://assets.adobedtm.com/AEM_TAGS/launch-ENabcd1234.min.js" async></script>
+```
+
+
+
+## 网页的功能
 
 构建了一个网页，以使用实时温度数据测试上下文选件个性化。 当用户访问页面时，浏览器会提示用户访问地理位置。 获得批准后，页面将通过OpenWeatherMap API获取当前天气详细信息，例如温度、条件和城市。 此上下文数据会向用户显示，并使用Adobe Web SDK (Alloy)发送到Adobe Experience Platform。
 
@@ -73,12 +104,4 @@ JavaScript会根据用户的位置动态获取天气信息，并使用Adobe Expe
    解码HTML内容。
 
    将选件动态注入到 <div id="offerContainer"> 元素。
-
-7. **示例Assets**
-
-   用于测试解决方案的网页可供下载
-
-[网页](assets/weather-offers.html)
-
-[JavaScript 代码](assets/weather-related-offers-script.js)
 

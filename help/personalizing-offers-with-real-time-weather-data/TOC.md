@@ -8,18 +8,18 @@ role: Developer
 level: Beginner
 breadcrumb-url: /docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction
 auto-video-transcripts: true
-source-git-commit: 0f49176c9295cf20721320386f37094a7bb3b38d
+source-git-commit: 23832f2e59ca7558fd403f0a9753db3923023e6d
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '150'
 ht-degree: 7%
 
 ---
 
 
-# AEP中的身份拼接教程{#personalizing-offers-with-real-time-weather-data}
+# 关于使用Web SDK使用实时天气数据个性化优惠的教程 {#personalizing-offers-with-real-time-weather-data}
 
 + [简介](./introduction.md)
-+ [创建架构，数据集](./create-schema-and-dataset.md)
++ [创建架构和数据集](./create-schema-and-dataset.md)
 + [创建AEP标记](./create-aep-tags.md)
 + [创建标记类别](./create-tag-category.md)
 + [创建优惠](./create-offers.md)
