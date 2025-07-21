@@ -20,7 +20,7 @@ ht-degree: 0%
 
 开始设置Adobe Journey Optimizer Offer Decisioning的报表
 
-- 登录到&#x200B;_**Journey Optimizer**_
+- 登录到&#x200B;_&#x200B;**Journey Optimizer**&#x200B;_
 
-- 导航到&#x200B;_**管理 — >配置 — >报告 — >管理 — >添加数据集**_
-- 选择&#x200B;_**Weather-schema-dataset**_，该数据集存储了在上一个教程中生成的选件展示和点击事件。
+- 导航到&#x200B;_&#x200B;**管理 — >配置 — >报告 — >管理 — >添加数据集**&#x200B;_
+- 选择&#x200B;_&#x200B;**Weather-schema-dataset**&#x200B;_，该数据集存储了在上一个教程中生成的选件展示和点击事件。
