@@ -2,16 +2,16 @@
 title: 使用Web SDK实时天气数据提供个性化优惠
 description: 了解如何使用Web SDK根据实时天气条件个性化Web内容。
 user-guide-title: 使用Web SDK实时天气数据提供个性化优惠
-user-guide-description: 本教程演示如何根据实时天气条件个性化Web内容。 当用户访问网站时，会使用其当前位置来检索实时天气数据，例如温度和条件（例如，雨水、晴天）。 此上下文信息会使用Web SDK (alloy)发送到Adobe Experience Platform，以便Adobe Journey Optimizer能够评估和返回页面上自动呈现的目标优惠，例如季节性促销或适合天气的产品建议。
+user-guide-description: 本教程演示如何根据实时天气条件个性化Web内容。 当用户访问网站时，会使用其当前位置来检索实时天气数据，例如温度和条件（例如，雨水、晴天）。 此上下文信息会使用Web SDK (alloy)发送到Adobe Experience Platform，从而允许Adobe Journey Optimizer Decisioning评估和返回页面上自动呈现的目标优惠，例如季节性促销或适合天气的产品建议。
 solution: Journey Optimizer
 role: Developer
 level: Beginner
 breadcrumb-url: /docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction
 auto-video-transcripts: true
-source-git-commit: 23832f2e59ca7558fd403f0a9753db3923023e6d
+source-git-commit: 9c11ebd2e52de18792e9fa135db955eeeb243673
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 7%
+source-wordcount: '151'
+ht-degree: 5%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 7%
 + [简介](./introduction.md)
 + [创建架构和数据集](./create-schema-and-dataset.md)
 + [创建AEP标记](./create-aep-tags.md)
-+ [创建标记类别](./create-tag-category.md)
++ [创建优惠收藏集](./create-tag-category.md)
 + [创建优惠](./create-offers.md)
 + [创建排名公式](./create-ranking-formula.md)
 + [创建选择策略](./selection-strategy.md)

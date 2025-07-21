@@ -8,19 +8,20 @@ doc-type: Tutorial
 recommendations: noDisplay, noCatalog
 last-substantial-update: 2025-07-18T00:00:00Z
 jira: KT-18526
-source-git-commit: 69bc8aace3cc502a18e691584824176833413c7e
+exl-id: 7e6014b5-c5a6-467b-8e31-58c5d966464c
+source-git-commit: ab60877bd5cb9eeeea45b1e1f08293d31929fc81
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '451'
 ht-degree: 0%
 
 ---
 
 # 捕获展示和交互事件
 
-要启用AJO选件展示次数和点击次数报表，必须配置以下组件：
+要启用AJO Decisioning中的选件展示次数和点击次数报表，必须配置以下组件：
 >[!NOTE]
 >
-> [上一教程](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/create-schema-and-dataset)的创建架构和数据集部分中已完成这些先决条件
+> [上一教程](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/create-schema-and-dataset)的创建架构和数据集部分中已完成这些先决条件
 
 ## &#x200B;1. Adobe Experience Platform (AEP)中的数据集
 
