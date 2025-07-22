@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: 4a228623154a5422ba45ff1c0cc8be986787c0cb
+source-git-commit: 06c340b9fb0186821e2b56053ba6c9d7dcf56175
 workflow-type: tm+mt
-source-wordcount: '857'
-ht-degree: 99%
+source-wordcount: '860'
+ht-degree: 98%
 
 ---
 
@@ -46,13 +46,14 @@ ht-degree: 99%
    + [历程设计器 - 概述](/help/create-journeys/journey-designer-overview.md)
    + [了解新的历程设计器](/help/create-journeys/new-journey-designer.md)
    + [构建历程的简介](/help/create-journeys/introduction-to-building-a-journey.md)
+   + [创建测试轮廓](/help/create-journeys/test-a-journey.md)
+   + [发布历程](/help/create-journeys/publish-a-journey.md)
    + [用例 - 事务性历程](/help/create-journeys/use-case-transactional-journey.md)
    + [用例 - 商业事件](/help/create-journeys/use-case-business-event.md)
    + [用例 - 读取受众](/help/create-journeys/use-case-read-audience.md)
    + [用例 - 受众资格筛选](/help/create-journeys/use-case-audience-qualification.md)
-   + [创建测试轮廓](/help/create-journeys/test-a-journey.md)
+   + [掌握多属性过滤](/help/create-journeys/mastering-multi-attribute-filtering.md)
    + [通过历程试运行验证历程逻辑](/help/create-journeys/journey-dry-run.md)
-   + [发布历程](/help/create-journeys/publish-a-journey.md)
    + [使用补充 ID 解锁历程重新进入](/help/create-journeys/unlock-journey-reentry-with-supplemental-id.md)
    + [更新实时历程中的内容](/help/create-journeys/update-content-in-live-journey.md)
    + [将历程复制到另一个沙盒](/help/create-journeys/copy-a-journey.md)
