@@ -7,7 +7,8 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-07-18T00:00:00Z
 jira: KT-18526
-source-git-commit: 23832f2e59ca7558fd403f0a9753db3923023e6d
+exl-id: ae74485f-9ea1-428d-9c07-5db0c5cf93fb
+source-git-commit: 551d0d365bcb42e63910af1fae626d1bbc1fabfa
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 0%
@@ -24,9 +25,7 @@ ht-degree: 0%
 
 
 
-
 ![reporting-dashboard](assets/dashboard-reporting.png)
-
 
 
 ## 本教程的先决条件
@@ -34,12 +33,8 @@ ht-degree: 0%
 在开始之前，请先完成[使用实时天气数据个性化选件教程。](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)它建立了所有基础组件，包括：
 
 - Web SDK集成
-
 - Adobe Journey Optimizer (AJO)中的选件设置
-
 - 使用天气和温度等上下文属性进行决策
-
 - 网页上的实时优惠呈现
 
 本教程直接基于该实施构建，并专门侧重于捕获选件展示次数和交互，以便在Journey Optimizer中进行报表和分析。
-
