@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
 source-git-commit: 06c340b9fb0186821e2b56053ba6c9d7dcf56175
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '860'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 98%
    + [客户加入](/help/use-cases/customer-onboarding.md)
    + [放弃购物车](/help/use-cases/abandoned-cart.md)
    + [使用 Web SDK 在 Adobe Journey Optimizer 中通过实时天气数据对产品建议进行个性化设置](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
-   + [生成有关优惠展示次数和点击次数的报告](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
+   + [生成有关产品建议展示次数和点击次数的报告](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
    + [在 Journey Optimizer 中使用排名公式来提供个性化产品建议](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
    + [提升客户参与度](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [将编排扩展到全渠道参与](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
@@ -52,7 +52,7 @@ ht-degree: 98%
    + [用例 - 商业事件](/help/create-journeys/use-case-business-event.md)
    + [用例 - 读取受众](/help/create-journeys/use-case-read-audience.md)
    + [用例 - 受众资格筛选](/help/create-journeys/use-case-audience-qualification.md)
-   + [掌握多属性过滤](/help/create-journeys/mastering-multi-attribute-filtering.md)
+   + [掌握多属性筛选](/help/create-journeys/mastering-multi-attribute-filtering.md)
    + [通过历程试运行验证历程逻辑](/help/create-journeys/journey-dry-run.md)
    + [使用补充 ID 解锁历程重新进入](/help/create-journeys/unlock-journey-reentry-with-supplemental-id.md)
    + [更新实时历程中的内容](/help/create-journeys/update-content-in-live-journey.md)
