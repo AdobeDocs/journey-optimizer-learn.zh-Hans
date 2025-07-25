@@ -20,7 +20,7 @@ ht-degree: 9%
 
 Adobe Experience Platform Tags用于将CRMID发送到Adobe Experience Platform (AEP)，因为它为直接从浏览器传输身份数据提供了灵活的事件驱动机制。 在用户登录后发送CRMID可让AEP将匿名ECID与已知CRM配置文件关联，从而实现准确的身份拼接。 这种关联构成了在Adobe Journey Optimizer (AJO)中构建统一客户档案、确定受众资格和提供实时个性化体验的基础。
 
-已创建名为&#x200B;_**FinWise**_&#x200B;的Experience Platform Tags属性。 已将以下扩展添加到Tags属性
+已创建名为&#x200B;_&#x200B;**FinWise**&#x200B;_&#x200B;的Experience Platform Tags属性。 已将以下扩展添加到Tags属性
 
 ![标记 — 扩展](assets/tags-extensions.png)
 
