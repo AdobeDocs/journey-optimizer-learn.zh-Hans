@@ -9,18 +9,18 @@ last-substantial-update: 2025-05-19T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18089
 exl-id: 894ad6b7-c4b4-465e-8535-3fdcd77e00eb
-source-git-commit: 82d82b3aac2bf91e259b01fd8c6b4d6065f9640a
+source-git-commit: 40690024e5348dd3ac05f350e49a67a99d5e455e
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '235'
 ht-degree: 9%
 
 ---
 
 # 将CRMID发送到Adobe Experience Platform
 
-Adobe Launch (Tags)用于将CRMID发送到Adobe Experience Platform (AEP)，因为它为直接从浏览器传输身份数据提供了灵活的事件驱动机制。 在用户登录后发送CRMID可让AEP将匿名ECID与已知CRM配置文件关联，从而实现准确的身份拼接。 这种关联构成了在Adobe Journey Optimizer (AJO)中构建统一客户档案、确定受众资格和提供实时个性化体验的基础。
+Adobe Experience Platform Tags用于将CRMID发送到Adobe Experience Platform (AEP)，因为它为直接从浏览器传输身份数据提供了灵活的事件驱动机制。 在用户登录后发送CRMID可让AEP将匿名ECID与已知CRM配置文件关联，从而实现准确的身份拼接。 这种关联构成了在Adobe Journey Optimizer (AJO)中构建统一客户档案、确定受众资格和提供实时个性化体验的基础。
 
-将创建一个名为FinWise的AEP Tags属性。 已将以下扩展添加到Tags属性
+已创建名为&#x200B;_**FinWise**_&#x200B;的Experience Platform Tags属性。 已将以下扩展添加到Tags属性
 
 ![标记 — 扩展](assets/tags-extensions.png)
 

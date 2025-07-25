@@ -1,5 +1,5 @@
 ---
-title: 跟踪和报告通过Adobe Journey Optimizer Offer Decisioning提供的AJO (AJO)选件
+title: 跟踪和报告通过Adobe Journey Optimizer Decisioning提供的AJO (AJO)优惠
 description: 本教程扩展了现有的Adobe Journey Optimizer (AJO)实施，该实施根据上下文数据（如温度）提供个性化优惠。 它概述了如何捕获展示和交互事件，并准备数据以供在Journey Optimizer中报告。
 feature: Decisioning
 role: User
@@ -8,14 +8,14 @@ doc-type: Tutorial
 last-substantial-update: 2025-07-18T00:00:00Z
 jira: KT-18526
 exl-id: ae74485f-9ea1-428d-9c07-5db0c5cf93fb
-source-git-commit: 551d0d365bcb42e63910af1fae626d1bbc1fabfa
+source-git-commit: bfeab1e933f2a510506c0ecf911df41e66cb959b
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
 
-# 跟踪和报告通过Adobe Journey Optimizer Offer Decisioning提供的AJO (AJO)选件
+# 跟踪和报告通过Adobe Journey Optimizer Decisioning提供的AJO (AJO)优惠
 
 此用例侧重于为通过Adobe Journey Optimizer (AJO)提供的选件启用报表和性能分析。 当根据上下文信号（例如天气或位置）提供个性化优惠时，必须跟踪展示次数和用户交互以评估其有效性。
 

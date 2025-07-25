@@ -9,23 +9,23 @@ last-substantial-update: 2025-04-30T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
 exl-id: 04fad076-e897-4831-9147-768721858a80
-source-git-commit: 29a20fe11dc6516f6fa15f7d7bf8948dd418aecd
+source-git-commit: 40690024e5348dd3ac05f350e49a67a99d5e455e
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
 
-# 创建AEP标记
+# 创建Adobe Experience Platform标记
 
 Adobe Experience Platform Tags(以前称为Adobe Launch)可帮助在您的网站上管理和部署*营销和分析技术，而无需更改网站的代码。
 
-此[视频介绍了创建Adobe Experience Tags的过程](https://experienceleague.adobe.com/zh-hans/playlists/experience-platform-get-started-with-tags)
+此[视频介绍了创建Adobe Experience Tags的过程](https://experienceleague.adobe.com/en/playlists/experience-platform-get-started-with-tags)
 
 - 登录到数据收集
-- 单击&#x200B;_&#x200B;**标记 — >新建属性**&#x200B;_
+- 单击&#x200B;_**标记 — >新建属性**_
 
-- 创建名为&#x200B;_&#x200B;**personalization-on-weather**&#x200B;_&#x200B;的Adobe Experience Platform标记。
+- 创建名为&#x200B;_**personalization-on-weather**_&#x200B;的Adobe Experience Platform标记。
 
 - 将以下扩展添加到标记
   ![标记 — 扩展](assets/tags-extensions1.png)
