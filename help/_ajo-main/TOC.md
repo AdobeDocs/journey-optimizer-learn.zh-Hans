@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: d84462b08d8abac74f9fa1147f6d10a05922520b
+source-git-commit: e21d18dea5e34d8647fdc7028a5ab5d47420fa33
 workflow-type: tm+mt
-source-wordcount: '888'
+source-wordcount: '893'
 ht-degree: 96%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 96%
 + 用例 {#use-cases}
    + [客户加入](/help/use-cases/customer-onboarding.md)
    + [放弃购物车](/help/use-cases/abandoned-cart.md)
-   + [智能重新参与 — 已放弃的浏览](https://experienceleague.adobe.com/zh-hans/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
+   + [智能重新参与 — 已放弃的浏览](https://experienceleague.adobe.com/en/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
    + [使用 Web SDK 在 Adobe Journey Optimizer 中通过实时天气数据对产品建议进行个性化设置](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
    + [生成有关产品建议展示次数和点击次数的报告](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
    + [在 Journey Optimizer 中使用排名公式来提供个性化产品建议](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
@@ -109,6 +109,7 @@ ht-degree: 96%
       + [创建 Web 营销活动](/help/channels/author-a-web-campaign.md)
       + [Web 编辑器中的 SPA 支持](/help/channels/singel-page-application-support.md)
    + WhatsApp {#whatsapp}
+      + [WhatsApp入门（端到端）](/help/channels/get-started-with-whatsapp-in-ajo.md)
       + [WhatsApp渠道简介](/help/channels/whatsapp-introduction.md)
       + [设置WhatsApp渠道](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel)
       + [创建WhatsApp历程](/help/channels/create-a-whatsapp-journey.md)
