@@ -17,4 +17,4 @@ ht-degree: 0%
 
 非常适合希望在客户历程中激活WhatsApp消息传递的营销人员和开发人员。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470268/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470278/?learn=on&enablevpops&captions=chi_hans)
