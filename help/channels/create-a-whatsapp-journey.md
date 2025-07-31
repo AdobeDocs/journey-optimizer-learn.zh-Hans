@@ -28,4 +28,4 @@ ht-degree: 0%
 
 非常适合于希望通过WhatsApp自动实现个性化客户参与度的营销人员。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470282/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470292/?learn=on&enablevpops&captions=chi_hans)
