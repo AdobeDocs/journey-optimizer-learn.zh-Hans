@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: 41b6fb378767274151676aaf5ed247e9551717e4
+source-git-commit: e0713e7265468f749239acdac53ddaf1c27afdc8
 workflow-type: tm+mt
-source-wordcount: '892'
-ht-degree: 96%
+source-wordcount: '905'
+ht-degree: 95%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 96%
 + 用例 {#use-cases}
    + [客户加入](/help/use-cases/customer-onboarding.md)
    + [放弃购物车](/help/use-cases/abandoned-cart.md)
-   + [智能重新参与 — 已放弃的浏览](https://experienceleague.adobe.com/zh-hans/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
+   + [智能重新参与 — 已放弃的浏览](https://experienceleague.adobe.com/en/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
    + [使用 Web SDK 在 Adobe Journey Optimizer 中通过实时天气数据对产品建议进行个性化设置](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
    + [生成有关产品建议展示次数和点击次数的报告](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
    + [在 Journey Optimizer 中使用排名公式来提供个性化产品建议](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
@@ -36,13 +36,17 @@ ht-degree: 96%
    + [面向开发人员的移动功能](/help/channels/mobile-capabilities-for-developers.md)
    + [通过 AI 助手获取帮助](/help/ai-assistant.md)
 + 营销活动 {#create-campaigns}
-   + [创建营销活动](/help/create-campaigns/create-a-campaign.md)
-   + [创建应用程序内营销活动](/help/create-campaigns/in-app.md)
-   + [配置和发送推送营销活动](/help/create-campaigns/push-campaign.md)
-   + [创建 Web 营销活动](/help/create-campaigns/web-campaign.md)
-   + [创建基于代码的体验活动](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
-   + [使用 API 触发营销活动](/help/create-campaigns/api-triggered-campaigns.md)
-   + [为电子邮件营销活动创建内容试验](/help/create-campaigns/content-experiments.md)
+   + 操作营销活动 {#action-campaigns}
+      + [创建营销活动](/help/create-campaigns/create-a-campaign.md)
+      + [创建应用程序内营销活动](/help/create-campaigns/in-app.md)
+      + [配置和发送推送营销活动](/help/create-campaigns/push-campaign.md)
+      + [创建 Web 营销活动](/help/create-campaigns/web-campaign.md)
+      + [创建基于代码的体验活动](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
+      + [为电子邮件营销活动创建内容试验](/help/create-campaigns/content-experiments.md)
+      + [在营销活动中利用消息优化](/help/channels/leverage-message-optimization-in-a-campaign.md)
+   + API触发的营销活动 {#api-triggered-campaigns}
+      + [使用 API 触发营销活动](/help/create-campaigns/api-triggered-campaigns.md)
+   + 编排的营销活动 {#orchestrated-campaigns}
 + 历程 {#create-journeys}
    + [历程设计器 - 概述](/help/create-journeys/journey-designer-overview.md)
    + [了解新的历程设计器](/help/create-journeys/new-journey-designer.md)
