@@ -22,4 +22,4 @@ ht-degree: 0%
 
 了解如何在操作或API触发的营销活动中利用消息优化。 您将了解如何在单个营销活动中定位子受众、按位置创建消息变体、启用后备内容以及运行多个实验。 本教程还介绍如何管理多渠道营销活动，同时保持消息的一致性。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470368/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470378/?learn=on&enablevpops&captions=chi_hans)
