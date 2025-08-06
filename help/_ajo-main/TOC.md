@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: 202cc6731ee1a587b62125b2916131521b6f3343
+source-git-commit: 313784a49c81d0aef3e256f5a02c233fd47d9ab6
 workflow-type: tm+mt
-source-wordcount: '905'
-ht-degree: 95%
+source-wordcount: '910'
+ht-degree: 94%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 95%
 + 用例 {#use-cases}
    + [客户加入](/help/use-cases/customer-onboarding.md)
    + [放弃购物车](/help/use-cases/abandoned-cart.md)
-   + [智能重新参与 — 已放弃的浏览](https://experienceleague.adobe.com/zh-hans/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
+   + [智能重新参与 — 已放弃的浏览](https://experienceleague.adobe.com/en/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
    + [使用 Web SDK 在 Adobe Journey Optimizer 中通过实时天气数据对产品建议进行个性化设置](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
    + [生成有关产品建议展示次数和点击次数的报告](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
    + [在 Journey Optimizer 中使用排名公式来提供个性化产品建议](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
@@ -138,6 +138,7 @@ ht-degree: 95%
    + 用于内容生成的 AI 助手 {#ai-assistant}
       + [用于内容生成的 AI 助手 - 概述](/help/content-management/ai-assistant-for-content-generation-overview.md)
       + [借助用于内容生成的 AI 助手创建内容](/help/content-management/create-content-using-ai-assistant-for-content-generation.md)
+      + [品牌准则的创建和管理](/help/content-management/brand-guideline-creation-and-management.md)
    + [试验 - 概述](/help/content-management/experimentation-overview.md)
    + [使用 GenStudio 创建电子邮件](/help/content-management/create-an-email-using-genstudio.md)
 + 个性化内容 {#personalize-content}
