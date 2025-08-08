@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 313784a49c81d0aef3e256f5a02c233fd47d9ab6
 workflow-type: tm+mt
 source-wordcount: '910'
-ht-degree: 94%
+ht-degree: 99%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 94%
 + 用例 {#use-cases}
    + [客户加入](/help/use-cases/customer-onboarding.md)
    + [放弃购物车](/help/use-cases/abandoned-cart.md)
-   + [智能重新参与 — 已放弃的浏览](https://experienceleague.adobe.com/zh-hans/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
+   + [智能重新参与 - 已放弃的浏览](https://experienceleague.adobe.com/zh-hans/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
    + [使用 Web SDK 在 Adobe Journey Optimizer 中通过实时天气数据对产品建议进行个性化设置](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
    + [生成有关产品建议展示次数和点击次数的报告](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
    + [在 Journey Optimizer 中使用排名公式来提供个性化产品建议](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
@@ -44,7 +44,7 @@ ht-degree: 94%
       + [创建基于代码的体验活动](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
       + [为电子邮件营销活动创建内容试验](/help/create-campaigns/content-experiments.md)
       + [在营销活动中利用消息优化](/help/create-campaigns/leverage-message-optimization-in-a-campaign.md)
-   + API触发的营销活动 {#api-triggered-campaigns}
+   + API 触发的营销活动 {#api-triggered-campaigns}
       + [使用 API 触发营销活动](/help/create-campaigns/api-triggered-campaigns.md)
    + 编排的营销活动 {#orchestrated-campaigns}
 + 历程 {#create-journeys}
@@ -113,10 +113,10 @@ ht-degree: 94%
       + [创建 Web 营销活动](/help/channels/author-a-web-campaign.md)
       + [Web 编辑器中的 SPA 支持](/help/channels/singel-page-application-support.md)
    + WhatsApp {#whatsapp}
-      + [WhatsApp入门（端到端）](/help/channels/get-started-with-whatsapp-in-ajo.md)
-      + [WhatsApp渠道简介](/help/channels/whatsapp-introduction.md)
-      + [设置WhatsApp渠道](/help/channels/set-up-whatsapp.md)
-      + [创建WhatsApp历程](/help/channels/create-a-whatsapp-journey.md)
+      + [WhatsApp 快速入门（端到端）](/help/channels/get-started-with-whatsapp-in-ajo.md)
+      + [WhatsApp 渠道简介](/help/channels/whatsapp-introduction.md)
+      + [设置 WhatsApp 频道](/help/channels/set-up-whatsapp.md)
+      + [创建 WhatsApp 历程](/help/channels/create-a-whatsapp-journey.md)
 + 内容管理{#content-management}
    + [消息创作 - 概述](/help/content-management/message-authoring-overview.md)
    + 管理资源 {#assets}
@@ -202,8 +202,8 @@ ht-degree: 94%
          + [设置 RCS](/help/set-up-channels/set-up-rcs.md)
       + Web 和移动渠道 {#web-and-mobile-channels}
          + [引导式渠道设置](/help/set-up-channels/guided-channel-setup.md)
-      + WhatsApp渠道 {#whatsapp-channel}
-         + [设置WhatsApp渠道](/help/set-up-channels/set-up-whatsapp-channel.md)
+      + WhatsApp 渠道 {#whatsapp-channel}
+         + [设置 WhatsApp 频道](/help/set-up-channels/set-up-whatsapp-channel.md)
    + 配置历程 {#journey-configuration}
       + [配置数据源](/help/set-up-journeys/configure-data-sources.md)
       + [创建事件](/help/set-up-journeys/create-events.md)

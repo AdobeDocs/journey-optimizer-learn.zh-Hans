@@ -1,6 +1,6 @@
 ---
 title: 在营销活动中利用消息优化
-description: 了解如何在操作或API触发的营销活动中利用消息优化。 您将了解如何在单个营销活动中定位子受众、按位置创建消息变体、启用后备内容以及运行多个实验。 本教程还介绍如何管理多渠道营销活动，同时保持消息的一致性。
+description: 了解如何在操作或 API 触发的营销活动中利用消息优化。您将了解如何定位子受众、按位置创建消息变体、启用备用内容以及在单个营销活动中运行多个实验。本教程还介绍如何管理多渠道营销活动，同时保持消息的一致性。
 feature: Campaigns
 role: User
 level: Beginner
@@ -14,12 +14,12 @@ exl-id: 12a80ca8-2517-4bbc-950f-18e1dfb8dc72
 source-git-commit: 79ff41864859fa6b18e09b4d3402492f91d9e658
 workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # 在营销活动中利用消息优化
 
-了解如何在操作或API触发的营销活动中利用消息优化。 您将了解如何在单个营销活动中定位子受众、按位置创建消息变体、启用后备内容以及运行多个实验。 本教程还介绍如何管理多渠道营销活动，同时保持消息的一致性。
+了解如何在操作或 API 触发的营销活动中利用消息优化。您将了解如何定位子受众、按位置创建消息变体、启用备用内容以及在单个营销活动中运行多个实验。本教程还介绍如何管理多渠道营销活动，同时保持消息的一致性。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470378/?learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3470368/?learn=on&enablevpops)
