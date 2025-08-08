@@ -8,14 +8,14 @@ doc-type: Tutorial
 last-substantial-update: 2025-07-18T00:00:00Z
 jira: KT-18526
 exl-id: ae74485f-9ea1-428d-9c07-5db0c5cf93fb
-source-git-commit: bfeab1e933f2a510506c0ecf911df41e66cb959b
+source-git-commit: 39376d745d851bf2c3ed3826b9f550efafd9e8f4
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '261'
 ht-degree: 0%
 
 ---
 
-# 跟踪和报告通过Adobe Journey Optimizer Decisioning提供的AJO (AJO)优惠
+# 跟踪和报告通过AJO Decisioning提供的Journey Optimizer优惠
 
 此用例侧重于为通过Adobe Journey Optimizer (AJO)提供的选件启用报表和性能分析。 当根据上下文信号（例如天气或位置）提供个性化优惠时，必须跟踪展示次数和用户交互以评估其有效性。
 
