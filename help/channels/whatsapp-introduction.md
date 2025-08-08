@@ -1,6 +1,6 @@
 ---
-title: WhatsApp渠道简介
-description: 此视频简要概述了WhatsApp与Adobe Journey Optimizer集成的价值。 它强调了WhatsApp的全球覆盖范围和参与优势，并概述了关键先决条件，例如设置WhatsApp商业帐户、生成访问令牌和创建消息模板。
+title: WhatsApp 渠道简介
+description: 此视频简要概述了将 WhatsApp 与 Adobe Journey Optimizer 集成的价值。其中强调了 WhatsApp 覆盖全球的触达与参与优势，并概述了设置 WhatsApp 商业帐户、生成访问令牌和创建消息模板等必须先行完成的关键步骤。
 feature: Whatsapp
 role: Admin, User
 level: Beginner
@@ -8,16 +8,16 @@ doc-type: Feature Video
 duration: 133
 last-substantial-update: 2025-07-30T00:00:00Z
 jira: KT-18562
-source-git-commit: a24ffa6b48c54fbce13f0f2b2182b94fa114328d
-workflow-type: tm+mt
+exl-id: fb6f937e-d1b5-4e15-8ed6-b070fec871d4
+source-git-commit: 20e0da0799956b246370aa04dabec958ff6b51ae
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# WhatsApp 渠道简介
 
-# WhatsApp渠道简介
+此视频简要概述了将 WhatsApp 与 Adobe Journey Optimizer 集成的价值。其中强调了 WhatsApp 覆盖全球的触达与参与优势，并概述了设置 WhatsApp 商业帐户、生成访问令牌和创建消息模板等必须先行完成的关键步骤。
 
-此视频简要概述了WhatsApp与Adobe Journey Optimizer集成的价值。 它强调了WhatsApp的全球覆盖范围和参与优势，并概述了关键先决条件，例如设置WhatsApp商业帐户、生成访问令牌和创建消息模板。
-
->[!VIDEO](https://video.tv.adobe.com/v/3470306/?learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3470296/?learn=on&enablevpops)
