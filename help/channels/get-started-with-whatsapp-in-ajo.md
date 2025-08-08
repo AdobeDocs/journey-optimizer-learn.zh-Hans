@@ -30,4 +30,4 @@ ht-degree: 100%
 
 对于希望通过全球最受欢迎的消息平台拓展触达范围与参与度的营销人员而言，这是理想之选。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470244/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470254/?learn=on&enablevpops&captions=chi_hans)

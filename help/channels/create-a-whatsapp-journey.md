@@ -28,4 +28,4 @@ ht-degree: 100%
 
 非常适合希望能自动通过 WhatsApp 执行个性化客户参与工作的营销人员。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470282/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470292/?learn=on&enablevpops&captions=chi_hans)
