@@ -22,6 +22,6 @@ ht-degree: 100%
 
 了解如何创建并自定义自己的品牌，在所有通信中清晰传达您的视觉风格与语言特征。了解如何通过品牌一致性得分获取相关实时反馈，从而掌握内容与品牌调性、风格和指南的一致程度。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470544/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470556/?learn=on&enablevpops&captions=chi_hans)
 
 有关此功能的详细信息，请参阅[产品文档](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/content-management/ai-assistant/brands/brands)。
