@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: 313784a49c81d0aef3e256f5a02c233fd47d9ab6
-workflow-type: ht
-source-wordcount: '910'
+source-git-commit: 5ec9aa524723f15e90ea22e5f93c9f9153c82069
+workflow-type: tm+mt
+source-wordcount: '909'
 ht-degree: 100%
 
 ---

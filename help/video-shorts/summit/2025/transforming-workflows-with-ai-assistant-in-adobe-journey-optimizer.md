@@ -7,17 +7,17 @@ index: false
 hide: true
 hidefromtoc: true
 recommendations: noCatalog, noDisplay
-source-git-commit: e52cdba2a9203497d97cbd1e75c81e3e4e556ac4
+exl-id: 78a6ac9b-0a5c-4e07-9877-330098b8dbb9
+source-git-commit: 5ec9aa524723f15e90ea22e5f93c9f9153c82069
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
-
 
 # 在Adobe Journey Optimizer中使用AI助手转换工作流
 
 了解Adobe Journey Optimizer中的AI Assistant如何通过提供即时数据洞察和故障排除功能而彻底改造工作流，从而节省大量的手动工作。
 
 <!-- 65_S653_3442539_33_transforming-workflows-with-ai-assistant-in-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3460449/?learn=on&enablevpops=true&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3458195/?learn=on&enablevpops=true)
