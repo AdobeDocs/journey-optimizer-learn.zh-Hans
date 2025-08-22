@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: 5ec9aa524723f15e90ea22e5f93c9f9153c82069
+source-git-commit: 8940a03c0d0842d4dea7e5e4c3aa2e2604538c2d
 workflow-type: tm+mt
-source-wordcount: '909'
-ht-degree: 100%
+source-wordcount: '917'
+ht-degree: 99%
 
 ---
 
@@ -182,6 +182,7 @@ ht-degree: 100%
 + 报告和监测 {#report-and-monitor}
    + [测量和报告 - 概述](/help/report-and-monitor/measurement-and-reporting-overview.md)
    + [实时和全局报表](/help/report-and-monitor/live-and-global-reports.md)
+   + [使用实时报告监控和分析您的历程](/help/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports.md)
    + [渠道级别报告](/help/report-and-monitor/channel-level-reports.md)
    + [以 CSV 格式导出报告](/help/report-and-monitor/export-reports-in-csv-format.md)
    + [使用警报](/help/administration/alerts.md)

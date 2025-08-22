@@ -8,8 +8,9 @@ doc-type: feature video
 team: PM
 role: Admin
 level: Beginner
+hide: true
 exl-id: 9e94b335-7e5d-4753-aead-d18f42776fdd
-source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
+source-git-commit: 8940a03c0d0842d4dea7e5e4c3aa2e2604538c2d
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 100%
@@ -20,4 +21,4 @@ ht-degree: 100%
 
 了解实时报表和全局报表之间的差异，如何访问和分析历程和消息特定报表，以及如何修改报表仪表板。 
 
->[!VIDEO](https://video.tv.adobe.com/v/3416273?quality=12&learn=on&captions=chi_hans){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/334108?quality=12&learn=on){transcript=true}
