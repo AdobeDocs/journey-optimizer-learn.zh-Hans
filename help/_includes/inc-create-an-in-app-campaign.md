@@ -9,7 +9,7 @@ ht-degree: 100%
 
 了解什么是应用程序内消息。了解如何在 Campaigns 中创建、配置和发布应用程序内消息。
 
->[!VIDEO](https://video.tv.adobe.com/v/3410430?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451892?quality=12&learn=on&captions=chi_hans){transcript=true}
 
 ## 其他资源
 
