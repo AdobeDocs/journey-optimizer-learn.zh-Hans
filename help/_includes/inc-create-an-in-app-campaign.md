@@ -1,5 +1,5 @@
 ---
-source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
+source-git-commit: 7f05f2f16414c4bbd64f55fd6cf3bc68623c6d4d
 workflow-type: tm+mt
 source-wordcount: '23'
 ht-degree: 100%
@@ -9,7 +9,7 @@ ht-degree: 100%
 
 了解什么是应用程序内消息。了解如何在 Campaigns 中创建、配置和发布应用程序内消息。
 
->[!VIDEO](https://video.tv.adobe.com/v/3451892?quality=12&learn=on&captions=chi_hans){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3410430?quality=12&learn=on){transcript=true}
 
 ## 其他资源
 
