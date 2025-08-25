@@ -13,10 +13,10 @@ exl-id: e404a36c-117e-492f-8f15-2a48642c9c91
 hidefromtoc: false
 hide: false
 index: true
-source-git-commit: f9db0d19c3fc349e06322e783c66d16e63dcfac3
-workflow-type: ht
-source-wordcount: '106'
-ht-degree: 100%
+source-git-commit: e3bc8e24f6a8a59a84341f9d31d0e372fa6e99ab
+workflow-type: tm+mt
+source-wordcount: '162'
+ht-degree: 65%
 
 ---
 
@@ -24,4 +24,8 @@ ht-degree: 100%
 
 了解 Adobe Experience Manager (AEM) 如何与 Adobe Journey Optimizer 无缝集成，以简化内容管理并确保各渠道中的品牌一致性。 了解如何创建、批准和渲染内容片段，以及轻松交换和模拟新内容。 非常适合寻求高效的内容管理和一致的品牌推广的用户。
 
->[!VIDEO](https://video.tv.adobe.com/v/3463132/?learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3457691/?learn=on&enablevpops)
+
+Experience League LIVE - [使用AEM内容片段和Dynamic Media在Journey Optimizer中提升个性化内容](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-07-31-25)
+
+在本次研讨会中，Jyothitha Chandran、Chris Ivory和Kaitlin White展示了Adobe Journey Optimizer (AJO)如何与Adobe Experience Manager (AEM) Sites内容片段和AEM Assets Dynamic Media无缝集成，以在每个渠道中提供可扩展的实时个性化。
