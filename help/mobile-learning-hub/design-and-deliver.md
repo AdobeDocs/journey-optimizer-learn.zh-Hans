@@ -32,7 +32,7 @@ ht-degree: 57%
 
 了解Journey Optimizer支持哪些移动渠道，以及如何使用这些渠道配置和发送消息。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426021?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430378?quality=12&learn=on&captions=chi_hans){transcript=true}
 
 >[!TAB 推送]
 
@@ -78,7 +78,7 @@ ht-degree: 57%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/channels/push-channel/create-a-push-campaign" title="配置和发送推送营销活动" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422017/?format=jpeg&nocache=1755891402391" alt="配置和发送推送营销活动"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3452711/?format=jpeg&nocache=1755891402391&captions=chi_hans" alt="配置和发送推送营销活动"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -149,7 +149,7 @@ ht-degree: 57%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/create-campaigns/action-campaigns/in-app" title="创建应用程序内营销活动" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3410430?format=jpeg&nocache=1755891402919" alt="创建应用程序内营销活动"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3451892?format=jpeg&nocache=1755891402919&captions=chi_hans" alt="创建应用程序内营销活动"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -202,7 +202,7 @@ ht-degree: 57%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/channels/content-cards/create-content-cards" title="创建内容卡" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434783/?format=jpeg&nocache=1755891403581" alt="创建内容卡"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434793/?format=jpeg&nocache=1755891403581&captions=chi_hans" alt="创建内容卡"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -272,7 +272,7 @@ ht-degree: 57%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-sms-messages" title="配置、创作和投放短信消息" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420509?format=jpeg&nocache=1755891404139" alt="配置、创作和投放短信消息"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422699?format=jpeg&nocache=1755891404139&captions=chi_hans" alt="配置、创作和投放短信消息"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -295,7 +295,7 @@ ht-degree: 57%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-double-opt-in" title="Sinch和Infobip双重选择加入" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427129/?format=jpeg&nocache=1755891404148" alt="Sinch和Infobip双重选择加入"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440290/?format=jpeg&nocache=1755891404148&captions=chi_hans" alt="Sinch和Infobip双重选择加入"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -329,7 +329,7 @@ ht-degree: 57%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-mms" title="创建彩信" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428816/?format=jpeg&nocache=1755891404669" alt="创建彩信"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3437110/?format=jpeg&nocache=1755891404669&captions=chi_hans" alt="创建彩信"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -352,7 +352,7 @@ ht-degree: 57%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs" title="在 Journey Optimizer 中设置 RCS" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464755/?format=jpeg&nocache=1755891404682" alt="在 Journey Optimizer 中设置 RCS"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464765/?format=jpeg&nocache=1755891404682&captions=chi_hans" alt="在 Journey Optimizer 中设置 RCS"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -398,7 +398,7 @@ ht-degree: 57%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign" title="创建基于代码的体验营销活动。" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428868/?format=jpeg&nocache=1755891405190" alt="创建基于代码的体验营销活动。"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3449463/?format=jpeg&nocache=1755891405190&captions=chi_hans" alt="创建基于代码的体验营销活动。"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -421,7 +421,7 @@ ht-degree: 57%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/form-fields-in-code-based-experiences" title="将表单字段添加到基于代码的体验渠道模板" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463990/?format=jpeg&nocache=1755891405203" alt="将表单字段添加到基于代码的体验渠道模板"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464001/?format=jpeg&nocache=1755891405203&captions=chi_hans" alt="将表单字段添加到基于代码的体验渠道模板"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -467,7 +467,7 @@ ht-degree: 57%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/channels/whatsapp/whatsapp-introduction" title="WhatsApp 渠道简介" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470296/?format=jpeg&nocache=1755891405738" alt="WhatsApp 渠道简介"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470306/?format=jpeg&nocache=1755891405738&captions=chi_hans" alt="WhatsApp 渠道简介"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -490,7 +490,7 @@ ht-degree: 57%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/channels/whatsapp/create-a-whatsapp-journey" title="创建 WhatsApp 历程" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470282/?format=jpeg&nocache=1755891405726" alt="创建 WhatsApp 历程"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470292/?format=jpeg&nocache=1755891405726&captions=chi_hans" alt="创建 WhatsApp 历程"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -590,7 +590,7 @@ ht-degree: 57%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization" title="使用辅助函数进行个性化" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/334244?format=jpeg&nocache=1755891406861" alt="使用辅助函数进行个性化"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3416642?format=jpeg&nocache=1755891406861&captions=chi_hans" alt="使用辅助函数进行个性化"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -613,7 +613,7 @@ ht-degree: 57%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/personalize-content/use-and-manage-saved-expressions-in-personalization-library" title="使用和管理个性化库中已保存的表达式" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/340941?format=jpeg&nocache=1755891406844" alt="使用和管理个性化库中已保存的表达式"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/344983?format=jpeg&nocache=1755891406844&captions=chi_hans" alt="使用和管理个性化库中已保存的表达式"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -647,7 +647,7 @@ ht-degree: 57%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/conflict-management/assign-priority-score" title="将优先级得分分配给入站操作" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435529/?format=jpeg&nocache=1755891407584" alt="将优先级得分分配给入站操作"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3445011/?format=jpeg&nocache=1755891407584&captions=chi_hans" alt="将优先级得分分配给入站操作"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -670,7 +670,7 @@ ht-degree: 57%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/conflict-management/journey-frequency-capping-and-prioritization" title="历程频度上限和优先顺序" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435530/?format=jpeg&nocache=1755891407596" alt="历程频度上限和优先顺序"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3447625/?format=jpeg&nocache=1755891407596&captions=chi_hans" alt="历程频度上限和优先顺序"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

@@ -58,7 +58,7 @@ ht-degree: 63%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports" title="渠道级别报告" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424537/?format=jpeg&nocache=1755729019635" alt="渠道级别报告"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448049/?format=jpeg&nocache=1755729019635&captions=chi_hans" alt="渠道级别报告"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -81,7 +81,7 @@ ht-degree: 63%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/report-and-monitor/enhanced-reporting-with-customer-journey-analytics" title="通过 Customer Journey Analytics 增强的报告功能" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430413/?format=jpeg&nocache=1755729019655" alt="通过 Customer Journey Analytics 增强的报告功能"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443161/?format=jpeg&nocache=1755729019655&captions=chi_hans" alt="通过 Customer Journey Analytics 增强的报告功能"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
