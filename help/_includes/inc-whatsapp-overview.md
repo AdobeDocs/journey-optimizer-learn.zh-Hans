@@ -1,5 +1,5 @@
 ---
-source-git-commit: 0ce6d5013bbcf55e49ae920670919f6929a142ec
+source-git-commit: 6aa7b4c72ce5bd72002ad88ba88a20f32d54c360
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 3%
@@ -32,7 +32,7 @@ ht-degree: 3%
 | 4 | 维护法规遵从性和信任 | 报文通过具有严格选择加入要求的官方API投放 | <ul><li>订阅确认</li><li>监管通知</li></ul> |
 | 5 | 与其他渠道集成 | 与电子邮件、推送或短信相结合，无缝实现多渠道历程 | <ul><li>跨渠道重新参与</li><li>跟踪废弃购物车</li></ul> |
 
-## 何时不使用WhatsApp
+## 当&#x200B;*不*&#x200B;使用WhatsApp时
 
 * 如果您的受众没有主动使用WhatsApp。
 * 用户未明确选择加入以接收WhatsApp消息时。
