@@ -20,4 +20,4 @@ ht-degree: 0%
 
 了解如何跟踪单个历程的性能，以及用户如何与历程中的不同步骤进行交互，包括登入和退出统计信息、错误以及执行的操作。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470710/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471473/?learn=on&enablevpops&captions=chi_hans)
