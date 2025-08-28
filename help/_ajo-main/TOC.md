@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: fe5ca064c5823c980b19a41a511e534842a91e99
+source-git-commit: b46e2f77012fd1032f4d434132ee3263489b39a8
 workflow-type: tm+mt
 source-wordcount: '926'
 ht-degree: 97%
@@ -34,7 +34,7 @@ ht-degree: 97%
    + [架构](/help/introduction/architecture.md)
    + [面向营销人员的移动功能](/help/channels/mobile-capabilities.md)
    + [面向开发人员的移动功能](/help/channels/mobile-capabilities-for-developers.md)
-   + [通过 AI 助手获取帮助](/help/ai-assistant.md)
+   + [通过 AI 助手获取帮助](/help/ai-agents/ai-assistant.md)
 + 营销活动 {#create-campaigns}
    + 操作营销活动 {#action-campaigns}
       + [创建营销活动](/help/create-campaigns/create-a-campaign.md)
@@ -121,7 +121,7 @@ ht-degree: 97%
    + [消息创作 - 概述](/help/content-management/message-authoring-overview.md)
    + 管理资源 {#assets}
       + [数字资源管理 - 概述](/help/content-management/digital-asset-management-overview.md)
-      + [管理资源](/help/assets-essentials-overview.md)
+      + [管理资源](/help/content-management/assets-essentials-overview.md)
       + [AEM Dynamic Media 集成](/help/content-management/aem-dynamic-media-integration.md)
       + [使用 Adobe Express 编辑资源](/help/content-management/edit-assets-with-adobe-express.md)
    + 使用片段 {#fragments}
@@ -227,7 +227,7 @@ ht-degree: 97%
 + 练习和挑战 {#exercises-and-challenges}
    + [配置培训沙盒](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
    + [挑战](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
-+ [Experience League Live 节目录像](/help/experience-league-live-show-recordings.md)
++ [Experience League Live 节目录像](/help/_ajo-main/experience-league-live-show-recordings.md)
 + Summit Labs {#summit-labs}
    + [2025 Summit Lab 备忘单](/help/summit-lab-assets/l535-assets.md)
    + [使用 Adobe Journey Optimizer (2024) 构建个性化的移动体验](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
