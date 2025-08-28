@@ -23,4 +23,4 @@ ht-degree: 0%
 
 在本教程中，您将深入了解关系架构(特定于Journey Optimizer中的编排营销活动)如何与实时客户配置文件配合使用。 了解数据摄取、模式建模、分段和活动执行背后的核心概念，为您设计结构化、可扩展的个性化客户历程奠定基础。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470214/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470224/?learn=on&enablevpops&captions=chi_hans)
