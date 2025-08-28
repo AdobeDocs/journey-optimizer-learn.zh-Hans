@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: b46e2f77012fd1032f4d434132ee3263489b39a8
+source-git-commit: 7749164744a667433d93ea8f33d2278863ab275e
 workflow-type: tm+mt
-source-wordcount: '926'
-ht-degree: 97%
+source-wordcount: '951'
+ht-degree: 95%
 
 ---
 
@@ -14,16 +14,6 @@ ht-degree: 97%
 # Journey Optimizer 教程 {#tutorials}
 
 + [Journey Optimizer 教程](/help/_ajo-main/overview.md)
-+ 用例 {#use-cases}
-   + [客户加入](/help/use-cases/customer-onboarding.md)
-   + [放弃购物车](/help/use-cases/abandoned-cart.md)
-   + [智能重新参与 - 已放弃的浏览](https://experienceleague.adobe.com/zh-hans/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
-   + [使用 Web SDK 在 Adobe Journey Optimizer 中通过实时天气数据对产品建议进行个性化设置](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
-   + [生成有关产品建议展示次数和点击次数的报告](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
-   + [在 Journey Optimizer 中使用排名公式来提供个性化产品建议](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
-   + [提升客户参与度](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
-   + [将编排扩展到全渠道参与](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
-+ 用例战术手册 {#use-case-playbooks}
    + [概述](https://experienceleague.adobe.com/zh-hans/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
    + [配置战术手册沙盒](https://experienceleague.adobe.com/zh-hans/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
    + [创建并发布战术手册实例](https://experienceleague.adobe.com/zh-hans/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
@@ -37,16 +27,17 @@ ht-degree: 97%
    + [通过 AI 助手获取帮助](/help/ai-agents/ai-assistant.md)
 + 营销活动 {#create-campaigns}
    + 操作营销活动 {#action-campaigns}
-      + [创建营销活动](/help/create-campaigns/create-a-campaign.md)
-      + [创建应用程序内营销活动](/help/create-campaigns/in-app.md)
-      + [配置和发送推送营销活动](/help/create-campaigns/push-campaign.md)
-      + [创建 Web 营销活动](/help/create-campaigns/web-campaign.md)
+      + [创建营销活动](/help/campaigns/action-campaigns/create-a-campaign.md)
+      + [创建应用程序内营销活动](/help/campaigns/action-campaigns/in-app.md)
+      + [配置和发送推送营销活动](/help/campaigns/action-campaigns/push-campaign.md)
+      + [创建 Web 营销活动](/help/campaigns/action-campaigns/web-campaign.md)
       + [创建基于代码的体验活动](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
-      + [为电子邮件营销活动创建内容试验](/help/create-campaigns/content-experiments.md)
       + [在营销活动中利用消息优化](/help/create-campaigns/leverage-message-optimization-in-a-campaign.md)
    + API 触发的营销活动 {#api-triggered-campaigns}
       + [使用 API 触发营销活动](/help/create-campaigns/api-triggered-campaigns.md)
    + 编排的营销活动 {#orchestrated-campaigns}
+      + [编排的活动简介](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
+      + [了解关系架构](/help/orchestrated-campaigns/understand-relational-schemas.md)
 + 历程 {#create-journeys}
    + [历程设计器 - 概述](/help/create-journeys/journey-designer-overview.md)
    + [了解新的历程设计器](/help/create-journeys/new-journey-designer.md)
@@ -64,7 +55,7 @@ ht-degree: 97%
    + [将历程复制到另一个沙盒](/help/create-journeys/copy-a-journey.md)
    + [在批量分段后触发每日历程运行](/help/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
    + [历程中的入站操作故障排除](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/orchestrate-journeys/troubleshoot-journey/troubleshooting-inbound){target="_blank"}
-+ 冲突管理 {#conflict-management}
++ 冲突管理和优先级排序 {#conflict-management}
    + [识别潜在冲突](/help/conflict-management/identify-potential-conflicts.md)
    + [分配优先级分数](/help/conflict-management/assign-priority-score.md)
    + [历程频率上限和优先级排序](/help/conflict-management/journey-frequency-capping-and-prioritization.md)
@@ -139,7 +130,6 @@ ht-degree: 97%
       + [用于内容生成的 AI 助手 - 概述](/help/content-management/ai-assistant-for-content-generation-overview.md)
       + [借助用于内容生成的 AI 助手创建内容](/help/content-management/create-content-using-ai-assistant-for-content-generation.md)
       + [品牌指南的创建和管理](/help/content-management/brand-guideline-creation-and-management.md)
-   + [试验 - 概述](/help/content-management/experimentation-overview.md)
    + [使用 GenStudio 创建电子邮件](/help/content-management/create-an-email-using-genstudio.md)
 + 个性化内容 {#personalize-content}
    + [个性化编辑器 - 概述](/help/personalize-content/personalization-editor-overview.md)
@@ -150,6 +140,9 @@ ht-degree: 97%
    + [使用和管理个性化库中已保存的表达式](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
    + [使用条件规则生成器创建动态内容](/help/personalize-content/create-dynamic-content.md)
    + [个性化编辑器游乐场](/help/personalize-content/personalization-editor-playground.md)
++ 试验 {#experimentation}
+   + [试验简介](/help/experimentation/introduction-to-experimentation.md)
+   + [为电子邮件营销活动创建内容试验](/help/experimentation/content-experiments-for-emails.md)
 + 决策功能{#decision-capabilities}
    + 决策 {#decisioning}
       + [决策功能简介](/help/decisioning/introduction-to-decisioning.md)
@@ -224,12 +217,24 @@ ht-degree: 97%
    + [创建数据使用策略](/help/privacy/create-data-usage-policies.md)
    + [在 Journey Optimizer 渠道中实施数据使用策略](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [屏蔽消息中的数据](/help/privacy/mask-data-in-messages.md)
-+ 练习和挑战 {#exercises-and-challenges}
++ 用例和最佳实践{#use-cases}
+   + [客户加入](/help/use-cases/customer-onboarding.md)
+   + [放弃购物车](/help/use-cases/abandoned-cart.md)
+   + [智能重新参与 - 已放弃的浏览](https://experienceleague.adobe.com/zh-hans/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
+   + [使用 Web SDK 在 Adobe Journey Optimizer 中通过实时天气数据对产品建议进行个性化设置](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
+   + [生成有关产品建议展示次数和点击次数的报告](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
+   + [在 Journey Optimizer 中使用排名公式来提供个性化产品建议](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
+   + [提升客户参与度](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
+   + [将编排扩展到全渠道参与](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
+   + 用例战术手册 {#use-case-playbooks}
+      + [概述](https://experienceleague.adobe.com/zh-hans/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
+      + [配置战术手册沙盒](https://experienceleague.adobe.com/zh-hans/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
+      + [创建并发布战术手册实例](https://experienceleague.adobe.com/zh-hans/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
++ 练习、实验室和挑战 {#exercises-and-challenges}
    + [配置培训沙盒](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
    + [挑战](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
-+ [Experience League Live 节目录像](/help/_ajo-main/experience-league-live-show-recordings.md)
-+ Summit Labs {#summit-labs}
-   + [2025 Summit Lab 备忘单](/help/summit-lab-assets/l535-assets.md)
-   + [使用 Adobe Journey Optimizer (2024) 构建个性化的移动体验](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
-   + [在 Adobe Journey Optimizer (2025) 中将编排扩展到全渠道参与](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
-
+   + Summit Labs {#summit-labs}
+      + [使用 Adobe Journey Optimizer (2024) 构建个性化的移动体验](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
+      + [在 Adobe Journey Optimizer (2025) 中将编排扩展到全渠道参与](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
++ 实时会话和深入探讨 {#live-sessions-and-deep-dives}
+   + [Experience League Live 节目录像](/help/_ajo-main/experience-league-live-show-recordings.md)
