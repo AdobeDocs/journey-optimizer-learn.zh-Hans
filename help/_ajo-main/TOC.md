@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: 64b0ee761c45d5db11941ac7d994a7f2c798f250
+source-git-commit: f2354e6ebd8c033de11556493321f09a209d4817
 workflow-type: tm+mt
-source-wordcount: '938'
+source-wordcount: '930'
 ht-degree: 96%
 
 ---
@@ -29,12 +29,11 @@ ht-degree: 96%
       + [配置和发送推送营销活动](/help/campaigns/action-campaigns/push-campaign.md)
       + [创建 Web 营销活动](/help/campaigns/action-campaigns/web-campaign.md)
       + [创建基于代码的体验活动](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
-      + [在营销活动中利用消息优化](/help/create-campaigns/leverage-message-optimization-in-a-campaign.md)
-   + API 触发的营销活动 {#api-triggered-campaigns}
+      + [在营销活动中利用消息优化](/help/campaigns/action-campaigns/leverage-message-optimization-in-a-campaign.md)
       + [使用 API 触发营销活动](/help/campaigns/api-triggered-campaigns/api-triggered-campaigns.md)
    + 编排的营销活动 {#orchestrated-campaigns}
       + [编排的活动简介](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
-      + [了解关系架构](/help/orchestrated-campaigns/understand-relational-schemas.md)
+      + [了解关系架构](/help/campaigns/orchestrated-campaigns/understand-relational-schemas.md)
 + 历程 {#create-journeys}
    + [历程设计器 - 概述](/help/create-journeys/journey-designer-overview.md)
    + [了解新的历程设计器](/help/create-journeys/new-journey-designer.md)
@@ -78,7 +77,6 @@ ht-degree: 96%
       + [使用电子邮件设计器创建内容](/help/channels/create-content-with-the-email-designer.md)
       + [导入和编辑 HTML 电子邮件内容](/help/channels/import-and-author-html-email-content.md)
       + [预览、校对和发布](/help/channels/preview-proof-and-publish.md)
-      + [为电子邮件配置内容试验](/help/experimentation/content-experiments-for-emails.md)
    + 内容卡{#content-cards}
       + [创建内容卡](/help/channels/create-content-cards.md)
    + 应用程序内渠道{#in-app-channel}
