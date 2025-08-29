@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: 7749164744a667433d93ea8f33d2278863ab275e
+source-git-commit: 64b0ee761c45d5db11941ac7d994a7f2c798f250
 workflow-type: tm+mt
-source-wordcount: '951'
+source-wordcount: '938'
 ht-degree: 95%
 
 ---
@@ -14,9 +14,6 @@ ht-degree: 95%
 # Journey Optimizer 教程 {#tutorials}
 
 + [Journey Optimizer 教程](/help/_ajo-main/overview.md)
-   + [概述](https://experienceleague.adobe.com/zh-hans/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
-   + [配置战术手册沙盒](https://experienceleague.adobe.com/zh-hans/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
-   + [创建并发布战术手册实例](https://experienceleague.adobe.com/zh-hans/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Journey Optimizer 简介 {#introduction-to-journey-optimizer}
    + [Journey Optimizer - 概述](/help/introduction/journey-optimizer-overview.md)
    + [Journey Optimizer 简介](/help/introduction/introduction.md)
@@ -34,7 +31,7 @@ ht-degree: 95%
       + [创建基于代码的体验活动](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
       + [在营销活动中利用消息优化](/help/create-campaigns/leverage-message-optimization-in-a-campaign.md)
    + API 触发的营销活动 {#api-triggered-campaigns}
-      + [使用 API 触发营销活动](/help/create-campaigns/api-triggered-campaigns.md)
+      + [使用 API 触发营销活动](/help/campaigns/api-triggered-campaigns/api-triggered-campaigns.md)
    + 编排的营销活动 {#orchestrated-campaigns}
       + [编排的活动简介](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
       + [了解关系架构](/help/orchestrated-campaigns/understand-relational-schemas.md)
