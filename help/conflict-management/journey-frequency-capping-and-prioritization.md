@@ -20,6 +20,6 @@ ht-degree: 100%
 
 了解如何对入站操作进行优先级排序，确保当客户符合多个入站操作的条件且使用相同渠道配置时，能够接收到优先级最高的内容。
 
->[!VIDEO](https://video.tv.adobe.com/v/3435530/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447625/?learn=on&enablevpops&captions=chi_hans)
 
 请参阅产品文档，了解有关[历程上限和仲裁](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/conflict-prioritization/capping-rules/journey-capping)的更多信息。
