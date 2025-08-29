@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 64b0ee761c45d5db11941ac7d994a7f2c798f250
 workflow-type: tm+mt
 source-wordcount: '938'
-ht-degree: 95%
+ht-degree: 96%
 
 ---
 
@@ -172,7 +172,7 @@ ht-degree: 95%
 + 报告和监测 {#report-and-monitor}
    + [报告和监测](/help/report-and-monitor/report-and-monitor.md)
    + [使用Journey Optimizer生成报表的简介](/help/report-and-monitor/introduction-to-reporting.md)
-   + [使用实时报告监控和分析您的历程](/help/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports.md)
+   + [使用实时报告监控和分析历程](/help/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports.md)
    + [使用历程报告监控和分析您的旅程](/help/report-and-monitor/journey-reports.md)
    + [渠道级别报告](/help/report-and-monitor/channel-level-reports.md)
    + [以 CSV 格式导出报告](/help/report-and-monitor/export-reports-in-csv-format.md)
