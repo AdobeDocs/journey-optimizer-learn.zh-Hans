@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: f2354e6ebd8c033de11556493321f09a209d4817
+source-git-commit: 442dc6a8daa84173e0db176edc757d7164c2b2e1
 workflow-type: tm+mt
-source-wordcount: '930'
+source-wordcount: '933'
 ht-degree: 96%
 
 ---
@@ -30,6 +30,7 @@ ht-degree: 96%
       + [创建 Web 营销活动](/help/campaigns/action-campaigns/web-campaign.md)
       + [创建基于代码的体验活动](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
       + [在营销活动中利用消息优化](/help/campaigns/action-campaigns/leverage-message-optimization-in-a-campaign.md)
+   + API 触发的营销活动 {#api-triggered-campaigns}
       + [使用 API 触发营销活动](/help/campaigns/api-triggered-campaigns/api-triggered-campaigns.md)
    + 编排的营销活动 {#orchestrated-campaigns}
       + [编排的活动简介](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
