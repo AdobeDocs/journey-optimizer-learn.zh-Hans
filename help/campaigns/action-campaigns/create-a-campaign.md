@@ -24,6 +24,6 @@ ht-degree: 100%
 
 了解如何通过立即执行操作或按指定计划执行操作，向特定受众投放一次性内容。
 
->[!VIDEO](https://video.tv.adobe.com/v/346680?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412401?quality=12&learn=on&captions=chi_hans){transcript=true}
 
 请参阅[产品文档](https://experienceleague.adobe.com/docs/journey-optimizer/using/campaigns/get-started-with-campaigns.html?lang=zh-Hans)了解有关此功能的更多信息。
