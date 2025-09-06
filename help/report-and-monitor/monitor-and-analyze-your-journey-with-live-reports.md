@@ -20,4 +20,4 @@ ht-degree: 100%
 
 了解如何有效利用 Adobe Journey Optimizer 的实时报告功能，实时监控并分析历程和消息的表现。了解如何自定义仪表板、导出报告并解释特定于历程的指标，以优化您的营销策略。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470709/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470845/?learn=on&enablevpops&captions=chi_hans)

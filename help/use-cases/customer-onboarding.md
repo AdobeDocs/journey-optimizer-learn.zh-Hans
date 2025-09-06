@@ -20,4 +20,4 @@ ht-degree: 100%
 
 了解如何在 Journey Optimizer 中实施客户引导历程。该流程针对新的忠诚会员，会投放个性化的电子邮件和短信以鼓励下载应用程序。其中包括发送欢迎电子邮件、检查应用程序安装情况以及跟进提醒。本教程还演示了如何使用 AI 内容助手创建和个性化内容。
 
->[!VIDEO](https://video.tv.adobe.com/v/3440650/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440660/?learn=on&enablevpops&captions=chi_hans)

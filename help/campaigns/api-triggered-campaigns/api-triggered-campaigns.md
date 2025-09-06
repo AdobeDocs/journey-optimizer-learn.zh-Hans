@@ -20,4 +20,4 @@ ht-degree: 100%
 
 了解如何使用[交互式消息执行 REST API](https://developer.adobe.com/journey-optimizer-apis/references/messaging/#tag/execution) 创建营销活动并根据用户交互从外部系统触发该营销活动。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425358/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452735/?learn=on&captions=chi_hans)
