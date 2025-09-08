@@ -26,6 +26,6 @@ ht-degree: 100%
 
 本教程介绍如何直接在 AJO 中修改图像，使用 HTML 模式添加文本叠加，在 AEM 中创建用于超个性化的动态媒体模板，以及通过为不同受众细分定制内容来个性化营销活动。通过此集成，营销人员可以高效创建引人入胜的个性化营销活动，而无需在应用程序之间切换。
 
->[!VIDEO](https://video.tv.adobe.com/v/3457695/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463792/?learn=on&enablevpops&captions=chi_hans)
 
 有关此功能的详细信息，请参阅[产品文档](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/content-management/combine/aem-dynamic)。
