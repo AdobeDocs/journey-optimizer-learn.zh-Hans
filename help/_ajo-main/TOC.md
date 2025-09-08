@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: 442dc6a8daa84173e0db176edc757d7164c2b2e1
+source-git-commit: f53bda362d6507a72845f4822d2a34fe122050a5
 workflow-type: tm+mt
 source-wordcount: '933'
 ht-degree: 96%
@@ -34,7 +34,7 @@ ht-degree: 96%
       + [使用 API 触发营销活动](/help/campaigns/api-triggered-campaigns/api-triggered-campaigns.md)
    + 编排的营销活动 {#orchestrated-campaigns}
       + [编排的活动简介](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
-      + [了解关系架构](/help/campaigns/orchestrated-campaigns/understand-relational-schemas.md)
+      + [关系存储基础知识](/help/campaigns/orchestrated-campaigns/relational-store-basics.md)
 + 历程 {#create-journeys}
    + [历程设计器 - 概述](/help/create-journeys/journey-designer-overview.md)
    + [了解新的历程设计器](/help/create-journeys/new-journey-designer.md)
