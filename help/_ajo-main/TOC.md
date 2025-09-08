@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: f53bda362d6507a72845f4822d2a34fe122050a5
 workflow-type: tm+mt
 source-wordcount: '933'
-ht-degree: 96%
+ht-degree: 99%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 96%
    + API 触发的营销活动 {#api-triggered-campaigns}
       + [使用 API 触发营销活动](/help/campaigns/api-triggered-campaigns/api-triggered-campaigns.md)
    + 编排的营销活动 {#orchestrated-campaigns}
-      + [编排的活动简介](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
+      + [精心策划的营销活动简介](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
       + [关系存储基础知识](/help/campaigns/orchestrated-campaigns/relational-store-basics.md)
 + 历程 {#create-journeys}
    + [历程设计器 - 概述](/help/create-journeys/journey-designer-overview.md)
@@ -170,9 +170,9 @@ ht-degree: 96%
    + [将数据集导出到云存储位置](/help/data-management/export-datasets.md)
 + 报告和监测 {#report-and-monitor}
    + [报告和监测](/help/report-and-monitor/report-and-monitor.md)
-   + [使用Journey Optimizer生成报表的简介](/help/report-and-monitor/introduction-to-reporting.md)
+   + [Journey Optimizer 的报告功能简介](/help/report-and-monitor/introduction-to-reporting.md)
    + [使用实时报告监控和分析历程](/help/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports.md)
-   + [使用历程报告监控和分析您的旅程](/help/report-and-monitor/journey-reports.md)
+   + [使用历程报告监控和分析历程](/help/report-and-monitor/journey-reports.md)
    + [渠道级别报告](/help/report-and-monitor/channel-level-reports.md)
    + [以 CSV 格式导出报告](/help/report-and-monitor/export-reports-in-csv-format.md)
    + [使用警报](/help/administration/alerts.md)
