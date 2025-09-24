@@ -23,4 +23,4 @@ ht-degree: 100%
 
 了解 Journey Optimizer 营销活动编排中使用的关系存储基本概念，包括架构设计、数据摄取、支持的源以及与实时轮廓存储的主要差异。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470214/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470224/?learn=on&enablevpops&captions=chi_hans)
