@@ -8,9 +8,10 @@ doc-type: Tutorial
 last-substantial-update: 2025-05-19T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18089
-source-git-commit: 68bd0a65e7d7f2d57f9620e76555485a1a79b4ae
+exl-id: b7bad65d-c978-4981-a914-6cb039433c8b
+source-git-commit: 71b42350370d12ce677bf075d8b48edcbe541ab4
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '348'
 ht-degree: 0%
 
 ---
@@ -21,7 +22,7 @@ ht-degree: 0%
 
 ## 安装节点.js
 
-如果未安装Node.js，请从此处[&#128279;](https://nodejs.org/)下载并安装它
+如果未安装Node.js，请从此处[下载并](https://nodejs.org/)安装它
 
 通过运行以下命令来验证安装：
 
@@ -88,6 +89,7 @@ Adobe Experience Platform Debugger是一个功能强大的浏览器扩展，可�
 * 导航到客户 — >配置文件 — >浏览
 * 搜索FinWise CRM ID = FIN001
 * 打开配置文件并查看身份部分。 您应该会看到CRMID和ECID都已列出。   这可以确认这两个身份已合并到单个个人资料中。
-
+* 历程也应该被触发。通过查看历程报告验证这一点
+* ![历程报告](assets/journey-triggered-report.png)
 
 
