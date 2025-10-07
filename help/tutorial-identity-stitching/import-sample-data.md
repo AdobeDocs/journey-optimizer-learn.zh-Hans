@@ -28,9 +28,9 @@ ht-degree: 5%
 
 ## 创建启用配置文件的架构
 
-创建名为&#x200B;**_FinWiseProfileSchema_**的单个配置文件架构。 包括字段，如annualIncome、email、firstName、lastName和loyaltyStatus。
-添加标识字段**_crmid_**，如图所示。 将crmid字段标记为标识和主字段。
-将_**同意和偏好设置详细信息**_&#x200B;字段组添加到架构。 [同意和偏好设置](https://experienceleague.adobe.com/zh-hans/docs/experience-platform/xdm/field-groups/profile/consents)是XDM Individual Profile类的标准字段组，用于捕获单个客户的同意和偏好设置信息。此处存储的偏好设置决定渠道级别的通信偏好设置。
+创建名为&#x200B;**_FinWiseProfileSchema_**&#x200B;的单个配置文件架构。 包括字段，如annualIncome、email、firstName、lastName和loyaltyStatus。
+添加标识字段&#x200B;**_crmid_**，如图所示。 将crmid字段标记为标识和主字段。
+将_&#x200B;**同意和偏好设置详细信息**&#x200B;_&#x200B;字段组添加到架构。 [同意和偏好设置](https://experienceleague.adobe.com/zh-hans/docs/experience-platform/xdm/field-groups/profile/consents)是XDM Individual Profile类的标准字段组，用于捕获单个客户的同意和偏好设置信息。此处存储的偏好设置决定渠道级别的通信偏好设置。
 
 
 ![配置文件架构](assets/finwise-profile-schema.png)
@@ -52,7 +52,7 @@ ht-degree: 5%
 * 根据上一步中创建的&#x200B;**_FinWiseProfileSchema_**，创建名为&#x200B;**_FinWiseCustomerDataSetWithAnnualIncome_**&#x200B;的数据集
 
 * 导航到连接 — >源 — >本地系统
-* 在本地文件上传下选择&#x200B;**_添加数据_**。 确保选择&#x200B;_**FinWiseCustomerDataSetWithAnnualIncome**_作为目标数据集。
+* 在本地文件上传下选择&#x200B;**_添加数据_**。 确保选择&#x200B;_&#x200B;**FinWiseCustomerDataSetWithAnnualIncome**&#x200B;_作为目标数据集。
   ![摄取 — csv](assets/ingest-csv-into-dataset.png)
 * 导航到下一个屏幕。 上传[csv文件](assets/finwise_profiles.csv)并验证映射
   ![映射](assets/mappings.png)
