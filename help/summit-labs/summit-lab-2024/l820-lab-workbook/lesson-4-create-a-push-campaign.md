@@ -50,7 +50,7 @@ ht-degree: 2%
 >[!SUCCESS]
 >
 >此时，您应位于Campaign属性页面上：
->> ![营销活动属性](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-1-2-campaign-properties.png)
+>&#x200B;> ![营销活动属性](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-1-2-campaign-properties.png)
 
 ## 练习4.2 — 配置活动
 
@@ -199,7 +199,7 @@ ht-degree: 2%
 > ![营销活动状态](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-push-completed.png)
 > 
 > 状态从“正在处理”更改为“实时”，再更改为“已完成” — 这可能需要几分钟的时间。
-> > 一旦状态更改为“已完成”：
+> &#x200B;> 一旦状态更改为“已完成”：
 >
 > ![推送结果](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-push-notification-result.png)
 
