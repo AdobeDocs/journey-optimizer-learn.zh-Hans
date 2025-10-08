@@ -7,10 +7,10 @@ role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 7861e0ca17a616273f5ea1b4d850310f1f4ec8b8
+source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
 workflow-type: tm+mt
 source-wordcount: '403'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 | 挑战 | 创建忠诚度状态欢迎电子邮件 |
 |---|---|
 | 角色 | 历程管理者 |
-| 所需技能 | <ul><li>[创建区段](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=zh-Hans)</li> <li>[区段鉴别](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html?lang=zh-Hans)</li><li>[导入 HTML 内容](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=zh-Hans)</li></ul> |
+| 所需技能 | <ul><li>[创建区段](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=zh-Hans)</li> <li>[细分资格筛选](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment-qualification.html)</li><li>[导入 HTML 内容](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=zh-Hans)</li></ul> |
 | 可供下载的资源 | [StatusUpgradeEmail.zip](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip) |
 
 {style="table-layout:auto"}
@@ -67,7 +67,7 @@ Luma 提供忠诚度计划，作为吸引和留住客户的一种方式。该计
 
 1. 选择&#x200B;**[!UICONTROL 触发事件]**。
 
-1. 添加 `Stanleigh Stooke` 的以下 `CRM ID` 到 **[!UICONTROL 个人资料标识符]** 字段：`4f34057d9d9e792c28ba18ecae378e98`
+1. 添加 `Stanleigh Stooke` 的以下 `CRM ID` 到 **[!UICONTROL 轮廓标识符]** 字段：`4f34057d9d9e792c28ba18ecae378e98`
 
 **结果：**&#x200B;您应会收到个性化的 *Luma - 白金状态 - 欢迎*&#x200B;电子邮件。
 

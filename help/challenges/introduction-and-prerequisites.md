@@ -6,10 +6,10 @@ role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: 1542a429d393d9d803976d1490a3bc09654b706b
+source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
 workflow-type: tm+mt
 source-wordcount: '411'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 100%
 您需要以下访问权限：
 
 * *历程管理者*&#x200B;或&#x200B;*历程管理员*
-* 查看测试用户档案及其属性
+* 查看测试轮廓及其属性
 
 >[!NOTE]
 > 这些练习是根据 Luma 样本数据编制的。建议设置一个使用示例数据配置的培训沙盒。请访问教程[配置培训沙盒](/help/tutorial-configure-a-training-sandbox/introduction-and-prerequisites.md)以获取详细说明。
@@ -68,7 +68,7 @@ Luma 正寻求推广其最新的服装和装备系列，并推动针对现有客
       <p>
       <b>所需技能：</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=zh-Hans"> 创建区段</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=zh-Hans">读取区段</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment.html">读取区段</li>
        <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=zh-Hans">导入 HTML 电子邮件内容</li>
   </td>
   </tr>
@@ -90,7 +90,7 @@ Luma 正寻求推广其最新的服装和装备系列，并推动针对现有客
     <p>
     <b>所需技能：</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=zh-Hans"> 创建区段</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html?lang=zh-Hans">区段鉴别</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment-qualification.html">细分资格筛选</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=zh-Hans">导入和编辑 HTML 电子邮件内容</li>
   </td>
   </tr>

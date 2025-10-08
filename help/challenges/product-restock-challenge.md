@@ -8,10 +8,10 @@ level: Beginner
 hide: true
 hidefromtoc: true
 exl-id: 305aaf4c-7f5d-4f6f-abeb-466208f1fe48
-source-git-commit: 5c763ec877c75c07132f4cc714d63695e12638dc
+source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
 workflow-type: tm+mt
 source-wordcount: '547'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 100%
 | 挑战 | 产品补货 |
 |---|---|
 | 角色 | 历程管理者 |
-| 所需技能 | <ul><li>[创建区段](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=zh-Hans)</li><li> [导入和编辑 HTML 电子邮件内容](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=zh-Hans)</li><li>[用例 - 读取区段](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=zh-Hans)</li> |
+| 所需技能 | <ul><li>[创建区段](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=zh-Hans)</li><li> [导入和编辑 HTML 电子邮件内容](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=zh-Hans)</li><li>[用例 - 读取区段](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment.html?lang=en)</li> |
 | 可供下载的资源 | [产品重新上架电子邮件文件](/help/challenges/assets/email-assets/ProductRestockEmail.html.zip) |
 
 ## 案例
@@ -35,9 +35,9 @@ Luma 要求您在 Journey Optimizer 中实施一个历程，如果客户的愿�
 
 >[!TAB 任务]
 
-## 1. 定义区段 – 缺货的愿望清单商品
+## &#x200B;1. 定义区段 – 缺货的愿望清单商品
 
-要在产品重新上架时定位潜在的感兴趣的客户，请创建一个由客户组成的受众：
+要在产品重新上架时锁定潜在的感兴趣的客户，请创建一个由客户组成的受众：
 
 * 这些客户的愿望清单中至少添加了一个商品（使用事件类型：[!UICONTROL 商务暂存]）
 * 这些商品最近三个月缺货（使用库存数量 = 0）
@@ -49,7 +49,7 @@ Luma 要求您在 Journey Optimizer 中实施一个历程，如果客户的愿�
 将此区段命名为：`Out-of-stock-Wishlist`
 
 
-### 2. 创建历程 – 产品重新上架通知
+### &#x200B;2. 创建历程 – 产品重新上架通知
 
 当以前缺货的商品重新上架时，通知添加了缺货商品并设置了到货通知的客户，该商品现在又有了存货，号召他们开始购买。
 
@@ -73,7 +73,7 @@ Luma 要求您在 Journey Optimizer 中实施一个历程，如果客户的愿�
    * 产品 ID：24-UG03
    * 产品图像 URL：https://publish1034.adobedemo.com/content/dam/luma/en/products/gear/fitness-equipment/ug03-bk-0.jpSKU: 24-UG03
    * 库存事件类型：重新上架
-   * 用户档案标识符：Jenna_Palmer9530@emailsim.io
+   * 轮廓标识符：Jenna_Palmer9530@emailsim.io
 
 您应会收到“Luma 电子邮件产品补货”电子邮件，其中包含产品详细信息和针对 Jenna 的个性化设置。
 
