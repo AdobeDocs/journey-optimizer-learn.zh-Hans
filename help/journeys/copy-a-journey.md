@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解如何将历程及其依赖对象从一个沙盒复制到另一个沙盒。
 
->[!VIDEO](https://video.tv.adobe.com/v/3409593?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413051?quality=12&learn=on&captions=chi_hans){transcript=true}
