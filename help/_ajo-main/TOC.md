@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: 3558a9530827303a6597966e16ead1cfdee7576b
+source-git-commit: f89cba65a472ea389ef0c8e974ddead6e4b2d24b
 workflow-type: tm+mt
-source-wordcount: '949'
+source-wordcount: '958'
 ht-degree: 98%
 
 ---
@@ -140,7 +140,7 @@ ht-degree: 98%
 + 试验 {#experimentation}
    + [试验简介](/help/experimentation/introduction-to-experimentation.md)
    + [为电子邮件营销活动创建内容试验](/help/experimentation/content-experiments-for-emails.md)
-   + [试验代理](/help/ai-agents/experimentation-agent-overview.md)
+   + [试验代理 — 概述](/help/ai-agents/experimentation-agent-overview.md)
 + 决策功能{#decision-capabilities}
    + 决策 {#decisioning}
       + [决策功能简介](/help/decisioning/introduction-to-decisioning.md)
@@ -216,8 +216,10 @@ ht-degree: 98%
    + [在 Journey Optimizer 渠道中实施数据使用策略](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [屏蔽消息中的数据](/help/privacy/mask-data-in-messages.md)
 + AI 助手 {#ai-assistant}
-   + [AI 助手](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
-   + [用于生成内容的AI助手](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
+   + [AI 助手](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
+   + [用于内容生成的 AI 助手](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
+   + [Journey Agent — 概述](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview)
+   + [试验代理 — 概述](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
 + 用例和最佳实践{#use-cases}
    + [客户加入](/help/use-cases/customer-onboarding.md)
    + [放弃购物车](/help/use-cases/abandoned-cart.md)
