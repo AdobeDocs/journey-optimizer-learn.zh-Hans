@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: f53bda362d6507a72845f4822d2a34fe122050a5
-workflow-type: ht
-source-wordcount: '933'
-ht-degree: 100%
+source-git-commit: 3558a9530827303a6597966e16ead1cfdee7576b
+workflow-type: tm+mt
+source-wordcount: '949'
+ht-degree: 98%
 
 ---
 
@@ -35,22 +35,23 @@ ht-degree: 100%
    + 编排的营销活动 {#orchestrated-campaigns}
       + [精心策划的营销活动简介](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
       + [关系存储基础知识](/help/campaigns/orchestrated-campaigns/relational-store-basics.md)
-+ 历程 {#create-journeys}
-   + [历程设计器 - 概述](/help/create-journeys/journey-designer-overview.md)
-   + [了解新的历程设计器](/help/create-journeys/new-journey-designer.md)
-   + [构建历程的简介](/help/create-journeys/introduction-to-building-a-journey.md)
-   + [创建测试轮廓](/help/create-journeys/test-a-journey.md)
-   + [发布历程](/help/create-journeys/publish-a-journey.md)
-   + [用例 - 事务性历程](/help/create-journeys/use-case-transactional-journey.md)
-   + [用例 - 商业事件](/help/create-journeys/use-case-business-event.md)
-   + [用例 - 读取受众](/help/create-journeys/use-case-read-audience.md)
-   + [用例 - 受众资格筛选](/help/create-journeys/use-case-audience-qualification.md)
-   + [掌握多属性筛选](/help/create-journeys/mastering-multi-attribute-filtering.md)
-   + [通过历程试运行验证历程逻辑](/help/create-journeys/journey-dry-run.md)
-   + [使用补充 ID 解锁历程重新进入](/help/create-journeys/unlock-journey-reentry-with-supplemental-id.md)
-   + [更新实时历程中的内容](/help/create-journeys/update-content-in-live-journey.md)
-   + [将历程复制到另一个沙盒](/help/create-journeys/copy-a-journey.md)
-   + [在批量分段后触发每日历程运行](/help/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
++ 历程 {#journeys}
+   + [历程设计器 - 概述](/help/journeys/journey-designer-overview.md)
+   + [Journey Agent — 概述](/help/ai-agents/journey-agent-overview.md)
+   + [了解新的历程设计器](/help/journeys/new-journey-designer.md)
+   + [构建历程的简介](/help/journeys/introduction-to-building-a-journey.md)
+   + [创建测试轮廓](/help/journeys/test-a-journey.md)
+   + [发布历程](/help/journeys/publish-a-journey.md)
+   + [用例 - 事务性历程](/help/journeys/use-case-transactional-journey.md)
+   + [用例 - 商业事件](/help/journeys/use-case-business-event.md)
+   + [用例 - 读取受众](/help/journeys/use-case-read-audience.md)
+   + [用例 - 受众资格筛选](/help/journeys/use-case-audience-qualification.md)
+   + [掌握多属性筛选](/help/journeys/mastering-multi-attribute-filtering.md)
+   + [通过历程试运行验证历程逻辑](/help/journeys/journey-dry-run.md)
+   + [使用补充 ID 解锁历程重新进入](/help/journeys/unlock-journey-reentry-with-supplemental-id.md)
+   + [更新实时历程中的内容](/help/journeys/update-content-in-live-journey.md)
+   + [将历程复制到另一个沙盒](/help/journeys/copy-a-journey.md)
+   + [在批量分段后触发每日历程运行](/help/journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
    + [历程中的入站操作故障排除](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/orchestrate-journeys/troubleshoot-journey/troubleshooting-inbound){target="_blank"}
 + 冲突管理和优先级排序 {#conflict-management}
    + [识别潜在冲突](/help/conflict-management/identify-potential-conflicts.md)
@@ -139,6 +140,7 @@ ht-degree: 100%
 + 试验 {#experimentation}
    + [试验简介](/help/experimentation/introduction-to-experimentation.md)
    + [为电子邮件营销活动创建内容试验](/help/experimentation/content-experiments-for-emails.md)
+   + [试验代理](/help/ai-agents/experimentation-agent-overview.md)
 + 决策功能{#decision-capabilities}
    + 决策 {#decisioning}
       + [决策功能简介](/help/decisioning/introduction-to-decisioning.md)
@@ -213,6 +215,9 @@ ht-degree: 100%
    + [创建数据使用策略](/help/privacy/create-data-usage-policies.md)
    + [在 Journey Optimizer 渠道中实施数据使用策略](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [屏蔽消息中的数据](/help/privacy/mask-data-in-messages.md)
++ AI 助手 {#ai-assistant}
+   + [AI 助手](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
+   + 用于生成内容的[AI助手](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
 + 用例和最佳实践{#use-cases}
    + [客户加入](/help/use-cases/customer-onboarding.md)
    + [放弃购物车](/help/use-cases/abandoned-cart.md)
