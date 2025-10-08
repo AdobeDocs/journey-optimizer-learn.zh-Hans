@@ -216,8 +216,8 @@ ht-degree: 98%
    + [在 Journey Optimizer 渠道中实施数据使用策略](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [屏蔽消息中的数据](/help/privacy/mask-data-in-messages.md)
 + AI 助手 {#ai-assistant}
-   + [AI 助手](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
-   + [用于内容生成的 AI 助手](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
+   + [AI 助手](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
+   + [用于内容生成的 AI 助手](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
    + [Journey Agent — 概述](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview)
    + [试验代理 — 概述](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
 + 用例和最佳实践{#use-cases}
