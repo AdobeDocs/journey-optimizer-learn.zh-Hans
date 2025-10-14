@@ -215,6 +215,7 @@ ht-degree: 57%
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
 ## 博客帖子
 
 * [在移动设备上使用基于CDN的客户端个性化(ODD)，以实现更快的个性化。](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/using-cdn-based-client-side-personalization-odd-on-mobile-for/ba-p/761626)
