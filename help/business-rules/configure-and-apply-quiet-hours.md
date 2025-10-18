@@ -23,4 +23,4 @@ ht-degree: 0%
 
 了解如何使用Adobe Journey Optimizer中的“免打扰时间”功能来阻止在指定的时间窗口向客户发送消息，从而帮助营销人员避免在不合适的时间发送通信并提高客户参与度。
 
->[!VIDEO](https://video.tv.adobe.com/v/3475851/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475862/?captions=chi_hans&learn=on&enablevpops)

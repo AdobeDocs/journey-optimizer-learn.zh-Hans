@@ -25,4 +25,4 @@ ht-degree: 100%
 
 了解如何利用预定义的代码示例、编辑虚设配置文件负载以及实时预览个性化代码的输出。
 
->[!VIDEO](https://video.tv.adobe.com/v/3457868/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475962/?captions=chi_hans&learn=on&enablevpops)
