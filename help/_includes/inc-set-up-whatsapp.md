@@ -1,6 +1,6 @@
 ---
 source-git-commit: ac61c4d30929b559826b4a770fc10c26aec74830
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
 ht-degree: 100%
 
@@ -17,4 +17,4 @@ ht-degree: 100%
 
 非常适合希望在客户历程中激活 WhatsApp 消息的营销人员和开发人员。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470278/?learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3470268/?learn=on&enablevpops)
