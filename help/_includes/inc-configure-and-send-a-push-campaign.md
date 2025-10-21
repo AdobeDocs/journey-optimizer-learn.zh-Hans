@@ -9,4 +9,4 @@ ht-degree: 100%
 
 了解如何使用营销活动配置和发送推送通知。
 
->[!VIDEO](https://video.tv.adobe.com/v/3422017/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452711/?captions=chi_hans&learn=on){transcript=true}
