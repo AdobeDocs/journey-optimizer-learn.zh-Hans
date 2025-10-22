@@ -20,4 +20,4 @@ ht-degree: 0%
 
 在此视频中，您将了解如何在Adobe Journey Optimizer中有效使用实时报表揭示跨客户历程、营销活动和渠道的长期性能洞察。 它介绍了如何导航关键功能板、解释基本KPI、应用过滤器和日期范围，以及利用历程报表、促销活动报表和Insight Builder等工具进行更深入的分析和自定义报表 — 使营销人员和经理能够将数据转化为行动。
 
->[!VIDEO](https://video.tv.adobe.com/v/3475653/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475797/?captions=chi_hans&learn=on&enablevpops)
