@@ -24,4 +24,4 @@ ht-degree: 100%
 
 本视频简要概述了 Adobe Journey Optimizer 的决策功能
 
->[!VIDEO](https://video.tv.adobe.com/v/3451101?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3475873?captions=chi_hans&quality=12&learn=on){transcript=true}
