@@ -18,4 +18,4 @@ ht-degree: 0%
 
 在此视频中，您将了解如何使用AJO Decisioning创建电子邮件营销活动
 
->[!VIDEO](https://video.tv.adobe.com/v/3476158/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476174/?captions=chi_hans&learn=on)
