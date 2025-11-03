@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: 6366425e14dcadfad7ccf3522ac746ba752e432c
+source-git-commit: 8d6fce4d2605d44e9abb1c9003edbf759cf89316
 workflow-type: tm+mt
-source-wordcount: '971'
+source-wordcount: '965'
 ht-degree: 98%
 
 ---
@@ -52,7 +52,6 @@ ht-degree: 98%
    + [更新实时历程中的内容](/help/journeys/update-content-in-live-journey.md)
    + [将历程复制到另一个沙盒](/help/journeys/copy-a-journey.md)
    + [在批量分段后触发每日历程运行](/help/journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
-   + [历程中的入站操作故障排除](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/orchestrate-journeys/troubleshoot-journey/troubleshooting-inbound){target="_blank"}
 + 冲突管理和优先级排序 {#conflict-management}
    + [识别潜在冲突](/help/conflict-management/identify-potential-conflicts.md)
    + [分配优先级分数](/help/conflict-management/assign-priority-score.md)
