@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 8d6fce4d2605d44e9abb1c9003edbf759cf89316
 workflow-type: tm+mt
 source-wordcount: '965'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -177,7 +177,7 @@ ht-degree: 98%
    + [使用实时报告监控和分析历程](/help/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports.md)
    + [使用历程报告监控和分析历程](/help/report-and-monitor/journey-reports.md)
    + [渠道级别报告](/help/report-and-monitor/channel-level-reports.md)
-   + [使用所有时间报告分析旅程的整体性能](/help/report-and-monitor/all-time-reports.md)
+   + [借助全时段报告，分析历程的整体表现](/help/report-and-monitor/all-time-reports.md)
    + [以 CSV 格式导出报告](/help/report-and-monitor/export-reports-in-csv-format.md)
    + [使用警报](/help/administration/alerts.md)
    + [通过 Customer Journey Analytics 增强的报告功能](/help/report-and-monitor/enhanced-reporting-with-customer-journey-analytics.md)
