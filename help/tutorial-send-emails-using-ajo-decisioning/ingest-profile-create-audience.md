@@ -20,4 +20,4 @@ ht-degree: 0%
 
 您学习如何定义名字、电子邮件、忠诚度状态和年收入等关键字段，上传真实的客户数据，并使用该数据创建高价值客户的受众。
 
->[!VIDEO](https://video.tv.adobe.com/v/3476421/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476448/?captions=chi_hans&learn=on)
