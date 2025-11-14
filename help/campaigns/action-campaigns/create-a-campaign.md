@@ -1,6 +1,6 @@
 ---
-title: 创建营销活动
-description: 了解如何通过立即执行操作或按指定计划执行操作，向特定受众投放一次性内容。
+title: 创建行动营销活动
+description: 了解如何在Adobe Journey Optimizer中创建和优化操作活动，以便准确且高效地提供一次性或周期性通信。
 jira: KT-10590
 thumbnail: 346680.jpg
 feature: Campaigns
@@ -8,22 +8,19 @@ doc-type: feature video
 team: PM
 role: User
 level: Beginner
+last-substantial-update: 2025-11-14T00:00:00Z
 exl-id: 543678e6-5803-4997-a6ea-a45ed571d7d4
-source-git-commit: 62c4ee2d5a3e6c71646ae4f92eeee0491846832b
+source-git-commit: 5114ac4abcb6519e08b6aa170ed4ed6abf26ce6b
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 100%
+source-wordcount: '65'
+ht-degree: 18%
 
 ---
 
-# 创建营销活动
+# 创建行动营销活动
 
->[!IMPORTANT]
->
->此功能仅适用于有权访问 Campaign 相关产品轮廓的用户，例如 Campaign 管理员、Campaign 审批者、Campaign 经理和/或 Campaign 查看者。有关如何分配产品轮廓的更多信息，请参阅[此视频](/help/set-up-access/access-management.md)。
+了解如何在Adobe Journey Optimizer中创建和优化操作活动，以便准确且高效地提供一次性或周期性通信。
 
-了解如何通过立即执行操作或按指定计划执行操作，向特定受众投放一次性内容。
+>[!VIDEO](https://video.tv.adobe.com/v/346680/?learn=on&enablevpops)
 
->[!VIDEO](https://video.tv.adobe.com/v/3412401?quality=12&learn=on&captions=chi_hans){transcript=true}
-
-请参阅[产品文档](https://experienceleague.adobe.com/docs/journey-optimizer/using/campaigns/get-started-with-campaigns.html?lang=zh-Hans)了解有关此功能的更多信息。
+请参阅[产品文档](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/get-started-with-campaigns)了解有关此功能的更多信息。
