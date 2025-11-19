@@ -4,16 +4,16 @@ description: Experience League LIVE 是 Experience League 团队制作的直播�
 feature: Overview
 doc-type: Catalog
 exl-id: 459c062f-b56f-4611-99f5-8bb88ad5d476
-source-git-commit: f08715113ae0ff327873da5f2b96709827b99aa9
+source-git-commit: d605287648957dbe8f25ce71326abc832d79f34a
 workflow-type: tm+mt
-source-wordcount: '1261'
-ht-degree: 91%
+source-wordcount: '1263'
+ht-degree: 90%
 
 ---
 
 # Experience League LIVE 节目
 
-Experience League LIVE 是 Experience League 团队制作的直播节目。利用这个机会，您可以与 Adobe 产品专家联系，并学习适用于 Adobe Experience Cloud 应用程序的可操作的提示、技巧和策略。
+Experience League LIVE是Digital Experience产品启用团队制作的直播节目。 利用这个机会，您可以与 Adobe 产品专家联系，并学习适用于 Adobe Experience Cloud 应用程序的可操作的提示、技巧和策略。
 
 ## 最新剧集
 
