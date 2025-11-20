@@ -7,7 +7,7 @@ level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
 source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '411'
 ht-degree: 100%
 
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 挑战提供了一种场景和练习运用所学知识的必需要求。挑战可帮助您评估自己的技能水平并确定知识差距。
 
-此部分中的每个挑战都涉及您实施的一个独特用例。目标受众（角色）和所需技能将列在每个挑战的开头。
+此部分中的每个挑战都涉及您实施的一个独特用例。目标受众（用户画像）和所需技能将列在每个挑战的开头。
 
 ## 先决条件
 
