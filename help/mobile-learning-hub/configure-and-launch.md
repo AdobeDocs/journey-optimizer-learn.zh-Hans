@@ -20,7 +20,7 @@ ht-degree: 17%
 
 在Adobe Journey Optimizer和Adobe Experience Platform中配置移动渠道，与移动应用程序集成，并确保为执行营销活动做好准备。
 
-> [!NOTE]
+&#x200B;> [!NOTE]
 > 如果您不熟悉Journey Optimizer和Experience Platform，请参加以下课程以熟悉核心概念：
 > - [配置和管理Adobe Journey Optimizer](https://experienceleague.adobe.com/en/courses/ajo-configure-and-administrate-ajo-environment)
 >*在本课程中，您将学习如何配置和管理Journey Optimizer环境，包括用户角色、权限、沙盒和电子邮件渠道，以确保高效和安全的操作。*
