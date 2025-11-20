@@ -7,7 +7,7 @@ hide: true
 index: false
 last-substantial-update: 2025-08-22T00:00:00Z
 exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
-source-git-commit: 1d79a2f916017e5f40f1629f0d1f534a37607a23
+source-git-commit: 37ef25f7652c59378c2387cdb1763c8e52e4a681
 workflow-type: tm+mt
 source-wordcount: '900'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 探索最佳实践、了解如何促进采用并掌握报告（所有这些都在一个位置），以便团队可以随时随地交付与用户连接的有效且数据驱动的移动体验。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477008?captions=chi_hans&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
 
 
 ## 移动渠道概述
@@ -63,12 +63,6 @@ Journey Optimizer支持入站和出站移动渠道：
 
 6. 利用[基于代码的体验](/help/mobile-learning-hub/channels/code-based-experience-overview.md)，根据用户行为和偏好定制每封邮件，从而跨渠道创建真正个性化的历程。
 
-
-## 客户用例
-
-* [通过个性化体验飞行：航空公司如何通过Adobe Journey Optimizer（博客）提升优惠水平](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513)
-
-
 ## 构建您的基础
 
 了解相关概念及操作方法
@@ -101,3 +95,7 @@ Journey Optimizer支持入站和出站移动渠道：
 | **追加销售和交叉销售促销活动** | 根据现有客户的行为、偏好或购买历史记录向其推广其他产品或升级。 |  — 推送通知强调相关的追加销售机会。<br> — 应用程序内消息和内容卡显示互补项目。<br> — 短信营销活动以具有独占优惠的分段受众为目标。 |
 | **防止流失** | 识别有离开风险的用户，并通过个性化的保留策略让他们保持忠诚度。 |  — 预测分析触发针对风险用户的移动外联。<br> — 推送通知和短信提供忠诚度奖励或个性化内容。<br> — 应用程序内调查收集反馈以改进保留策略。 |
 | **多渠道消息传递** | 在多个移动渠道之间协调一致的消息传递，以确保用户及时接收相关的通信。 |  — 推送、应用程序内、短信和电子邮件协调统一消息。<br>- SDK支持跨渠道的实时个性化。<br> — 内容卡跨会话保留以强化关键消息。 |
+
+## 客户用例
+
+* [通过个性化体验飞行：航空公司如何通过Adobe Journey Optimizer（博客）提升优惠水平](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513)
