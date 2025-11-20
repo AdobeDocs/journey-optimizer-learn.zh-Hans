@@ -107,7 +107,7 @@ Journey Optimizer中的移动设备实施从应用程序中的&#x200B;**Adobe Ex
 
 您可以[手动](https://experienceleague.adobe.com/en/docs/platform-learn/data-collection/tags/create-a-property)创建和配置此移动属性，或者对于应用程序内移动设备和推送设置，您可以使用&#x200B;**[引导式渠道设置](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup)**&#x200B;自动为iOS和Android创建所需的标记属性、数据流和渠道配置。
 
-> [!TIP]
+&#x200B;> [!TIP]
 >  
 > 对于新实施，**[引导式渠道设置](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup)**&#x200B;是推荐的起点。 它降低了数据流配置错误或缺少扩展的风险，并指导您完成使用Assurance的SDK验证。
 
