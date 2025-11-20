@@ -22,4 +22,4 @@ ht-degree: 100%
 
 了解在历程画布中构建历程的基础知识。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424996?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430352?captions=chi_hans&quality=12&learn=on){transcript=true}
