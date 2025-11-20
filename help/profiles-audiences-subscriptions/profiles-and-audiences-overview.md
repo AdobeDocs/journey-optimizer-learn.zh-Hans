@@ -20,4 +20,4 @@ ht-degree: 31%
 
 了解Adobe Journey Optimizer如何统一客户数据并通过拖放界面简化受众构建、丰富个人资料以实现个性化参与、为受众进行排名以实现精确定位，以及通过强大的治理工具确保隐私 — 帮助您跨渠道创建更有效的营销活动。
 
->[!VIDEO](https://video.tv.adobe.com/v/3476986/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476996/?captions=chi_hans&learn=on)

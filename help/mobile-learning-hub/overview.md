@@ -20,7 +20,7 @@ ht-degree: 0%
 
 探索最佳实践、了解如何促进采用并掌握报告（所有这些都在一个位置），以便团队可以随时随地交付与用户连接的有效且数据驱动的移动体验。
 
->[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3477008?captions=chi_hans&quality=12&learn=on){transcript=true}
 
 
 ## 移动渠道概述

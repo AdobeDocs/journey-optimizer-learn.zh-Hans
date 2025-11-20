@@ -20,4 +20,4 @@ ht-degree: 100%
 
 了解 Adobe Journey Optimizer 的移动应用程序功能如何使用实时个性化体验转变客户参与度。
 
->[!VIDEO](https://video.tv.adobe.com/v/3476998/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3477008/?captions=chi_hans&learn=on)
