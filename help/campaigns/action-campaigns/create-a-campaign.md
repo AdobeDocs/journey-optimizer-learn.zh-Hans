@@ -1,6 +1,6 @@
 ---
 title: 创建操作营销活动
-description: 了解如何在Adobe Journey Optimizer中创建和优化操作活动，以便准确且高效地提供一次性或周期性通信。
+description: 了解如何在 Adobe Journey Optimizer 中创建和优化操作活动，以便准确提供有影响力的一次性或定期通信。
 jira: KT-10590
 thumbnail: 346680.jpg
 feature: Campaigns
@@ -11,15 +11,15 @@ level: Beginner
 last-substantial-update: 2025-11-14T00:00:00Z
 exl-id: 543678e6-5803-4997-a6ea-a45ed571d7d4
 source-git-commit: d5658be3109f688d66fd34a82531afdcbffb05da
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '65'
-ht-degree: 18%
+ht-degree: 100%
 
 ---
 
 # 创建操作营销活动
 
-了解如何在Adobe Journey Optimizer中创建和优化操作活动，以便准确且高效地提供一次性或周期性通信。
+了解如何在 Adobe Journey Optimizer 中创建和优化操作活动，以便准确提供有影响力的一次性或定期通信。
 
 >[!VIDEO](https://video.tv.adobe.com/v/346680/?learn=on&enablevpops)
 
