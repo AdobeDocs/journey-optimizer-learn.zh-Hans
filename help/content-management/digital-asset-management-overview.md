@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解 Adobe Journey Optimizer 如何通过其嵌入的 Adobe Experience Manager 简化数字资源管理，使您可以直接从存储库中搜索、浏览并获取资源。了解如何创建营销活动、使用现有模板设计电子邮件，以及轻松上传或编辑资产，让强大且有影响力的内容创建触手可及。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477010/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3477021/?captions=chi_hans&learn=on)
