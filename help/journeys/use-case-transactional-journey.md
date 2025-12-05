@@ -13,7 +13,7 @@ last-substantial-update: 2023-06-15T00:00:00Z
 hidefromtoc: false
 hide: false
 source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '38'
 ht-degree: 100%
 
@@ -23,4 +23,4 @@ ht-degree: 100%
 
 了解事务性历程的适用用例，并了解如何构建事务性历程。
 
->[!VIDEO](https://video.tv.adobe.com/v/3415681?quality=12&learn=on&captions=chi_hans){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/334202?quality=12&learn=on){transcript=true}
