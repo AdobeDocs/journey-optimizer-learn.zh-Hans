@@ -20,4 +20,4 @@ ht-degree: 100%
 
 了解如何更新实时历程中的内容。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429844/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439621/?captions=chi_hans&learn=on)

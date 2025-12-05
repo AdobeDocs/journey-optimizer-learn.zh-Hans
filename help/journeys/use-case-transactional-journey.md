@@ -23,4 +23,4 @@ ht-degree: 100%
 
 了解事务性历程的适用用例，并了解如何构建事务性历程。
 
->[!VIDEO](https://video.tv.adobe.com/v/334202?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3415681?captions=chi_hans&quality=12&learn=on){transcript=true}

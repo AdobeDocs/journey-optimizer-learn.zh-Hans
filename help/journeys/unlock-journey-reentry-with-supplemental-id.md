@@ -22,6 +22,6 @@ ht-degree: 100%
 
 在本教程中，您将了解如何在 Adobe Journey Optimizer 中启用和应用补充标识符。您将了解如何使用补充标识符让轮廓重新进入历程、迭代对象数组，以及使用上下文数据（如产品 ID、发货信息等）对消息进行个性化设置。
 
->[!VIDEO](https://video.tv.adobe.com/v/3464792/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464802/?captions=chi_hans&learn=on&enablevpops)
 
 有关补充 ID 的更多信息，请参阅[产品文档](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/supplemental-identifier)。

@@ -20,4 +20,4 @@ ht-degree: 100%
 
 使用查找架构时，通常需要根据多个属性筛选对象列表。此视频介绍如何使用嵌套 filter() 函数对查找架构执行多属性筛选。当您需要根据多个条件缩小对象列表时（例如按 ID 和颜色筛选购物车中的产品），此功能特别有用。
 
->[!VIDEO](https://video.tv.adobe.com/v/3469312/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469328/?captions=chi_hans&learn=on&enablevpops)

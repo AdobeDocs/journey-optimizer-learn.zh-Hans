@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解如何在 Journey Optimizer 中使用业务事件。业务事件允许品牌商触发与人员无关的活动历程，例如，当新闻出版物发布新内容时通知订阅者，或在体育赛事期间发送通信。了解如何将业务事件中的数据用于历程中的个性化消息传递。
 
->[!VIDEO](https://video.tv.adobe.com/v/334234/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416324/?captions=chi_hans&learn=on)

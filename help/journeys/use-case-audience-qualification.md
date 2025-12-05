@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解受众资格筛选历程的适用用例。了解如何使用受众资格筛选构建历程以及可以应用的最佳做法。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425028?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446214?captions=chi_hans&quality=12&learn=on){transcript=true}
