@@ -1,20 +1,19 @@
 ---
-source-git-commit: ac61c4d30929b559826b4a770fc10c26aec74830
+source-git-commit: ab619c80bcc5df95af8e80c664c42e5c281bc648
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '296'
 ht-degree: 2%
 
 ---
 # 内容卡片 — 概述
 
->[!VIDEO](https://video.tv.adobe.com/v/3460098/?learn=on&enablevpops&captions=chi_hans){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3458224/?learn=on&enablevpops){transcript=true}
 
 ## 这是什么？
 
-**内容卡**&#x200B;是永久性的应用程序内消息，位于应用程序内的专用收件箱或馈送中。 与推送通知不同，它们不会中断用户，并且可在用户方便时查看。\
-它们非常适合于提供可长期查看的&#x200B;**非紧急**、**信息性**&#x200B;或&#x200B;**促销内容**。
+**内容卡**&#x200B;是显示在您应用程序内的专用收件箱或馈送中的永久性的应用程序内消息。 与推送通知不同，它们不会中断用户，并且用户随时都可以查看。
 
-将内容卡视为应用程序内“消息中心”或个性化的新闻馈送。
+它们非常适用于&#x200B;**非紧急**、**信息性**&#x200B;或&#x200B;**促销内容**，这些内容由于更长的可见性和重复曝光而受益。 您可以将内容卡视为应用程序内“消息中心”或个性化的内容馈送，用户可以在其中以自己的速度浏览更新。
 
 ### 示例：
 

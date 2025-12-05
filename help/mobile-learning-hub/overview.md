@@ -7,20 +7,20 @@ hide: true
 index: false
 last-substantial-update: 2025-08-22T00:00:00Z
 exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
-source-git-commit: 37ef25f7652c59378c2387cdb1763c8e52e4a681
+source-git-commit: ab619c80bcc5df95af8e80c664c42e5c281bc648
 workflow-type: tm+mt
-source-wordcount: '900'
+source-wordcount: '916'
 ht-degree: 0%
 
 ---
 
 # Journey Optimizer — 移动学习中心
 
-在Adobe Journey Optimizer (AJO)中使用移动渠道快速启动或升级。 这是一个可供开发人员、管理员、营销人员和数据分析师探索各种功能的入门级领域，从设置入站和出站移动渠道，到将它们编织成功能强大的营销活动，任重而道远。
+通过Adobe Journey Optimizer快速启动或提升您的移动参与策略。 此移动学习中心为开发人员、管理员、营销人员和分析师提供配置入站和出站移动渠道并将其无缝集成到强大的跨渠道活动和历程所需的一切。
 
-探索最佳实践、了解如何促进采用并掌握报告（所有这些都在一个位置），以便团队可以随时随地交付与用户连接的有效且数据驱动的移动体验。
+探索最佳实践、了解如何推动采用并设置集中报告工作流（所有这些都在一个位置），以提供可随时随地触及客户的、具有影响力的数据驱动型移动体验。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477008?captions=chi_hans&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
 
 
 ## 移动渠道概述
@@ -29,9 +29,9 @@ Journey Optimizer支持入站和出站移动渠道：
 
 ### 出站渠道
 
-出站渠道用于&#x200B;**主动将消息**&#x200B;传递给客户，而无需事先进行交互。 这些组件非常适用于营销活动、促销活动和事务型通信。
+利用出站渠道，您可以主动向客户投放消息，而无需事先进行交互。 这些交互非常适合营销活动、促销活动或事务性事件。
 
-这些渠道在消息发送时强制执行&#x200B;**自定义同意策略**。 如果未授予针对特定营销操作的同意，则将阻止投放消息。
+Adobe Journey Optimizer中的所有出站渠道在消息发送时强制实施自定义同意策略。 如果未授予对特定营销操作的同意，则将自动禁止显示该消息，以确保符合规范的投放。
 
 | ![推送通知](/help/mobile-learning-hub/assets/mobile-phone.webp){width=&quot;250&quot;， height=&quot;250&quot;}<br> **[推送通知](/help/mobile-learning-hub/channels/push-notifications-overview.md)** | ![SMS/MMS/RCS](/help/mobile-learning-hub/assets/SMS.png){width=&quot;250&quot;， height=&quot;250&quot;}<br> **[短信/彩信/RCS](/help/mobile-learning-hub/channels/sms-mms-rcs-overview.md)** | ![WhatsApp](/help/mobile-learning-hub/assets/whatsapp.webp){width=&quot;250&quot;， height=&quot;250&quot;}<br> **[WhatsApp](/help/mobile-learning-hub/channels/whatsapp-overview.md)** |
 |-------------------------------------|------------------------------------|-------------------------------|
@@ -39,7 +39,7 @@ Journey Optimizer支持入站和出站移动渠道：
 
 ### 入站渠道
 
-入站渠道专为&#x200B;**客户启动的交互**&#x200B;而设计，可在用户与您的品牌互动时提供个性化体验。 它们支持&#x200B;**实时个性化**&#x200B;和&#x200B;**数据捕获**，例如发送到Adobe Experience Platform (AEP)以进行分段和定位的登陆页表单。
+入站渠道支持客户启动的交互，从而能够在用户与您的品牌互动时提供个性化体验。 它们支持实时个性化和数据捕获（如登陆页面表单或现场行为），这些内容直接馈送到Adobe Experience Platform (AEP)中，以便跨历程进行分段、定位和激活。
 
 
 | ![应用程序内消息](/help/mobile-learning-hub/assets/frescopa-in-app.png){width=&quot;250&quot;，height=&quot;50%&quot;}<br> **[应用程序内消息](/help/mobile-learning-hub/channels/in-app-messages-overview.md)** | ![内容卡](/help/mobile-learning-hub/assets/content-card.jpeg){width=&quot;250&quot;， height=&quot;250&quot;}<br> **[内容卡](/help/mobile-learning-hub/channels/content-cards-overview.md)** | ![基于代码的体验](/help/mobile-learning-hub/assets/code-based.png){width=&quot;250&quot;， height=&quot;250&quot;}<br> **[基于代码的体验](/help/mobile-learning-hub/channels/code-based-experience-overview.md)** |

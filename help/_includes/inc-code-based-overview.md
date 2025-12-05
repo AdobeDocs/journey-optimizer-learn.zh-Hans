@@ -1,16 +1,17 @@
 ---
-source-git-commit: ac61c4d30929b559826b4a770fc10c26aec74830
+source-git-commit: ab619c80bcc5df95af8e80c664c42e5c281bc648
 workflow-type: tm+mt
-source-wordcount: '282'
-ht-degree: 3%
+source-wordcount: '301'
+ht-degree: 2%
 
 ---
 # 基于代码的体验 — 概述
 
 ## 这是什么
 
-**基于代码的体验**&#x200B;指的是Adobe Journey Optimizer等平台中使用自定义代码(JavaScript、API或模板语言)构建的个性化、动态内容或消息传递。\
-这允许您创建高度定制、数据驱动的客户历程和消息，而不只是标准的拖放工具。
+基于代码的体验允许您在Adobe Journey Optimizer中使用自定义代码(如JavaScript、API或模板语言)提供个性化的动态内容和消息传递。
+
+此渠道非常适合于构建高度定制的数据驱动交互，这些交互可以超越标准可视化创作工具(WYSIWYG编辑器)，从而让开发人员和优化经理能够完全灵活地设计自定义个性化逻辑和内容布局。
 
 示例：
 
