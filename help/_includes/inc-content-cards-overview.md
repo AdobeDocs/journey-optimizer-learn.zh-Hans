@@ -7,7 +7,7 @@ ht-degree: 2%
 ---
 # 内容卡片 — 概述
 
->[!VIDEO](https://video.tv.adobe.com/v/3458224/?learn=on&enablevpops){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3460098/?captions=chi_hans&learn=on&enablevpops){transcript=true}
 
 ## 这是什么？
 
