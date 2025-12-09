@@ -1,6 +1,6 @@
 ---
 title: 通过 Customer Journey Analytics 增强的报告功能
-description: Journey Optimizer 的报告功能现在与 Customer Journey Analytics 功能完全集成，在两个平台之间实现了报告标准化，并提高了数据一致性和可靠性。Journey Optimizer 与 Customer Journey Analytics 之间的这种无缝集成能够帮助更清晰地了解绩效指标，使用户能够做出更加明智的决策。
+description: 了解如何分步浏览Adobe Journey Optimizer增强的报告工具，从统一的量度和历程可视化到自定义见解和高级分析
 role: User
 level: Intermediate
 doc-type: Feature Video
@@ -9,16 +9,17 @@ duration: 22500
 last-substantial-update: 2025-01-27T00:00:00Z
 jira: KT-15774
 exl-id: 385f2f89-bef9-4a32-9ca1-4a2f4afb2c6a
-source-git-commit: 55205636bb73af692c24ebabe4168a514b547b6f
-workflow-type: ht
-source-wordcount: '116'
-ht-degree: 100%
+source-git-commit: d869245cb8d9482776d901b9ad298914b3fa0c95
+workflow-type: tm+mt
+source-wordcount: '68'
+ht-degree: 19%
 
 ---
 
 # 通过 Customer Journey Analytics 增强的报告功能
 
-Journey Optimizer 的报告功能现在与 Customer Journey Analytics 功能完全集成，在两个平台之间实现了报告标准化，并提高了数据一致性和可靠性。Journey Optimizer 与 Customer Journey Analytics 之间的这种无缝集成能够帮助更清晰地了解绩效指标，使用户能够做出更加明智的决策。
-有关详细信息，请参阅 [Customer Journey Analytics 中的分析](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/reporting/channel-report/report-cja-manage#analyze){target="_blank"}。
+了解如何分步浏览Adobe Journey Optimizer增强的报告工具，从统一的量度和历程可视化到自定义见解和高级分析
 
->[!VIDEO](https://video.tv.adobe.com/v/3443161/?learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3430413/?learn=on)
+
+有关详细信息，请参阅[在Customer Journey Analytics中分析](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/reporting/channel-report/report-cja-manage#analyze){target="_blank"}。
