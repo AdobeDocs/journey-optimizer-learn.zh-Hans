@@ -6,9 +6,9 @@ level: Beginner,Intermediate
 breadcrumb-title: 忠诚车库周
 breadcrumb-url: /docs/journey-optimizer-learn/loyalty-garage-week/overview
 auto-video-transcripts: true
-source-git-commit: 42664e9b81482c2c7e3cbec5e02dcc256b6b5272
+source-git-commit: daf558af80981d8442108cb97532020087a3c275
 workflow-type: tm+mt
-source-wordcount: '39'
+source-wordcount: '45'
 ht-degree: 0%
 
 ---
@@ -21,3 +21,4 @@ ht-degree: 0%
 + [基于挑战的忠诚度](/help/loyalty-garage-week/challenge-based-loyalty.md)
 + [全渠道世界中的忠诚](/help/loyalty-garage-week/loyalty-in-an-omnichannel-world.md)
 + [情感忠诚与社区建设](/help/loyalty-garage-week/emotional-loyalty-and-community-building.md)
++ [现代忠诚度计划的财务建模](/help/loyalty-garage-week/financial-modeling-for-modern-loyalty-programs.md)
