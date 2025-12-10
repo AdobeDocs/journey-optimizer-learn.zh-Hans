@@ -5,17 +5,17 @@ feature: Overview
 role: User, Admin, Developer
 hide: true
 index: false
-source-git-commit: 066f1d44a778ee4075bdbf31b8fc5f4ebd162e65
+source-git-commit: 5a535afbd93b624bf16b29af1526dc659fb31b1d
 workflow-type: tm+mt
-source-wordcount: '2012'
+source-wordcount: '2008'
 ht-degree: 0%
 
 ---
 
 
-# Article 2：基于挑战的忠诚度
+# 基于挑战的忠诚度
 
-## 基于挑战的忠诚度 — 设计可促进长期参与的行为Gamification系统
+## 设计可促进长期参与的行为Gamification系统
 
 ### 执行摘要
 
