@@ -8,10 +8,10 @@ hide: true
 index: false
 last-substantial-update: 2025-08-22T00:00:00Z
 exl-id: fb06f781-3370-4825-a815-14ef33ad2322
-source-git-commit: b7d014b3ac6373b957eb5fce11661ec39689446b
+source-git-commit: 9f321d550a5b59b39063b11bea594ecd18cf499e
 workflow-type: tm+mt
 source-wordcount: '178'
-ht-degree: 63%
+ht-degree: 70%
 
 ---
 
@@ -24,9 +24,10 @@ ht-degree: 63%
 3. 根据数据见解优化消息发送时间、内容和定位。
 
 <!-- CARDS
-* https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/report-and-monitor/measurement-and-reporting-overview
-* https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports
-* https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/report-and-monitor/enhanced-reporting-with-customer-journey-analytics
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/measurement-and-reporting-overview
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/enhanced-reporting-with-customer-journey-analytics
+{description = Journey Optimizer reporting is now fully integrated with Customer Journey Analytics capabilities, standardizing reporting across both platforms and improving data consistency and reliability. This seamless integration between Journey Optimizer and Customer Journey Analytics provides a clearer view of performance metrics, enabling users to make more informed decisions.}
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -43,9 +44,9 @@ ht-degree: 63%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/report-and-monitor/measurement-and-reporting-overview" target="_blank" rel="referrer" title="测量和报告 - 概述">测量和报告 - 概述</a>
+                        <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/report-and-monitor/measurement-and-reporting-overview" target="_blank" rel="referrer" title="测量和报告 - 概述">衡量和报告 - 概述</a>
                     </p>
-                    <p class="is-size-6">了解 Journey Optimizer 中的报告。</p>
+                    <p class="is-size-6">了解 Journey Optimizer 中的报告功能。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/report-and-monitor/measurement-and-reporting-overview" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看</span>
@@ -58,7 +59,7 @@ ht-degree: 63%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports" title="渠道级别报告" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448049/?format=jpeg&nocache=1755729019635&captions=chi_hans" alt="渠道级别报告"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424537/?format=jpeg&nocache=1755729019635" alt="渠道级别报告"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -68,7 +69,7 @@ ht-degree: 63%
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports" target="_blank" rel="referrer" title="渠道级别报告">渠道级报告</a>
                     </p>
-                    <p class="is-size-6">了解如何访问、浏览和导出渠道级报告。</p>
+                    <p class="is-size-6">了解如何访问、浏览和导出渠道级别的报告。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看</span>
@@ -81,7 +82,7 @@ ht-degree: 63%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/report-and-monitor/enhanced-reporting-with-customer-journey-analytics" title="通过 Customer Journey Analytics 增强的报告功能" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443161/?format=jpeg&nocache=1755729019655&captions=chi_hans" alt="通过 Customer Journey Analytics 增强的报告功能"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430413/?format=jpeg&nocache=1755729019655" alt="通过 Customer Journey Analytics 增强的报告功能"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -89,7 +90,7 @@ ht-degree: 63%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/report-and-monitor/enhanced-reporting-with-customer-journey-analytics" target="_blank" rel="referrer" title="通过 Customer Journey Analytics 增强的报告功能">Customer Journey Analytics增强了报表功能</a>
+                        <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/report-and-monitor/enhanced-reporting-with-customer-journey-analytics" target="_blank" rel="referrer" title="通过 Customer Journey Analytics 增强的报告功能">通过 Customer Journey Analytics 增强的报告功能</a>
                     </p>
                     <p class="is-size-6">Journey Optimizer 的报告功能现在与 Customer Journey Analytics 功能完全集成，在两个平台之间实现了报告标准化，并提高了数据一致性和可靠性。Journey Optimizer 与 Customer Journey Analytics 之间的这种无缝集成能够帮助更清晰地了解绩效指标，使用户能够做出更加明智的决策。</p>
                 </div>
