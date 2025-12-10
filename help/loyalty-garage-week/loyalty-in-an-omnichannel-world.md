@@ -5,7 +5,7 @@ feature: Overview
 role: User, Admin, Developer
 hide: true
 index: false
-source-git-commit: 1cdf8be6fc76e3e67f0180fad6a0979ab2e6b07b
+source-git-commit: 42664e9b81482c2c7e3cbec5e02dcc256b6b5272
 workflow-type: tm+mt
 source-wordcount: '2128'
 ht-degree: 0%
@@ -38,8 +38,6 @@ ht-degree: 0%
 第四个失败点是未嵌入到所有客户接触点的&#x200B;**忠诚度体验**。 许多项目仅在应用程序或电子邮件通信中显示忠诚度。 但客户参与到各个角落。 忠诚度值必须在主页、产品详细信息页面、购物车、推送通知、短信线程、数字回执、呼叫中心界面和实体商店标牌上可见。 当忠诚度不可见或呈现不一致时，客户会感知价值降低，参与度也会降低。
 
 这些故障的组合导致了所谓的&#x200B;**忠诚度不一致** — 客户期望的与品牌提供的之间的心理差距。 全渠道忠诚度通过将身份、数据、决策、历程编排和用户体验与单个连续叙述相结合而解决了此问题。
-
-&#x200B;---
 
 ## 2.全渠道忠诚的真正含义
 
