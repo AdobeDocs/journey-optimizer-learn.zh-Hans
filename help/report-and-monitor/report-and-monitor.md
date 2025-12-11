@@ -1,6 +1,6 @@
 ---
 title: 报告和监测
-description: 了解Adobe Journey Optimizer (AJO)报告如何帮助您轻松跟踪、分析和处理客户历程。 这些教程为营销人员和分析人员提供了工具，用于实时监控性能、深入了解详细的历程和渠道洞察、导出数据、设置警报并利用高级分析做出更明智的决策。
+description: 了解 Adobe Journey Optimizer (AJO) 报告如何帮助您轻松跟踪、分析和处理客户历程。这些教程可帮助营销人员和分析人员掌握各种工具，用于实时监控性能、深入挖掘详细的历程和渠道洞察、导出数据、设置警报并利用高级分析做出更明智的决策。
 feature: Reporting
 role: User
 level: Beginner, Intermediate
@@ -9,30 +9,30 @@ duration: 395
 last-substantial-update: 2025-08-28T00:00:00Z
 exl-id: 5bac9b73-9c68-4901-90f8-07949639bd69
 source-git-commit: b27e35e3dc07014caf115ec8cc057266858ddf7c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '585'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
 # 报告和监测
 
-了解Adobe Journey Optimizer报告如何帮助您轻松跟踪、分析和处理客户历程。
+了解 Adobe Journey Optimizer 报告如何帮助您轻松跟踪、分析和处理客户历程。
 
-这些教程为营销人员提供了工具，用于实时监控性能、深入了解详细的历程和渠道见解、导出数据、设置警报并利用高级分析做出更明智的决策。
+这些教程可帮助营销人员掌握各种工具，用于实时监控性能、深入挖掘详细的历程和渠道洞察、导出数据、设置警报并利用高级分析做出更明智的决策。
 
 
 ## 教程
 
 <!-- CARDS
-* https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/report-and-monitor/introduction-to-reporting
-* https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports
-* https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/report-and-monitor/journey-reports
-* https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports
-* https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/report-and-monitor/all-time-reports
-* https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/report-and-monitor/export-reports-in-csv-format
-* https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/report-and-monitor/alerts
-* https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/report-and-monitor/enhanced-reporting-with-customer-journey-analytics
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/introduction-to-reporting
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/journey-reports
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/all-time-reports
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/export-reports-in-csv-format
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/alerts
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/enhanced-reporting-with-customer-journey-analytics
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -49,7 +49,7 @@ ht-degree: 79%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/report-and-monitor/introduction-to-reporting" target="_blank" rel="referrer" title="Adobe Journey Optimizer (AJO) 中的报告功能简介">Adobe Journey Optimizer(AJO)中的报表简介</a>
+                        <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/report-and-monitor/introduction-to-reporting" target="_blank" rel="referrer" title="Adobe Journey Optimizer (AJO) 中的报告功能简介">Adobe Journey Optimizer (AJO) 中的报告功能简介</a>
                     </p>
                     <p class="is-size-6">了解 Adobe Journey Optimizer (AJO) 中的报告功能。</p>
                 </div>
@@ -64,7 +64,7 @@ ht-degree: 79%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports" title="使用实时报告监控和分析历程" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470845/?captions=chi_hans&format=jpeg&nocache=1764706279498" alt="使用实时报告监控和分析历程"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470709/?format=jpeg&nocache=1764706279498" alt="使用实时报告监控和分析历程"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -87,7 +87,7 @@ ht-degree: 79%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/report-and-monitor/journey-reports" title="使用历程报告监控和分析历程" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471473/?captions=chi_hans&format=jpeg&nocache=1764706279432" alt="使用历程报告监控和分析历程"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470710/?format=jpeg&nocache=1764706279432" alt="使用历程报告监控和分析历程"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -110,7 +110,7 @@ ht-degree: 79%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports" title="渠道级别报告" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448049/?captions=chi_hans&format=jpeg&nocache=1764706279481" alt="渠道级别报告"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424537/?format=jpeg&nocache=1764706279481" alt="渠道级别报告"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -133,7 +133,7 @@ ht-degree: 79%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/report-and-monitor/all-time-reports" title="借助全时段报告，分析历程的整体表现" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475797/?captions=chi_hans&format=jpeg&nocache=1764706279437" alt="借助全时段报告，分析历程的整体表现"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475653/?format=jpeg&nocache=1764706279437" alt="借助全时段报告，分析历程的整体表现"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -141,7 +141,7 @@ ht-degree: 79%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/report-and-monitor/all-time-reports" target="_blank" rel="referrer" title="借助全时段报告，分析历程的整体表现">使用所有时间报告分析历程的整体性能</a>
+                        <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/report-and-monitor/all-time-reports" target="_blank" rel="referrer" title="借助全时段报告，分析历程的整体表现">借助全时段报告，分析历程的整体表现</a>
                     </p>
                     <p class="is-size-6">在本视频中，您将学习如何有效使用 Adobe Journey Optimizer 中的所有时间报告，以揭示跨客户历程、营销活动和渠道的长期绩效洞察。本视频将介绍如何浏览关键仪表盘、解读核心 KPI 指标、应用筛选条件与时间范围，并利用历程报告、营销活动报告及洞察构建器等工具进行深度分析与自定义报告，从而帮助营销人员和管理者将数据转化为实际行动。</p>
                 </div>
@@ -156,7 +156,7 @@ ht-degree: 79%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/report-and-monitor/export-reports-in-csv-format" title="以 CSV 格式导出报告" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439624/?captions=chi_hans&format=jpeg&nocache=1764706279503" alt="以 CSV 格式导出报告"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424603/?format=jpeg&nocache=1764706279503" alt="以 CSV 格式导出报告"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -179,7 +179,7 @@ ht-degree: 79%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/report-and-monitor/alerts" title="使用警报" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3423917?captions=chi_hans&format=jpeg&nocache=1764706279431" alt="使用警报"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/336218?format=jpeg&nocache=1764706279431" alt="使用警报"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -202,7 +202,7 @@ ht-degree: 79%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/report-and-monitor/enhanced-reporting-with-customer-journey-analytics" title="通过 Customer Journey Analytics 增强的报告功能" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443161/?captions=chi_hans&format=jpeg&nocache=1764706279442" alt="通过 Customer Journey Analytics 增强的报告功能"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430413/?format=jpeg&nocache=1764706279442" alt="通过 Customer Journey Analytics 增强的报告功能"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
