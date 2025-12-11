@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解历程的不同状态以及发布的影响。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424998?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3427941?captions=chi_hans&quality=12&learn=on){transcript=true}
