@@ -24,7 +24,7 @@ ht-degree: 100%
 
 了解如何在 iOS 移动营销应用示例中设置并验证推送渠道通知。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433053/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449632/?captions=chi_hans&learn=on)
 
 有关详细信息，请参阅产品文档：
 
