@@ -12,7 +12,7 @@ hidefromtoc: false
 hide: false
 exl-id: f1d135e4-208c-45d4-8d7c-5d8496fb79b7
 source-git-commit: ee24c9920e4374631c006f13fdd8d2950d680aec
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '138'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 
 了解如何在 iOS 移动营销应用示例中设置并验证推送渠道通知。
 
->[!VIDEO](https://video.tv.adobe.com/v/3449632/?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433053/?learn=on)
 
 有关详细信息，请参阅产品文档：
 
