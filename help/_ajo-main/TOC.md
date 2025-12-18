@@ -22,7 +22,7 @@ ht-degree: 99%
    + [面向营销人员的移动功能](/help/channels/mobile-capabilities.md)
    + [面向开发人员的移动功能](/help/channels/mobile-capabilities-for-developers.md)
    + [通过 AI 助手获取帮助](/help/ai-agents/ai-assistant.md)
-+ [Journey Optimizer — 移动学习中心](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/mobile-learning-hub/overview)
++ [Journey Optimizer — 移动学习中心](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/mobile-learning-hub/overview)
 + 营销活动 {#create-campaigns}
    + 操作营销活动 {#action-campaigns}
       + [创建营销活动](/help/campaigns/action-campaigns/create-a-campaign.md)
@@ -64,7 +64,7 @@ ht-degree: 99%
    + [使用规则生成器创建受众](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [通过上传 CSV 文件创建受众。](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
    + [使用 Web SDK 创建受众（教程）](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
-   + [按需评估受众](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/audience-builder/evaluate-audiences-on-demand)
+   + [按需评估受众](https://experienceleague.adobe.com/zh-hans/docs/platform-learn/tutorials/audiences/audience-builder/evaluate-audiences-on-demand)
    + [订阅和登陆页面](/help/subscriptions-and-landing-pages.md)
 + 渠道 {#channels}
    + [移动应用程序优化 - 概述](/help/channels/mobile-app-optimization-overview.md)
