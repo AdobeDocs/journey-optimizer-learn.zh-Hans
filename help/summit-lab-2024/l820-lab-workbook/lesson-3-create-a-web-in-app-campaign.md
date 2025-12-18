@@ -10,7 +10,7 @@ recommendations: noDisplay, noCatalog
 jira: KT-13983
 thumbnail: KT-13983.jpeg
 exl-id: 0f84adfb-edb1-47fa-b696-58eec2b33bb1
-source-git-commit: 55ba1a46c1473d94847e7fccc69ed2a33badb54c
+source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
 workflow-type: tm+mt
 source-wordcount: '699'
 ht-degree: 2%
@@ -34,7 +34,7 @@ ht-degree: 2%
 
 1. 单击&#x200B;**创建营销活动**。
 
-   ![创建营销活动](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-1-create-campaign.png)
+   ![创建营销活动](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-create-campaign.png)
 
 1. 在&#x200B;**创建营销活动**&#x200B;页面的&#x200B;**操作**&#x200B;部分中，选中&#x200B;**应用程序内消息**&#x200B;复选框。
 
@@ -42,7 +42,7 @@ ht-degree: 2%
 
 1. 输入以下URL： **https://dsn.adobe.com/web/adobe-summit-2024/exercise** - *这是您的邮件将显示的网页。*
 
-   ![应用程序内URL](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-1-1-in-app-url.png)
+   ![应用程序内URL](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-1-in-app-url.png)
 
 1. 单击&#x200B;**[!UICONTROL 创建]**。
 
@@ -60,7 +60,7 @@ ht-degree: 2%
    > 
    > 例如，如果您的座位号为99： 
    >
-   > ![属性名称](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-1-2-properties-name.png)
+   > ![属性名称](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-2-properties-name.png)
 
 
 ### 3.2.2设置自定义触发器规则
@@ -69,18 +69,18 @@ ht-degree: 2%
 
 1. 向下滚动到&#x200B;**[!UICONTROL 触发器部分]**，然后单击&#x200B;**[!UICONTROL 编辑触发器]**。
 
-   ![修改](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-2-1-2-edit-triggers.png)
+   ![修改](/help/summit-lab-2024/l820-lab-workbook/assets/3-2-1-2-edit-triggers.png)
 
 1. 在规则生成器中，单击&#x200B;**[!UICONTROL 应用程序启动项]**，然后从下拉列表中选择&#x200B;*将数据发送到Platform*。
-   ![触发器事件下拉列表](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/trigger-drop-down-sent-to-platform.png)
+   ![触发器事件下拉列表](/help/summit-lab-2024/l820-lab-workbook/assets/trigger-drop-down-sent-to-platform.png)
 
 1. 通过单击&#x200B;**[!UICONTROL +添加条件]**&#x200B;添加条件。
 
-   ![添加条件按钮](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-2-1-3-add-condition.png)
+   ![添加条件按钮](/help/summit-lab-2024/l820-lab-workbook/assets/3-2-1-3-add-condition.png)
 
 1. 从&#x200B;**[!UICONTROL 选择特征]**&#x200B;下拉列表中，选择&#x200B;**[!UICONTROL XDM事件类型]**。
 
-   ![XDM事件类型](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-1-2-dropdown-xdm-event.png)
+   ![XDM事件类型](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-2-dropdown-xdm-event.png)
 
 
 1. 在下面的文本字段中，添加一个您可以记住的&#x200B;*`<custom string value>`*，然后按&#x200B;**[!UICONTROL 添加]** `<custom string value>`保存该值。
@@ -93,7 +93,7 @@ ht-degree: 2%
    > 例如：`99web`
    > 
 
-   ![添加自定义触发器字符串值](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-1-2-add-custom-trigger-dropdown.png)
+   ![添加自定义触发器字符串值](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-2-add-custom-trigger-dropdown.png)
 
 1. 按右上角的&#x200B;**[!UICONTROL 完成]**&#x200B;按钮。
 
@@ -101,7 +101,7 @@ ht-degree: 2%
 >
 >您现在已使用自定义触发器事件定义了Web应用程序内消息。
 >
->![定义了自定义触发器的Web营销活动](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-1-2-2-web-campaign-with-custom-trigger.png)
+>![定义了自定义触发器的Web营销活动](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-2-2-web-campaign-with-custom-trigger.png)
 
 
 ### 3.2.3编辑应用程序内消息的内容
@@ -110,7 +110,7 @@ ht-degree: 2%
 
 1. 单击&#x200B;**操作**&#x200B;部分中的&#x200B;**编辑内容**&#x200B;按钮可访问创作构造。
 
-   ![编辑内容按钮](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-1-3-1-edit-content-button.png)
+   ![编辑内容按钮](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-1-edit-content-button.png)
 
 1. 创作过程与您在上述移动设备应用程序内练习中完成的过程相同。 花些时间自由编辑您自己的标题、正文和媒体内容的消息。
 
@@ -128,13 +128,13 @@ ht-degree: 2%
 
 1. 转到Fréscopa网站，然后导航到浏览器上的&#x200B;**练习**&#x200B;页面。
 
-   ![Web练习链接](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-2-frescopa-web-exercise-link.png)
+   ![Web练习链接](/help/summit-lab-2024/l820-lab-workbook/assets/4-2-frescopa-web-exercise-link.png)
 
 1. 确保刷新网页。
 
 1. 键入您在营销活动中定义的唯一字符串值。
 
-   ![练习页面](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-2-exercise-page.png)
+   ![练习页面](/help/summit-lab-2024/l820-lab-workbook/assets/4-2-exercise-page.png)
 
 1. 单击&#x200B;**[!UICONTROL 发送]**。
 
@@ -154,7 +154,7 @@ ht-degree: 2%
 
 **产品文档：**
 
-* [开始使用应用程序内频道](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/in-app/get-started-in-app)
-* [创建Web应用程序内消息](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/in-app/create-in-app-web)
-* [设计应用程序内内容](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/in-app/design-in-app)
-* [检查并发送应用程序内通知](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/in-app/send-in-app)
+* [开始使用应用程序内频道](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
+* [创建Web应用程序内消息](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app-web)
+* [设计应用程序内内容](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
+* [检查并发送应用程序内通知](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)

@@ -6,7 +6,7 @@ level: Beginner,Intermediate
 breadcrumb-title: scaling-orchestration-to-omnicchannel-engagement
 breadcrumb-url: /docs/journey-optimizer-learn/summit-labs/scaling-orchestration-to-omnichannel-engagement/introduction
 auto-video-transcripts: true
-source-git-commit: 55ba1a46c1473d94847e7fccc69ed2a33badb54c
+source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 1%
@@ -16,10 +16,10 @@ ht-degree: 1%
 
 # 将编排扩展到全渠道参与 {#scaling-orchestration-to-omnichannel-engagement}
 
-+ [简介](/help/summit-labs/summit-lab-2025/introduction.md)
-+ [第1课 — 体验历程](/help/summit-labs/summit-lab-2025/lesson-1-experience-the-journey.md)
-+ [第2课 — 创建欢迎历程](/help/summit-labs/summit-lab-2025/lesson-2-create-a-welcome-journey.md)
-+ [第3课 — 创建动态内容](/help/summit-labs/summit-lab-2025/lesson-3-create-dynamic-content.md)
-+ [第4课 — 创建内容体验](/help/summit-labs/summit-lab-2025/lesson-4-create-a-content-experiment.md)
-+ [第5课 — 测试您的历程](/help/summit-labs/summit-lab-2025/lesson-5-test-your-journey.md)
-+ [第6课 — 创建内容卡营销活动](/help/summit-labs/summit-lab-2025/lesson-6-create-a-content-card-campaign.md)
++ [简介](/help/summit-lab-2025/introduction.md)
++ [第1课 — 体验历程](/help/summit-lab-2025/lesson-1-experience-the-journey.md)
++ [第2课 — 创建欢迎历程](/help/summit-lab-2025/lesson-2-create-a-welcome-journey.md)
++ [第3课 — 创建动态内容](/help/summit-lab-2025/lesson-3-create-dynamic-content.md)
++ [第4课 — 创建内容体验](/help/summit-lab-2025/lesson-4-create-a-content-experiment.md)
++ [第5课 — 测试您的历程](/help/summit-lab-2025/lesson-5-test-your-journey.md)
++ [第6课 — 创建内容卡营销活动](/help/summit-lab-2025/lesson-6-create-a-content-card-campaign.md)

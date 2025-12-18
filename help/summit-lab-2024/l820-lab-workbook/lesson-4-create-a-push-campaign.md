@@ -9,7 +9,7 @@ duration: 0
 recommendations: noDisplay, noCatalog
 jira: KT-14980
 exl-id: 0f82d6a5-18c0-45f2-968e-a678fc2d5768
-source-git-commit: 55ba1a46c1473d94847e7fccc69ed2a33badb54c
+source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
 workflow-type: tm+mt
 source-wordcount: '778'
 ht-degree: 2%
@@ -37,7 +37,7 @@ ht-degree: 2%
 
 1. 单击&#x200B;**[!UICONTROL 创建营销活动]**。
 
-   ![创建营销活动](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-1-1-create-campaign.png)
+   ![创建营销活动](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-1-1-create-campaign.png)
 
 1. 在&#x200B;**[!UICONTROL 创建营销活动]**&#x200B;页面的&#x200B;**[!UICONTROL 操作]**&#x200B;部分中，选中&#x200B;**[!UICONTROL 推送通知]**&#x200B;复选框。
 
@@ -45,12 +45,12 @@ ht-degree: 2%
 
 1. 单击&#x200B;**[!UICONTROL 创建]**&#x200B;以创建推送营销活动。
 
-   ![应用表面](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-1-2-app-surface.png)
+   ![应用表面](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-1-2-app-surface.png)
 
 >[!SUCCESS]
 >
 >此时，您应位于Campaign属性页面上：
-> ![营销活动属性](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-1-2-campaign-properties.png)
+> ![营销活动属性](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-1-2-campaign-properties.png)
 
 ## 练习4.2 — 配置活动
 
@@ -66,7 +66,7 @@ ht-degree: 2%
 
 1. 在受众部分中，单击&#x200B;**[!UICONTROL 选择受众]**。
 
-   ![受众部分](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-2-5-audience-section.png)
+   ![受众部分](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-2-5-audience-section.png)
 
 1. 在&#x200B;**[!UICONTROL 选择受众]**&#x200B;屏幕上，搜索受众：
 
@@ -74,7 +74,7 @@ ht-degree: 2%
 
 1. 选择受众，然后单击&#x200B;**[!UICONTROL 保存]**。
 
-   ![受众选择](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-2-7-select-audience.png)
+   ![受众选择](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-2-7-select-audience.png)
 
 ### 4.2.3编辑推送通知的内容
 
@@ -82,7 +82,7 @@ ht-degree: 2%
 
 1. 在&#x200B;**[!UICONTROL 操作]**&#x200B;部分中，单击&#x200B;**[!UICONTROL 编辑内容]按钮**。
 
-   ![编辑内容按钮](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-action-edit-content-button.png)
+   ![编辑内容按钮](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-action-edit-content-button.png)
 
 1. 在下一个屏幕上，根据您拥有的移动设备，选择[!DNL iOS™]或[!DNL Android™]选项卡以配置您的内容。
 
@@ -90,11 +90,11 @@ ht-degree: 2%
 
 >[!TAB iOS]
 
-![iOS选项卡](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-ios-tab.png)
+![iOS选项卡](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-ios-tab.png)
 
 >[!TAB Android]
 
-![Android选项卡](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-android-tab.png)
+![Android选项卡](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-android-tab.png)
 
 >[!ENDTABS]
 
@@ -105,7 +105,7 @@ ht-degree: 2%
    * 标题： `Get 10% off today!`
    * 正文文本： `Today only! Get 10% off on your House Blend coffee purchase!`
 
-     ![撰写邮件](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-compose-message.png)
+     ![撰写邮件](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-compose-message.png)
 
 #### 4.2.3.2将消息的单击行为更改为&#x200B;**打开产品页**
 
@@ -115,13 +115,13 @@ ht-degree: 2%
 
    `dxdemo://exoticVibes`
 
-   ![深层链接](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-deeplink.png)
+   ![深层链接](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-deeplink.png)
 
 #### 4.2.3.3向消息中添加图像
 
 1. 在&#x200B;**[!UICONTROL 添加媒体]**&#x200B;部分中，单击&#x200B;**[!UICONTROL 添加媒体]**。
 
-   ![添加媒体按钮](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-3-3-add-media-buttons.png)
+   ![添加媒体按钮](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-3-3-add-media-buttons.png)
 
 1. 在&#x200B;**[!UICONTROL 选择Assets]**&#x200B;屏幕的左侧导航中，打开&#x200B;**Fréscopa文件夹**&#x200B;并从该文件夹中选择图像。
 
@@ -129,7 +129,7 @@ ht-degree: 2%
 
 1. 单击图像并单击&#x200B;**[!UICONTROL 选择]按钮**&#x200B;以将图像添加到推送通知。
 
-   ![选择图像](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-3-3-select-image.png)
+   ![选择图像](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-3-3-select-image.png)
 
    >[!SUCCESS]
    >
@@ -137,7 +137,7 @@ ht-degree: 2%
    > 1. 预览您的消息。
    > <br>
    >
-   > ![展开视图](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-3-expand-view.png)
+   > ![展开视图](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-3-expand-view.png)
 
 ### 红利练习
 
@@ -149,25 +149,25 @@ ht-degree: 2%
 
 1. 单击&#x200B;**正文**&#x200B;字段旁边的&#x200B;**[!UICONTROL 个性化对话框]**。
 
-   ![个性化按钮](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-personalization-button.png)
+   ![个性化按钮](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-personalization-button.png)
 
 1. 在&#x200B;**个性化对话框**&#x200B;屏幕上，将光标放在要在文本中添加名字的位置。
 
 1. 确保在左侧导航中选择&#x200B;**配置文件属性**。
 
-   ![配置文件属性](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-personalize-body-profile-attributes.png)
+   ![配置文件属性](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-personalize-body-profile-attributes.png)
 
 1. 在&#x200B;**搜索字段**&#x200B;中，搜索： `first name`。
 
 1. 单击&#x200B;**名字（“配置文件属性”>“人员”>“全名”）**&#x200B;旁边的&#x200B;**+**&#x200B;以将个性化字段添加到您的文本中。
 
-   ![搜索名字](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-personalize-search-first-name.png)
+   ![搜索名字](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-personalize-search-first-name.png)
 
    >[!SUCCESS]
    >
    > 您的文本应如下所示：
    > 
-   >![Personalization令牌](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-personalization-token.png)
+   >![Personalization令牌](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-personalization-token.png)
 
 1. 单击&#x200B;**[!UICONTROL 保存]**&#x200B;以保存个性化设置。
 
@@ -177,7 +177,7 @@ ht-degree: 2%
    > 1. 在预览屏幕上，单击&#x200B;**[!UICONTROL 展开视图]**。
    > 1. 预览您的消息。
    > 
-   > ![展开视图](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-3-expand-view.png)
+   > ![展开视图](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-3-expand-view.png)
 
 +++
 
@@ -187,21 +187,21 @@ ht-degree: 2%
 
 1. 单击&#x200B;**[!UICONTROL 查看以激活]**。
 
-   ![审阅并激活按钮](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-4-review-and-activate-button.png)
+   ![审阅并激活按钮](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-4-review-and-activate-button.png)
 
 1. 在&#x200B;**[!UICONTROL 查看以激活]**&#x200B;屏幕上，单击&#x200B;**[!UICONTROL 激活]**。
 
-   ![查看以激活屏幕](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-4-review-to-activate.png)
+   ![查看以激活屏幕](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-4-review-to-activate.png)
 
 >[!SUCCESS]
 > 在&#x200B;**促销活动概述页面**&#x200B;上，查找您的促销活动并检查状态。
 >
-> ![营销活动状态](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-push-completed.png)
+> ![营销活动状态](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-push-completed.png)
 > 
 > 状态从“正在处理”更改为“实时”，再更改为“已完成” — 这可能需要几分钟的时间。
 > 一旦状态更改为“已完成”：
 >
-> ![推送结果](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-push-notification-result.png)
+> ![推送结果](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-push-notification-result.png)
 
 ## 其他资源
 
@@ -211,7 +211,7 @@ ht-degree: 2%
 
 **产品文档：**
 
-* [推送通知入门](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/push/get-started-push)
-* [创建推送通知](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/push/create-push)
-* [设计推送通知](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/push/design-push)
-* [检查并发送推送通知](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/push/send-push)
+* [推送通知入门](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/get-started-push)
+* [创建推送通知](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/create-push)
+* [设计推送通知](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/design-push)
+* [检查并发送推送通知](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/send-push)
