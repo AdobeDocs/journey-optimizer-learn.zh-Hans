@@ -3,11 +3,11 @@ title: 移动学习中心
 description: 通过Adobe Journey Optimizer快速启动或提升您的移动参与策略。 此移动学习中心为开发人员、管理员、营销人员和分析师提供配置入站和出站移动渠道并将其无缝集成到强大的跨渠道活动和历程所需的一切。 探索最佳实践、了解如何推动采用并设置集中报告工作流（所有这些都在一个位置），以提供可随时随地触及客户的、具有影响力的数据驱动型移动体验。
 feature: Overview
 role: User, Admin, Developer
-hide: true
-index: false
-last-substantial-update: 2025-12-05T00:00:00Z
+hide: false
+index: true
+last-substantial-update: 2025-12-18T00:00:00Z
 exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
-source-git-commit: 6faf1e92516a54afa9c987b693a27d2284726fff
+source-git-commit: eab42c39d0e7b105ef36e2e2337539511f91440d
 workflow-type: tm+mt
 source-wordcount: '928'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 探索最佳实践、了解如何推动采用并设置集中报告工作流（所有这些都在一个位置），以提供可随时随地触及客户的、具有影响力的数据驱动型移动体验。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477008?captions=chi_hans&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
 
 
 ## 移动渠道概述

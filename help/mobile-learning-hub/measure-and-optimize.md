@@ -4,11 +4,11 @@ description: 访问报表、分析绩效并优化策略以实现更好的结果�
 feature: Reporting, Governance, Privacy
 role: User
 level: Beginner, Intermediate
-hide: true
-index: false
-last-substantial-update: 2025-08-22T00:00:00Z
+hide: false
+index: true
+last-substantial-update: 2025-12-18T00:00:00Z
 exl-id: fb06f781-3370-4825-a815-14ef33ad2322
-source-git-commit: 9f321d550a5b59b39063b11bea594ecd18cf499e
+source-git-commit: eab42c39d0e7b105ef36e2e2337539511f91440d
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 70%
@@ -24,9 +24,9 @@ ht-degree: 70%
 3. 根据数据见解优化消息发送时间、内容和定位。
 
 <!-- CARDS
-* https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/report-and-monitor/measurement-and-reporting-overview
-* https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports
-* https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/report-and-monitor/enhanced-reporting-with-customer-journey-analytics
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/measurement-and-reporting-overview
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/enhanced-reporting-with-customer-journey-analytics
 {description = Journey Optimizer reporting is now fully integrated with Customer Journey Analytics capabilities, standardizing reporting across both platforms and improving data consistency and reliability. This seamless integration between Journey Optimizer and Customer Journey Analytics provides a clearer view of performance metrics, enabling users to make more informed decisions.}
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -59,7 +59,7 @@ ht-degree: 70%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports" title="渠道级别报告" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448049/?captions=chi_hans&format=jpeg&nocache=1755729019635" alt="渠道级别报告"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424537/?format=jpeg&nocache=1755729019635" alt="渠道级别报告"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -82,7 +82,7 @@ ht-degree: 70%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/report-and-monitor/enhanced-reporting-with-customer-journey-analytics" title="通过 Customer Journey Analytics 增强的报告功能" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443161/?captions=chi_hans&format=jpeg&nocache=1755729019655" alt="通过 Customer Journey Analytics 增强的报告功能"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430413/?format=jpeg&nocache=1755729019655" alt="通过 Customer Journey Analytics 增强的报告功能"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
