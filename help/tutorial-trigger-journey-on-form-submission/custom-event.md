@@ -19,7 +19,7 @@ ht-degree: 2%
 使用事件架构，在Adobe Journey Optimizer中定义自定义事件。 此事件侦听抵达Adobe Experience Platform的表单提交数据。
 
 定义名为&#x200B;**_InvestmentPreference_**&#x200B;的自定义事件
->[!VIDEO](https://video.tv.adobe.com/v/3478483)
+>[!VIDEO](https://video.tv.adobe.com/v/3478493?captions=chi_hans)
 
 
 
