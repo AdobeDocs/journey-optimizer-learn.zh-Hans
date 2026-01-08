@@ -9,16 +9,16 @@ last-substantial-update: 2025-06-10T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
 exl-id: 609a5ddf-d6c6-4f19-bd7f-bca8c266b759
-source-git-commit: 9c11ebd2e52de18792e9fa135db955eeeb243673
+source-git-commit: 6e773afb6bf1770467f9c02739e6b3ede29c81f4
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '445'
 ht-degree: 0%
 
 ---
 
 # 测试解决方案
 
-要端到端地测试解决方案，[weather-offers.html](assets/weather-offers.html)和[weather-related-offers-script.js](assets/weather-related-offers-script.js)文件必须托管在Web服务器或公共托管服务（如Github Pages）上。 这是必需的，因为：
+要端到端地测试解决方案，请从[weather-offers.zip]中提取weather-offers.html和weather-related-offers-script.js。(assets/weather-offers.zip)这些文件必须托管在Web服务器或公共托管服务（如Github Pages）上。 这是必需的，因为：
  — 浏览器的地理位置API仅适用于HTTPS或本地主机
 
 要使内容保持有序并确保相对路径正常工作，我们建议使用下列文件夹结构来托管解决方案：
@@ -27,9 +27,8 @@ ht-degree: 0%
 
 ## 下载提供的文件
 
-[HTML文件](assets/weather-offers.html)
+从[weather-offers.zip]下载并解压缩HTML和javascript文件。(assets/weather-offers.zip)
 
-[Javascript文件](assets/weather-related-offers-script.js)
 
 
 ## 更新javascript文件中的表面url

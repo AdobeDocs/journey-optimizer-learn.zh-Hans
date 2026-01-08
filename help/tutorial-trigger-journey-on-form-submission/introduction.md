@@ -1,13 +1,13 @@
 ---
 title: 在表单提交时触发历程
 description: 了解如何在HTML表单提交时触发历程
-feature: Decisioning
+feature: Journeys
 role: User
 level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-12-25T00:00:00Z
 jira: KT-20014
-source-git-commit: 043f41acd8f7f7165d9ec416d8f789f78d407ca1
+source-git-commit: 6e773afb6bf1770467f9c02739e6b3ede29c81f4
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 4%
@@ -36,7 +36,7 @@ ht-degree: 4%
 * 将表单提交数据发送到Adobe Experience Platform
 
 用例介绍和事件模式创建
->[!VIDEO](https://video.tv.adobe.com/v/3478481?captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3478471)
 
 
 
