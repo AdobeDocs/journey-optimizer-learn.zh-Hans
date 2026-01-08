@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: f557bb5542f413be99ae0f578a18f4dec60f0e06
+source-git-commit: 4bf52614bd3fff34a3ec09eafc7f65a2bee74387
 workflow-type: tm+mt
 source-wordcount: '971'
 ht-degree: 99%
@@ -22,7 +22,7 @@ ht-degree: 99%
    + [面向营销人员的移动功能](/help/channels/mobile-capabilities.md)
    + [面向开发人员的移动功能](/help/channels/mobile-capabilities-for-developers.md)
    + [通过 AI 助手获取帮助](/help/ai-agents/ai-assistant.md)
-+ [Journey Optimizer — 移动学习中心](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/mobile-learning-hub/overview){target="_blank"}
++ [Journey Optimizer — 移动学习中心](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/mobile-learning-hub/overview){target="_blank"}
 + 营销活动 {#create-campaigns}
    + 操作营销活动 {#action-campaigns}
       + [创建营销活动](/help/campaigns/action-campaigns/create-a-campaign.md)
@@ -64,7 +64,7 @@ ht-degree: 99%
    + [使用规则生成器创建受众](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [通过上传 CSV 文件创建受众。](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
    + [使用 Web SDK 创建受众（教程）](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
-   + [按需评估受众](https://experienceleague.adobe.com/zh-hans/docs/platform-learn/tutorials/audiences/audience-builder/evaluate-audiences-on-demand)
+   + [按需评估受众](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/audience-builder/evaluate-audiences-on-demand)
    + [订阅和登陆页面](/help/subscriptions-and-landing-pages.md)
 + 渠道 {#channels}
    + [移动应用程序优化 - 概述](/help/channels/mobile-app-optimization-overview.md)
@@ -81,7 +81,7 @@ ht-degree: 99%
       + [导入和编辑 HTML 电子邮件内容](/help/channels/import-and-author-html-email-content.md)
       + [预览、校对和发布](/help/channels/preview-proof-and-publish.md)
    + 内容卡{#content-cards}
-      + [创建内容卡](/help/channels/create-content-cards.md)
+      + [创建内容卡片](/help/channels/create-content-cards.md)
    + 应用程序内渠道{#in-app-channel}
       + [应用程序内消息 - 概述](/help/channels/in-app-messages-overview.md)
       + [创建应用程序内营销活动](/help/channels/create-an-in-app-campaign.md)
@@ -96,7 +96,7 @@ ht-degree: 99%
       + [配置、创作和投放短信消息](/help/channels/author-sms-messages.md)
       + [创建彩信](/help/channels/author-mms.md)
       + [短信 - Sinch 和 Infobip 的双重选择加入](/help/channels/sms-double-opt-in.md)
-   + 网页渠道 {#web-channel}
+   + Web 渠道 {#web-channel}
       + [Web 个性化 - 概述](/help/channels/web-personalization-overview.md)
       + [创建 Web 营销活动](/help/channels/create-a-web-campaign.md)
       + [创建 Web 营销活动](/help/channels/author-a-web-campaign.md)
@@ -153,10 +153,10 @@ ht-degree: 99%
    + 决策管理 {#decision-management}
       + [决策管理简介](/help/decision-management/introduction-to-decision-management.md)
       + [决策管理功能演示](/help/decision-management/demo-of-decision-management-capabilities.md)
-      + [创建放置环境](/help/decision-management/create-placements.md)
+      + [创建投放位置](/help/decision-management/create-placements.md)
       + [创建规则](/help/decision-management/create-rules.md)
       + [创建标记](/help/decision-management/create-tags.md)
-      + [创建个性化产品建议](/help/decision-management/create-personalized-offers.md)
+      + [创建个性化优惠](/help/decision-management/create-personalized-offers.md)
       + [创建 AI 模型](/help/decision-management/create-ai-models.md)
       + [创建后备产品建议](/help/decision-management/create-fallback-offers.md)
       + [创建收藏集](/help/decision-management/create-collections.md)
@@ -231,7 +231,7 @@ ht-degree: 99%
    + [生成有关产品建议展示次数和点击次数的报告](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
    + [在 Journey Optimizer 中使用排名公式来提供个性化产品建议](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
    + [提升客户参与度](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
-   + [将编排扩展到全渠道参与](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction.md){target="_blank"}
+   + [将编排扩展到全渠道参与](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction.md){target="_blank"}
    + 用例战术手册 {#use-case-playbooks}
       + [概述](https://experienceleague.adobe.com/zh-hans/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
       + [配置战术手册沙盒](https://experienceleague.adobe.com/zh-hans/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
@@ -241,6 +241,6 @@ ht-degree: 99%
    + [挑战](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
    + Summit Labs {#summit-labs}
       + [使用 Adobe Journey Optimizer (2024) 构建个性化的移动体验](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
-      + [在 Adobe Journey Optimizer (2025) 中将编排扩展到全渠道参与](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction.md){target="_blank"}
+      + [在 Adobe Journey Optimizer (2025) 中将编排扩展到全渠道参与](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + 实时会话和深入探讨 {#live-sessions-and-deep-dives}
    + [Experience League Live 节目录像](/help/_ajo-main/experience-league-live-show-recordings.md)
