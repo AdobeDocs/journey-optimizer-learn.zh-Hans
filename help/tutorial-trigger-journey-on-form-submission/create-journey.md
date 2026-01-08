@@ -21,7 +21,7 @@ ht-degree: 18%
 创建历程涉及创建以下配置
 
 创建电子邮件渠道配置
->[!VIDEO](https://video.tv.adobe.com/v/3478510)
+>[!VIDEO](https://video.tv.adobe.com/v/3478520?captions=chi_hans)
 
 
 

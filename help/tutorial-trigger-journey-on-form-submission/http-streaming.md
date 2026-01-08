@@ -19,7 +19,7 @@ ht-degree: 0%
 配置表单以使用基于HTTP的集成将提交数据实时发送到Adobe Experience Platform，确保事件有效负载与架构一致。
 
 定义HTTP流端点
->[!VIDEO](https://video.tv.adobe.com/v/3478496)
+>[!VIDEO](https://video.tv.adobe.com/v/3478506?captions=chi_hans)
 
 
 

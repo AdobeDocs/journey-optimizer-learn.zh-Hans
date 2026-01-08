@@ -36,7 +36,7 @@ ht-degree: 4%
 * 将表单提交数据发送到Adobe Experience Platform
 
 用例介绍和事件模式创建
->[!VIDEO](https://video.tv.adobe.com/v/3478471)
+>[!VIDEO](https://video.tv.adobe.com/v/3478481?captions=chi_hans)
 
 
 
