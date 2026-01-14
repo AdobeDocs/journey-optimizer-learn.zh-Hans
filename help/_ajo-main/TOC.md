@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
 source-git-commit: 4bf52614bd3fff34a3ec09eafc7f65a2bee74387
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '971'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -81,7 +81,7 @@ ht-degree: 99%
       + [导入和编辑 HTML 电子邮件内容](/help/channels/import-and-author-html-email-content.md)
       + [预览、校对和发布](/help/channels/preview-proof-and-publish.md)
    + 内容卡{#content-cards}
-      + [创建内容卡片](/help/channels/create-content-cards.md)
+      + [创建内容卡](/help/channels/create-content-cards.md)
    + 应用程序内渠道{#in-app-channel}
       + [应用程序内消息 - 概述](/help/channels/in-app-messages-overview.md)
       + [创建应用程序内营销活动](/help/channels/create-an-in-app-campaign.md)
@@ -156,7 +156,7 @@ ht-degree: 99%
       + [创建投放位置](/help/decision-management/create-placements.md)
       + [创建规则](/help/decision-management/create-rules.md)
       + [创建标记](/help/decision-management/create-tags.md)
-      + [创建个性化优惠](/help/decision-management/create-personalized-offers.md)
+      + [创建个性化产品建议](/help/decision-management/create-personalized-offers.md)
       + [创建 AI 模型](/help/decision-management/create-ai-models.md)
       + [创建后备产品建议](/help/decision-management/create-fallback-offers.md)
       + [创建收藏集](/help/decision-management/create-collections.md)
@@ -219,7 +219,7 @@ ht-degree: 99%
    + [在 Journey Optimizer 渠道中实施数据使用策略](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [屏蔽消息中的数据](/help/privacy/mask-data-in-messages.md)
 + AI 助手 {#ai-assistant}
-   + [AI 助手](https://experienceleague.adobe.com/cn/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
+   + [AI 助手](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
    + [用于内容生成的 AI 助手](https://experienceleague.adobe.com/cn/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
    + [Journey 代理 - 概述](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview)
    + [Experimentation 代理 - 概述](https://experienceleague.adobe.com/cn/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
