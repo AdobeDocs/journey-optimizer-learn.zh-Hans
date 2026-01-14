@@ -20,7 +20,7 @@ ht-degree: 0%
 
 在此使用案例中，当用户提交投资偏好设置表单（股票、债券或CD）时，历程将从引用数据集中动态查找对应的投资详细信息，并使用该信息来个性化电子邮件。
 正在创建查找数据集
->[!VIDEO](https://video.tv.adobe.com/v/3478760)
+>[!VIDEO](https://video.tv.adobe.com/v/3478770?captions=chi_hans)
 
 通过提交上一步中的表单设置，测试数据集查找字段
 

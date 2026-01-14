@@ -18,7 +18,7 @@ ht-degree: 0%
 
 
 测试解决方案
->[!VIDEO](https://video.tv.adobe.com/v/3478546)
+>[!VIDEO](https://video.tv.adobe.com/v/3478556?captions=chi_hans)
 
 ## 部署示例资源
 
