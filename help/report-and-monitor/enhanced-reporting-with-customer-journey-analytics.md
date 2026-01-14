@@ -20,6 +20,6 @@ ht-degree: 100%
 
 逐步学习如何熟练操作 Adobe Journey Optimizer 增强的报告工具，从统一指标与历程可视化到自定义洞察与高级分析。
 
->[!VIDEO](https://video.tv.adobe.com/v/3430413/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443161/?captions=chi_hans&learn=on)
 
 有关详细文档，请参阅 [Customer Journey Analytics 中的分析](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/reporting/channel-report/report-cja-manage#analyze){target="_blank"}。
