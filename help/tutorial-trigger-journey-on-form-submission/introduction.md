@@ -7,10 +7,10 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-12-25T00:00:00Z
 jira: KT-20014
-source-git-commit: 6e773afb6bf1770467f9c02739e6b3ede29c81f4
+source-git-commit: d742353780dbbdbf2dede31b50a779399a7de75d
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 4%
+source-wordcount: '126'
+ht-degree: 3%
 
 ---
 
@@ -34,9 +34,10 @@ ht-degree: 4%
 * 配置电子邮件渠道
 * 构建由自定义事件触发的历程
 * 将表单提交数据发送到Adobe Experience Platform
+* 配置数据集查找以在电子邮件中包含引用数据
 
 用例介绍和事件模式创建
->[!VIDEO](https://video.tv.adobe.com/v/3478481?captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3478471)
 
 
 
