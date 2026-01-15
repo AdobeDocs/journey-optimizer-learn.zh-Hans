@@ -37,7 +37,7 @@ ht-degree: 3%
 * 配置数据集查找以在电子邮件中包含引用数据
 
 用例介绍和事件模式创建
->[!VIDEO](https://video.tv.adobe.com/v/3478471)
+>[!VIDEO](https://video.tv.adobe.com/v/3478481?captions=chi_hans)
 
 
 
