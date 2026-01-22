@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: 970590b0f40adb5d642c2d183d9c387dfe203251
+source-git-commit: d5f7fe98ec18b55f82520f461106bb18860d49c1
 workflow-type: tm+mt
 source-wordcount: '980'
 ht-degree: 99%
@@ -151,7 +151,7 @@ ht-degree: 99%
       + [可重用规则](/help/decisioning/reusable-targeting-rules.md)
       + [使用实时天气数据对产品建议进行个性化设置](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
       + [使用排名公式对产品建议进行个性化设置](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
-      + [历程中的内容决策活动](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/content-decision-activity.html?lang=zh-Hans)
+      + [历程中的内容决策活动](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/content-decision-activity.html)
    + 决策管理 {#decision-management}
       + [决策管理简介](/help/decision-management/introduction-to-decision-management.md)
       + [决策管理功能演示](/help/decision-management/demo-of-decision-management-capabilities.md)
@@ -246,4 +246,3 @@ ht-degree: 99%
       + [在 Adobe Journey Optimizer (2025) 中将编排扩展到全渠道参与](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + 实时会话和深入探讨 {#live-sessions-and-deep-dives}
    + [Experience League Live 节目录像](/help/_ajo-main/experience-league-live-show-recordings.md)
-
