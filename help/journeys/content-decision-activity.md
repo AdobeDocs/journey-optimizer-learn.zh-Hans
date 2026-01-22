@@ -22,4 +22,4 @@ ht-degree: 0%
 
 了解历程画布中的内容决策活动如何允许用户利用AJO Decisioning提供个性化的内容选件。 使用此功能可根据检索到的选件路由用户档案或将选件发送到外部系统，从而提高历程的有效性和个性化。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479107/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479117/?captions=chi_hans&learn=on&enablevpops)
