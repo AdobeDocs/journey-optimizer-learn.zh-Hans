@@ -22,4 +22,4 @@ ht-degree: 0%
 
 了解如何使用AJO Decisioning为受众个性化推送通知。 根据收件人用户档案创建引人注目的优惠以提高销量。 了解决策策略、测试营销活动并分析量度以实现有效通信。 增强参与度并向客户提供最相关的促销活动。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479199/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479220/?captions=chi_hans&learn=on&enablevpops)
