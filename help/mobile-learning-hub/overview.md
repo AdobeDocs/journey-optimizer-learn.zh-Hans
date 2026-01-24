@@ -99,4 +99,4 @@ Adobe Journey Optimizer中的所有出站渠道在消息发送时强制实施自
 
 ## 客户用例
 
-* [通过个性化体验飞行：航空公司如何通过Adobe Journey Optimizer（博客）提升优惠水平](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513)
+* [通过个性化体验飞行：航空公司如何通过Adobe Journey Optimizer（博客）提升优惠水平](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513?profile.language=zh-Hans)

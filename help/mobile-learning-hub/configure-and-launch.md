@@ -707,5 +707,5 @@ Journey Optimizer中的移动设备实施从应用程序中的&#x200B;**Adobe Ex
 
 ## 其他资源
 
-- [在移动设备上使用基于CDN的客户端个性化(ODD)以实现更快的个性化（博客）](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/using-cdn-based-client-side-personalization-odd-on-mobile-for/ba-p/761626){target="_blank"}
+- [在移动设备上使用基于CDN的客户端个性化(ODD)以实现更快的个性化（博客）](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/using-cdn-based-client-side-personalization-odd-on-mobile-for/ba-p/761626?profile.language=zh-Hans){target="_blank"}
 - [下一级别移动应用程序参与度和增长（高峰会议）的密钥](https://business.adobe.com/cn/summit/2025/sessions/the-secret-to-nextlevel-mobile-app-engagement-s603.html)
