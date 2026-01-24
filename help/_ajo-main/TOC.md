@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: 64b89b0766130778e5cd3e7702ab39f5dfaeda4e
+source-git-commit: dcc1eee548f7e71ee71260ba8a14e04640c3fe2a
 workflow-type: tm+mt
-source-wordcount: '974'
+source-wordcount: '980'
 ht-degree: 99%
 
 ---
@@ -75,6 +75,7 @@ ht-degree: 99%
       + [在基于代码的渠道中使用决策](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
    + 直邮渠道{#direct-mail-channel}
       + [创建直邮](/help/channels/direct-mail.md)
+      + [通过历程发送直邮消息](/help/channels/direct-mail-in-journeys.md)
    + 电子邮件渠道{#email-channel}
       + [电子邮件渠道 - 概述](/help/channels/email-channel-overview.md)
       + [电子邮件设计和个性化 - 概述](/help/channels/email-design-and-personalization-overview.md)
