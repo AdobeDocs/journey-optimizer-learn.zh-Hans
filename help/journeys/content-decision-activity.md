@@ -1,6 +1,6 @@
 ---
 title: 历程画布中的内容决策活动
-description: 将AJO Decisioning用于历程画布中的内容选件。
+description: 利用 AJO 决策功能在历程画布中投放内容产品。
 feature: Decisioning, Journeys
 role: User
 level: Beginner
@@ -13,14 +13,14 @@ hidefromtoc: true
 source-git-commit: d5f7fe98ec18b55f82520f461106bb18860d49c1
 workflow-type: tm+mt
 source-wordcount: '60'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
 # 内容决策活动
 
-了解历程画布中的内容决策活动如何允许用户利用AJO Decisioning提供个性化的内容选件。 使用此功能可根据检索到的选件路由用户档案或将选件发送到外部系统，从而提高历程的有效性和个性化。
+了解历程画布中的内容决策活动如何允许用户利用 AJO 决策功能提供个性化的内容产品。 使用此功能根据检索到的产品建议路由轮廓或将产品建议发送到外部系统，从而提高历程的有效性和个性化水平。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479117/?captions=chi_hans&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479107/?learn=on&enablevpops)
 
