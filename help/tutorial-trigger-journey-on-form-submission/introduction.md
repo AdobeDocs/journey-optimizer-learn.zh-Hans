@@ -7,7 +7,7 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-12-25T00:00:00Z
 jira: KT-20014
-source-git-commit: d742353780dbbdbf2dede31b50a779399a7de75d
+source-git-commit: 040b444f8f3a612081615016def92999bf8fff53
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 3%
@@ -36,8 +36,9 @@ ht-degree: 3%
 * 将表单提交数据发送到Adobe Experience Platform
 * 配置数据集查找以在电子邮件中包含引用数据
 
-用例介绍和事件模式创建
->[!VIDEO](https://video.tv.adobe.com/v/3478481?captions=chi_hans)
+**用例介绍和事件架构创建**
+
+>[!VIDEO](https://video.tv.adobe.com/v/3478471)
 
 
 

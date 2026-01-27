@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: 05fc150f0e8463def80766bd0c64bad5541d9067
+source-git-commit: 040b444f8f3a612081615016def92999bf8fff53
 workflow-type: tm+mt
-source-wordcount: '986'
-ht-degree: 99%
+source-wordcount: '998'
+ht-degree: 98%
 
 ---
 
@@ -151,8 +151,10 @@ ht-degree: 99%
       + [端到端决策演练](/help/decisioning/decisioning-end-to-end.md)
       + [浏览公式生成器界面](/help/decisioning/formula-builder-ui.md)
       + [可重用规则](/help/decisioning/reusable-targeting-rules.md)
+      + [在提交表单时触发历程](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
       + [使用实时天气数据对产品建议进行个性化设置](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
       + [使用排名公式对产品建议进行个性化设置](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
+      + [在电子邮件渠道中使用决策](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
    + 决策管理 {#decision-management}
       + [决策管理简介](/help/decision-management/introduction-to-decision-management.md)
       + [决策管理功能演示](/help/decision-management/demo-of-decision-management-capabilities.md)
