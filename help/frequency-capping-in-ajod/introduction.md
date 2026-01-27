@@ -8,9 +8,9 @@ doc-type: Tutorial
 last-substantial-update: 2026-01-21T00:00:00Z
 jira: KT-18526
 exl-id: ae74485f-9ea1-428d-9c07-5db0c5cf93fb
-source-git-commit: bef6d831c639d40514552dae3ff20132626a4a09
+source-git-commit: 441fdbc33486f027c22d1b94e03919c5666ca003
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '199'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,8 @@ ht-degree: 0%
 
 本教程将演示如何对Adobe Journey Optimizer中的选件应用频率封顶，以控制用户随时间查看同一选件的频率。
 
+本教程假定您已通过遵循有关根据天气条件个性化优惠的[教程](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)来设置AJO营销活动
+
 通过通过Adobe Web SDK捕获decisioning.propositionDisplay和decisioning.propositionInteract事件并将它们映射到Adobe Experience Platform (AEP)中的XDM架构，Adobe Journey Optimizer可以准确地跟踪优惠展示和交互，从而启用频率上限来限制向用户显示优惠的频率。
 
 ## 本教程的先决条件
@@ -26,5 +28,7 @@ ht-degree: 0%
 在继续操作之前，请确保您拥有一个有效的Adobe Journey Optimizer营销活动，该活动使用Decisioning积极向Web表面提供选件。
 
 本教程假定选件投放已在运行，并专门侧重于配置和验证频率上限行为。
+
+
 
 
