@@ -22,6 +22,6 @@ ht-degree: 20%
 
 了解如何利用Adobe Journey Optimizer中的直邮渠道在您的历程中自动安排直邮投放。 在历程画布上发现文件路由设置、配置创建频率并利用直邮操作。 此视频演示了AJO如何对参与者进行排队，如何定期生成带有时间戳的文件，以及在激活后自动发送这些文件。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479162/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479172/?captions=chi_hans&learn=on&enablevpops)
 
 有关更多信息，请参阅[产品文档](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/channels/direct-mail/direct-mail-journeys)。
