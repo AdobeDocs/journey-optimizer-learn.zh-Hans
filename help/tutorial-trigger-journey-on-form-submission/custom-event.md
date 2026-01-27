@@ -20,7 +20,7 @@ ht-degree: 0%
 
 定义名为&#x200B;**_InvestmentPreference_**&#x200B;的自定义事件
 
->[!VIDEO](https://video.tv.adobe.com/v/3478483)
+>[!VIDEO](https://video.tv.adobe.com/v/3478493?captions=chi_hans)
 
 
 

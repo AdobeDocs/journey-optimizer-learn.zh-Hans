@@ -22,7 +22,7 @@ ht-degree: 18%
 
 **正在创建电子邮件渠道配置**
 
->[!VIDEO](https://video.tv.adobe.com/v/3478510)
+>[!VIDEO](https://video.tv.adobe.com/v/3478520?captions=chi_hans)
 
 
 
