@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Web推送允许网站直接将通知发送到用户的设备，即使浏览器处于后台也是如此。 了解如何在Adobe Journey Optimizer中创建和发送Web推送通知。 本教程将指导您选择渠道配置、创作消息、选择受众和发布营销活动，以将您的触角扩展到移动设备之外。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479341/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479351/?captions=chi_hans&learn=on&enablevpops)
