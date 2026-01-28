@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: 040b444f8f3a612081615016def92999bf8fff53
+source-git-commit: 892d3dac70be68ddedb51b8326c63b53f544b897
 workflow-type: tm+mt
-source-wordcount: '998'
-ht-degree: 98%
+source-wordcount: '1001'
+ht-degree: 97%
 
 ---
 
@@ -93,7 +93,7 @@ ht-degree: 98%
    + 推送渠道{#push-channel}
       + [推送通知 - 概述](/help/channels/push-notifications-overview.md)
       + [配置和发送推送营销活动](/help/channels/create-a-push-campaign.md)
-      + [使用AJO Decisioning优化推送通知](/help/decisioning/decisioning-in-push-notifications.md)
+      + [创建Web推送通知](/help/channels/create-web-push-notifications.md)
    + 短信/彩信渠道{#sms-channel}
       + [短信/彩信消息 - 概述](/help/channels/sms-mms-messages-overview.md)
       + [配置、创作和投放短信消息](/help/channels/author-sms-messages.md)
@@ -151,10 +151,11 @@ ht-degree: 98%
       + [端到端决策演练](/help/decisioning/decisioning-end-to-end.md)
       + [浏览公式生成器界面](/help/decisioning/formula-builder-ui.md)
       + [可重用规则](/help/decisioning/reusable-targeting-rules.md)
-      + [在提交表单时触发历程](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
+      + [在提交表单时触发历程](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
       + [使用实时天气数据对产品建议进行个性化设置](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
       + [使用排名公式对产品建议进行个性化设置](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
-      + [在电子邮件渠道中使用决策](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
+      + [在电子邮件渠道中使用决策](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
+      + [在推送通知中使用决策](/help/decisioning/decisioning-in-push-notifications.md)
    + 决策管理 {#decision-management}
       + [决策管理简介](/help/decision-management/introduction-to-decision-management.md)
       + [决策管理功能演示](/help/decision-management/demo-of-decision-management-capabilities.md)
