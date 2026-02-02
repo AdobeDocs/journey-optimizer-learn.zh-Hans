@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 35b3b53670af62bb4f52c6df06834038ae9f7eba
 workflow-type: tm+mt
 source-wordcount: '1007'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -93,7 +93,7 @@ ht-degree: 97%
    + 推送渠道{#push-channel}
       + [推送通知 - 概述](/help/channels/push-notifications-overview.md)
       + [配置和发送推送营销活动](/help/channels/create-a-push-campaign.md)
-      + [创建Web推送通知](/help/channels/create-web-push-notifications.md)
+      + [创建 Web 推送通知](/help/channels/create-web-push-notifications.md)
    + 短信/彩信渠道{#sms-channel}
       + [短信/彩信消息 - 概述](/help/channels/sms-mms-messages-overview.md)
       + [配置、创作和投放短信消息](/help/channels/author-sms-messages.md)
@@ -154,8 +154,8 @@ ht-degree: 97%
       + [在提交表单时触发历程](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
       + [使用实时天气数据对产品建议进行个性化设置](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
       + [使用排名公式对产品建议进行个性化设置](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
-      + [在电子邮件渠道中使用决策](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
-      + [在推送通知中使用决策](/help/decisioning/decisioning-in-push-notifications.md)
+      + [在电子邮件渠道中使用决策功能](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
+      + [在推送通知中使用决策功能](/help/decisioning/decisioning-in-push-notifications.md)
       + [在短信消息中使用决策](/help/decisioning/use-decisioning-in-an-sms-message.md)
    + 决策管理 {#decision-management}
       + [决策管理简介](/help/decision-management/introduction-to-decision-management.md)
