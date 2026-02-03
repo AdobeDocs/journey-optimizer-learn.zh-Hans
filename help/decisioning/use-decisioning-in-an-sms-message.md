@@ -22,4 +22,4 @@ ht-degree: 0%
 
 了解如何使用AJO Decisioning个性化和优化短信内容。 增强短信消息以提高参与度并实现业务目标。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479529/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479539/?captions=chi_hans&learn=on&enablevpops)
