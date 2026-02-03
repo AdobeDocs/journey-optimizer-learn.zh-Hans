@@ -34,7 +34,7 @@ ht-degree: 100%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/use-cases/customer-onboarding" title="用例 - 客户引导（教程）" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440650/?format=jpeg&nocache=1770161593376" alt="用例 - 客户引导（教程）"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440660/?captions=chi_hans&format=jpeg&nocache=1770161593376" alt="用例 - 客户引导（教程）"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -57,7 +57,7 @@ ht-degree: 100%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart" title="用例战术手册 - 废弃购物车" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443964/?format=jpeg&nocache=1770161593189" alt="用例战术手册 - 废弃购物车"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443974/?captions=chi_hans&format=jpeg&nocache=1770161593189" alt="用例战术手册 - 废弃购物车"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -80,7 +80,7 @@ ht-degree: 100%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma" title="智能重新参与 Luma 示例" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425184/?format=jpeg&nocache=1770161592925" alt="智能重新参与 Luma 示例"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454283/?captions=chi_hans&format=jpeg&nocache=1770161592925" alt="智能重新参与 Luma 示例"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
