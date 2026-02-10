@@ -37,4 +37,4 @@ ht-degree: 3%
 
 **用例介绍和事件架构创建**
 
->[!VIDEO](https://video.tv.adobe.com/v/3478471)
+>[!VIDEO](https://video.tv.adobe.com/v/3478481?captions=chi_hans)
