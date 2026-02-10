@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是Journey Optimizer教程。
 auto-video-transcripts: true
-source-git-commit: 860a85106f3811cd827f621911e1625b46de2fcd
+source-git-commit: 3928a113f74d37b5b9cc2014c526326ef47d4919
 workflow-type: tm+mt
-source-wordcount: '1009'
+source-wordcount: '1001'
 ht-degree: 98%
 
 ---
@@ -235,7 +235,6 @@ ht-degree: 98%
    + [放弃购物车](/help/use-cases/abandoned-cart.md)
    + [智能重新参与 - 已放弃的浏览](https://experienceleague.adobe.com/zh-hans/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
    + [使用 Web SDK 在 Adobe Journey Optimizer 中通过实时天气数据对产品建议进行个性化设置](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
-   + [生成有关产品建议展示次数和点击次数的报告](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
    + [在 Journey Optimizer 中使用排名公式来提供个性化产品建议](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
    + [提升客户参与度](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [将编排扩展到全渠道参与](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction.md){target="_blank"}

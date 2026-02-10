@@ -9,7 +9,7 @@ last-substantial-update: 2025-06-10T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
 exl-id: 609a5ddf-d6c6-4f19-bd7f-bca8c266b759
-source-git-commit: 6e773afb6bf1770467f9c02739e6b3ede29c81f4
+source-git-commit: 3928a113f74d37b5b9cc2014c526326ef47d4919
 workflow-type: tm+mt
 source-wordcount: '445'
 ht-degree: 0%
@@ -42,8 +42,6 @@ ht-degree: 0%
 ```
 <script src="https://assets.adobedtm.com/AEM_TAGS/launch-ENabcd1234.min.js" async></script>
 ```
-
-
 
 ## 网页的功能
 
@@ -98,13 +96,13 @@ JavaScript会根据用户的位置动态获取天气信息，并使用Adobe Expe
 
 6. **检索并渲染选件**
 
-   接收AJO Decisioning返回的优惠。
+* 接收AJO Decisioning返回的优惠。
 
-   解码HTML内容。
+* 解码HTML内容。
 
-   将选件动态注入到 <div id="offerContainer"> 元素。
+* 将选件动态注入到 <div id="offerContainer"> 元素。
 
 ## 后续步骤
 
-[测量和报告AJO Decisioning的影响。](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction)
+[测量和报告AJO Decisioning的影响。](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/cja-reporting)
 

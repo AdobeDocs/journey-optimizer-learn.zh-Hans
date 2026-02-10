@@ -7,7 +7,8 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-12-25T00:00:00Z
 jira: KT-20014
-source-git-commit: 040b444f8f3a612081615016def92999bf8fff53
+exl-id: 52a506d0-cc1b-4d8d-a634-b66c7c7673ed
+source-git-commit: 3928a113f74d37b5b9cc2014c526326ef47d4919
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 3%
@@ -22,9 +23,7 @@ ht-degree: 3%
 ## 本教程的先决条件
 
 * 对Experience Platform的访问权限
-
 * 基本了解Experience Platform概念（用户档案、受众、数据集）
-
 * 熟悉Journey Optimizer
 
 ## 实施步骤
@@ -38,7 +37,4 @@ ht-degree: 3%
 
 **用例介绍和事件架构创建**
 
->[!VIDEO](https://video.tv.adobe.com/v/3478481?captions=chi_hans)
-
-
-
+>[!VIDEO](https://video.tv.adobe.com/v/3478471)
