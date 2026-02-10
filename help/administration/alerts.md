@@ -28,6 +28,6 @@ ht-degree: 99%
 >
 >从 Journey Optimizer 访问警报时，默认情况下只显示特定于您的实时历程的警报。
 
->[!VIDEO](https://video.tv.adobe.com/v/336218?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3423917?captions=chi_hans&quality=12&learn=on){transcript=true}
 
 有关更多信息，请参阅[产品文档](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/monitor/monitor-alerts-errors/alerts){target="_blank"}。
