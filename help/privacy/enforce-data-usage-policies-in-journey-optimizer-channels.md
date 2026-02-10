@@ -25,4 +25,4 @@ ht-degree: 98%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434901/?learn=on)
 
-有关 Journey Optimizer 中的[数据治理](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/privacy/action-privacy-restricted)以及如何[使用同意策略](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/consent/consent)的更多信息，请参阅产品文档。
+有关 Journey Optimizer 中的[数据治理](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/privacy/action-privacy-restricted)以及如何[使用同意策略](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/privacy/consent/consent)的更多信息，请参阅产品文档。

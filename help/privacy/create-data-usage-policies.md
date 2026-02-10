@@ -30,4 +30,4 @@ ht-degree: 99%
 
 >[!VIDEO](https://video.tv.adobe.com/v/32977/?learn=on)
 
-有关如何在 Journey Optimizer 中[使用同意策略](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/consent/consent)的更多信息，请参阅产品文档。
+有关如何在 Journey Optimizer 中[使用同意策略](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/privacy/consent/consent)的更多信息，请参阅产品文档。
