@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是Journey Optimizer教程。
 auto-video-transcripts: true
-source-git-commit: 6b732078afdde597f35d764d27064640fc05f44e
+source-git-commit: 860a85106f3811cd827f621911e1625b46de2fcd
 workflow-type: tm+mt
-source-wordcount: '1011'
+source-wordcount: '1009'
 ht-degree: 98%
 
 ---
@@ -113,7 +113,6 @@ ht-degree: 98%
    + [消息创作 - 概述](/help/content-management/message-authoring-overview.md)
    + 管理资源 {#assets}
       + [数字资源管理 - 概述](/help/content-management/digital-asset-management-overview.md)
-      + [管理资源](/help/content-management/assets-essentials-overview.md)
       + [AEM Dynamic Media 集成](/help/content-management/aem-dynamic-media-integration.md)
       + [使用 Adobe Express 编辑资源](/help/content-management/edit-assets-with-adobe-express.md)
    + 使用片段 {#fragments}
