@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是Journey Optimizer教程。
 auto-video-transcripts: true
-source-git-commit: ff0ab4fb3eea53757109112655f664868148a476
+source-git-commit: 4fe31620f48ad8a121256775fdaf5cbc115e2b98
 workflow-type: tm+mt
-source-wordcount: '1006'
+source-wordcount: '1009'
 ht-degree: 98%
 
 ---
@@ -155,6 +155,7 @@ ht-degree: 98%
       + [在提交表单时触发历程](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
       + [使用实时天气数据对产品建议进行个性化设置](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
       + [使用排名公式对产品建议进行个性化设置](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
+      + [AI模型洞察](/help/decisioning/ai-model-insights.md)
       + [在电子邮件渠道中使用决策功能](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
       + [在推送通知中使用决策功能](/help/decisioning/decisioning-in-push-notifications.md)
       + [在短信消息中使用决策](/help/decisioning/use-decisioning-in-an-sms-message.md)
