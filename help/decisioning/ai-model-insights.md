@@ -23,4 +23,4 @@ ht-degree: 0%
 
 了解如何分析AI模型的训练状态、流量分配和性能，以优化Journey Optimizer中的个性化决策。 了解如何使用AI功能识别问题、排除模型故障并提高转化率。 本视频将指导您有效地管理AI模型以提升业务影响。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479849/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479859/?captions=chi_hans&learn=on&enablevpops)
