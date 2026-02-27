@@ -1,6 +1,6 @@
 ---
 title: 创建忠诚度挑战
-description: 了解如何快速创建忠诚度挑战（从设置任务、奖励和计划，到配置内容、消息传送和受众），同时自动在后台生成完整的客户历程。
+description: 了解如何通过设置任务、奖励和计划来创建忠诚度挑战。 了解如何在后台自动生成完整客户历程时配置内容、消息传送和受众。
 feature: Setup
 role: Leader, User
 level: Beginner
@@ -12,9 +12,9 @@ hide: true
 hidefromtoc: true
 index: false
 badgeBet: label="Beta 版" type="Informative"
-source-git-commit: 933c5698604703cfb22cec44719839a3f52dc462
+source-git-commit: 84f0f50b5ba68f3fa53d2ccedf9de3f84ca01e2f
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '75'
 ht-degree: 1%
 
 ---
@@ -22,6 +22,6 @@ ht-degree: 1%
 
 # 创建忠诚度挑战
 
-了解如何快速创建忠诚度挑战（从设置任务、奖励和计划，到配置内容、消息传送和受众），同时自动在后台生成完整的客户历程。
+了解如何通过设置任务、奖励和计划来创建忠诚度挑战。 了解如何在后台自动生成完整客户历程时配置内容、消息传送和受众。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3480326/?learn=on&enablevpops)
