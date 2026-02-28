@@ -24,4 +24,4 @@ ht-degree: 1%
 
 了解如何通过设置任务、奖励和计划来创建忠诚度挑战。 了解如何在后台自动生成完整客户历程时配置内容、消息传送和受众。
 
->[!VIDEO](https://video.tv.adobe.com/v/3480326/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3480336/?captions=chi_hans&learn=on&enablevpops)
