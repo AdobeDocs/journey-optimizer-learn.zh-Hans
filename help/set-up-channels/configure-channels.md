@@ -20,6 +20,6 @@ ht-degree: 100%
 
 了解什么是渠道配置以及如何在 Adobe Journey Optimizer 中使用它们。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433124/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3480461/?captions=chi_hans&learn=on)
 
 有关如何设置渠道配置的更多信息，[请参阅产品文档](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/configuration/channel-surfaces#set-up-channel-surfaces)。
