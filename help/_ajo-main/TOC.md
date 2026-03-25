@@ -1,11 +1,11 @@
 ---
 user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
-user-guide-description: 这些是Journey Optimizer教程。
+user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: 933c5698604703cfb22cec44719839a3f52dc462
+source-git-commit: c0f6193e71c14c947f0d884328e58dd8c7d75a0c
 workflow-type: tm+mt
-source-wordcount: '1014'
+source-wordcount: '1020'
 ht-degree: 97%
 
 ---
@@ -60,6 +60,7 @@ ht-degree: 97%
    + [识别潜在冲突](/help/conflict-management/identify-potential-conflicts.md)
    + [分配优先级分数](/help/conflict-management/assign-priority-score.md)
    + [历程频率上限和优先级排序](/help/conflict-management/journey-frequency-capping-and-prioritization.md)
+   + [在历程中使用数据集查找](/help/journeys/lookup-dataset.md)
    + [免打扰时间](/help/business-rules/configure-and-apply-quiet-hours.md)
 + 用户档案、受众和订阅 {#profiles-audiences-subscriptions}
    + [用户档案和受众 - 概述](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
