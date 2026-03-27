@@ -28,8 +28,8 @@ ht-degree: 4%
 
 ## 创建启用配置文件的架构
 
-创建名为&#x200B;**_FinWiseProfileSchema_**的单个配置文件架构。 包括字段，如annualIncome、email、firstName、lastName和loyaltyStatus。
-添加标识字段**_crmid_**，如图所示。 将crmid字段标记为标识和主字段。
+创建名为&#x200B;**_FinWiseProfileSchema_**&#x200B;的单个配置文件架构。 包括字段，如annualIncome、email、firstName、lastName和loyaltyStatus。
+添加标识字段&#x200B;**_crmid_**，如图所示。 将crmid字段标记为标识和主字段。
 
 
 ![配置文件架构](assets/finwise-profile-schema.png)
@@ -51,7 +51,7 @@ ht-degree: 4%
 * 根据之前创建的&#x200B;**_FinWiseProfileSchema_**&#x200B;创建名为&#x200B;**_FinWiseCustomerDataSetWithAnnualIncome_**&#x200B;的数据集。请确保为配置文件启用该数据集。
 
 * 导航到连接 — >源 — >本地系统
-* 在本地文件上传下选择&#x200B;**_添加数据_**。 确保选择&#x200B;_**FinWiseCustomerDataSetWithAnnualIncome**_作为目标数据集。
+* 在本地文件上传下选择&#x200B;**_添加数据_**。 确保选择&#x200B;_&#x200B;**FinWiseCustomerDataSetWithAnnualIncome**&#x200B;_作为目标数据集。
   ![摄取 — csv](assets/ingest-csv-into-dataset.png)
 * 导航到下一个屏幕。 上传[csv文件](assets/finwise_profiles.csv)并验证映射
   ![映射](assets/mappings.png)
