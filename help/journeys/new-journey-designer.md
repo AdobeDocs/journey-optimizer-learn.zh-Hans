@@ -23,4 +23,4 @@ ht-degree: 100%
 
 了解重新设计的新历程画布以及如何在历程中利用实时报告。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428767/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3443605/?captions=chi_hans&learn=on){transcript=true}
