@@ -7,17 +7,17 @@ index: false
 hide: true
 hidefromtoc: true
 recommendations: noCatalog, noDisplay
-source-git-commit: 28e2477974df6d22cff87eb9c242657e23569b15
+exl-id: a93ea591-0746-40ec-9139-ac6b826c72e9
+source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 0%
 
 ---
 
-
 # 内容卡：移动应用程序的游戏改变器
 
 了解Adobe Journey Optimizer中的内容卡如何直接在您的应用程序中提供个性化的非侵入式内容，以提高参与度和转化率。
 
 <!-- 62_S603_3442534_58_content-cards-a-gamechanger-for-mobile-apps -->
->[!VIDEO](https://video.tv.adobe.com/v/3460098/?learn=on&enablevpops=true&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3458224/?learn=on&enablevpops=true)

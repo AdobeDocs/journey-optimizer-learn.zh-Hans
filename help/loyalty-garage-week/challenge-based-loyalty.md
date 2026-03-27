@@ -5,13 +5,13 @@ feature: Overview
 role: User
 hide: true
 index: false
-source-git-commit: ea0030d0742adf0058c8bb9ad3950ae9d96f8892
+exl-id: 57586174-2727-4f3d-96b4-7ca248941ab6
+source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
 workflow-type: tm+mt
 source-wordcount: '2008'
 ht-degree: 0%
 
 ---
-
 
 # 基于挑战的忠诚度
 
@@ -70,7 +70,7 @@ ht-degree: 0%
 
 系统还需要为挑战存储设计的&#x200B;**配置文件数据结构**。 用户档案应跟踪活动挑战状态、进度百分比、步骤完成指标、挑战注册日期、已获得的徽章、层更改和挑战完成历史记录。 这使得该计划能够个性化挑战推荐、了解参与模式和定制激励。
 
-品牌还必须实施可触发基于事件的实时历程的&#x200B;**编排层**(例如Adobe Journey Optimizer、Salesforce历程生成器或Braze)。 其中包括在进度更新时发送推送通知、在挑战开始或结束时发送电子邮件，以及以可视方式显示进度的应用程序内消息。
+品牌还必须实施可触发基于事件的实时历程的&#x200B;**编排层**（例如Adobe Journey Optimizer、Salesforce历程生成器或Braze）。 其中包括在进度更新时发送推送通知、在挑战开始或结束时发送电子邮件，以及以可视方式显示进度的应用程序内消息。
 
 最后，奖励颁发通常需要&#x200B;**自定义操作或API集成**，以便在挑战完成时提供点数、徽章或体验。 这可以是自主开发的奖励引擎、忠诚度SaaS平台或基于合作伙伴的奖励供应商。
 

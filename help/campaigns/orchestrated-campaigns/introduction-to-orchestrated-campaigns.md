@@ -1,16 +1,16 @@
 ---
 title: Adobe Journey Optimizer 中编排的营销活动简介
-description: 了解 Adobe Journey Optimizer 中编排的营销活动如何帮助营销人员使用高级数据管理功能管理品牌发起的基于受众的营销活动。
+description: 了解 Adobe Journey Optimizer 中的编排的营销活动如何借助高级数据管理功能，帮助营销人员管理由品牌发起、基于受众的营销活动。
 feature: Campaigns
-role: Data Engineer, User
+role: Developer, User
 level: Beginner, Intermediate, Experienced
 doc-type: Feature Video
 duration: 595
 last-substantial-update: 2025-08-28T00:00:00Z
 jira: KT-18514
 exl-id: 25a130e4-571a-402c-bfc8-c801b0f3dc24
-source-git-commit: 197b10514b5662d357e6c79c73c521434d1c7263
-workflow-type: ht
+source-git-commit: 783cf83169c9e12e07bf4ffc162adfe1b0c33d8f
+workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 100%
 

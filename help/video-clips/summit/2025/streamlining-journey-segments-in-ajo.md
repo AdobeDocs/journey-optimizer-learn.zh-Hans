@@ -7,17 +7,17 @@ index: false
 hide: true
 hidefromtoc: true
 recommendations: noCatalog, noDisplay
-source-git-commit: 28e2477974df6d22cff87eb9c242657e23569b15
+exl-id: 96764ad3-2cc9-40bc-aa18-303915068b8b
+source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
 workflow-type: tm+mt
 source-wordcount: '42'
 ht-degree: 0%
 
 ---
 
-
 # 简化AJO中的历程区段
 
 了解如何优化流区段并使用历程画布进行决策，同时避免系统过载。
 
 <!-- 62_S522_3442522_52_streamlining-journey-segments-in-ajo -->
->[!VIDEO](https://video.tv.adobe.com/v/3460463/?learn=on&enablevpops=true&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3458244/?learn=on&enablevpops=true)

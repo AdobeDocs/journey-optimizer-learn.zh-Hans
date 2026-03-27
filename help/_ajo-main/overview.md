@@ -7,8 +7,8 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 965aa0e269001c69c5fc48efff7d5fc7825a8104
-workflow-type: ht
+source-git-commit: 0b3170fdcc60de2efe10ae542caa8c139f51ac78
+workflow-type: tm+mt
 source-wordcount: '713'
 ht-degree: 100%
 
@@ -31,8 +31,9 @@ Journey Optimizer 使公司能够创建有黏性的情境式个性化客户体�
 
 ## 移动学习中心
 
-<!-- CARDS
-* https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/mobile-learning-hub/overview 
+<!--
+CARDS
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/mobile-learning-hub/overview 
     {description = The Mobile Learning Hub equips developers, administrators, marketers, and analysts with everything needed to configure inbound and outbound mobile channels and integrate them seamlessly into powerful cross-channel campaigns and journeys.}
     {image = /help/assets/mobile-learning-hub.jpg}
 -->
@@ -66,14 +67,15 @@ Journey Optimizer 使公司能够创建有黏性的情境式个性化客户体�
 
 ## 最新 Experience League Live 活动
 
-<!-- CARDS
-* https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-30-25
+<!--
+CARDS
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-30-25
     {title = The Next Era of Experimentation: How Agentic AI is Fueling Smarter Testing and Growth (October 30th 2025)}
     {description = In this Experience League Live session, we unveil Adobe Journey Optimizer Experimentation Accelerator, a new AI-first application built to transform how experimentation, product and growth teams test, learn, and optimize campaigns and customer journeys.}
-* https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-30-25
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-30-25
     {title = Expand your mobile reach with RCS and WhatsApp in Journey Optimizer (September 30th 2025)}
     {description = IN this show Travis Jordan and Nikhil Sharma demonstrate how Adobe Journey Optimizer has recently expanded mobile engagement with powerful new channel additions and functionality, including WhatsApp, RCS, and Custom SMS Provider.}
-* https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-live-recordings/episodes/exl-live-episode-07-31-25
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-07-31-25
     {title = Fueling Personalized Content in Journey Optimizer with AEM Content Fragments and Dynamic Media (July 31 2025)}
     {description = In this session, Jyothitha Chandran, Chris Ivory, and Kaitlin White showcased how Adobe Journey Optimizer (AJO) integrates seamlessly with Adobe Experience Manager (AEM) Sites Content Fragments and AEM Assets Dynamic Media to deliver scalable, real-time personalization across every channel.}
 -->
@@ -155,10 +157,11 @@ Journey Optimizer 使公司能够创建有黏性的情境式个性化客户体�
 
 ## 员工精选
 
-<!-- CARDS
-* https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface
-* https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/journeys/introduction-to-building-a-journey
-* https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder
+<!--
+CARDS
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/introduction-to-building-a-journey
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -167,7 +170,7 @@ Journey Optimizer 使公司能够创建有黏性的情境式个性化客户体�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface" title="主要功能和用户界面" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430322?captions=chi_hans&format=jpeg&nocache=1767729499901" alt="主要功能和用户界面"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424995?format=jpeg&nocache=1767729499901" alt="主要功能和用户界面"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -190,7 +193,7 @@ Journey Optimizer 使公司能够创建有黏性的情境式个性化客户体�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/journeys/introduction-to-building-a-journey" title="构建历程的简介" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430352?captions=chi_hans&format=jpeg&nocache=1767729499914" alt="构建历程的简介"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424996?format=jpeg&nocache=1767729499914" alt="构建历程的简介"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -213,7 +216,7 @@ Journey Optimizer 使公司能够创建有黏性的情境式个性化客户体�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder" title="使用规则生成器创建受众" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430330?captions=chi_hans&format=jpeg&nocache=1767729499916" alt="使用规则生成器创建受众"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425020?format=jpeg&nocache=1767729499916" alt="使用规则生成器创建受众"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -234,10 +237,11 @@ Journey Optimizer 使公司能够创建有黏性的情境式个性化客户体�
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-<!-- CARDS
-* https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation
-* https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end
-* https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages
+<!--
+CARDS
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -246,7 +250,7 @@ Journey Optimizer 使公司能够创建有黏性的情境式个性化客户体�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation" title="借助用于内容生成的 AI 助手创建内容" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434645/?captions=chi_hans&format=jpeg&nocache=1767729500370" alt="借助用于内容生成的 AI 助手创建内容"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434635/?format=jpeg&nocache=1767729500370" alt="借助用于内容生成的 AI 助手创建内容"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -292,7 +296,7 @@ Journey Optimizer 使公司能够创建有黏性的情境式个性化客户体�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages" title="为应用程序内消息配置内容试验" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3445298/?captions=chi_hans&format=jpeg&nocache=1767729500351" alt="为应用程序内消息配置内容试验"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3419898/?format=jpeg&nocache=1767729500351" alt="为应用程序内消息配置内容试验"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

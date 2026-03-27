@@ -7,17 +7,17 @@ index: false
 hide: true
 hidefromtoc: true
 recommendations: noCatalog, noDisplay
-source-git-commit: e52cdba2a9203497d97cbd1e75c81e3e4e556ac4
+exl-id: 264b1205-8e2a-4f02-aa9c-629413f9dc8d
+source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
 workflow-type: tm+mt
 source-wordcount: '40'
 ht-degree: 0%
 
 ---
 
-
 # Adobe Journey Optimizer中的WhatsApp集成
 
 了解AJO与WhatsApp业务的原生集成如何实现无缝营销和事务性通信。
 
 <!-- 72_S520_3442520_49_whatsapp-integration-in-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3460482/?learn=on&enablevpops=true&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3458215/?learn=on&enablevpops=true)

@@ -5,22 +5,23 @@ feature: Overview
 role: User
 hide: true
 index: false
-source-git-commit: 4a3d4fdfded5ea59806d9acd9cd3d486219540e6
+exl-id: 1c8da00a-45c0-44fb-8e4e-e17a3978b4fe
+source-git-commit: 0b3170fdcc60de2efe10ae542caa8c139f51ac78
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 4%
 
 ---
 
-
 # Loyalty Garage Week — 概述
 
-<!-- CARDS
-* https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/ai-driven-loyalty-orchestration.html?lang=zh-Hans
-* https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/challenge-based-loyalty.html?lang=zh-Hans
-* https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/emotional-loyalty-and-community-building.html?lang=zh-Hans
-* https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/financial-modeling-for-modern-loyalty-programs.html?lang=zh-Hans
-* https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/loyalty-in-an-omnichannel-world.html?lang=zh-Hans
+<!--
+CARDS
+* https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/ai-driven-loyalty-orchestration.html
+* https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/challenge-based-loyalty.html
+* https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/emotional-loyalty-and-community-building.html
+* https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/financial-modeling-for-modern-loyalty-programs.html
+* https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/loyalty-in-an-omnichannel-world.html
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -28,7 +29,7 @@ ht-degree: 4%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/ai-driven-loyalty-orchestration.html?lang=zh-Hans" title="AI驱动的忠诚度编排 — 从RFM到实时Personalization" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/ai-driven-loyalty-orchestration.html" title="AI驱动的忠诚度编排 — 从RFM到实时Personalization" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-cards/tutorial.png" alt="AI驱动的忠诚度编排 — 从RFM到实时Personalization"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -37,11 +38,11 @@ ht-degree: 4%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/ai-driven-loyalty-orchestration.html?lang=zh-Hans" target="_blank" rel="referrer" title="AI驱动的忠诚度编排 — 从RFM到实时Personalization">AI驱动的忠诚度编排 — 从RFM到Real-Time Personalization</a>
+                        <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/ai-driven-loyalty-orchestration.html" target="_blank" rel="referrer" title="AI驱动的忠诚度编排 — 从RFM到实时Personalization">AI驱动的忠诚度编排 — 从RFM到Real-Time Personalization</a>
                     </p>
                     <p class="is-size-6">现代忠诚计划正在经历一场人工智能驱动的革命。 品牌正在从简单、基于规则的分段（如RFM模型）发展到预测分析和自主决策引擎，从而实时为每个客户编排下一个最佳行动。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/ai-driven-loyalty-orchestration.html?lang=zh-Hans" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/ai-driven-loyalty-orchestration.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
                 </a>
             </div>
@@ -51,7 +52,7 @@ ht-degree: 4%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/challenge-based-loyalty.html?lang=zh-Hans" title="基于挑战的忠诚度" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/challenge-based-loyalty.html" title="基于挑战的忠诚度" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-cards/tutorial.png" alt="基于挑战的忠诚度"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -60,11 +61,11 @@ ht-degree: 4%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/challenge-based-loyalty.html?lang=zh-Hans" target="_blank" rel="referrer" title="基于挑战的忠诚度">基于挑战的忠诚度</a>
+                        <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/challenge-based-loyalty.html" target="_blank" rel="referrer" title="基于挑战的忠诚度">基于挑战的忠诚度</a>
                     </p>
                     <p class="is-size-6">设计可促进长期参与的行为Gamification系统</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/challenge-based-loyalty.html?lang=zh-Hans" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/challenge-based-loyalty.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
                 </a>
             </div>
@@ -74,7 +75,7 @@ ht-degree: 4%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/emotional-loyalty-and-community-building.html?lang=zh-Hans" title="情感忠诚与社区建设" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/emotional-loyalty-and-community-building.html" title="情感忠诚与社区建设" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-cards/tutorial.png" alt="情感忠诚与社区建设"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -83,11 +84,11 @@ ht-degree: 4%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/emotional-loyalty-and-community-building.html?lang=zh-Hans" target="_blank" rel="referrer" title="情感忠诚与社区建设">情感忠诚度和社区建设</a>
+                        <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/emotional-loyalty-and-community-building.html" target="_blank" rel="referrer" title="情感忠诚与社区建设">情感忠诚度和社区建设</a>
                     </p>
                     <p class="is-size-6">品牌如何通过基于体验的忠诚度创建身份、归属和宣传</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/emotional-loyalty-and-community-building.html?lang=zh-Hans" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/emotional-loyalty-and-community-building.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
                 </a>
             </div>
@@ -97,7 +98,7 @@ ht-degree: 4%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/financial-modeling-for-modern-loyalty-programs.html?lang=zh-Hans" title="现代忠诚度计划的财务建模" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/financial-modeling-for-modern-loyalty-programs.html" title="现代忠诚度计划的财务建模" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-cards/tutorial.png" alt="现代忠诚度计划的财务建模"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -106,11 +107,11 @@ ht-degree: 4%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/financial-modeling-for-modern-loyalty-programs.html?lang=zh-Hans" target="_blank" rel="referrer" title="现代忠诚度计划的财务建模">现代忠诚度计划的财务建模</a>
+                        <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/financial-modeling-for-modern-loyalty-programs.html" target="_blank" rel="referrer" title="现代忠诚度计划的财务建模">现代忠诚度计划的财务建模</a>
                     </p>
                     <p class="is-size-6">一个全面的、为首席财务官做好准备的框架，用于预测责任、奖励经济和增量价值。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/financial-modeling-for-modern-loyalty-programs.html?lang=zh-Hans" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/financial-modeling-for-modern-loyalty-programs.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
                 </a>
             </div>
@@ -120,7 +121,7 @@ ht-degree: 4%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/loyalty-in-an-omnichannel-world.html?lang=zh-Hans" title="全渠道世界中的忠诚" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/loyalty-in-an-omnichannel-world.html" title="全渠道世界中的忠诚" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-cards/tutorial.png" alt="全渠道世界中的忠诚"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -129,11 +130,11 @@ ht-degree: 4%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/loyalty-in-an-omnichannel-world.html?lang=zh-Hans" target="_blank" rel="referrer" title="全渠道世界中的忠诚">全渠道世界中的忠诚度</a>
+                        <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/loyalty-in-an-omnichannel-world.html" target="_blank" rel="referrer" title="全渠道世界中的忠诚">全渠道世界中的忠诚度</a>
                     </p>
                     <p class="is-size-6">在所有客户接触点构建统一、可预测、实时的忠诚度体验。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/loyalty-in-an-omnichannel-world.html?lang=zh-Hans" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/loyalty-in-an-omnichannel-world.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
                 </a>
             </div>

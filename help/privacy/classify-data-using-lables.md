@@ -2,15 +2,16 @@
 title: 使用标签对数据进行分类
 description: 了解如何将标签应用于您的架构和数据集。
 feature: Governance, Privacy, Data Management, Access Management
-role: Data Architect, Admin
+role: Developer, Admin
 level: Beginner
 jira: KT-16266
 thumbnail: 29709.jpg
 last-substantial-update: 2024-10-01T00:00:00Z
 hide: false
 hidefromtoc: false
-source-git-commit: 810601d8bfdf71386831f439877316b3a91d5cc2
-workflow-type: ht
+exl-id: 52930777-3231-4156-b1fe-a2d82003629a
+source-git-commit: 783cf83169c9e12e07bf4ffc162adfe1b0c33d8f
+workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 100%
 
@@ -24,4 +25,4 @@ ht-degree: 100%
 >
 >此视频演示了 Adobe Experience Platform 用户界面中的这项功能。在 Journey Optimizer 用户界面左侧导航的“数据管理”部分中，提供了相同的功能。
 
->[!VIDEO](https://video.tv.adobe.com/v/3422787?learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/29709?learn=on)

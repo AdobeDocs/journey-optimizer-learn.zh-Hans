@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: c0f6193e71c14c947f0d884328e58dd8c7d75a0c
+source-git-commit: 0b3170fdcc60de2efe10ae542caa8c139f51ac78
 workflow-type: tm+mt
 source-wordcount: '1020'
 ht-degree: 97%
@@ -55,7 +55,7 @@ ht-degree: 97%
    + [将历程复制到另一个沙盒](/help/journeys/copy-a-journey.md)
    + [在批量分段后触发每日历程运行](/help/journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
 + 忠诚度 {#loyalty}
-+[创建忠诚度挑战](/help/loyalty/create-a-loyalty-challenge.md)
+   + [创建忠诚度挑战](/help/loyalty/create-a-loyalty-challenge.md)
 + 冲突管理和优先级排序 {#conflict-management}
    + [识别潜在冲突](/help/conflict-management/identify-potential-conflicts.md)
    + [分配优先级分数](/help/conflict-management/assign-priority-score.md)

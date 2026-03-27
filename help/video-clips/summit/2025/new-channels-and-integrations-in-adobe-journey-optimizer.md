@@ -7,17 +7,17 @@ index: false
 hide: true
 hidefromtoc: true
 recommendations: noCatalog, noDisplay
-source-git-commit: 28e2477974df6d22cff87eb9c242657e23569b15
+exl-id: c14e8b09-b6d5-41e9-8fb3-cd7b55692687
+source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
 
 ---
 
-
 # Adobe Journey Optimizer中的新渠道和集成
 
 探索Adobe Journey Optimizer中的最新渠道创新和集成，包括WhatsApp、iOS Live Activities和RCS消息传送，以增强客户参与度。
 
 <!-- 62_S520_3442520_207_new-channels-and-integrations-in-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3460352/?learn=on&enablevpops=true&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3458234/?learn=on&enablevpops=true)

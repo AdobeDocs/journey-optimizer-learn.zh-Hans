@@ -1,6 +1,6 @@
 ---
 title: 使用 Adobe Express 编辑资源
-description: 了解如何使用 Adobe Express 工具在 Adobe Journey Optimizer 中编辑资源。
+description: 了解如何使用 Adobe Express 工具在 Adobe Journey Optimizer 中编辑资产。
 feature: Assets
 topic: Content Management, Integrations
 role: User
@@ -13,8 +13,8 @@ hidefromtoc: false
 hide: false
 index: true
 exl-id: c42fca4f-bc31-43ad-9e3a-9936a6623051
-source-git-commit: fd50ce73503ca6b42e0171d8476ea08928ebd165
-workflow-type: ht
+source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
+workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 100%
 
@@ -26,8 +26,8 @@ ht-degree: 100%
 >
 >Adobe Journey Optimizer 中的 Adobe Express 集成目前不可用于 Healthcare Shield 或 Privacy and Security Shield。
 
-了解如何使用 Adobe Express 工具在 Adobe Journey Optimizer 中编辑资源。
+了解如何使用 Adobe Express 工具在 Adobe Journey Optimizer 中编辑资产。
 
->[!VIDEO](https://video.tv.adobe.com/v/3455533/?learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3455523/?learn=on&enablevpops)
 
 有关如何从内容编辑器访问此功能的更多信息，请参阅 [Journey Optimizer 产品文档](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/assets-images/express)。要了解有关 Adobe Express 的更多信息，请参阅[此文档](https://helpx.adobe.com/cn/express/user-guide.html)。
