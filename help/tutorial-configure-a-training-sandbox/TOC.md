@@ -19,7 +19,7 @@ ht-degree: 100%
 
 + [配置培训沙盒](/help/tutorial-configure-a-training-sandbox/introduction-and-prerequisites.md)
 + 步骤 1：设置数据结构并导入样本数据 {#set-up-data-structure-and-ingest-data}
-   + [使用 Postman 设置数据结构并导入样本数据](https://experienceleague.adobe.com/docs/platform-learn/tutorials/import-sample-data.html)
+   + [使用 Postman 设置数据结构并导入样本数据](https://experienceleague.adobe.com/docs/platform-learn/tutorials/import-sample-data.html?lang=zh-Hans)
    + [设置数据结构（手动）](/help/tutorial-configure-a-training-sandbox/manual-data-set-up.md)
    + [导入样本数据（手动）](/help/tutorial-configure-a-training-sandbox/manual-data-ingestion.md)
 + [步骤 2：配置事件](/help/tutorial-configure-a-training-sandbox/configure-events.md)
