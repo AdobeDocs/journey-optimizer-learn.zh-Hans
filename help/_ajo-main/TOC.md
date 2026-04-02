@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: 0b3170fdcc60de2efe10ae542caa8c139f51ac78
+source-git-commit: 104f7ca9f80139719b42d49b96ea5c2ea34570bc
 workflow-type: tm+mt
 source-wordcount: '1020'
 ht-degree: 97%
@@ -41,6 +41,7 @@ ht-degree: 97%
    + [Journey 代理 - 概述](/help/ai-agents/journey-agent-overview.md)
    + [了解新的历程设计器](/help/journeys/new-journey-designer.md)
    + [构建历程的简介](/help/journeys/introduction-to-building-a-journey.md)
+   + [在历程中使用数据集查找](/help/journeys/lookup-dataset.md)
    + [创建测试轮廓](/help/journeys/test-a-journey.md)
    + [发布历程](/help/journeys/publish-a-journey.md)
    + [内容决策活动](/help/journeys/content-decision-activity.md)
@@ -60,7 +61,7 @@ ht-degree: 97%
    + [识别潜在冲突](/help/conflict-management/identify-potential-conflicts.md)
    + [分配优先级分数](/help/conflict-management/assign-priority-score.md)
    + [历程频率上限和优先级排序](/help/conflict-management/journey-frequency-capping-and-prioritization.md)
-   + [在历程中使用数据集查找](/help/journeys/lookup-dataset.md)
+
    + [免打扰时间](/help/business-rules/configure-and-apply-quiet-hours.md)
 + 用户档案、受众和订阅 {#profiles-audiences-subscriptions}
    + [用户档案和受众 - 概述](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
