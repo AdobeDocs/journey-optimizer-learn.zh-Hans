@@ -54,7 +54,7 @@ ht-degree: 0%
 要开始撰写邮件，请单击`Content`以打开内容选项卡，您可以在其中定义固定文本和从事件数据派生的动态字段。
 ![内容推送](assets/compose-message.png)
 
-指定推送消息的标题，然后打开个性化编辑器以撰写消息正文。 内容将动态包含价格下降的产品名称。 要实现此目的，请使用每个[辅助函数](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/functions/helpers#each)
+指定推送消息的标题，然后打开个性化编辑器以撰写消息正文。 内容将动态包含价格下降的产品名称。 要实现此目的，请使用每个[辅助函数](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/content-management/personalization/functions/helpers#each)
 对产品列表进行迭代，并在消息中呈现其名称。
 
 ## 撰写消息正文
