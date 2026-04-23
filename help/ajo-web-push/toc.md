@@ -7,7 +7,7 @@ solution: Journey Optimizer
 role: Developer
 level: Beginner
 breadcrumb-url: /docs/journey-optimizer-learn/ajo-web-push/introduction
-source-git-commit: cd96c5cce9682807d453159898ad94e9ca7575b8
+source-git-commit: c339fe796af1e691cd3b1c98cd6ba8a8772551e4
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 7%
@@ -18,9 +18,9 @@ ht-degree: 7%
 # Adobe Journey Optimizer中的Web推送{#ajo-web-push}
 
 + [简介](./introduction.md)
-+ [本地设置](./run-application-locally.md)
 + [创建推送配置](./create-push-configuration.md)
 + [创建数据流](./create-data-stream.md)
++ [本地设置](./run-application-locally.md)
 + [捕获用户权限](./capture-user-persmission.md)
 + [创建受众](./create-audience.md)
 + [创建营销活动](./create-campaign.md)

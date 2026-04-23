@@ -7,7 +7,8 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2026-04-21T00:00:00Z
 jira: KT-20879
-source-git-commit: 45f86aeb8fca071436785cc55225d853bb21998f
+exl-id: 94fda23f-e26a-494b-8e5c-6c442bae61c4
+source-git-commit: c339fe796af1e691cd3b1c98cd6ba8a8772551e4
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 1%
@@ -57,7 +58,3 @@ ht-degree: 1%
 ## 测试活动
 
 要测试营销活动，请在出现提示时通过选择加入[首先在](http://localhost:3000)网页上启用通知。 选择加入后，请等待营销活动在其计划时间运行。 当活动执行时，您应会在浏览器中收到推送通知。
-
-
-
-
