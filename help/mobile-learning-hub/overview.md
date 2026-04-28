@@ -99,4 +99,4 @@ Learn the concepts and how to
 
 ## 客户用例
 
-* [使用个性化体验体验：航空公司如何通过Adobe Journey Optimizer提升优惠水平（博客）](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513)
+* [使用个性化体验体验：航空公司如何通过Adobe Journey Optimizer提升优惠水平（博客）](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513?profile.language=zh-Hans)
