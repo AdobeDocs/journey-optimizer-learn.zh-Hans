@@ -10,8 +10,8 @@ hide: true
 hidefromtoc: true
 last-substantial-update: 2024-01-29T00:00:00Z
 exl-id: fb262c8d-7865-4a85-b620-a134e4cca7f8
-source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
-workflow-type: ht
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+workflow-type: tm+mt
 source-wordcount: '26'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解历程画布的特性和功能。
 
->[!VIDEO](https://video.tv.adobe.com/v/344627?captions=chi_hans&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/342099?quality=12&learn=on){transcript=true}

@@ -11,23 +11,23 @@ jira: KT-16267
 hide: false
 hidefromtoc: false
 exl-id: 0aaf116d-e8e9-449d-99b5-800fee8c3c0a
-source-git-commit: 860a85106f3811cd827f621911e1625b46de2fcd
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 99%
+source-wordcount: '139'
+ht-degree: 92%
 
 ---
 
 # 创建数据使用策略
 
-了解如何创建和管理数据使用策略。通过数据使用策略，您可以基于数据的标签限制特定目的下的数据使用。要了解基于 API 的方法，请参阅[使用 API 创建数据使用策略](https://experienceleague.adobe.com/zh-hans/docs/experience-platform/data-governance/policies/create)。
+了解如何创建和管理数据使用策略。 通过数据使用策略，您可以基于数据的标签限制特定目的下的数据使用。 要了解基于 API 的方法，请参阅[使用 API 创建数据使用策略](https://experienceleague.adobe.com/zh-hans/docs/experience-platform/data-governance/policies/create)。
 
 >[!NOTE]
 >
->此视频演示了 Adobe Experience Platform 用户界面中的这项功能。可在 Journey Optimizer 用户界面的左侧导航栏的“隐私”部分中访问这一功能。
+>此视频演示了 Adobe Experience Platform 用户界面中的这项功能。 可在 Journey Optimizer 用户界面的左侧导航栏的“隐私”部分中访问这一功能。
 >
 >观看此[教程](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)，了解如何在 Journey Optimizer 渠道中实施策略。
 
->[!VIDEO](https://video.tv.adobe.com/v/37121/?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/32977/?learn=on)
 
-有关如何在 Journey Optimizer 中[使用同意策略](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/privacy/consent/consent)的更多信息，请参阅产品文档。
+有关如何在 Journey Optimizer 中[使用同意策略](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/consent/consent)的更多信息，请参阅产品文档。

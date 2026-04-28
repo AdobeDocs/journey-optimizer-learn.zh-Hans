@@ -1,6 +1,6 @@
 ---
 title: 应用程序内消息 - 概述
-description: 应用程序内消息是用户积极使用应用程序时应用程序中显示的消息。 它们是叠加类型的消息，位于应用程序的顶部。 它们不会出现在锁屏上或应用程序外，而是在用户浏览应用程序时显示为横幅、弹出窗口或小卡片。
+description: In-app messages are messages that appear inside an app while the user is actively using it. They are overlay-type messages that sit on top of your app. They don't pop up on the lock screen or outside the app — instead, they show up as banners, pop-ups, or small cards while the user is exploring the app.
 feature: In App
 role: User, Developer, Admin
 level: Beginner
@@ -9,10 +9,10 @@ index: true
 jira: KT-19862
 last-substantial-update: 2025-12-18T00:00:00Z
 exl-id: 679fd26a-f6e9-4130-973f-8c0e1353c813
-source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 9%
+source-wordcount: '67'
+ht-degree: 11%
 
 ---
 

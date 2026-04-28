@@ -13,9 +13,9 @@ hidefromtoc: false
 hide: false
 index: true
 exl-id: c42fca4f-bc31-43ad-9e3a-9936a6623051
-source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '103'
 ht-degree: 100%
 
 ---
@@ -28,6 +28,6 @@ ht-degree: 100%
 
 了解如何使用 Adobe Express 工具在 Adobe Journey Optimizer 中编辑资产。
 
->[!VIDEO](https://video.tv.adobe.com/v/3455533/?captions=chi_hans&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3455523/?learn=on&enablevpops)
 
-有关如何从内容编辑器访问此功能的更多信息，请参阅 [Journey Optimizer 产品文档](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/assets-images/express)。要了解有关 Adobe Express 的更多信息，请参阅[此文档](https://helpx.adobe.com/cn/express/user-guide.html)。
+有关如何从内容编辑器访问此功能的更多信息，请参阅 [Journey Optimizer 产品文档](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/assets-images/express)。 要了解有关 Adobe Express 的更多信息，请参阅[此文档](https://helpx.adobe.com/cn/express/user-guide.html)。

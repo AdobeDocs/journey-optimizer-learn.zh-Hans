@@ -8,7 +8,7 @@ hide: true
 hidefromtoc: true
 recommendations: noCatalog, noDisplay
 exl-id: 4c7f43cb-1157-4e94-9db9-d6346001af6a
-source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
 source-wordcount: '44'
 ht-degree: 0%
@@ -20,4 +20,4 @@ ht-degree: 0%
 快速浏览即将推出的内容卡功能，包括新模板、消息收件箱等。
 
 <!-- 62_S603_3442534_83_future-enhancements-for-content-cards -->
->[!VIDEO](https://video.tv.adobe.com/v/3460330/?captions=chi_hans&learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3458202/?learn=on&enablevpops=true)

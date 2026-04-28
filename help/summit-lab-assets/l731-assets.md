@@ -9,16 +9,16 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 783cf83169c9e12e07bf4ffc162adfe1b0c33d8f
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '374'
 ht-degree: 98%
 
 ---
 
 # Summit Lab L731 — 备忘单
 
-本页包含 L731 Summit Lab 中当前正在使用的文本和链接。您可以通过它将内容复制并粘贴到 Journey Optimizer 消息中。
+本页包含 L731 Summit Lab 中当前正在使用的文本和链接。 您可以通过它将内容复制并粘贴到 Journey Optimizer 消息中。
 
 ## 练习 1.1 - 下载和安装应用程序
 
@@ -158,7 +158,7 @@ ht-degree: 98%
 | **触发器** | State | booknow |  |
 | **编辑内容：**&#x200B;媒体 | 媒体 URL 选项 |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
 | **编辑内容：**&#x200B;内容 | 标题 | 享受抢先订购折扣！ |  |
-| **编辑内容：**&#x200B;内容 | 正文 | Adobe Max 重返拉斯维加斯。准备迎接鼓舞人心的演讲、技能拓展课程和结识新朋友的机会。现在预订套件，立享 10% 产品建议。 |  |
+| **编辑内容：**&#x200B;内容 | 正文 | Adobe Max 重返拉斯维加斯。 准备迎接鼓舞人心的演讲、技能拓展课程和结识新朋友的机会。 现在预订套件，立享 10% 产品建议。 |  |
 | **编辑内容：**&#x200B;按钮 | 按钮 | 立享 10% 折扣！ | lab://booking?suite=presidential&amp;discount=10 |
 | **编辑内容：**&#x200B;按钮 | 交互事件 | 应用程序内 CTA |  |
 | **在设备上预览** | 用于在设备上预览的基本 URL |  | **iOS：** lab:// <br>**Android**：https://lab |
@@ -169,5 +169,5 @@ ht-degree: 98%
 |----|----|----|
 | 营销活动名称 | **`<your seat number> Max Push Campaign`** |  |
 | 标题 | 您好！ |  |
-| 正文 | 您知道 Adobe Max 要重返拉斯维加斯吗？现在预订席位，可享受 10% 的折扣。 |  |
+| 正文 | 您知道 Adobe Max 要重返拉斯维加斯吗？ 现在预订席位，可享受 10% 的折扣。 |  |
 | 媒体 URL 选项 |  | https://i.ibb.co/1M0BnZn/Firefly-Big-conference-big-stage-with-ADBE-text-on-screen-40178.jpg |

@@ -12,9 +12,9 @@ hidefromtoc: false
 index: true
 jira: KT-18519
 exl-id: a58a964b-0414-4061-ab5d-170f8a0a1f46
-source-git-commit: 783cf83169c9e12e07bf4ffc162adfe1b0c33d8f
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '72'
 ht-degree: 100%
 
 ---
@@ -23,4 +23,4 @@ ht-degree: 100%
 
 了解 Journey Optimizer 营销活动编排中使用的关系存储基本概念，包括架构设计、数据摄取、支持的源以及与实时轮廓存储的主要差异。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470224/?captions=chi_hans&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470214/?learn=on&enablevpops)

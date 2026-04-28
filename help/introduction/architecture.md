@@ -11,7 +11,7 @@ level: Beginner
 exl-id: 33b8ee09-4cd8-475c-bf8e-a7934eff19a1
 hide: true
 hidefromtoc: true
-source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 100%
@@ -22,4 +22,4 @@ ht-degree: 100%
 
 了解 Adobe Journey Optimizer 的基本架构、集成点以及 Journey Optimizer 与其他 Adobe 应用程序的关系。
 
->[!VIDEO](https://video.tv.adobe.com/v/3415691?quality=12&learn=on&captions=chi_hans){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/334205?quality=12&learn=on){transcript=true}

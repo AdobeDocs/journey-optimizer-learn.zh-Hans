@@ -1,6 +1,6 @@
 ---
-title: 使用Adobe代理创建目标驱动的受众
-description: 观看Adobe的Audience Agent如何使用人工智能通过实时数据和机器学习模型创建精确、目标驱动的受众。
+title: Goal-Driven Audience Creation with Adobe Agents
+description: Watch how Adobe's Audience Agent uses AI to create precise, goal-driven audiences by leveraging real-time data and machine learning models.
 doc-type: Short Video
 duration: 282
 index: false
@@ -8,16 +8,16 @@ hide: true
 hidefromtoc: true
 recommendations: noCatalog, noDisplay
 exl-id: 58006d05-85de-49a1-a046-037cdfa62ca8
-source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '58'
 ht-degree: 0%
 
 ---
 
-# 使用Adobe代理创建目标驱动的受众
+# Goal-Driven Audience Creation with Adobe Agents
 
-观看Adobe的Audience Agent如何使用人工智能通过实时数据和机器学习模型创建精确、目标驱动的受众。
+Watch how Adobe&#39;s Audience Agent uses AI to create precise, goal-driven audiences by leveraging real-time data and machine learning models.
 
 <!-- 62_S653_3442539_281_goaldriven-audience-creation-with-adobe-agents -->
->[!VIDEO](https://video.tv.adobe.com/v/3460307/?captions=chi_hans&learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3458193/?learn=on&enablevpops=true)
