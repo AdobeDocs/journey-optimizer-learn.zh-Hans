@@ -20,4 +20,4 @@ ht-degree: 0%
 Learn how Adobe identified and addressed key barriers to scaling experimentation, from ideation to execution, using platform-driven solutions.
 
 <!-- 62_S531_3442531_165_overcoming-barriers-to-experimentation-at-scale -->
->[!VIDEO](https://video.tv.adobe.com/v/3458237/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460385/?captions=chi_hans&learn=on&enablevpops=true)

@@ -20,4 +20,4 @@ ht-degree: 0%
 Watch how Adobe&#39;s Audience Agent uses AI to create precise, goal-driven audiences by leveraging real-time data and machine learning models.
 
 <!-- 62_S653_3442539_281_goaldriven-audience-creation-with-adobe-agents -->
->[!VIDEO](https://video.tv.adobe.com/v/3458193/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460307/?captions=chi_hans&learn=on&enablevpops=true)

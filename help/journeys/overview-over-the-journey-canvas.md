@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解历程画布的特性和功能。
 
->[!VIDEO](https://video.tv.adobe.com/v/342099?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/344627?captions=chi_hans&quality=12&learn=on){transcript=true}

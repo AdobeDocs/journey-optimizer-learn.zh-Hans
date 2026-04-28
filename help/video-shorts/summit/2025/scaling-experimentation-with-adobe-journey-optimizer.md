@@ -20,4 +20,4 @@ ht-degree: 0%
 Discover how Adobe leveraged Journey Optimizer to scale experimentation, improve ROI, and deliver personalized experiences at scale.
 
 <!-- 72_S531_3442531_124_scaling-experimentation-with-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458240/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460430/?captions=chi_hans&learn=on&enablevpops=true)
