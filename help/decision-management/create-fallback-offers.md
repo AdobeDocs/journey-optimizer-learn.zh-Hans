@@ -18,6 +18,6 @@ ht-degree: 100%
 
 了解如何为决策管理创建[后备产品建议](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/managing-offers-in-the-offer-library/creating-fallback-offers.html?lang=zh-Hans)。 后备产品建议是向不符合任何个性化产品建议条件的客户显示的默认产品建议。
 
->[!VIDEO](https://video.tv.adobe.com/v/329383?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/341342?captions=chi_hans&quality=12&learn=on){transcript=true}
 
 要了解有关如何使用 API 创建后备产品建议的更多信息，请参阅[产品指南](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/fallback-offers/create.html?lang=zh-Hans)

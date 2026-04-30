@@ -22,6 +22,6 @@ ht-degree: 100%
 
 该报告可帮助排查故障、提升历程运行性能，并保障业务平稳运行。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479541/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479551/?captions=chi_hans&learn=on&enablevpops)
 
 有关此功能的更多信息，请参阅[产品文档](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/configure-journeys/action-journeys/reporting)。

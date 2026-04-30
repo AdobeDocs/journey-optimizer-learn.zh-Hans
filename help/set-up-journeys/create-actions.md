@@ -21,6 +21,6 @@ ht-degree: 100%
 
 了解操作是什么，如何使用 Journey Optimizer 中的“编辑轮廓”和“跳转”操作，以及如何配置自定义操作。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428396?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430276?captions=chi_hans&quality=12&learn=on){transcript=true}
 
 如需了解有关[配置自定义操作](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/configuration/configure-journeys/action-journeys/about-custom-action-configuration){target="_blank"}的更多信息，请查阅产品文档。

@@ -20,4 +20,4 @@ ht-degree: 100%
 
 了解实时客户轮廓数据以及为 Journey Optimizer 设置客户轮廓数据所需的步骤。
 
->[!VIDEO](https://video.tv.adobe.com/v/335878?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3418463?captions=chi_hans&quality=12&learn=on){transcript=true}

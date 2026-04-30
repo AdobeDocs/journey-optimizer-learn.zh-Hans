@@ -18,4 +18,4 @@ ht-degree: 100%
 
 了解 Adobe Journey Optimizer 为开发人员提供的移动功能。
 
->[!VIDEO](https://video.tv.adobe.com/v/342103?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/344613?captions=chi_hans&quality=12&learn=on){transcript=true}

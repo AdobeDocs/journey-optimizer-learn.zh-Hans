@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解如何下载报告和单个小组件的 CSV 报告。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424603/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439624/?captions=chi_hans&learn=on)
