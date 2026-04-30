@@ -1,7 +1,7 @@
 ---
 source-git-commit: ac61c4d30929b559826b4a770fc10c26aec74830
 workflow-type: ht
-source-wordcount: '178'
+source-wordcount: '221'
 ht-degree: 100%
 
 ---
@@ -31,16 +31,16 @@ Experience League LIVE：
 
 >[!NOTE]
 >
->目前，此功能仅面向一部分组织提供（限量发布版）。要获得访问权限，请与 Adobe 代表联系。
+>目前，此功能仅面向一部分组织提供（限量发布版）。 要获得访问权限，请与 Adobe 代表联系。
 
 ## Beta 版 {#beta}
 
 >[!AVAILABILITY]
 >
->此功能目前为 Beta 版，仅供 Beta 版客户使用。要加入 Beta 版计划，请联系 Adobe 客户关怀团队。
+>此功能目前为 Beta 版，仅供 Beta 版客户使用。 要加入 Beta 版计划，请联系 Adobe 客户关怀团队。
 
 ## Platform 视频 - 策略 (#platform-video)
 
 >[!NOTE]
 >
->此视频演示了 Adobe Experience Platform 用户界面中的这项功能。可以在 Journey Optimizer 左侧导航栏的“数据管理”和“隐私”部分中访问这一功能。
+>此视频演示了 Adobe Experience Platform 用户界面中的这项功能。 可以在 Journey Optimizer 左侧导航栏的“数据管理”和“隐私”部分中访问这一功能。

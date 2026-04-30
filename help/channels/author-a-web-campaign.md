@@ -10,8 +10,8 @@ jira: KT-13111
 thumbnail: 3418803.jpeg
 exl-id: aa553256-2738-4f4b-b5d4-b8836bd6b8d0
 source-git-commit: 2493f6cad316173f5b33d664e3215ed71d13ff76
-workflow-type: tm+mt
-source-wordcount: '64'
+workflow-type: ht
+source-wordcount: '72'
 ht-degree: 100%
 
 ---
@@ -23,4 +23,4 @@ ht-degree: 100%
 >[!NOTE]
 > 您必须安装 [Adobe Experience Cloud 可视化编辑帮助程序 Chrome 扩展程序](https://chrome.google.com/webstore/detail/adobe-experience-cloud-vi/kgmjjkfjacffaebgpkpcllakjifppnca)才能将网站加载到 Adobe Journey Optimizer 中。
 
->[!VIDEO](https://video.tv.adobe.com/v/3452645/?quality=12&learn=on&captions=chi_hans){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3418803/?quality=12&learn=on){transcript=true}

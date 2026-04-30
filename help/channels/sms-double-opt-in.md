@@ -1,5 +1,5 @@
 ---
-title: Sinch和Infobip双重选择加入
+title: Sinch 和 Infobip 的双重选择加入
 description: 了解如何为 SMS 配置双重选择加入。
 feature: SMS
 role: User
@@ -11,14 +11,14 @@ jira: KT-14850
 thumbnail: 3427129.jpeg
 exl-id: 1c4440f4-c7f4-46f5-9a66-273f657833ae
 source-git-commit: 527b6b1b442cae49970e8bfc73a63229927b6665
-workflow-type: tm+mt
-source-wordcount: '28'
-ht-degree: 57%
+workflow-type: ht
+source-wordcount: '32'
+ht-degree: 100%
 
 ---
 
-# Sinch和Infobip双重选择加入
+# Sinch 和 Infobip 的双重选择加入
 
 了解如何为 SMS 配置双重选择加入。
 
->[!VIDEO](https://video.tv.adobe.com/v/3440290/?learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3427129/?learn=on)

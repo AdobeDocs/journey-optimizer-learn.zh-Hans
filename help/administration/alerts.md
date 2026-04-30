@@ -11,9 +11,9 @@ level: Beginner
 last-substantial-update: 2022-09-28T00:00:00Z
 exl-id: f4979b56-ee11-45f6-b538-b93a94f6ac41
 source-git-commit: 860a85106f3811cd827f621911e1625b46de2fcd
-workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 99%
+workflow-type: ht
+source-wordcount: '114'
+ht-degree: 100%
 
 ---
 
@@ -23,11 +23,11 @@ ht-degree: 99%
 
 >[!NOTE]
 >
->此视频演示了 Adobe Experience Platform 用户界面中的警报功能。要访问该功能，请在 Journey Optimizer 左侧导航菜单中单击“管理”>“警报”。
+>此视频演示了 Adobe Experience Platform 用户界面中的警报功能。 要访问该功能，请在 Journey Optimizer 左侧导航菜单中单击“管理”>“警报”。
 >
 >
 >从 Journey Optimizer 访问警报时，默认情况下只显示特定于您的实时历程的警报。
 
->[!VIDEO](https://video.tv.adobe.com/v/3423917?captions=chi_hans&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/336218?quality=12&learn=on){transcript=true}
 
 有关更多信息，请参阅[产品文档](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/monitor/monitor-alerts-errors/alerts){target="_blank"}。

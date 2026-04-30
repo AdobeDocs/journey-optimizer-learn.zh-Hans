@@ -1,6 +1,6 @@
 ---
 title: 创建 Web 营销活动
-description: 了解什么是 Web 营销活动。了解如何配置 Web 营销活动属性、进行查看和发布。
+description: 了解什么是 Web 营销活动。 了解如何配置 Web 营销活动属性、进行查看和发布。
 feature: Web Channel
 role: User
 level: Beginner

@@ -1,6 +1,6 @@
 ---
 title: 监控您的自定义操作
-description: 探索如何有效地监测通过自定义操作从您的旅程向第三方端点发起的HTTP调用的运行状况和性能。 了解可能影响投放的HTTP错误、延迟瓶颈和上限问题
+description: 了解如何通过自定义操作，有效监控历程向第三方接口发起的 HTTP 调用的运行状态与性能。全面掌握可能影响消息送达的 HTTP 错误、延迟瓶颈及频次限制问题。
 feature: Custom Actions, Reporting
 role: Admin
 level: Intermediate, Experienced
@@ -8,21 +8,20 @@ doc-type: Feature Video
 duration: 164
 last-substantial-update: 2026-02-03T00:00:00Z
 jira: KT-20238
-source-git-commit: 6b732078afdde597f35d764d27064640fc05f44e
-workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 16%
+exl-id: ec9745d1-714a-4934-aa93-a37815f6b26f
+source-git-commit: d4cc60f4448caec92f704026783e2bbe029427f5
+workflow-type: ht
+source-wordcount: '119'
+ht-degree: 100%
 
 ---
 
-
 # 监控您的自定义操作
 
-探索如何有效地监测通过自定义操作从您的旅程向第三方端点发起的HTTP调用的运行状况和性能。 了解可能影响投放的HTTP错误、延迟瓶颈和上限问题。
+了解如何通过自定义操作，有效监控历程向第三方接口发起的 HTTP 调用的运行状态与性能。实时掌握可能影响送达效果的 HTTP 错误、延迟瓶颈与频次限制问题。
 
-此报表有助于识别问题、提升历程性能并确保顺利运行。
+该报告可帮助排查故障、提升历程运行性能，并保障业务平稳运行。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479551/?captions=chi_hans&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479541/?learn=on&enablevpops)
 
 有关此功能的更多信息，请参阅[产品文档](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/configure-journeys/action-journeys/reporting)。
-

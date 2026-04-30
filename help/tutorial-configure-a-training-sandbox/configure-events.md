@@ -9,8 +9,8 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
 source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
-workflow-type: tm+mt
-source-wordcount: '160'
+workflow-type: ht
+source-wordcount: '158'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 以下视频介绍了如何创建事件：
 
->[!VIDEO](https://video.tv.adobe.com/v/3431516?quality=12&learn=on&captions=chi_hans){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/336253?quality=12&learn=on){transcript=true}
 
 ## 创建 Luma 在线购买事件
 
@@ -59,7 +59,7 @@ ht-degree: 100%
 | [!UICONTROL 名称] | `LumaProductRestock` |
 | [!UICONTROL 类型] | [!UICONTROL 商业] |
 | [!UICONTROL 架构] | [!DNL Luma Product Inventory Event Schema] |
-| [!UICONTROL 字段] | SKU <br> stockEventType<br><b>LumaProductCatalogSchema._yourOrganizationID.product :</b> <br>名称<br>价格<br> ImageURL<br>描述 |
+| [!UICONTROL 字段] | SKU <br> stockEventType<br><b>LumaProductCatalogSchema._yourOrganizationID.product：</b> <br>名称<br>价格<br> ImageURL<br>描述 |
 | [!UICONTROL 条件] | LumaProductRestock._`your organization's ID`.inventoryEvent.stockEventType is restock |
 
-恭喜！您的沙盒现已准备就绪，可供使用。
+恭喜！ 您的沙盒现已准备就绪，可供使用。

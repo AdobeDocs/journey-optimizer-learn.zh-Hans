@@ -1,30 +1,26 @@
 ---
-title: 创建查询数据集
-description: 创建查询数据集以在历程中使用
+title: 创建查找数据集
+description: 创建用于历程的查找数据集
 feature: Journeys
 role: User
 level: Beginner
 doc-type: Feature Video
 last-substantial-update: 2026-01-15T00:00:00Z
 jira: KT-20124
-source-git-commit: 3ac6b2e3de7a01bbfa06e951c08eb571fc8f811e
-workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 0%
+exl-id: f30b7f74-644e-48e1-99ec-230f94dc56e6
+source-git-commit: 8be60011054e465b86685b626f7f924c5f6039c3
+workflow-type: ht
+source-wordcount: '91'
+ht-degree: 100%
 
 ---
 
-# 创建查询数据集
+# 创建查找数据集
 
-数据集查找允许Adobe Journey Optimizer在历程运行时从Adobe Experience Platform数据集检索引用或事务性数据，而无需将数据存储在实时客户个人资料上。
+数据集查找功能允许 Adobe Journey Optimizer 在历程运行时从 Adobe Experience Platform 数据集中检索引用数据或交易数据，而无需将这些数据存储在实时客户轮廓中。
 
-在此使用案例中，当用户提交投资偏好设置表单（股票、债券或CD）时，历程将从引用数据集中动态查找对应的投资详细信息，并使用该信息来个性化电子邮件。
+在此用例中，当用户提交投资偏好表单（股票、债券或定期存款）后，历程会从参考数据集中动态查询对应的投资详情，并利用该信息实现邮件内容个性化。
 
-**正在创建查询数据集**
+**创建查找数据集**
 
->[!VIDEO](https://video.tv.adobe.com/v/3478770?captions=chi_hans)
-
-
-
-
-
+>[!VIDEO](https://video.tv.adobe.com/v/3478760)

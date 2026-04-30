@@ -1,6 +1,6 @@
 ---
 title: Adobe Journey Optimizer 中的 WhatsApp 快速入门
-description: 了解如何将 WhatsApp 作为原生渠道集成至 Adobe Journey Optimizer，实现安全、实时的大规模个性化消息投放。
+description: 了解如何在 Adobe Journey Optimizer 中将 WhatsApp 集成为原生渠道，以安全、实时和大规模的方式投放个性化消息。
 feature: Whatsapp
 role: Admin, User
 level: Beginner, Intermediate, Experienced
@@ -12,14 +12,14 @@ hidefromtoc: true
 exl-id: 0edd792a-14e5-4fb4-94e0-f032be89d267
 source-git-commit: e0aee000736f2e1d2ac290c4e24b2e0de95753a0
 workflow-type: ht
-source-wordcount: '122'
+source-wordcount: '125'
 ht-degree: 100%
 
 ---
 
 # Adobe Journey Optimizer 中的 WhatsApp 快速入门
 
-了解如何将 WhatsApp 作为原生渠道集成至 Adobe Journey Optimizer，实现安全、实时的大规模个性化消息投放。
+了解如何在 Adobe Journey Optimizer 中将 WhatsApp 集成为原生渠道，以安全、实时和大规模的方式投放个性化消息。
 
 在本教程中，您将了解如何：
 
@@ -30,4 +30,4 @@ ht-degree: 100%
 
 对于希望通过全球最受欢迎的消息平台拓展触达范围与参与度的营销人员而言，这是理想之选。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470254/?learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3470244/?learn=on&enablevpops)

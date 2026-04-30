@@ -1,6 +1,6 @@
 ---
 title: Adobe Journey Optimizer 中的公式生成器界面指南
-description: 了解如何在 Adobe Journey Optimizer 中使用 AI 公式构建器，创建自定义的产品建议排名策略。此演练介绍如何使用 AI 公式生成器来组合模型得分、轮廓和产品建议数据、上下文信号和业务规则，以根据营销目标进行个性化决策并确定产品建议的优先级。
+description: 了解如何在 Adobe Journey Optimizer 中使用 AI 公式构建器，创建自定义的产品建议排名策略。 此演练介绍如何使用 AI 公式生成器来组合模型得分、轮廓和产品建议数据、上下文信号和业务规则，以根据营销目标进行个性化决策并确定产品建议的优先级。
 feature: Decisioning
 topic: Integrations
 role: User
@@ -20,7 +20,7 @@ ht-degree: 100%
 
 # Adobe Journey Optimizer 中的公式生成器界面指南
 
-了解如何在 Adobe Journey Optimizer 中使用 AI 公式生成器，创建自定义的产品建议排名策略。
+了解如何在 Adobe Journey Optimizer 中使用 AI 公式构建器，创建自定义的产品建议排名策略。
 
 此演练介绍如何使用 AI 公式生成器来组合模型得分、轮廓和产品建议数据、上下文信号和业务规则，以根据营销目标进行个性化决策并确定产品建议的优先级。
 

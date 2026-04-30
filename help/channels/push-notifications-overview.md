@@ -8,13 +8,13 @@ doc-type: Feature Video
 duration: 99
 last-substantial-update: 2024-10-08T00:00:00Z
 jira: KT-16312
-source-git-commit: dde5bc9f9d453b5b3df8cc3625329ee81d1889ab
+exl-id: 43bdc272-8f7a-4808-9552-75b87841a238
+source-git-commit: 5ed78b3a8effd376662f5218a660ce8627206ced
 workflow-type: ht
 source-wordcount: '42'
 ht-degree: 100%
 
 ---
-
 
 # 推送通知 - 概述
 

@@ -9,7 +9,7 @@ last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
 source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
 workflow-type: ht
-source-wordcount: '403'
+source-wordcount: '443'
 ht-degree: 100%
 
 ---
@@ -18,15 +18,15 @@ ht-degree: 100%
 
 | 挑战 | 创建忠诚度状态欢迎电子邮件 |
 |---|---|
-| 角色 | 历程管理者 |
-| 所需技能 | <ul><li>[创建区段](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=zh-Hans)</li> <li>[细分资格筛选](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment-qualification.html?lang=zh-hans)</li><li>[导入 HTML 内容](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=zh-Hans)</li></ul> |
+| 用户画像 | 历程管理者 |
+| 所需技能 | <ul><li>[创建区段](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=zh-Hans)</li> <li>[细分资格筛选](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment-qualification.html?lang=zh-hans)</li><li>[导入 HTML 内容](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html)</li></ul> |
 | 可供下载的资源 | [StatusUpgradeEmail.zip](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip) |
 
 {style="table-layout:auto"}
 
 ## 案例
 
-Luma 提供忠诚度计划，作为吸引和留住客户的一种方式。该计划提供了四个不同的等级：青铜、白银、黄金和白金。 每个忠诚度等级都会获得不同的奖励、折扣和其他特殊激励，作为对其重复业务的奖励。
+Luma 提供忠诚度计划，作为吸引和留住客户的一种方式。 该计划提供了四个不同的等级：青铜、白银、黄金和白金。 每个忠诚度等级都会获得不同的奖励、折扣和其他特殊激励，作为对其重复业务的奖励。
 
 为了强调白金等级的特殊地位，Luma 希望在客户达到白金等级时向客户发送欢迎电子邮件。
 
@@ -38,7 +38,7 @@ Luma 提供忠诚度计划，作为吸引和留住客户的一种方式。该计
 
 >[!TAB 任务]
 
-当忠诚客户符合白金级别的条件时，他们将收到一封电子邮件，内容是祝贺他们并告知可享受的新福利。创意团队提供了 HTML 文件 **[Luma - 状态升级 - 欢迎电子邮件](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip)**&#x200B;以及电子邮件的正文。
+当忠诚客户符合白金级别的条件时，他们将收到一封电子邮件，内容是祝贺他们并告知可享受的新福利。 创意团队提供了 HTML 文件 **[Luma - 状态升级 - 欢迎电子邮件](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip)**&#x200B;以及电子邮件的正文。
 
 1. 在 Journey Optimizer 中创建称为 `Luma - platinum status` 的[!UICONTROL 区段]。
 
@@ -46,9 +46,9 @@ Luma 提供忠诚度计划，作为吸引和留住客户的一种方式。该计
 
    1. 客户在符合白金忠诚度等级条件时进入历程。
 
-   1. 客户应收到一封电子邮件，标有 `Luma - Platinum Status - Welcome`，主题行为 `Welcome to Platinum Status, {firstName}!`，且使用创意团队提供的电子邮件正文。这是[!UICONTROL 事务性]电子邮件。
+   1. 客户应收到一封电子邮件，标有 `Luma - Platinum Status - Welcome`，主题行为 `Welcome to Platinum Status, {firstName}!`，且使用创意团队提供的电子邮件正文。 这是[!UICONTROL 事务性]电子邮件。
 
-   1. 上传 HTML 文件时，您会注意到电子邮件引用的是“钻石”状态，而不是“白金”状态。请在[!UICONTROL 电子邮件设计工具]中更新电子邮件，而不是向创意团队请求新文件。
+   1. 上传 HTML 文件时，您会注意到电子邮件引用的是“钻石”状态，而不是“白金”状态。 请在[!UICONTROL 电子邮件设计工具]中更新电子邮件，而不是向创意团队请求新文件。
 
 >[!TAB 成功标准]
 
