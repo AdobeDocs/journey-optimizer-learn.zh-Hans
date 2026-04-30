@@ -1,6 +1,6 @@
 ---
-title: iOS实时活动
-description: 了解如何使用Adobe Journey Optimizer配置iOS Live Activities，以便在iPhone锁屏界面和Dynamic Island上提供丰富的实时更新。
+title: iOS 实时活动
+description: 了解如何通过 Adobe Journey Optimizer 配置 iOS 实时活动，在 iPhone 锁屏与灵动岛上呈现丰富的实时动态。
 feature: Channel Configuration
 topic: Mobile
 role: Admin, Developer, User
@@ -15,12 +15,12 @@ exl-id: f474f1bb-efeb-44fd-9c62-09afdf81ee03
 source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
 source-wordcount: '56'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
-# iOS实时活动
+# iOS 实时活动
 
-了解如何使用Adobe Journey Optimizer配置iOS Live Activities，以便在iPhone锁屏界面和Dynamic Island上提供丰富的实时更新。
+了解如何通过 Adobe Journey Optimizer 配置 iOS 实时活动，在 iPhone 锁屏与灵动岛上呈现丰富的实时动态。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479874/?captions=chi_hans&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479864/?learn=on&enablevpops)

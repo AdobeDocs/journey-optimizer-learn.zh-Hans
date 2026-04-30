@@ -1,6 +1,6 @@
 ---
-title: 在短信消息中使用Decisioning
-description: 了解AJO Decisioning如何个性化和优化短信内容以提高参与度。
+title: 在短信中运用决策功能
+description: 了解 AJO 的决策功能如何对短信内容进行个性化定制与优化，以提升用户参与度。
 feature: Decisioning, SMS
 role: User
 level: Intermediate
@@ -14,12 +14,12 @@ exl-id: 60b29c0c-c3a5-4a20-9298-68119f4d4cc6
 source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
 source-wordcount: '47'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 在短信消息中使用Decisioning
+# 在短信中运用决策功能
 
-了解如何使用AJO Decisioning个性化和优化短信内容。 增强短信消息以提高参与度并实现业务目标。
+了解如何借助 AJO 决策引擎实现短信内容的个性化与优化。 升级短信消息，提升用户互动效果并达成业务目标。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479539/?captions=chi_hans&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479529/?learn=on&enablevpops)

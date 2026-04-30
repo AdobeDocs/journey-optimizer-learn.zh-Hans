@@ -1,6 +1,6 @@
 ---
-title: 在Journey Optimizer中优化AI模型
-description: 了解如何在Journey Optimizer中分析AI模型性能并优化决策。
+title: 优化 Journey Optimizer 中的 AI 模型
+description: 了解如何在 Journey Optimizer 中分析 AI 模型性能并优化决策能力。
 feature: Decisioning
 topic: Artificial Intelligence
 role: Admin, User
@@ -15,12 +15,12 @@ exl-id: cd486a89-f97a-4d53-86f1-f66dc64d5f5e
 source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
 source-wordcount: '69'
-ht-degree: 47%
+ht-degree: 100%
 
 ---
 
-# AI模型洞察
+# AI 模型洞察
 
-了解如何分析AI模型的训练状态、流量分配和性能，以优化Journey Optimizer中的个性化决策。 了解如何使用AI功能识别问题、排除模型故障并提高转化率。 本视频将指导您有效地管理AI模型以提升业务影响。
+了解如何分析 AI 模型的训练状态、流量分配和性能，以优化 Journey Optimizer 中的个性化决策。 了解如何使用AI功能识别问题、排除模型故障并提高转化率。 本视频将指导您高效管理 AI 模型，以带来切实的业务成效。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479859/?captions=chi_hans&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479849/?learn=on&enablevpops)

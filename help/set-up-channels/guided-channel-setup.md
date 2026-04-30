@@ -14,7 +14,7 @@ exl-id: f1d135e4-208c-45d4-8d7c-5d8496fb79b7
 source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
 source-wordcount: '161'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -24,9 +24,9 @@ ht-degree: 93%
 
 了解如何在 iOS 移动营销应用示例中设置并验证推送渠道通知。
 
->[!VIDEO](https://video.tv.adobe.com/v/3449632/?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433053/?learn=on)
 
 有关详细信息，请参阅产品文档：
 
-* [引导式渠道设置入门](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config.html?lang=zh-Hans){target="_blank"}
+* [引导式渠道设置快速入门](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config.html?lang=zh-Hans){target="_blank"}
 * [创建渠道设置](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/create-channel-set-up.html?lang=zh-Hans){target="_blank"}
