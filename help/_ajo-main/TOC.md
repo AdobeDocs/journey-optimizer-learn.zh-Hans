@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: c6f5a9c78193f6540456ff0e1062970000f832b7
+source-git-commit: d394b0e73b0606d68c19bc97e40869a4e41c4dde
 workflow-type: tm+mt
-source-wordcount: '1380'
-ht-degree: 99%
+source-wordcount: '1422'
+ht-degree: 96%
 
 ---
 
@@ -45,23 +45,25 @@ ht-degree: 99%
    + [创建测试轮廓](/help/journeys/test-a-journey.md)
    + [发布历程](/help/journeys/publish-a-journey.md)
    + [内容决策活动](/help/journeys/content-decision-activity.md)
-   + [用例 - 事务性历程](/help/journeys/use-case-transactional-journey.md)
-   + [用例 - 商业事件](/help/journeys/use-case-business-event.md)
-   + [用例 - 读取受众](/help/journeys/use-case-read-audience.md)
-   + [用例 - 受众资格筛选](/help/journeys/use-case-audience-qualification.md)
    + [掌握多属性筛选](/help/journeys/mastering-multi-attribute-filtering.md)
    + [通过历程试运行验证历程逻辑](/help/journeys/journey-dry-run.md)
    + [使用补充 ID 解锁历程重新进入](/help/journeys/unlock-journey-reentry-with-supplemental-id.md)
    + [更新实时历程中的内容](/help/journeys/update-content-in-live-journey.md)
    + [将历程复制到另一个沙盒](/help/journeys/copy-a-journey.md)
    + [在批量分段后触发每日历程运行](/help/journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
+   + [用例] {#use-cases}
+      + [用例 - 事务性历程](/help/journeys/use-case-transactional-journey.md)
+      + [用例 - 商业事件](/help/journeys/use-case-business-event.md)
+      + [用例 - 读取受众](/help/journeys/use-case-read-audience.md)
+      + [用例 - 受众资格筛选](/help/journeys/use-case-audience-qualification.md)
+   + [教程]{#tutorials}
+      + [在提交表单时触发历程](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
 + 忠诚度 {#loyalty}
    + [创建忠诚度挑战](/help/loyalty/create-a-loyalty-challenge.md)
 + 冲突管理和优先级排序 {#conflict-management}
    + [识别潜在冲突](/help/conflict-management/identify-potential-conflicts.md)
    + [分配优先级分数](/help/conflict-management/assign-priority-score.md)
    + [历程频率上限和优先级排序](/help/conflict-management/journey-frequency-capping-and-prioritization.md)
-
    + [免打扰时间](/help/business-rules/configure-and-apply-quiet-hours.md)
 + 用户档案、受众和订阅 {#profiles-audiences-subscriptions}
    + [用户档案和受众 - 概述](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
@@ -153,17 +155,22 @@ ht-degree: 99%
    + [Experimentation 代理 - 概述](/help/ai-agents/experimentation-agent-overview.md)
 + 决策功能{#decision-capabilities}
    + 决策 {#decisioning}
-      + [决策功能简介](/help/decisioning/introduction-to-decisioning.md)
-      + [端到端决策演练](/help/decisioning/decisioning-end-to-end.md)
-      + [浏览公式生成器界面](/help/decisioning/formula-builder-ui.md)
-      + [可重用规则](/help/decisioning/reusable-targeting-rules.md)
-      + [在提交表单时触发历程](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
-      + [使用实时天气数据对产品建议进行个性化设置](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
-      + [使用排名公式对产品建议进行个性化设置](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
-      + [AI 模型洞察](/help/decisioning/ai-model-insights.md)
-      + [在电子邮件渠道中使用决策功能](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
-      + [在推送通知中使用决策功能](/help/decisioning/decisioning-in-push-notifications.md)
-      + [在短信消息中使用决策功能](/help/decisioning/use-decisioning-in-an-sms-message.md)
+      + 决策基础知识 {#fundamentals}
+         + [决策功能简介](/help/decisioning/introduction-to-decisioning.md)
+         + [端到端决策演练](/help/decisioning/decisioning-end-to-end.md)
+         + [浏览公式生成器界面](/help/decisioning/formula-builder-ui.md)
+         + [可重用规则](/help/decisioning/reusable-targeting-rules.md)
+         + [使用排名公式对产品建议进行个性化设置](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
+         + [AI 模型洞察](/help/decisioning/ai-model-insights.md)
+      + 应用决策以使消息个性化 {#content-and-offers}
+         + [电子邮件中的决策简介](/help/decisioning/introduction-to-decisioning-in-emails.md)
+         + [使用Decisioning个性化电子邮件（教程）](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
+         + [在推送通知中使用决策功能](/help/decisioning/decisioning-in-push-notifications.md)
+         + [在短信消息中使用决策功能](/help/decisioning/use-decisioning-in-an-sms-message.md)
+         + [使用决策对 Web 优惠进行个性化（教程）](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
+      + 从外部触发器和交互触发决策
+         + [在提交表单时触发历程](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
+         + [使用实时天气数据个性化优惠](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
    + 决策管理 {#decision-management}
       + [决策管理简介](/help/decision-management/introduction-to-decision-management.md)
       + [决策管理功能演示](/help/decision-management/demo-of-decision-management-capabilities.md)
@@ -177,7 +184,6 @@ ht-degree: 99%
       + [创建决策](/help/decision-management/create-decisions.md)
       + [通过 Decisions API 提供产品建议](/help/decision-management/deliver-offers-with-the-decisions-api.md)
       + [频率上限](/help/decision-management/frequency-capping.md)
-   + [使用决策对 Web 优惠进行个性化（教程）](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
 + 数据管理 {#data-management}
    + [概述](/help/data-management/set-up-data-overview.md)
    + [创建架构](/help/data-management/create-schema.md)
