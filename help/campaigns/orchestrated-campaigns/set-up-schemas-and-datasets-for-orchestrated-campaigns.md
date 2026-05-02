@@ -2,19 +2,19 @@
 title: 为活动设置架构和数据集
 description: 了解如何为Adobe Journey Optimizer营销活动定义架构、摄取数据和验证数据集。 在几分钟内获得有关个性化和执行的见解。
 feature: Campaigns
-role: Data Engineer
+role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 502
 last-substantial-update: 2026-05-02T00:00:00Z
 jira: KT-20979
-source-git-commit: 0105cb737db3f7ca87302a114806fff251c11c49
+exl-id: 4ff6cf29-181e-4e43-9ad7-922bc0d93304
+source-git-commit: 5f75345cf169e36ae2f1aff577e00df5feed82df
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
 
 ---
-
 
 # 为活动设置架构和数据集
 
