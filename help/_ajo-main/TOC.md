@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: 1a5852226764c45bbcc4c7e2a9c698d3d6447e9b
+source-git-commit: 0105cb737db3f7ca87302a114806fff251c11c49
 workflow-type: tm+mt
-source-wordcount: '1422'
+source-wordcount: '1434'
 ht-degree: 96%
 
 ---
@@ -36,6 +36,8 @@ ht-degree: 96%
    + 编排的营销活动 {#orchestrated-campaigns}
       + [精心策划的营销活动简介](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
       + [关系存储基础知识](/help/campaigns/orchestrated-campaigns/relational-store-basics.md)
+      + [为编排的活动设置架构和数据集](/help/campaigns/orchestrated-campaigns/set-up-schemas-and-datasets-for-orchestrated-campaigns.md)
+      + [构建编排的营销活动](/help/campaigns/orchestrated-campaigns/build-an-orchestrated-campaign.md)
 + 历程 {#journeys}
    + [历程设计器 - 概述](/help/journeys/journey-designer-overview.md)
    + [Journey 代理 - 概述](/help/ai-agents/journey-agent-overview.md)
@@ -168,7 +170,7 @@ ht-degree: 96%
          + [在推送通知中使用决策功能](/help/decisioning/decisioning-in-push-notifications.md)
          + [在短信消息中使用决策功能](/help/decisioning/use-decisioning-in-an-sms-message.md)
          + [使用决策对 Web 优惠进行个性化（教程）](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
-      + 从外部触发器和交互触发决策 {#triggers}
+      + 从外部触发器和交互触发决策 {#trigger}
          + [在提交表单时触发历程](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
          + [使用实时天气数据个性化优惠](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
    + 决策管理 {#decision-management}
