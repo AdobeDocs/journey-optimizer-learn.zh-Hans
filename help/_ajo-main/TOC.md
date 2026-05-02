@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: 0105cb737db3f7ca87302a114806fff251c11c49
+source-git-commit: 5952c9421ea5138783bc6493a7b79c0494936b45
 workflow-type: tm+mt
 source-wordcount: '1434'
 ht-degree: 96%
@@ -164,7 +164,7 @@ ht-degree: 96%
          + [可重用规则](/help/decisioning/reusable-targeting-rules.md)
          + [使用排名公式对产品建议进行个性化设置](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
          + [AI 模型洞察](/help/decisioning/ai-model-insights.md)
-      + 应用决策以使消息个性化 {#content-and-offers}
+      + 使用Decisioning使消息个性化 {#use-decisioning}
          + [电子邮件中的决策简介](/help/decisioning/introduction-to-decisioning-in-emails.md)
          + [使用Decisioning个性化电子邮件（教程）](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
          + [在推送通知中使用决策功能](/help/decisioning/decisioning-in-push-notifications.md)
