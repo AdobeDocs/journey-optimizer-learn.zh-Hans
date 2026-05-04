@@ -7,8 +7,8 @@ role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
-workflow-type: ht
+source-git-commit: dc5c129309b9f1dfd6e392b8446b68c60111f82e
+workflow-type: tm+mt
 source-wordcount: '1154'
 ht-degree: 100%
 
@@ -117,9 +117,9 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
          * 主题行：*（收件人的名字），欢迎探索 Luma 女士系列！*
          * 电子邮件正文：`WomensCollectionEmail.html`
       * 其他客户应收到 **Luma 八折系列**&#x200B;电子邮件。
-      * 消息标题：*Luma 八折系列*
-      * 主题行：*（收件人的名字），畅享八折产品建议！*
-      * 电子邮件正文：`20OOffCollectionEmail.html`
+         * 消息标题：*Luma 八折系列*
+         * 主题行：*（收件人的名字），畅享八折产品建议！*
+         * 电子邮件正文：`20OOffCollectionEmail.html`
    1. 在发送上述有针对性的电子邮件后，等待两天时间，以等待客户打开电子邮件
    1. 如果有针对性的电子邮件未在 2 天内被客户打开，则发送 **Luma 八折系列电子邮件**&#x200B;作为最终的重定位尝试
 
@@ -201,7 +201,7 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 1. 打开第二封电子邮件，历程应该结束。
 1. 您可以为三个用户档案重复第 4 步 - 7. 以检查分支是否正常工作。
 1. 要测试超时，请将等待时间设置为 30 秒，然后再次触发该条目。
-1. 请勿打开您收到的电子邮件（请勿预览电子邮件(!)），让等待时间耗尽。
+1. 请勿打开您收到的电子邮件（请勿预览电子邮件(!)）， 让等待时间耗尽。
 
 您应会收到以下电子邮件：
 
