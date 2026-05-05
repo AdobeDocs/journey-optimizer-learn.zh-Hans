@@ -1,5 +1,5 @@
 ---
-title: 发布历程和历程状态
+title: 发布历程并了解历程状态
 description: 了解历程的不同状态以及发布的影响。
 jira: KT-7528
 thumbnail: 3424998.jpeg
@@ -10,15 +10,15 @@ role: User
 level: Beginner
 last-substantial-update: 2024-01-29T00:00:00Z
 exl-id: cf7fe165-b6eb-49f0-adb9-32d43efa43ca
-source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
-workflow-type: ht
-source-wordcount: '36'
-ht-degree: 100%
+source-git-commit: 4a615013f64252e66932a8d93d0d2cc30b005334
+workflow-type: tm+mt
+source-wordcount: '38'
+ht-degree: 63%
 
 ---
 
-# 发布历程和历程状态
+# 发布历程并了解历程状态
 
 了解历程的不同状态以及发布的影响。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427941?captions=chi_hans&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3424998?quality=12&learn=on){transcript=true}
