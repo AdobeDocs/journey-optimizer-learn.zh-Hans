@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: 1ac487c9207703fb89cbc0bd1f1b7113f2ee18e8
+source-git-commit: 26f6ddfc8a6395635038d0efdce9aa5c23122bca
 workflow-type: tm+mt
 source-wordcount: '1448'
 ht-degree: 93%
@@ -53,12 +53,12 @@ ht-degree: 93%
    + [更新实时历程中的内容](/help/journeys/update-content-in-live-journey.md)
    + [将历程复制到另一个沙盒](/help/journeys/copy-a-journey.md)
    + [在批量分段后触发每日历程运行](/help/journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
-   + [用例] {#use-cases}
+   + 用例 {#use-cases}
       + [用例 - 事务性历程](/help/journeys/use-case-transactional-journey.md)
       + [用例 - 商业事件](/help/journeys/use-case-business-event.md)
       + [用例 - 读取受众](/help/journeys/use-case-read-audience.md)
       + [用例 - 受众资格筛选](/help/journeys/use-case-audience-qualification.md)
-   + [教程]{#tutorials}
+   + 教程{#tutorials}
       + [在提交表单时触发历程](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
 + 忠诚度 {#loyalty}
    + [创建忠诚度挑战](/help/loyalty/create-a-loyalty-challenge.md)
@@ -244,7 +244,7 @@ ht-degree: 93%
 + AI助理和代理 {#ai-assistant}
    + [AI 助手](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
    + [用于内容生成的 AI 助手](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
-   + [使用Journey Agent分析和构建历程](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
+   + [使用Journey Agent分析和构建历程](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
    + [Experimentation 代理 - 概述](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
 + 用例和最佳实践{#use-cases}
    + [客户加入](/help/use-cases/customer-onboarding.md)
