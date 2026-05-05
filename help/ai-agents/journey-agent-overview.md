@@ -20,4 +20,4 @@ ht-degree: 0%
 
 了解如何使用Adobe Journey Optimizer中内置的AI支持的助手Journey Agent分析实时历程、识别受众冲突和配置文件流失，以及使用自然语言创建完整的多步历程。 在本视频中，您将了解Journey Agent如何在不离开AI助手的情况下，提供透明的见解、可操作的推荐和引导式批准，帮助您对现有历程进行故障排除并更快地构建新历程
 
->[!VIDEO](https://video.tv.adobe.com/v/3486294/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3486304/?captions=chi_hans&learn=on&enablevpops)
