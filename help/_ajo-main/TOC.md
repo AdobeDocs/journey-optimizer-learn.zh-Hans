@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: c5adf39e71b3f7cfa7d15a8fe2e77aef5d9a4cd1
+source-git-commit: 1ac487c9207703fb89cbc0bd1f1b7113f2ee18e8
 workflow-type: tm+mt
-source-wordcount: '1429'
-ht-degree: 95%
+source-wordcount: '1448'
+ht-degree: 93%
 
 ---
 
@@ -40,7 +40,7 @@ ht-degree: 95%
       + [构建编排的营销活动](/help/campaigns/orchestrated-campaigns/build-an-orchestrated-campaign.md)
 + 历程 {#journeys}
    + [历程设计器 - 概述](/help/journeys/journey-designer-overview.md)
-   + [Journey 代理 - 概述](/help/ai-agents/journey-agent-overview.md)
+   + [使用Journey Agent分析和构建历程](/help/ai-agents/journey-agent-overview.md)
    + [了解新的历程设计器](/help/journeys/new-journey-designer.md)
    + [构建历程的简介](/help/journeys/introduction-to-building-a-journey.md)
    + [在历程中使用数据集查找](/help/journeys/lookup-dataset.md)
@@ -244,7 +244,7 @@ ht-degree: 95%
 + AI助理和代理 {#ai-assistant}
    + [AI 助手](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
    + [用于内容生成的 AI 助手](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
-   + [使用Journey Agent分析和构建历程](/help/ai-agents/journey-agent-overview.md)
+   + [使用Journey Agent分析和构建历程](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
    + [Experimentation 代理 - 概述](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
 + 用例和最佳实践{#use-cases}
    + [客户加入](/help/use-cases/customer-onboarding.md)
