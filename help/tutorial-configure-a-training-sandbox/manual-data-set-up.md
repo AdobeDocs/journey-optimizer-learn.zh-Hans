@@ -340,7 +340,7 @@ ht-degree: 100%
 | **[!UICONTROL 类]** | [!UICONTROL XDM 个人资料] | [!UICONTROL XDM 体验活动] | [!UICONTROL XDM 个人资料] | [IUICONTROL XDM ExperienceEvent] |
 | **[!UICONTROL 添加现有字段组]** | `Luma Identity Profile Field Group`<br>`Demographic Details`<br>`Personal Contact Details` | `Orchestration eventID`<br>`Consumer Experience Event`<br>`AEP Web SDK ExperienceEvent` | `Luma Identity Profile Field Group`<br>`Demographic Details`<br>`Personal Contact Details`<br>`Profile test details` | `Luma Identity Profile Field Group` <br>`Commerce Details` |
 | **[!UICONTROL 关系]** |  | `productListItems.SKU`：<br>引用架构 `Luma Product Catalog Schema` <br>[!DNL Reference identity namespace] `lumaProductSKU` |  | `productListItems.SKU`：<br>引用架构 `Luma Product Catalog Schema` <br>[!DNL Reference identity namespace] `lumaProductSKU` |
-| **[!UICONTROL 主要身份][!UICONTROL 命名空间]）** | `systemIdentifier.crmId` | | `systemIdentifier.crmId` | `systemIdentifier.LoyaltyId` |
+| **[!UICONTROL 主要身份]​[!UICONTROL 命名空间]）** | `systemIdentifier.crmId` | | `systemIdentifier.crmId` | `systemIdentifier.LoyaltyId` |
 | **[!UICONTROL 为个人资料启用]** | 是 | 是 | 是 | 是 |
 
 ## 后续步骤
