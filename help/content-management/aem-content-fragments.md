@@ -10,10 +10,9 @@ duration: 144
 last-substantial-update: 2025-04-21T00:00:00Z
 jira: KT-17599
 exl-id: e404a36c-117e-492f-8f15-2a48642c9c91
-hidefromtoc: false
 hide: false
 index: true
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+source-git-commit: 22d85639209aec92b8b0d8aa22494ebe3d7195f9
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 100%
@@ -24,7 +23,7 @@ ht-degree: 100%
 
 了解 Adobe Experience Manager (AEM) 如何与 Adobe Journey Optimizer 无缝集成，以简化内容管理并确保各渠道中的品牌一致性。 了解如何创建、批准和渲染内容片段，以及轻松交换和模拟新内容。 非常适合寻求高效的内容管理和一致的品牌推广的用户。
 
->[!VIDEO](https://video.tv.adobe.com/v/3463132/?captions=chi_hans&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457691/?learn=on&enablevpops)
 
 Experience League LIVE - [借助 AEM 内容片段和 Dynamic Media 增强 Journey Optimizer 中的个性化内容设置](https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-live-recordings/episodes/exl-live-episode-07-31-25)
 

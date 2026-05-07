@@ -5,10 +5,9 @@ doc-type: Short Video
 duration: 204
 index: false
 hide: true
-hidefromtoc: true
 recommendations: noCatalog, noDisplay
 exl-id: c8c3fbd9-3678-4830-800d-33ac627283ed
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
@@ -20,4 +19,4 @@ ht-degree: 0%
 了解Adobe Journey Optimizer中的Audience Agent如何主动监控受众运行状况、识别问题并提出可操作的解决方案以增强参与。
 
 <!-- 62_S653_3442539_203_audience-agent-proactive-monitoring-and-optimization -->
->[!VIDEO](https://video.tv.adobe.com/v/3460285/?captions=chi_hans&learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3458192/?learn=on&enablevpops=true)
