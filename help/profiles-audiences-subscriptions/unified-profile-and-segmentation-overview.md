@@ -19,4 +19,4 @@ ht-degree: 100%
 
 了解如何创建统一的用户轮廓，然后根据轮廓属性构建区段，以使客户历程个性化。
 
->[!VIDEO](https://video.tv.adobe.com/v/342114?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/345506?captions=chi_hans&quality=12&learn=on){transcript=true}

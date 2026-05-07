@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解如何创建和使用表达式片段。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424587/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3438928/?captions=chi_hans&learn=on)

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解如何借助 AJO 决策引擎实现短信内容的个性化与优化。 升级短信消息，提升用户互动效果并达成业务目标。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479529/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479539/?captions=chi_hans&learn=on&enablevpops)
