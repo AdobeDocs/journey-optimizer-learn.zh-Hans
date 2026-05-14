@@ -32,4 +32,4 @@ ht-degree: 0%
 
 探索如何在Adobe Journey Optimizer Decisioning中配置优惠、收藏集和资格规则，以控制哪些客户有资格获得哪个产品优惠。
 
->[!VIDEO](https://video.tv.adobe.com/v/3491078/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3491100/?captions=chi_hans&learn=on&enablevpops)
