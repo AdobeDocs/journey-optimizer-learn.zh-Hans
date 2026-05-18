@@ -34,4 +34,4 @@ ht-degree: 100%
 
 了解如何测试和报告频率规则。 了解如何确定将为消息继承哪些频率规则。
 
->[!VIDEO](https://video.tv.adobe.com/v/344451?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411120?captions=chi_hans&quality=12&learn=on){transcript=true}
