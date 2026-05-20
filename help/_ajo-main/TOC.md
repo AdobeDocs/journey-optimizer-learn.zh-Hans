@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
+source-git-commit: 1c3f167bb1a734802d705ebce7ca3f9833b9ca5a
 workflow-type: tm+mt
-source-wordcount: '1448'
+source-wordcount: '1453'
 ht-degree: 91%
 
 ---
@@ -53,6 +53,7 @@ ht-degree: 91%
    + [更新实时历程中的内容](/help/journeys/update-content-in-live-journey.md)
    + [将历程复制到另一个沙盒](/help/journeys/copy-a-journey.md)
    + [在批量分段后触发每日历程运行](/help/journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
+   + [将历程节点另存为片段](/help/journeys/journey-fragments.md)
    + 用例 {#use-cases}
       + [用例 - 事务性历程](/help/journeys/use-case-transactional-journey.md)
       + [用例 - 商业事件](/help/journeys/use-case-business-event.md)
