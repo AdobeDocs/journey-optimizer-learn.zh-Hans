@@ -30,4 +30,4 @@ ht-degree: 0%
 
 了解如何在Adobe Journey Optimizer中创建可重用的旅程片段。 此功能允许用户将一组历程节点另存为片段，以便在其他历程中快速重用。 通过使用片段，您可以节省时间、简化工作流并确保多个历程之间的一致性。 观看嵌入式视频，了解详细的演练和实际示例。
 
->[!VIDEO](https://video.tv.adobe.com/v/3491387/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3491397/?captions=chi_hans&learn=on&enablevpops)
