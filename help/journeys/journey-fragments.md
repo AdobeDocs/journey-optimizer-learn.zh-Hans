@@ -18,7 +18,7 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 84eae8147c58bd7ccb4a61cbdfcf7eaf336d114e
+source-git-commit: 3defd5900b460509d7dd859aab09d32778db5551
 workflow-type: tm+mt
 source-wordcount: 84
 ht-degree: 0%
@@ -31,3 +31,4 @@ ht-degree: 0%
 了解如何在Adobe Journey Optimizer中创建可重用的旅程片段。 此功能允许用户将一组历程节点另存为片段，以便在其他历程中快速重用。 通过使用片段，您可以节省时间、简化工作流并确保多个历程之间的一致性。 观看嵌入式视频，了解详细的演练和实际示例。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491397/?captions=chi_hans&learn=on&enablevpops)
+
