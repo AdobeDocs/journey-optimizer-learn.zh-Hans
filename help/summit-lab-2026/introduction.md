@@ -35,6 +35,6 @@ ht-degree: 0%
 
 在五个练习中，您将学习如何使用Adobe Journey Optimizer为SecurFinancial构建决策系统。 您可以配置逻辑，以根据客户的财务档案和实时操作确定最适合每位客户的产品选件，然后通过Web横幅和短信以一致方式部署该逻辑。
 
->[!VIDEO](https://video.tv.adobe.com/v/3489058/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3489068/?captions=chi_hans&learn=on&enablevpops)
 
 在[此处](https://adobelabs.dev/developers/l610/)查看工作簿。
