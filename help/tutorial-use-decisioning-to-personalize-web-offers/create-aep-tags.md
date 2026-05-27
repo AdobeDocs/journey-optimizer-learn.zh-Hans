@@ -9,9 +9,9 @@ last-substantial-update: 2025-05-05T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-17923
 exl-id: 6823ce13-bc77-4e2b-89e0-606e403c15f2
-source-git-commit: 82d82b3aac2bf91e259b01fd8c6b4d6065f9640a
+source-git-commit: 9f82d07711a4f29eda7dcf0e887ca31ccbb6099f
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ Experience Platform标记中的ECID数据元素仅用于调试和测试目的。
 
 构建和发布Adobe Experience Platform标记。
 
-发布AEP Tags属性时，Adobe会为您提供一个必须放置在HTML ``` <head>```中或``` <body>```标记底部的脚本标记。
+发布AEP Tags属性时，Adobe会为您提供一个必须放置在HTML `<head>`中或`<body>`标记底部的脚本标记。
 
 1. 转到标记（ECID服务）资产。
 
@@ -52,4 +52,4 @@ Experience Platform标记中的ECID数据元素仅用于调试和测试目的。
 
 1. 记下嵌入的代码。
 
-   此代码需要置于HTML页面中结束```</body>```标记的前面。
+   此代码需要放置在HTML页面中的结束`</body>`标记之前。
