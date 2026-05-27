@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: 1c3f167bb1a734802d705ebce7ca3f9833b9ca5a
+source-git-commit: debae556440c9bd902b0adb7590db960f42b3bf2
 workflow-type: tm+mt
-source-wordcount: '1453'
+source-wordcount: '1459'
 ht-degree: 91%
 
 ---
@@ -247,6 +247,7 @@ ht-degree: 91%
    + [用于内容生成的 AI 助手](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
    + [使用Journey Agent分析和构建历程](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
    + [Experimentation 代理 - 概述](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
+   + [使用Adobe Marketing Agent计划受众](/help/ai-agents/plan-audiences-using-adobe-marketing-agent.md)
 + 用例和最佳实践{#use-cases}
    + [客户加入](/help/use-cases/customer-onboarding.md)
    + [放弃购物车](/help/use-cases/abandoned-cart.md)

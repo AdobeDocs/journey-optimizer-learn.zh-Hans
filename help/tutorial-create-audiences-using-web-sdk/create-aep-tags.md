@@ -9,16 +9,16 @@ last-substantial-update: 2025-04-30T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-17923
 exl-id: 244fcb09-3b16-4e3b-b335-4e84bc93095e
-source-git-commit: 40690024e5348dd3ac05f350e49a67a99d5e455e
+source-git-commit: 9f82d07711a4f29eda7dcf0e887ca31ccbb6099f
 workflow-type: tm+mt
-source-wordcount: '496'
-ht-degree: 3%
+source-wordcount: '514'
+ht-degree: 2%
 
 ---
 
 # 创建Adobe Experience Platform标记
 
-Adobe Experience Platform Tags(以前称为Adobe Launch)可帮助在您的网站上管理和部署*营销和分析技术，而无需更改网站的代码。
+Adobe Experience Platform Tags（以前称为Adobe Launch）可帮助在您的网站上管理和部署*营销和分析技术，而无需更改网站的代码。
 
 此[视频介绍了创建Adobe Experience Tags的过程](https://experienceleague.adobe.com/zh-hans/playlists/experience-platform-get-started-with-tags)
 
@@ -80,14 +80,17 @@ return window.adobeDataLayer
 
 
 * 创建名为选定的首选资源类的事件配置，如下所示。 此事件侦听assetClassSelection事件。
-  ![规则事件](assets/rule-event.png)
+
+![规则事件](assets/rule-event.png)
 
 
 * 创建操作以将更新后的XDM架构发送到AEP
-  ![发送事件](assets/rule-send-event.png)
+
+![发送事件](assets/rule-send-event.png)
 
 * 您的最终规则应如下所示
-  ![最终规则](assets/final-rule.png)
+
+![最终规则](assets/final-rule.png)
 
 ## 构建和部署AEP标记
 
@@ -108,7 +111,7 @@ return window.adobeDataLayer
 
 ## 在HTML页面中包含AEP标记
 
-当您发布AEP Tags属性时，Adobe会为您提供一个必须放置在HTML ``` <head>```中或``` <body>```标记底部的脚本标记。
+当您发布AEP Tags属性时，Adobe会为您提供一个必须放置在HTML ` <head>`中或`<body>`标记底部的脚本标记。
 
 * 转到Tags(Financial Advisors)资产。
 
