@@ -37,5 +37,5 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491171/?learn=on&enablevpops)
 
-有关如何开始使用的详细信息，请观看[Adobe Marketing Agent for Microsoft 365 Copilot入门](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/adobe-marketing-agent/adobe-marketing-agent-get-started){target="_blank"}。
-要查看营销人员如何使用Adobe Marketing Agent for Microsoft 365 Copilot规划营销活动、审查绩效和监控活动内历程，请使用Adobe Marketing Agent for Microsoft 365 Copilot观看[营销工作流](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/adobe-marketing-agent/adobe-marketing-agent-workflows){target="_blank"}。
+有关如何开始使用的详细信息，请观看[Adobe Marketing Agent for Microsoft 365 Copilot入门](https://experienceleague.adobe.com/zh-hans/docs/platform-learn/tutorials/ai-assistant/adobe-marketing-agent/adobe-marketing-agent-get-started){target="_blank"}。
+要查看营销人员如何使用Adobe Marketing Agent for Microsoft 365 Copilot规划营销活动、审查绩效和监控活动内历程，请使用Adobe Marketing Agent for Microsoft 365 Copilot观看[营销工作流](https://experienceleague.adobe.com/zh-hans/docs/platform-learn/tutorials/ai-assistant/adobe-marketing-agent/adobe-marketing-agent-workflows){target="_blank"}。
