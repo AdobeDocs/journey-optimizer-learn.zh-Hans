@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: debae556440c9bd902b0adb7590db960f42b3bf2
+source-git-commit: a69447a58313dc109ea82d6af2746341aff90b8b
 workflow-type: tm+mt
-source-wordcount: '1459'
-ht-degree: 91%
+source-wordcount: '1468'
+ht-degree: 90%
 
 ---
 
@@ -48,6 +48,7 @@ ht-degree: 91%
    + [发布历程](/help/journeys/publish-a-journey.md)
    + [内容决策活动](/help/journeys/content-decision-activity.md)
    + [掌握多属性筛选](/help/journeys/mastering-multi-attribute-filtering.md)
+   + [在历程中对联合受众使用多实体定位](/help/journeys/multi-entity-targeting-in-journeys.md)
    + [通过历程试运行验证历程逻辑](/help/journeys/journey-dry-run.md)
    + [使用补充 ID 解锁历程重新进入](/help/journeys/unlock-journey-reentry-with-supplemental-id.md)
    + [更新实时历程中的内容](/help/journeys/update-content-in-live-journey.md)
@@ -75,7 +76,7 @@ ht-degree: 91%
    + [通过上传 CSV 文件创建受众。](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
    + [使用 Web SDK 创建受众（教程）](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
    + [按需评估受众](https://experienceleague.adobe.com/zh-hans/docs/platform-learn/tutorials/audiences/audience-builder/evaluate-audiences-on-demand)
-   + [订阅和登陆页面](/help/subscriptions-and-landing-pages.md)
+   + [订阅和登陆页面](/help/profiles-audiences-subscriptions/subscriptions-and-landing-pages.md)
 + 渠道 {#channels}
    + [移动应用程序优化 - 概述](/help/channels/mobile-app-optimization-overview.md)
    + 基于代码的体验渠道{#code-based-experience-channel}
@@ -268,5 +269,3 @@ ht-degree: 91%
       + [在 Adobe Journey Optimizer (2025) 中将编排扩展到全渠道参与](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + 实时会话和深入探讨 {#live-sessions-and-deep-dives}
    + [Experience League Live 节目录像](/help/_ajo-main/experience-league-live-show-recordings.md)
-
-
