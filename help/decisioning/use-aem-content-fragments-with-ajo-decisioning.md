@@ -34,4 +34,4 @@ ht-degree: 0%
 
 了解如何将Adobe Experience Manager内容片段与Adobe历程结合使用，以个性化和优化敏捷通信中的内容。
 
->[!VIDEO](https://video.tv.adobe.com/v/3492215/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3492223/?captions=chi_hans&learn=on&enablevpops)
