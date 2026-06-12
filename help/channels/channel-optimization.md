@@ -39,4 +39,4 @@ ht-degree: 2%
 
 了解Adobe Journey Optimizer的渠道优化功能如何使用手动优先级、用户档案属性或Adobe的AI模型，通过最有效的渠道帮助您触及客户，以使您的消息触及每个客户最有可能参与的地方。
 
->[!VIDEO](https://video.tv.adobe.com/v/3492132/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3492140/?captions=chi_hans&learn=on&enablevpops)
