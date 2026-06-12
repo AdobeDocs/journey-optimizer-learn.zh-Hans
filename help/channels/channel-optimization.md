@@ -1,6 +1,6 @@
 ---
 title: 根据用户档案偏好或倾向分数优化渠道
-description: 了解Adobe Journey Optimizer的渠道优化功能如何帮助您通过最有效的渠道接触到客户（无论是通过手动优先级、用户档案属性还是Adobe的AI模型），确保将您的消息交付到每个客户最有可能参与的地方。
+description: 了解Adobe Journey Optimizer的渠道优化功能如何使用手动优先级、用户档案属性或Adobe的AI模型，通过最有效的渠道帮助您触及客户，以使您的消息触及每个客户最有可能参与的地方。
 feature: Channels
 role: Developer
 level: Beginner, Intermediate, Experienced
@@ -25,9 +25,9 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-source-git-commit: df7a7efd87137cd9bca0e3efca39f12a18b7990c
+source-git-commit: 19b32f3289b422a3fa778b0af07319be1b032287
 workflow-type: tm+mt
-source-wordcount: 100
+source-wordcount: 96
 ht-degree: 2%
 
 ---
@@ -37,6 +37,6 @@ ht-degree: 2%
 
 {{limited-availability}}
 
-了解Adobe Journey Optimizer的渠道优化功能如何帮助您通过最有效的渠道接触到客户（无论是通过手动优先级、用户档案属性还是Adobe的AI模型），确保将您的消息交付到每个客户最有可能参与的地方。
+了解Adobe Journey Optimizer的渠道优化功能如何使用手动优先级、用户档案属性或Adobe的AI模型，通过最有效的渠道帮助您触及客户，以使您的消息触及每个客户最有可能参与的地方。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492140/?captions=chi_hans&learn=on&enablevpops)
