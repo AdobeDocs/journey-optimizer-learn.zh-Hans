@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: 19b32f3289b422a3fa778b0af07319be1b032287
+source-git-commit: 3bd73234af9246e6ea0b7c3cf3b18aad5389d2ac
 workflow-type: tm+mt
 source-wordcount: '1484'
 ht-degree: 89%
@@ -142,7 +142,7 @@ ht-degree: 89%
       + [用于内容生成的 AI 助手 - 概述](/help/content-management/ai-assistant-for-content-generation-overview.md)
       + [借助用于内容生成的 AI 助手创建内容](/help/content-management/create-content-using-ai-assistant-for-content-generation.md)
       + [品牌指南的创建和管理](/help/content-management/brand-guideline-creation-and-management.md)
-   + {hide-from-toc}[根据用户档案偏好设置或倾向分数优化渠道](/help/channels/channel-optimization.md)
+   + [根据用户档案偏好或倾向分数优化渠道](/help/channels/channel-optimization.md)
    + [使用 GenStudio 创建电子邮件](/help/content-management/create-an-email-using-genstudio.md)
    + [在渠道创作中启用外部数据集成](/help/content-management/external-data-integrations-in-channel-authoring.md)
 + 个性化内容 {#personalize-content}
