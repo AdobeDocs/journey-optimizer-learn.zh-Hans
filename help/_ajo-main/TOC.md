@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 3bd73234af9246e6ea0b7c3cf3b18aad5389d2ac
 workflow-type: tm+mt
 source-wordcount: '1484'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -36,19 +36,19 @@ ht-degree: 89%
    + 编排的营销活动 {#orchestrated-campaigns}
       + [精心策划的营销活动简介](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
       + [关系存储基础知识](/help/campaigns/orchestrated-campaigns/relational-store-basics.md)
-      + [为编排的活动设置架构和数据集](/help/campaigns/orchestrated-campaigns/set-up-schemas-and-datasets-for-orchestrated-campaigns.md)
-      + [构建编排的营销活动](/help/campaigns/orchestrated-campaigns/build-an-orchestrated-campaign.md)
+      + [为精心策划的营销活动设置架构和数据集](/help/campaigns/orchestrated-campaigns/set-up-schemas-and-datasets-for-orchestrated-campaigns.md)
+      + [构建精心策划的营销活动](/help/campaigns/orchestrated-campaigns/build-an-orchestrated-campaign.md)
 + 历程 {#journeys}
    + [历程设计器 - 概述](/help/journeys/journey-designer-overview.md)
-   + [使用Journey Agent分析和构建历程](/help/ai-agents/journey-agent-overview.md)
-   + {hide-from-toc}[发现新Designer](/help/journeys/new-journey-designer.md)
+   + [使用 Journey Agent 分析和构建历程](/help/ai-agents/journey-agent-overview.md)
+   + {hide-from-toc}[了解新的历程设计器](/help/journeys/new-journey-designer.md)
    + [构建历程的简介](/help/journeys/introduction-to-building-a-journey.md)
    + [在历程中使用数据集查找](/help/journeys/lookup-dataset.md)
    + [创建测试轮廓](/help/journeys/test-a-journey.md)
    + [发布历程](/help/journeys/publish-a-journey.md)
    + [内容决策活动](/help/journeys/content-decision-activity.md)
    + [掌握多属性筛选](/help/journeys/mastering-multi-attribute-filtering.md)
-   + [在历程中对联合受众使用多实体定位](/help/journeys/multi-entity-targeting-in-journeys.md)
+   + [在历程中使用联合受众进行多实体定位](/help/journeys/multi-entity-targeting-in-journeys.md)
    + [通过历程试运行验证历程逻辑](/help/journeys/journey-dry-run.md)
    + [使用补充 ID 解锁历程重新进入](/help/journeys/unlock-journey-reentry-with-supplemental-id.md)
    + [更新实时历程中的内容](/help/journeys/update-content-in-live-journey.md)
@@ -71,7 +71,7 @@ ht-degree: 89%
    + [免打扰时间](/help/business-rules/configure-and-apply-quiet-hours.md)
 + 用户档案、受众和订阅 {#profiles-audiences-subscriptions}
    + [用户档案和受众 - 概述](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
-   + {hide-from-toc}[统一的用户档案和分段 — 概述](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
+   + {hide-from-toc}[统一的轮廓和分段 - 概述](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [使用规则生成器创建受众](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [通过上传 CSV 文件创建受众。](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
    + [使用 Web SDK 创建受众（教程）](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
@@ -117,7 +117,7 @@ ht-degree: 89%
       + [创建 Web 营销活动](/help/channels/author-a-web-campaign.md)
       + [Web 编辑器中的 SPA 支持](/help/channels/singel-page-application-support.md)
    + WhatsApp {#whatsapp}
-      + {hide-from-toc}[开始使用WhatsApp（端到端）](/help/channels/get-started-with-whatsapp-in-ajo.md)
+      + {hide-from-toc}[WhatsApp 快速入门（端到端）](/help/channels/get-started-with-whatsapp-in-ajo.md)
       + [WhatsApp 渠道简介](/help/channels/whatsapp-introduction.md)
       + [设置 WhatsApp 频道](/help/channels/set-up-whatsapp.md)
       + [创建 WhatsApp 历程](/help/channels/create-a-whatsapp-journey.md)
@@ -167,16 +167,16 @@ ht-degree: 89%
          + [可重用规则](/help/decisioning/reusable-targeting-rules.md)
          + [使用排名公式对产品建议进行个性化设置](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
          + [AI 模型洞察](/help/decisioning/ai-model-insights.md)
-      + 使用Decisioning使消息个性化 {#use-decisioning}
-         + [电子邮件中的决策简介](/help/decisioning/introduction-to-decisioning-in-emails.md)
-         + [使用Decisioning个性化电子邮件（教程）](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction){target="_blank"}
+      + 使用决策功能个性化消息 {#use-decisioning}
+         + [电子邮件决策功能简介](/help/decisioning/introduction-to-decisioning-in-emails.md)
+         + [使用决策功能对电子邮件进行个性化（教程）](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction){target="_blank"}
          + [在推送通知中使用决策功能](/help/decisioning/decisioning-in-push-notifications.md)
          + [在短信消息中使用决策功能](/help/decisioning/use-decisioning-in-an-sms-message.md)
          + [使用决策对 Web 优惠进行个性化（教程）](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
-         + [在Decisioning中使用Experience Manager内容片段](/help/decisioning/use-aem-content-fragments-with-ajo-decisioning.md)
+         + [将 Experience Manager 内容片段与 Decisioning 结合使用](/help/decisioning/use-aem-content-fragments-with-ajo-decisioning.md)
       + 从外部触发器和交互触发决策 {#trigger}
          + [在提交表单时触发历程](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction){target="_blank"}
-         + [使用实时天气数据个性化优惠](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
+         + [使用实时天气数据对产品建议进行个性化设置](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
    + 决策管理 {#decision-management}
       + [决策管理简介](/help/decision-management/introduction-to-decision-management.md)
       + [决策管理功能演示](/help/decision-management/demo-of-decision-management-capabilities.md)
@@ -234,7 +234,7 @@ ht-degree: 89%
    + 业务规则 {#business-rules}
       + [配置频率上限规则](/help/business-rules/configure-frequency-capping-rules.md)
       + [使用规则集](/help/business-rules/work-with-rule-sets.md)
-      + {hide-from-toc}[测试并报告频率规则](/help/business-rules/test-and-report-on-frequency-rules.md)
+      + {hide-from-toc}[测试和报告频率规则](/help/business-rules/test-and-report-on-frequency-rules.md)
 + 访问控制 {#access-control}
    + {hide-from-toc}[访问管理](/help/set-up-access/access-management.md)
    + [配置基于属性的访问控制](/help/administration/attribute-based-access-control.md)
@@ -245,12 +245,12 @@ ht-degree: 89%
    + [创建数据使用策略](/help/privacy/create-data-usage-policies.md)
    + [在 Journey Optimizer 渠道中实施数据使用策略](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [屏蔽消息中的数据](/help/privacy/mask-data-in-messages.md)
-+ AI助理和代理 {#ai-assistant}
++ AI 助手和代理 {#ai-assistant}
    + [AI 助手](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
    + [用于内容生成的 AI 助手](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
-   + [使用Journey Agent分析和构建历程](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
+   + [使用 Journey Agent 分析和构建历程](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=zh-Hans)
    + [Experimentation 代理 - 概述](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
-   + [使用Adobe Marketing Agent计划受众](/help/ai-agents/plan-audiences-using-adobe-marketing-agent.md)
+   + [使用 Adobe Marketing Agent 规划受众](/help/ai-agents/plan-audiences-using-adobe-marketing-agent.md)
 + 用例和最佳实践{#use-cases}
    + [客户加入](/help/use-cases/customer-onboarding.md)
    + [放弃购物车](/help/use-cases/abandoned-cart.md)
