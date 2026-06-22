@@ -34,4 +34,4 @@ ht-degree: 100%
 
 了解如何将 Adobe Experience Manager 内容片段与 Adobe Journey 结合使用，以个性化和优化敏捷通信中的内容。
 
->[!VIDEO](https://video.tv.adobe.com/v/3492215/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3492223/?captions=chi_hans&learn=on&enablevpops)

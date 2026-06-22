@@ -24,4 +24,4 @@ ht-degree: 100%
 
 这一功能强大的工具增强了客户参与度并带来了有影响力的业务成果。观看嵌入式视频以了解详细演练。
 
->[!VIDEO](https://video.tv.adobe.com/v/3486201/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3486211/?captions=chi_hans&learn=on&enablevpops)
