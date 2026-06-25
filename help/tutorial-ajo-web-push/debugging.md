@@ -20,7 +20,7 @@ ht-degree: 2%
 本页提供了调试Web推送通知流的有用提示，包括验证Web SDK请求、在AEP中检查ECID和用户配置文件，以及确保正确发送和接收price.drop等事件。
 
 - **使用Adobe Experience Platform Debugger （Chrome扩展）**\
-  安装适用于Chrome](https://chrome.google.com/webstore/detail/adobe-experience-platform/bfnnokhpnncpkdmbokanobigaccjkpob)的[AEP Debugger扩展以更轻松地检查Web SDK活动：
+  安装适用于Chrome[&#128279;](https://chrome.google.com/webstore/detail/adobe-experience-platform/bfnnokhpnncpkdmbokanobigaccjkpob)的AEP Debugger扩展以更轻松地检查Web SDK活动：
 
 此工具允许您：
  — 查看Web SDK请求和响应\
