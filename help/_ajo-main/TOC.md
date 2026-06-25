@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: a734b1fca9bae1ed8252e5493ca410ef6665a827
+source-git-commit: 776a68854ccfb6b0f170d1f984e89809493a9fef
 workflow-type: tm+mt
-source-wordcount: '1490'
-ht-degree: 99%
+source-wordcount: '1507'
+ht-degree: 98%
 
 ---
 
@@ -106,6 +106,7 @@ ht-degree: 99%
       + [推送通知 - 概述](/help/channels/push-notifications-overview.md)
       + [配置和发送推送营销活动](/help/channels/create-a-push-campaign.md)
       + [创建 Web 推送通知](/help/channels/create-web-push-notifications.md)
+      + [Web推送端到端教程](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/ajo-web-push/introduction)
    + 短信/彩信渠道{#sms-channel}
       + [短信/彩信消息 - 概述](/help/channels/sms-mms-messages-overview.md)
       + [配置、创作和投放短信消息](/help/channels/author-sms-messages.md)
