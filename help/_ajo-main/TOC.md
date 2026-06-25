@@ -106,7 +106,7 @@ ht-degree: 98%
       + [推送通知 - 概述](/help/channels/push-notifications-overview.md)
       + [配置和发送推送营销活动](/help/channels/create-a-push-campaign.md)
       + [创建 Web 推送通知](/help/channels/create-web-push-notifications.md)
-      + [Web推送端到端教程](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/ajo-web-push/introduction)
+      + [Web推送端到端教程](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/ajo-web-push/introduction)
    + 短信/彩信渠道{#sms-channel}
       + [短信/彩信消息 - 概述](/help/channels/sms-mms-messages-overview.md)
       + [配置、创作和投放短信消息](/help/channels/author-sms-messages.md)
