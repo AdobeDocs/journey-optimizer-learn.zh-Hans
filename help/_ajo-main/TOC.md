@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: 776a68854ccfb6b0f170d1f984e89809493a9fef
+source-git-commit: 6d5c21692c9761d3259bb106063239a310f4de6f
 workflow-type: tm+mt
 source-wordcount: '1507'
 ht-degree: 98%
@@ -106,7 +106,7 @@ ht-degree: 98%
       + [推送通知 - 概述](/help/channels/push-notifications-overview.md)
       + [配置和发送推送营销活动](/help/channels/create-a-push-campaign.md)
       + [创建 Web 推送通知](/help/channels/create-web-push-notifications.md)
-      + [Web推送端到端教程](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/ajo-web-push/introduction)
+      + [Web推送端到端教程](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/ajo-web-push/introduction)
    + 短信/彩信渠道{#sms-channel}
       + [短信/彩信消息 - 概述](/help/channels/sms-mms-messages-overview.md)
       + [配置、创作和投放短信消息](/help/channels/author-sms-messages.md)
@@ -272,4 +272,4 @@ ht-degree: 98%
       + [使用 Adobe Journey Optimizer (2024) 构建个性化的移动体验](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
       + [在 Adobe Journey Optimizer (2025) 中将编排扩展到全渠道参与](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + 实时会话和深入探讨 {#live-sessions-and-deep-dives}
-   + [Experience League Live 节目录像](/help/_ajo-main/experience-league-live-show-recordings.md)
+   + [Experience League LIVE 节目录像](/help/_ajo-main/experience-league-live-show-recordings.md)
