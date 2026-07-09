@@ -21,4 +21,4 @@ ht-degree: 0%
 
 了解如何使用AI支持的工具评估和改进内容质量，同时保持强大的品牌一致性。此概述展示了如何将品牌指南应用于生成的和手动创建的内容。 您还将看到如何自动进行质量检查并识别在书写风格和视觉元素方面的改进机会。 最后，了解如何使用实时评分和可操作的推荐来保持每个资产的合规性、一致性和可投放性。
 
->[!VIDEO](https://video.tv.adobe.com/v/3494636/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3494653/?captions=chi_hans&learn=on&enablevpops)

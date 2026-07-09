@@ -23,4 +23,4 @@ ht-degree: 0%
 
 本视频说明如何直接在工作流中生成信息图形、添加叠加和优化图像。 您还将看到如何利用集成来扩展编辑功能。 然后，学习如何应用品牌元素（如徽标、颜色和字体），并在工具之间无缝移动以保持一致性和控制。 这可确保从创建到最终设计，每个可视资产都与您的品牌标识保持一致。
 
->[!VIDEO](https://video.tv.adobe.com/v/3494537/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3494644/?captions=chi_hans&learn=on&enablevpops)

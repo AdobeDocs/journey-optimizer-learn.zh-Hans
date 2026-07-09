@@ -21,4 +21,4 @@ ht-degree: 0%
 
 此视频演示如何从模板开始、应用品牌指南，以及如何使用简单的提示从头开始创建电子邮件、推送通知和应用程序内消息。 您还将看到如何使用人工智能驱动的变体和评分来优化语气、图像和消息。 这有助于您在全渠道体验中快速生成高质量、一致的内容。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434635/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3434645/?captions=chi_hans&learn=on&enablevpops)
