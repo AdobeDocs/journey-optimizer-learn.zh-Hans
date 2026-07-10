@@ -1,6 +1,6 @@
 ---
-title: 在Journey Optimizer中使用AEM内容片段(Managed Services)
-description: 了解如何在Journey Optimizer中配置并使用Adobe Experience Manager (AEM) Managed Services集成，将内容片段集成到创作工作流中。 本教程将指导您设置存储库连接、使用Content Advisor验证配置以及直接在个性化编辑器中选择内容片段，从而使营销人员能够在其营销活动中有效重复使用和预览AEM内容。
+title: 在 Journey Optimizer 中使用 AEM 内容片段 (Managed Services)
+description: 了解如何在 Journey Optimizer 中配置并使用 Adobe Experience Manager (AEM) Managed Services 集成，将内容片段集成到创作工作流中。本教程将指导您设置存储库连接、使用 Content Advisor 验证配置以及直接在个性化编辑器中选择内容片段，从而使营销人员能够在其营销活动中有效重复使用和预览 AEM 内容。
 feature: Integrations, Fragments
 topic: Content Management, Integrations
 role: User
@@ -22,16 +22,16 @@ subfeature_v2:
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: a734b1fca9bae1ed8252e5493ca410ef6665a827
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 136
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 在Journey Optimizer中使用AEM内容片段(Managed Services)
+# 在 Journey Optimizer 中使用 AEM 内容片段 (Managed Services)
 
-了解如何在Journey Optimizer中配置并使用Adobe Experience Manager (AEM) Managed Services集成，将内容片段集成到创作工作流中。
+了解如何在 Journey Optimizer 中配置并使用 Adobe Experience Manager (AEM) Managed Services 集成，将内容片段集成到创作工作流中。
 
-本教程将指导您设置存储库连接、使用Content Advisor验证配置以及直接在个性化编辑器中选择内容片段，从而使营销人员能够在其营销活动中有效重复使用和预览AEM内容。
+本教程将指导您设置存储库连接、使用 Content Advisor 验证配置以及直接在个性化编辑器中选择内容片段，从而使营销人员能够在其营销活动中有效重复使用和预览 AEM 内容。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492537/?captions=chi_hans&learn=on&enablevpops)
