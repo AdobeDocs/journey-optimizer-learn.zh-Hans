@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: 6d5c21692c9761d3259bb106063239a310f4de6f
-workflow-type: ht
-source-wordcount: '1507'
-ht-degree: 100%
+source-git-commit: 0069f593c0a73f0d7b25421cfd5fb72c99032110
+workflow-type: tm+mt
+source-wordcount: '1527'
+ht-degree: 98%
 
 ---
 
@@ -147,6 +147,7 @@ ht-degree: 100%
    + [根据轮廓偏好或倾向分数优化渠道](/help/channels/channel-optimization.md)
    + [使用 GenStudio 创建电子邮件](/help/content-management/create-an-email-using-genstudio.md)
    + [在渠道创作中启用外部数据集成](/help/content-management/external-data-integrations-in-channel-authoring.md)
+   + [在Journey Optimizer中创建品牌上内容 — 教程](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-on-brand-content/overview)
 + 个性化内容 {#personalize-content}
    + [个性化编辑器 - 概述](/help/personalize-content/personalization-editor-overview.md)
    + [根据轮廓和受众会员资格进行个性化](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
