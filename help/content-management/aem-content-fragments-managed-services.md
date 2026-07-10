@@ -34,4 +34,4 @@ ht-degree: 100%
 
 本教程将指导您设置存储库连接、使用 Content Advisor 验证配置以及直接在个性化编辑器中选择内容片段，从而使营销人员能够在其营销活动中有效重复使用和预览 AEM 内容。
 
->[!VIDEO](https://video.tv.adobe.com/v/3492529/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3492537/?captions=chi_hans&learn=on&enablevpops)
