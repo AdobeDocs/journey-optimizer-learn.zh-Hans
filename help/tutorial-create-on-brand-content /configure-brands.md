@@ -21,4 +21,4 @@ ht-degree: 0%
 
 本视频介绍如何上传品牌准则文档、构建关键品牌元素以及定义书写样式、可视内容和身份详细信息。 您还会看到如何优化和自定义这些准则以支持AI生成的内容和自动质量检查，从而确保每个渠道之间一致、品牌上的通信。
 
->[!VIDEO](https://video.tv.adobe.com/v/3494292/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3494375/?captions=chi_hans&learn=on)

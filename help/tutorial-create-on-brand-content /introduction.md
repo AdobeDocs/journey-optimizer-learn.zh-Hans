@@ -20,4 +20,4 @@ ht-degree: 2%
 
 此简介介绍AI支持的工具如何帮助您使用模板、提示和参考内容生成电子邮件内容、应用品牌指南和扩展个性化。 您还会看到AI功能如何支持内容生成和质量保证，从而确保您的消息传送从一开始就与您的品牌保持一致、符合要求并与之保持一致。
 
->[!VIDEO](https://video.tv.adobe.com/v/3494282/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3494366/?captions=chi_hans&learn=on)

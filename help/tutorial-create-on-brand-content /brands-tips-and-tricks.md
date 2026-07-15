@@ -21,4 +21,4 @@ ht-degree: 0%
 
 探索实用技巧，将品牌指南从Journey Optimizer扩展到GenStudio和Adobe Express等工具，同时优化编写样式、视觉元素和AI辅助输出。 此视频还将介绍如何创建详细的品牌规范，使用示例指导内容生成，以及管理多个品牌以支持不同的团队和通信策略。
 
->[!VIDEO](https://video.tv.adobe.com/v/3494272/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3494290/?captions=chi_hans&learn=on)
