@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: 0069f593c0a73f0d7b25421cfd5fb72c99032110
+source-git-commit: 07ded5be8302aeb2df77ecafb8f1bfdd747702a1
 workflow-type: tm+mt
-source-wordcount: '1527'
-ht-degree: 98%
+source-wordcount: '1546'
+ht-degree: 97%
 
 ---
 
@@ -92,6 +92,7 @@ ht-degree: 98%
       + [使用电子邮件设计器创建内容](/help/channels/create-content-with-the-email-designer.md)
       + [导入和编辑 HTML 电子邮件内容](/help/channels/import-and-author-html-email-content.md)
       + [预览、校对和发布](/help/channels/preview-proof-and-publish.md)
+      + [AI支持的品牌内内容创建 — 教程](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/create-on-brand-content/overview)
    + 内容卡{#content-cards}
       + [创建内容卡](/help/channels/create-content-cards.md)
    + 应用程序内渠道{#in-app-channel}
