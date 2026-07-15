@@ -6,9 +6,9 @@ level: Intermediate
 breadcrumb-title: create-on — 品牌内容
 breadcrumb-url: /docs/journey-optimizer-learn/create-on-brand-content/overview
 auto-video-transcripts: true
-source-git-commit: 8b1bcb574398f3d904ab0aefd26e6267d247b15d
+source-git-commit: 2f53d4498236daab8f982aff4aa5211d70c6f4aa
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 + 简介和品牌设置 {#introduction-and-brand-setup}
    + [使用AI创建品牌上电子邮件内容](./introduction.md)
    + [为AI支持的内容配置品牌](./configure-brands.md)
-   + [品牌指南提示](./brands-tips-and-tricks.md)
+   + [跨创意工具扩展品牌指南](./brands-tips-and-tricks.md)
 + 使用人工智能生成内容 {#generate-content}
    + [从头开始创建内容](./create-content-from-scratch.md)
    + [编辑和个性化部分内容](./edit-and-personalize-section-content.md)
