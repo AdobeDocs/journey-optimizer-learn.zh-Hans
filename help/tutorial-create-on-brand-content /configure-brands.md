@@ -21,4 +21,4 @@ ht-degree: 0%
 
 您将了解如何在Adobe Journey Optimizer中创建和配置人工智能功能用于生成和验证内容的品牌。 您可以上传品牌准则文档并映射关键元素，例如语气、口号、法律限制、图像规则和CTA格式。 可编辑渠道和元素级别的指南，以提高生成精度和自动化质量检查。
 
->[!VIDEO](https://video.tv.adobe.com/v/3494292/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3494375/?captions=chi_hans&learn=on)
