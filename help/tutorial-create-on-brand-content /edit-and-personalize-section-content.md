@@ -21,4 +21,4 @@ ht-degree: 0%
 
 在Adobe Journey Optimizer中使用AI功能编辑电子邮件模板的单个部分并使其个性化。 更改主题行、标头、文本块和图像，同时保留品牌颜色、语音和合规性规则。 使用提示和参考内容调整色调、重述文本、翻译语言并生成每个组件的品牌内视觉效果。
 
->[!VIDEO](https://video.tv.adobe.com/v/3495868/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3495886/?captions=chi_hans&learn=on)
