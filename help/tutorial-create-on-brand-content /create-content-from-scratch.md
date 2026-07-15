@@ -21,4 +21,4 @@ ht-degree: 0%
 
 在此步骤中，您首先从现有的内容模板开始，然后使用AI功能生成完整的资产，例如电子邮件、推送通知或应用程序内消息。 您可以应用品牌指南并配置语言、色调和图像设置以使内容保持品牌化。 可生成多个AI驱动型变体、审查品牌评分和手动编辑内容，或通过第二个AI传递优化消息传递和视觉效果。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434635/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434645/?captions=chi_hans&learn=on)
