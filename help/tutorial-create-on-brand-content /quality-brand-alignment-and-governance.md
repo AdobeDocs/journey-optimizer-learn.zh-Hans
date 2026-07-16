@@ -1,24 +1,24 @@
 ---
-title: 确保质量、品牌协调和治理
-description: 了解如何使用AI支持的工具评估和改进内容质量，同时保持强大的品牌一致性。
+title: 确保内容质量、品牌协调和治理
+description: 了解如何评估和改进内容质量，同时根据您的品牌准则检查内容质量，包括书面和视觉资产。
 feature: Content Assistant
 topic: Content Management
 role: User
 level: Intermediate
 doc-type: Feature Video
 duration: 282
-last-substantial-update: 2026-07-14T00:00:00Z
+last-substantial-update: 2026-07-15T00:00:00Z
 jira: KT-20391
-source-git-commit: a9ad56300dec0e1f17280a2d26fa9c8f63d453a3
+source-git-commit: 7f82406c2a2a486f0b18e5180e0be9326d0b62fa
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
 
 
-# 确保质量、品牌协调和治理
+# 确保内容质量、品牌协调和治理
 
-了解如何使用AI支持的工具评估和改进内容质量，同时保持强大的品牌一致性。 此概述展示了如何将品牌指南同时应用于生成的和手动创建的内容，自动进行质量检查，并识别在书写风格和视觉元素方面的改进机会。 您还会看到如何使用实时评分和可操作的推荐来保持每个资产的合规性、一致性并准备交付。
+了解如何评估和改进内容质量，同时根据您的品牌准则检查内容质量，包括书面和视觉资产。 您可以结合使用自动质量检查以及实时分数和可操作的推荐，评估人工智能生成的和手动创作内容的品牌一致性。 您可以在内容上线之前，使用自动QA作为团队管理和审查流程中的助手，识别并修复文案、图像、图像和合规性问题。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3494653/?captions=chi_hans&learn=on)

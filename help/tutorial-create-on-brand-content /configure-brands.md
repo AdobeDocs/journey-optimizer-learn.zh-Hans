@@ -1,24 +1,24 @@
 ---
-title: 在Adobe Journey Optimizer中配置品牌
-description: 本视频介绍如何上传品牌准则文档、构建关键品牌元素以及定义书写风格和视觉内容。
+title: 在Adobe Journey Optimizer中为支持AI的内容配置品牌
+description: 您将了解如何在Adobe Journey Optimizer中创建和配置人工智能功能用于生成和验证内容的品牌。
 feature: Content Assistant
 topic: Content Management
 role: User
 level: Intermediate
 doc-type: Feature Video
 duration: 227
-last-substantial-update: 2026-07-14T00:00:00Z
+last-substantial-update: 2026-07-15T00:00:00Z
 jira: KT-21952
-source-git-commit: 02e7231661fcd254f89ffcbbfd6ee6039ededffa
+source-git-commit: 7c1f5db3b2e5c628dcf233cb112bfca49bc28aad
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
 
 
-# 在Adobe Journey Optimizer中配置品牌
+# 在Adobe Journey Optimizer中为支持AI的内容配置品牌
 
-本视频介绍如何上传品牌准则文档、构建关键品牌元素以及定义书写样式、可视内容和身份详细信息。 您还会看到如何优化和自定义这些准则以支持AI生成的内容和自动质量检查，从而确保每个渠道之间一致、品牌上的通信。
+您将了解如何在Adobe Journey Optimizer中创建和配置人工智能功能用于生成和验证内容的品牌。 您可以上传品牌准则文档并映射关键元素，例如语气、口号、法律限制、图像规则和CTA格式。 可编辑渠道和元素级别的指南，以提高生成精度和自动化质量检查。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3494375/?captions=chi_hans&learn=on)

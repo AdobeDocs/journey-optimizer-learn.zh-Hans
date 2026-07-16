@@ -1,24 +1,24 @@
 ---
-title: 从头开始创建内容
-description: 了解如何使用模板、品牌指南和AI驱动的变体从头开始创建电子邮件、推送通知和应用程序内消息。
+title: 从头开始创建全渠道内容
+description: 在此步骤中，您首先从现有的内容模板开始，然后使用AI功能生成完整的资源。
 feature: Content Assistant
 topic: Content Management
 role: User
 level: Intermediate
 doc-type: Feature Video
 duration: 182
-last-substantial-update: 2026-07-14T00:00:00Z
+last-substantial-update: 2026-07-15T00:00:00Z
 jira: KT-16226
-source-git-commit: d80b00583c47ed90a73d0058aad46472b04df681
+source-git-commit: ab64a156f9bbd1496ebfa4d06dbfea37a8bc1e71
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
 
 
-# 从头开始创建内容
+# 从头开始创建全渠道内容
 
-此视频演示如何从模板开始、应用品牌指南，以及如何使用简单的提示从头开始创建电子邮件、推送通知和应用程序内消息。 您还会看到如何优化基调、图像和消息，同时利用AI驱动的变体和评分在您的全渠道体验中快速生成高质量、一致的内容。
+在此步骤中，您首先从现有的内容模板开始，然后使用AI功能生成完整的资产，例如电子邮件、推送通知或应用程序内消息。 您可以应用品牌指南并配置语言、色调和图像设置以使内容保持品牌化。 可生成多个AI驱动型变体、审查品牌评分和手动编辑内容，或通过第二个AI传递优化消息传递和视觉效果。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434645/?captions=chi_hans&learn=on)
