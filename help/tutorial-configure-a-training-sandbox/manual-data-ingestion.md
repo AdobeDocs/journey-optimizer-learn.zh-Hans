@@ -10,7 +10,7 @@ recommendations: noDisplay, noCatalog
 exl-id: 5e7bf81d-4d70-48ef-b357-c361b28359db
 source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '103'
 ht-degree: 100%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 以下视频教程说明了如何创建数据集和手动摄取数据：
 
->[!VIDEO](https://video.tv.adobe.com/v/3416647?quality=12&learn=on&captions=chi_hans){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/334293?quality=12&learn=on){transcript=true}
 
 创建以下数据集：
 
@@ -38,4 +38,4 @@ ht-degree: 100%
 
 ## 下一步
 
-您已成功创建所有必需的数据集并摄取了样本数据。最后一步是[配置事件](/help/tutorial-configure-a-training-sandbox/configure-events.md)。
+您已成功创建所有必需的数据集并摄取了样本数据。 最后一步是[配置事件](/help/tutorial-configure-a-training-sandbox/configure-events.md)。

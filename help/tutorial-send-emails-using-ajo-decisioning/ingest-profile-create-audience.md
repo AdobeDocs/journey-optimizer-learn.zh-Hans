@@ -7,9 +7,10 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-10-31T00:00:00Z
 jira: KT-19558
-source-git-commit: b70717bd66deb3c070c6dd155f13f8cb72fce7c3
+exl-id: 1f861559-addd-48b6-999a-f01d4959771f
+source-git-commit: d4cc60f4448caec92f704026783e2bbe029427f5
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
@@ -20,4 +21,4 @@ ht-degree: 0%
 
 您学习如何定义名字、电子邮件、忠诚度状态和年收入等关键字段，上传真实的客户数据，并使用该数据创建高价值客户的受众。
 
->[!VIDEO](https://video.tv.adobe.com/v/3476448/?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476421/?learn=on)
