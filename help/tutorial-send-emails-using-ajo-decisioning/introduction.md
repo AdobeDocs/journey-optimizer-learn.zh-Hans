@@ -7,10 +7,11 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-10-31T00:00:00Z
 jira: KT-19414
-source-git-commit: b70717bd66deb3c070c6dd155f13f8cb72fce7c3
+exl-id: c2b8a85c-8f64-40c5-87eb-6d836d832c44
+source-git-commit: d4cc60f4448caec92f704026783e2bbe029427f5
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 4%
+source-wordcount: '126'
+ht-degree: 3%
 
 ---
 
@@ -26,6 +27,3 @@ ht-degree: 4%
 * 基本了解Experience Platform概念（用户档案、受众、数据集）
 
 * 熟悉Journey Optimizer
-
-
-
