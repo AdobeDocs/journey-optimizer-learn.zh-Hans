@@ -93,7 +93,7 @@ ht-degree: 97%
     + [使用电子邮件设计器创建内容](/help/channels/create-content-with-the-email-designer.md)
     + [导入和编辑 HTML 电子邮件内容](/help/channels/import-and-author-html-email-content.md)
     + [预览、校对和发布](/help/channels/preview-proof-and-publish.md)
-    + [AI支持的品牌内内容创建 — 教程](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-on-brand-content/overview)
+    + [AI支持的品牌内内容创建 — 教程](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/create-on-brand-content/overview)
   + 内容卡{#content-cards}
     + [创建内容卡](/help/channels/create-content-cards.md)
   + 应用程序内渠道{#in-app-channel}
@@ -149,7 +149,7 @@ ht-degree: 97%
   + [根据轮廓偏好或倾向分数优化渠道](/help/channels/channel-optimization.md)
   + [使用 GenStudio 创建电子邮件](/help/content-management/create-an-email-using-genstudio.md)
   + [在渠道创作中启用外部数据集成](/help/content-management/external-data-integrations-in-channel-authoring.md)
-  + [在Journey Optimizer中创建品牌上内容 — 教程](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-on-brand-content/overview)
+  + [在Journey Optimizer中创建品牌上内容 — 教程](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/create-on-brand-content/overview)
 + 个性化内容 {#personalize-content}
   + [个性化编辑器 - 概述](/help/personalize-content/personalization-editor-overview.md)
   + [根据轮廓和受众会员资格进行个性化](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
