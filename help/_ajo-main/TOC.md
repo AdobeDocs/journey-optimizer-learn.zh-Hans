@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: c2595614a6d78b3877b12f3d2d0b5040364bd1ee
+source-git-commit: 40ceb7f4414af6b2d311491f03be4daff1c72c19
 workflow-type: tm+mt
-source-wordcount: '1552'
-ht-degree: 97%
+source-wordcount: '1550'
+ht-degree: 95%
 
 ---
 
@@ -41,14 +41,14 @@ ht-degree: 97%
 + 历程 {#journeys}
   + [历程设计器 - 概述](/help/journeys/journey-designer-overview.md)
   + [新历程画布简介](/help/journeys/introduction-to-the-new-journey-canvas.md)
-  + [使用 Journey Agent 分析和构建历程](/help/ai-agents/journey-agent-overview.md)
-  + {hide-from-toc}[了解新的历程设计器](/help/journeys/new-journey-designer.md)
   + [构建历程的简介](/help/journeys/introduction-to-building-a-journey.md)
-  + [在历程中使用数据集查找](/help/journeys/lookup-dataset.md)
+  + [使用人工智能分析和构建历程](/help/ai-agents/journey-agent-overview.md)
   + [创建测试轮廓](/help/journeys/test-a-journey.md)
+  + [模拟与外部受众的历程](/help/journeys/simulate-journeys-with-external-audiences.md)
   + [发布历程](/help/journeys/publish-a-journey.md)
   + [内容决策活动](/help/journeys/content-decision-activity.md)
-  + [掌握多属性筛选](/help/journeys/mastering-multi-attribute-filtering.md)
+  + [在历程中使用数据集查找](/help/journeys/lookup-dataset.md)
+  + [主多属性筛选](/help/journeys/mastering-multi-attribute-filtering.md)
   + [在历程中使用联合受众进行多实体定位](/help/journeys/multi-entity-targeting-in-journeys.md)
   + [通过历程试运行验证历程逻辑](/help/journeys/journey-dry-run.md)
   + [使用补充 ID 解锁历程重新进入](/help/journeys/unlock-journey-reentry-with-supplemental-id.md)
@@ -93,7 +93,7 @@ ht-degree: 97%
     + [使用电子邮件设计器创建内容](/help/channels/create-content-with-the-email-designer.md)
     + [导入和编辑 HTML 电子邮件内容](/help/channels/import-and-author-html-email-content.md)
     + [预览、校对和发布](/help/channels/preview-proof-and-publish.md)
-    + [AI支持的品牌内内容创建 — 教程](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/create-on-brand-content/overview)
+    + [AI支持的品牌内内容创建 — 教程](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-on-brand-content/overview)
   + 内容卡{#content-cards}
     + [创建内容卡](/help/channels/create-content-cards.md)
   + 应用程序内渠道{#in-app-channel}
@@ -149,7 +149,7 @@ ht-degree: 97%
   + [根据轮廓偏好或倾向分数优化渠道](/help/channels/channel-optimization.md)
   + [使用 GenStudio 创建电子邮件](/help/content-management/create-an-email-using-genstudio.md)
   + [在渠道创作中启用外部数据集成](/help/content-management/external-data-integrations-in-channel-authoring.md)
-  + [在Journey Optimizer中创建品牌上内容 — 教程](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/create-on-brand-content/overview)
+  + [在Journey Optimizer中创建品牌上内容 — 教程](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-on-brand-content/overview)
 + 个性化内容 {#personalize-content}
   + [个性化编辑器 - 概述](/help/personalize-content/personalization-editor-overview.md)
   + [根据轮廓和受众会员资格进行个性化](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
