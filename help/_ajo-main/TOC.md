@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: c2595614a6d78b3877b12f3d2d0b5040364bd1ee
+source-git-commit: 2a17c140eaa72c4421691a27589b7edac99add92
 workflow-type: tm+mt
-source-wordcount: '1552'
-ht-degree: 97%
+source-wordcount: '1562'
+ht-degree: 95%
 
 ---
 
@@ -41,14 +41,14 @@ ht-degree: 97%
 + 历程 {#journeys}
   + [历程设计器 - 概述](/help/journeys/journey-designer-overview.md)
   + [新历程画布简介](/help/journeys/introduction-to-the-new-journey-canvas.md)
-  + [使用 Journey Agent 分析和构建历程](/help/ai-agents/journey-agent-overview.md)
-  + {hide-from-toc}[了解新的历程设计器](/help/journeys/new-journey-designer.md)
   + [构建历程的简介](/help/journeys/introduction-to-building-a-journey.md)
-  + [在历程中使用数据集查找](/help/journeys/lookup-dataset.md)
+  + [使用人工智能分析和构建历程](/help/ai-agents/journey-agent-overview.md)
   + [创建测试轮廓](/help/journeys/test-a-journey.md)
+  + {hide-from-toc}[与外部受众一起模拟历程](/help/journeys/simulate-journeys-with-external-audiences.md)
   + [发布历程](/help/journeys/publish-a-journey.md)
   + [内容决策活动](/help/journeys/content-decision-activity.md)
-  + [掌握多属性筛选](/help/journeys/mastering-multi-attribute-filtering.md)
+  + [在历程中使用数据集查找](/help/journeys/lookup-dataset.md)
+  + [主多属性筛选](/help/journeys/mastering-multi-attribute-filtering.md)
   + [在历程中使用联合受众进行多实体定位](/help/journeys/multi-entity-targeting-in-journeys.md)
   + [通过历程试运行验证历程逻辑](/help/journeys/journey-dry-run.md)
   + [使用补充 ID 解锁历程重新进入](/help/journeys/unlock-journey-reentry-with-supplemental-id.md)
@@ -124,6 +124,7 @@ ht-degree: 97%
     + [WhatsApp 渠道简介](/help/channels/whatsapp-introduction.md)
     + [设置 WhatsApp 频道](/help/channels/set-up-whatsapp.md)
     + [创建 WhatsApp 历程](/help/channels/create-a-whatsapp-journey.md)
+  + {hide-from-toc}[配置和使用自定义渠道](/help/channels/configure-and-use-custom-channels.md)
 + 内容管理{#content-management}
   + [消息创作 - 概述](/help/content-management/message-authoring-overview.md)
   + 管理资源 {#assets}
@@ -177,6 +178,7 @@ ht-degree: 97%
       + [使用决策功能对电子邮件进行个性化（教程）](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction){target="_blank"}
       + [在推送通知中使用决策功能](/help/decisioning/decisioning-in-push-notifications.md)
       + [在短信消息中使用决策功能](/help/decisioning/use-decisioning-in-an-sms-message.md)
+      + {hide-from-toc}[在Web可视编辑器中使用决策](/help/decisioning/use-decisioning-within-the-web-visual-editor.md)
       + [使用决策对 Web 优惠进行个性化（教程）](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
       + [将 Experience Manager 内容片段与 Decisioning 结合使用](/help/decisioning/use-aem-content-fragments-with-ajo-decisioning.md)
     + 从外部触发器和交互触发决策 {#trigger}
