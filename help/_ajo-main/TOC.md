@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: 57c9805e1a1f9f7392c90955902009df56751058
+source-git-commit: 2a17c140eaa72c4421691a27589b7edac99add92
 workflow-type: tm+mt
-source-wordcount: '1555'
+source-wordcount: '1562'
 ht-degree: 95%
 
 ---
@@ -93,7 +93,7 @@ ht-degree: 95%
     + [使用电子邮件设计器创建内容](/help/channels/create-content-with-the-email-designer.md)
     + [导入和编辑 HTML 电子邮件内容](/help/channels/import-and-author-html-email-content.md)
     + [预览、校对和发布](/help/channels/preview-proof-and-publish.md)
-    + [AI支持的品牌内内容创建 — 教程](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/create-on-brand-content/overview)
+    + [AI支持的品牌内内容创建 — 教程](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-on-brand-content/overview)
   + 内容卡{#content-cards}
     + [创建内容卡](/help/channels/create-content-cards.md)
   + 应用程序内渠道{#in-app-channel}
@@ -150,7 +150,7 @@ ht-degree: 95%
   + [根据轮廓偏好或倾向分数优化渠道](/help/channels/channel-optimization.md)
   + [使用 GenStudio 创建电子邮件](/help/content-management/create-an-email-using-genstudio.md)
   + [在渠道创作中启用外部数据集成](/help/content-management/external-data-integrations-in-channel-authoring.md)
-  + [在Journey Optimizer中创建品牌上内容 — 教程](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/create-on-brand-content/overview)
+  + [在Journey Optimizer中创建品牌上内容 — 教程](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-on-brand-content/overview)
 + 个性化内容 {#personalize-content}
   + [个性化编辑器 - 概述](/help/personalize-content/personalization-editor-overview.md)
   + [根据轮廓和受众会员资格进行个性化](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
@@ -178,6 +178,7 @@ ht-degree: 95%
       + [使用决策功能对电子邮件进行个性化（教程）](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction){target="_blank"}
       + [在推送通知中使用决策功能](/help/decisioning/decisioning-in-push-notifications.md)
       + [在短信消息中使用决策功能](/help/decisioning/use-decisioning-in-an-sms-message.md)
+      + {hide-from-toc}[在Web可视编辑器中使用决策](/help/decisioning/use-decisioning-within-the-web-visual-editor.md)
       + [使用决策对 Web 优惠进行个性化（教程）](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
       + [将 Experience Manager 内容片段与 Decisioning 结合使用](/help/decisioning/use-aem-content-fragments-with-ajo-decisioning.md)
     + 从外部触发器和交互触发决策 {#trigger}
