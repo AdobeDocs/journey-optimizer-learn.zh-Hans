@@ -29,4 +29,4 @@ ht-degree: 0%
 
 了解如何使用Decisioning在Web可视化编辑器中个性化您的网页。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496300/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496311/?captions=chi_hans&learn=on&enablevpops)
