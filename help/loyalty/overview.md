@@ -7,7 +7,7 @@ level: Beginner
 doc-type: Tutorial
 jira: KT-21773
 last-substantial-update: 2026-07-28T00:00:00Z
-source-git-commit: b173f9353a11fa2b5b3b5316a2601ac2be695891
+source-git-commit: 7523b27390c4d3a5447a0ee340eee07086d22be8
 workflow-type: tm+mt
 source-wordcount: '384'
 ht-degree: 0%
@@ -41,7 +41,7 @@ ht-degree: 0%
 了解如何通过选择正确的挑战类型、配置受众和时间表、定义参与规则以及控制如何跟踪和奖励进度来设置忠诚度挑战。
 * [为忠诚度挑战设置任务](./configure-your-challenge/create-tasks.md)
 了解如何设置任务：购买和支出、数量、合格项目和排除以及重用。
-* [为您的忠诚度挑战配置奖励](./configure-your-challenge/configure-rewards-for-your-loyalty-challenge.md)
+* [为您的忠诚度挑战配置奖励](./configure-your-challenge/configure-rewards.md)
 了解如何配置奖励：提供商、里程碑与完成投放、奖励类型和优惠券。
 * [通过忠诚度人工智能代理提出挑战并获得见解](./configure-your-challenge/create-challenges-and-get-insights-with-the-loyalty-ai-agent.md)
 了解如何使用忠诚度人工智能代理提出挑战并获得见解。
