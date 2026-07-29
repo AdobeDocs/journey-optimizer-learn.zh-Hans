@@ -19,4 +19,4 @@ ht-degree: 0%
 
 了解如何使用购买、支出和自定义事件活动（包括资格规则、排除和可重用任务模板）创建和配置忠诚度挑战任务。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496442/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496450/?captions=chi_hans&learn=on&enablevpops)
