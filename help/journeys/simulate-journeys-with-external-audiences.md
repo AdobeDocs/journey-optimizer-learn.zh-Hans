@@ -26,4 +26,4 @@ ht-degree: 0%
 
 了解如何模拟使用CSV文件中的外部受众配置文件或联合受众构成（包括未在配置文件中存储的属性）的历程，如票证ID或旅行日期。 本视频介绍如何过滤受众、使用外部属性个性化消息、创建模拟用户和模拟受众数据，以在历程上线之前验证正确的路径。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496269/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496277/?captions=chi_hans&learn=on&enablevpops)
