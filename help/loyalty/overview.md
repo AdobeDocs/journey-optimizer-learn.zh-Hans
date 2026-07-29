@@ -7,9 +7,9 @@ level: Beginner
 doc-type: Tutorial
 jira: KT-21773
 last-substantial-update: 2026-07-28T00:00:00Z
-source-git-commit: 35dcb7e021fa57e88131d1ea1fd47112a22674f5
+source-git-commit: b173f9353a11fa2b5b3b5316a2601ac2be695891
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '384'
 ht-degree: 0%
 
 ---
@@ -37,8 +37,8 @@ ht-degree: 0%
 
 本模块将指导您完成端到端忠诚度挑战的创建和配置：类型、结构和计划、任务和奖励。
 
-* [创建并发布您的第一个忠诚度挑战](./configure-your-challenge/create-and-publish-your-first-loyalty-challenge.md)
-了解如何创建挑战：类型（标准/条纹/顺序）、结构和计划、保存和发布挑战（不含历程）。
+* [设置忠诚度挑战](./configure-your-challenge/set-up-a-loyalty-challenge.md)
+了解如何通过选择正确的挑战类型、配置受众和时间表、定义参与规则以及控制如何跟踪和奖励进度来设置忠诚度挑战。
 * [为忠诚度挑战设置任务](./configure-your-challenge/create-tasks.md)
 了解如何设置任务：购买和支出、数量、合格项目和排除以及重用。
 * [为您的忠诚度挑战配置奖励](./configure-your-challenge/configure-rewards-for-your-loyalty-challenge.md)
