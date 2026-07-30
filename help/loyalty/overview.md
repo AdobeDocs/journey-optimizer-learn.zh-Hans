@@ -7,7 +7,7 @@ level: Beginner
 doc-type: Tutorial
 jira: KT-21773
 last-substantial-update: 2026-07-28T00:00:00Z
-source-git-commit: 283c626c96cd675549425af430b7db463b2fa0ad
+source-git-commit: 22b92b46ddf2d970ddb37bccd4de9ec289cd5ed8
 workflow-type: tm+mt
 source-wordcount: '337'
 ht-degree: 11%
@@ -36,7 +36,7 @@ ht-degree: 11%
 了解如何设置任务：购买和支出、数量、合格项目和排除以及重用。
 * [为您的忠诚度挑战配置奖励](./configure-your-challenge/configure-rewards.md)
 了解如何配置奖励：提供商、里程碑与完成投放、奖励类型和优惠券。
-* [通过忠诚度人工智能代理提出挑战并获得见解](./configure-your-challenge/create-challenges-and-get-insights-with-the-loyalty-ai-agent.md)
+* [通过忠诚度人工智能代理提出挑战并获得见解](./configure-your-challenge/create-a-challenge-and-get-insights-with-with-cx-enterprise-coworker.md)
 了解如何使用忠诚度人工智能代理提出挑战并获得见解。
 
 ## 申请并显示您的挑战
