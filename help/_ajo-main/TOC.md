@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: b8b058d92e642d5a7787115b3ee7218d5d12c46f
+source-git-commit: f48d568f64c413c5fc1ae9b4de48735d207af7e3
 workflow-type: tm+mt
-source-wordcount: '1557'
+source-wordcount: '1567'
 ht-degree: 94%
 
 ---
@@ -63,6 +63,7 @@ ht-degree: 94%
     + [用例 - 受众资格筛选](/help/journeys/use-case-audience-qualification.md)
   + 教程{#tutorials}
     + [在提交表单时触发历程](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
++ [忠诚度](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/loyalty/overview)
 + 冲突管理和优先级排序 {#conflict-management}
   + [识别潜在冲突](/help/conflict-management/identify-potential-conflicts.md)
   + [分配优先级分数](/help/conflict-management/assign-priority-score.md)
