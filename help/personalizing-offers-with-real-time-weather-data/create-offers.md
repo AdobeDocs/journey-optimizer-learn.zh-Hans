@@ -11,7 +11,7 @@ jira: KT-18258
 exl-id: ee940654-6c6c-42d2-8c33-e0b1dfa5c3ed
 source-git-commit: 95a8abd08fbf57900870826112b01a8cd375fe96
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
@@ -54,8 +54,8 @@ ht-degree: 0%
 
 ### 创建收藏集
 
-导航到&#x200B;**_决策 — >目录 — >集合 — >创建集合_**
-将收藏集命名为&#x200B;**天气相关优惠**
+导航到&#x200B;**_决策 — >目录 — >收藏集 — >创建收藏集_**
+将收藏集命名为**天气相关优惠**
 
 使用规则生成器对此收藏集中的这些优惠进行分组。
 
