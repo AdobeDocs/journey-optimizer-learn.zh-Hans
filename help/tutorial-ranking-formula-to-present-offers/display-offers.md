@@ -11,7 +11,7 @@ recommendations: noDisplay, noCatalog
 exl-id: 6b1eec78-153c-4ea5-acfe-2dcc6f1e6078
 source-git-commit: 82d82b3aac2bf91e259b01fd8c6b4d6065f9640a
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '348'
 ht-degree: 0%
 
 ---
@@ -35,9 +35,9 @@ ht-degree: 0%
 * 将[提供的文件解压缩到此排名公式文件夹中。](assets/ranking-formula.zip)
 
 * 导航到文件夹并启动服务器以运行应用程序：
-   * `cd ranking-formula`
+  * `cd ranking-formula`
 
-   * `node server.js`
+  * `node server.js`
 
 
 * 打开浏览器，然后转到http://localhost:3000/formula.html。
