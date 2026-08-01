@@ -19,4 +19,4 @@ ht-degree: 0%
 
 了解如何使用CX Enterprise Co-worker创建、配置和启动使用自然语言的忠诚度挑战，包括受众、奖励、时间表和自动化历程设置。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496528/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496546/?captions=chi_hans&learn=on&enablevpops)
