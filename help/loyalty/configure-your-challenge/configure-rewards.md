@@ -19,4 +19,4 @@ ht-degree: 8%
 
 了解如何通过选择奖励类型、定义投放方法和在关键里程碑或挑战完成时奖励参与者来配置挑战奖励。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496481/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496489/?captions=chi_hans&learn=on&enablevpops)
