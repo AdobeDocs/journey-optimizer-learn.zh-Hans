@@ -21,7 +21,7 @@ ht-degree: 5%
 
 探索最佳实践、了解如何推动采用并设置集中报告工作流（所有这些都在一个位置），以提供可随时随地触及客户的、具有影响力的数据驱动型移动体验。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477008?captions=chi_hans&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
 
 
 ## 移动渠道概述
@@ -43,54 +43,54 @@ Adobe Journey Optimizer中的所有出站渠道在消息发送时强制实施自
 入站渠道支持客户启动的交互，从而能够在用户与您的品牌互动时提供个性化体验。 它们支持实时个性化和数据捕获（如登陆页面表单或现场行为），这些内容直接馈送到Adobe Experience Platform (AEP)中，以便跨历程进行分段、定位和激活。
 
 
-| ![应用程序内消息](/help/mobile-learning-hub/assets/frescopa-in-app.png){width=&quot;250&quot;，height=&quot;50%&quot;}<br> **[应用程序内消息](/help/mobile-learning-hub/channels/in-app-messages-overview.md)** | ![内容卡](/help/mobile-learning-hub/assets/content-card.jpeg){width=&quot;250&quot;， height=&quot;250&quot;}<br> **[Content Cards](/help/mobile-learning-hub/channels/content-cards-overview.md)** | ![Code-Based Experience](/help/mobile-learning-hub/assets/code-based.png){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[Code-Based Experience](/help/mobile-learning-hub/channels/code-based-experience-overview.md)** |
+| ![应用程序内消息](/help/mobile-learning-hub/assets/frescopa-in-app.png){width=&quot;250&quot;，height=&quot;50%&quot;}<br> **[应用程序内消息](/help/mobile-learning-hub/channels/in-app-messages-overview.md)** | ![内容卡](/help/mobile-learning-hub/assets/content-card.jpeg){width=&quot;250&quot;， height=&quot;250&quot;}<br> **[内容卡](/help/mobile-learning-hub/channels/content-cards-overview.md)** | ![基于代码的体验](/help/mobile-learning-hub/assets/code-based.png){width=&quot;250&quot;， height=&quot;250&quot;}<br> **[基于代码的体验](/help/mobile-learning-hub/channels/code-based-experience-overview.md)** |
 |-------------------------------------|------------------------------------|-------------------------------|
-| Delivered while users are actively using your app, these messages are real-time and interactive. They&#39;re perfect for engaging customers in the moment. | Non-intrusive, persistent messages users can access anytime within the app. Content cards work well for sharing ongoing offers or helpful information. | Custom-coded messages enable highly personalized and dynamic campaigns, integrating real-time data and complex customer journeys. |
+| 在用户主动使用您的应用程序时投放，这些消息是实时的、交互式的。 它们非常适合吸引眼下的客户。 | 用户可以在应用程序内的任何时间访问非侵入性持久消息。 内容卡很适合用于共享正在进行的优惠或有用的信息。 | 自定义编码消息实现了高度个性化的动态活动，将实时数据和复杂的客户历程集成在一起。 |
 
 
-### How can mobile channels work together?
+### 移动渠道如何协同工作？
 
-By combining these channels, you can create a seamless and effective customer experience:
+通过将这些渠道结合起来，您可以创建一种无缝而有效的客户体验：
 
-1. Use [push notifications](/help/mobile-learning-hub/channels/push-notifications-overview.md) to quickly grab attention and bring users back to your app (e.g., &quot;Sale starts now!&quot;).
+1. 使用[推送通知](/help/mobile-learning-hub/channels/push-notifications-overview.md)快速吸引用户关注并将用户吸引回您的应用程序（例如，“立即开始销售！”）。
 
-2. Once inside, deliver [in-app messages](/help/mobile-learning-hub/channels/in-app-messages-overview.md) with personalized promotions (e.g., &quot;Here&#39;s your 15% discount for today&#39;s sale&quot;).
+2. 进入后，通过个性化促销活动发送[应用程序内消息](/help/mobile-learning-hub/channels/in-app-messages-overview.md)（例如，“您为今天的促销活动享受15%的折扣”）。
 
-3. Offer [content cards](/help/mobile-learning-hub/channels/content-cards-overview.md) so users can revisit the promotion anytime before it expires (e.g., &quot;Your 15% discount ends Friday&quot;).
+3. 优惠[内容卡](/help/mobile-learning-hub/channels/content-cards-overview.md)，以便用户能在促销过期前的任何时间重新访问它（例如，“您的15%折扣在星期五结束”）。
 
-4. Use [SMS/MMS/RCS](/help/mobile-learning-hub/channels/sms-mms-rcs-overview.md) to send timely reminders or rich media offers directly to users who may not be in the app.
+4. 使用[SMS/MMS/RCS](/help/mobile-learning-hub/channels/sms-mms-rcs-overview.md)直接向可能不在应用程序中的用户发送及时提醒或富媒体选件。
 
-5. Engage customers in meaningful conversations through [WhatsApp](/help/mobile-learning-hub/channels/whatsapp-overview.md), ideal for customer support or interactive campaigns.
+5. 通过[WhatsApp](/help/mobile-learning-hub/channels/whatsapp-overview.md)与客户进行有意义的对话，非常适合客户支持或交互式营销活动。
 
-6. Leverage [code-based experiences](/help/mobile-learning-hub/channels/code-based-experience-overview.md) to tailor every message based on user behavior and preferences, creating a truly personalized journey across channels.
+6. 利用[基于代码的体验](/help/mobile-learning-hub/channels/code-based-experience-overview.md)，根据用户行为和偏好定制每封邮件，从而跨渠道创建真正个性化的历程。
 
-## Build your foundation
+## 构建您的基础
 
-Learn the concepts and how to
+了解相关概念及操作方法
 
 <table style="table-layout:fixed">
   <tr style="border: 0;">
     <td>
     <a href="configure-and-launch.md"><img src="./assets/configure-message.jpg"></a>
-    <div><strong>Configure &amp; Launch</strong><br/>Configure the mobile channeles and integrate with mobile apps.</div>
+    <div><strong>配置并启动</strong><br/>配置移动渠道并与移动应用集成。</div>
     </td>
     <td>
     <a href="design-and-deliver.md"><img src="./assets/create-message.webp"></a>
-    <div><strong>Design &amp; Deliver</strong><br/>Use mobile channels to build personalized journeys and campaigns that engage customers in real time.</div>
+    <div><strong>设计和交付</strong><br/>使用移动渠道构建可实时吸引客户的个性化历程和营销活动。</div>
     </td>
     <td>
     <a href="measure-and-optimize.md"><img src="./assets/reports.webp"></a>
-    <div><strong>Measure &amp; Optimize</strong><br/>Access reports, analyze performance, and refine strategies for better outcomes.
+    <div><strong>衡量和优化</strong><br/>访问报表、分析绩效并优化策略以获得更好的结果。
     </div>
     </td>
   </tr>
 </table>
 
-## Common Mobile Business Use Cases
+## 常见移动业务用例
 
-| 用例 | 描述 | Mobile Channel Usage |
+| 用例 | 描述 | 移动渠道使用情况 |
 |---------|-------------|----------------------|
-| **App Onboarding and Adoption** | Guides new users through the initial stages of app engagement—installing the app, completing setup, and discovering key features. 目标是最大限度地提高保留率和长期使用率。 |  — 推送通知和SMS欢迎用户，并提示完成配置文件。<br> — 应用程序内消息突出显示功能并鼓励首次操作。<br> — 电子邮件或广告中的深层链接可将用户引导到特定应用程序屏幕以进行无缝载入。 |
+| **应用程序登录和采用** | 指导新用户完成应用程序参与的最初阶段 — 安装应用程序、完成设置和发现关键功能。 目标是最大限度地提高保留率和长期使用率。 |  — 推送通知和SMS欢迎用户，并提示完成配置文件。<br> — 应用程序内消息突出显示功能并鼓励首次操作。<br> — 电子邮件或广告中的深层链接可将用户引导到特定应用程序屏幕以进行无缝载入。 |
 | **基于位置的参与** | 根据用户实际接近商店、活动或其他相关位置的程度，向其发送个性化、及时的消息。 |  — 用户进入目标区域时，地理围栏和信标技术会触发推送通知。<br>- SMS/MMS提供本地化的优惠和更新。<br> — 应用程序内横幅和卡片根据实时位置调整内容。 |
 | **放弃重新参与** | 定位放弃购物车、表单或浏览会话的用户，旨在使他们返回并完成预期操作。 |  — 推送通知提醒用户已放弃购物车或未完成操作。<br> — 短信跟进包含要恢复的奖励或直接链接。<br> — 用户返回时会显示应用程序内提示，并提供个性化推荐。 |
 | **追加销售和交叉销售促销活动** | 根据现有客户的行为、偏好或购买历史记录向其推广其他产品或升级。 |  — 推送通知突出显示相关的追加销售机会。<br> — 应用程序内消息和内容卡显示互补项目。<br>- SMS营销活动以具有独占优惠的细分受众为目标。 |
@@ -99,4 +99,4 @@ Learn the concepts and how to
 
 ## 客户用例
 
-* [使用个性化体验体验：航空公司如何通过Adobe Journey Optimizer提升优惠水平（博客）](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513?profile.language=zh-Hans)
+* [使用个性化体验体验：航空公司如何通过Adobe Journey Optimizer提升优惠水平（博客）](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513)
