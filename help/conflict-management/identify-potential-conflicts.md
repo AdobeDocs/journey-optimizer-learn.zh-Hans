@@ -30,6 +30,6 @@ ht-degree: 100%
 
 了解如何识别并管理潜在冲突，例如受众重叠、时间线并行、通信渠道共享以及跨历程与营销活动的频率限制，从而确保沟通流程顺畅、客户体验友好。
 
->[!VIDEO](https://video.tv.adobe.com/v/3435528/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445654/?captions=chi_hans&learn=on&enablevpops)
 
 请参阅产品文档，详细了解如何[检测历程和营销活动中的潜在冲突](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/conflict-prioritization/conflicts)。

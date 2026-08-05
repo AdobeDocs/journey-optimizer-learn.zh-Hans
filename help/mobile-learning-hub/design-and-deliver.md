@@ -10,8 +10,8 @@ last-substantial-update: 2025-12-18T00:00:00Z
 exl-id: ea3ada11-8b2f-47d0-89d2-c22dc87f36be
 source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
-source-wordcount: '2669'
-ht-degree: 53%
+source-wordcount: '3509'
+ht-degree: 68%
 
 ---
 
@@ -122,7 +122,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-in-push-notifications" target="_blank" rel="referrer" title="使用 AJO Decisioning 优化推送通知">使用AJO Decisioning优化推送通知</a>
+                        <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-in-push-notifications" target="_blank" rel="referrer" title="使用 AJO Decisioning 优化推送通知">通过 AJO 决策优化推送通知</a>
                     </p>
                     <p class="is-size-6">使用 AJO Decisioning 通过个性化的推送通知增强参与度。 创建量身定制的优惠并分析营销活动效果。</p>
                 </div>
@@ -342,8 +342,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-double-opt-in" title="Double opt-in for Sinch and Infobip" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440290/?captions=chi_hans&format=jpeg&nocache=1770071085934" alt="Sinch和Infobip双重选择加入"
+                    <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-double-opt-in" title="Sinch 和 Infobip 的双重选择加入" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440290/?captions=chi_hans&format=jpeg&nocache=1770071085934" alt="Sinch 和 Infobip 的双重选择加入"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -351,7 +351,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-double-opt-in" target="_blank" rel="referrer" title="Sinch和Infobip双重选择加入">Sinch 和 Infobip 的双重选择加入</a>
+                        <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-double-opt-in" target="_blank" rel="referrer" title="Sinch 和 Infobip 的双重选择加入">Sinch 和 Infobip 的双重选择加入</a>
                     </p>
                     <p class="is-size-6">了解如何为 SMS 配置双重选择加入。</p>
                 </div>
@@ -424,7 +424,7 @@ CARDS
 
 #### 产品文档
 
-| ![Get started with text messaging &#x200B;](./assets/configuration.svg) [**Get started with text messaging**](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/channels/sms/get-started-sms){target="_blank"} | ![Design Content &#x200B;](./assets/content-management.png){width="50"}[**Create SMS, MMS, and RCS Messages**](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/channels/sms/create-sms){target="_blank"} | ![发送通知&#x200B;](./assets/communication-channel.svg) [**检查并发送短信**](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/channels/sms/send-sms){target="_blank"} |
+| ![开始使用文本消息&#x200B;](./assets/configuration.svg) [**开始使用文本消息**](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/channels/sms/get-started-sms){target="_blank"} | ![设计内容&#x200B;](./assets/content-management.png){width="50"}[**创建短信、彩信和RCS消息**](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/channels/sms/create-sms){target="_blank"} | ![发送通知&#x200B;](./assets/communication-channel.svg) [**检查并发送短信**](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/channels/sms/send-sms){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB 基于代码的体验]
@@ -432,7 +432,7 @@ CARDS
 ### 基于代码的体验
 
 >[!PREREQUISITES]
-> 1. Make sure that the code-based channel has been configured.
+> 1. 确保已配置基于代码的渠道。
 > 2. 确保客户配置文件和受众已准备好进行定位。
 
 #### 教程
@@ -588,7 +588,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/conflict-management/identify-potential-conflicts" title="识别潜在冲突" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435528/?format=jpeg&nocache=1770071087955" alt="识别潜在冲突"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3445654/?captions=chi_hans&format=jpeg&nocache=1770071087955" alt="识别潜在冲突"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
