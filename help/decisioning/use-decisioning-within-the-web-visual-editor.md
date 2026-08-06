@@ -30,4 +30,4 @@ ht-degree: 100%
 
 了解如何使用决策功能在 Web 可视化编辑器中个性化您的网页。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496300/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496311/?captions=chi_hans&learn=on&enablevpops)

@@ -31,4 +31,4 @@ ht-degree: 100%
 
 本视频介绍如何端到端构建自定义出站渠道并在历程中使用它。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496286/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496294/?captions=chi_hans&learn=on&enablevpops)
