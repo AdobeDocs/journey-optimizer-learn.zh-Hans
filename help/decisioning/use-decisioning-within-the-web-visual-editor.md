@@ -1,6 +1,6 @@
 ---
-title: 使用决策功能在Web可视编辑器中个性化您的网页
-description: 了解如何使用Decisioning在Web可视化编辑器中个性化您的网页。
+title: 使用决策功能在 Web 可视化编辑器中个性化您的网页
+description: 了解如何使用决策功能在 Web 可视化编辑器中个性化您的网页。
 feature: Decisioning, Web Channel
 role: User
 level: Beginner
@@ -19,15 +19,15 @@ feature_v2:
 subfeature_v2:
   - id: c618a0dc-1818-4c6d-9916-0d92e6796f24
 source-git-commit: 0e0dc8b1e62c73e3597c8f62cffc71e3be35aa14
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 54
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# 使用决策功能在Web可视编辑器中个性化您的网页
+# 使用决策功能在 Web 可视化编辑器中个性化您的网页
 
-了解如何使用Decisioning在Web可视化编辑器中个性化您的网页。
+了解如何使用决策功能在 Web 可视化编辑器中个性化您的网页。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3496311/?captions=chi_hans&learn=on&enablevpops)

@@ -1,6 +1,6 @@
 ---
-title: 新历程画布简介
-description: 了解Adobe Journey Optimizer中的全新旅程画布体验。 此更新引入了现代渲染引擎，该引擎可支持历程画布，并使其与编排的营销活动和受众构成中已使用的体验保持一致。
+title: 全新历程画布简介
+description: 了解 Adobe Journey Optimizer 中的全新历程画布体验。此更新引入了现代渲染引擎，该引擎可支持历程画布，并使其与编排的营销活动和受众构成中已使用的体验保持一致。
 feature: Journeys
 role: User
 level: Beginner, Intermediate, Experienced
@@ -15,15 +15,15 @@ product_v2:
 feature_v2:
   - id: d998adac-2f81-400b-a669-d07bb196e4eb
 source-git-commit: aada6451a411d6e29f34399dc1cb8f397f71029b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 82
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# 新历程画布简介
+# 全新历程画布简介
 
-了解Adobe Journey Optimizer中的全新旅程画布体验。 此更新引入了现代渲染引擎，该引擎可支持历程画布，并使其与编排的营销活动和受众构成中已使用的体验保持一致。
+了解 Adobe Journey Optimizer 中的全新历程画布体验。此更新引入了现代渲染引擎，该引擎可支持历程画布，并使其与编排的营销活动和受众构成中已使用的体验保持一致。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3496201/?captions=chi_hans&learn=on&enablevpops)
