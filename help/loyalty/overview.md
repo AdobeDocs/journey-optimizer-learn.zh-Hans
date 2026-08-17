@@ -7,10 +7,10 @@ level: Beginner
 doc-type: Tutorial
 jira: KT-21773
 last-substantial-update: 2026-07-28T00:00:00Z
-source-git-commit: ac2e0d7217b3e0099b711c34e5793086835a3c15
+source-git-commit: 267ca3f93581e5198a3d147ec8c261882dc6b540
 workflow-type: tm+mt
-source-wordcount: '312'
-ht-degree: 12%
+source-wordcount: '365'
+ht-degree: 10%
 
 ---
 
@@ -25,6 +25,13 @@ ht-degree: 12%
 
 * [了解Journey Optimizer的忠诚度](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
 了解Journey Optimizer忠诚度是什么、它在AJO下的位置以及挑战生命周期。
+
+## 设置忠诚度
+
+本节介绍开始创建挑战之前需要进行的初始一次性设置。
+
+* [设置忠诚奖励提供商](./set-up-loyalty/set-up-a-loyalty-reward-provider.md)
+了解如何设置奖励提供商、创建奖励定义和配置奖励负载，以便Adobe Journey Optimizer可以通过您的外部奖励系统发布忠诚度奖励。
 
 ## 配置挑战
 
