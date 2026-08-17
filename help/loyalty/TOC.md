@@ -6,9 +6,9 @@ level: Beginner
 breadcrumb-title: 忠诚度
 breadcrumb-url: /docs/journey-optimizer-learn/loyalty/overview
 auto-video-transcripts: true
-source-git-commit: ac2e0d7217b3e0099b711c34e5793086835a3c15
+source-git-commit: 5b445c087b1f483523d1558a83f8defe7c24d21a
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,8 @@ ht-degree: 0%
 
 + [开始使用面向营销人员的Journey Optimizer忠诚度](./overview.md)
 + [了解Journey Optimizer忠诚度](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
++ 设置忠诚度 {#set-up-loyality}
+  + [设置忠诚度奖励提供商](./set-up-loyalty/set-up-a-loyalty-reward-provider.md)
 + 配置挑战 {#configure-your-challenge}
   + [设置忠诚度挑战](./configure-your-challenge/set-up-a-loyalty-challenge.md)
   + [创建忠诚度挑战任务](./configure-your-challenge/create-tasks.md)
