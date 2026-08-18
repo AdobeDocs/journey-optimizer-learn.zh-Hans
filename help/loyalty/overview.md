@@ -7,9 +7,9 @@ level: Beginner
 doc-type: Tutorial
 jira: KT-21773
 last-substantial-update: 2026-07-28T00:00:00Z
-source-git-commit: 6313b2380e7b9a1cdd7b3ad1ba4b877fcc304000
+source-git-commit: 3612bdc9c50be6999eba47f3c6e68c82c2120d20
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '393'
 ht-degree: 10%
 
 ---
@@ -51,6 +51,6 @@ ht-degree: 10%
 此部分将向您展示如何通过内容卡和基于代码的体验向客户发起挑战。
 
 * [构建挑战内容卡](./apply-and-display-your-challenge/build-a-challenge-content-card.md)
-了解如何构建基于内容卡/代码的挑战体验，其中涵盖选择加入以及选择加入、进展和已结束阶段的动态进展，外加奖励和渠道配置。
+了解如何构建挑战内容卡，内容涵盖选择加入以及选择加入、进度和已完成的阶段中的动态进度，外加奖励和渠道配置。
 * [为您的挑战设置生命周期消息传递](./apply-and-display-your-challenge/set-up-lifecycle-messaging-for-your-challenge.md)
 了解如何为忠诚度挑战的每个阶段配置多渠道消息，从邀请和参与消息到完成和奖励通知。
