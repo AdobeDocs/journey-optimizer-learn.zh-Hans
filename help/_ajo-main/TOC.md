@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: 9a3164399d0a0e0f1434650e1f7a7bca55eb9793
+source-git-commit: e168e56efe575659b5f48e97af77b899f8b6c962
 workflow-type: tm+mt
 source-wordcount: '1573'
 ht-degree: 99%
@@ -64,7 +64,7 @@ ht-degree: 99%
     + [用例 - 受众资格筛选](/help/journeys/use-case-audience-qualification.md)
   + 教程{#tutorials}
     + [在提交表单时触发历程](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
-+ [忠诚度](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/loyalty/overview)
++ [忠诚度](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/loyalty/overview){target="_blank"}
 + 冲突管理和优先级排序 {#conflict-management}
   + [识别潜在冲突](/help/conflict-management/identify-potential-conflicts.md)
   + [分配优先级分数](/help/conflict-management/assign-priority-score.md)
@@ -178,7 +178,7 @@ ht-degree: 99%
       + [使用决策功能对电子邮件进行个性化（教程）](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction){target="_blank"}
       + [在推送通知中使用决策功能](/help/decisioning/decisioning-in-push-notifications.md)
       + [在短信消息中使用决策功能](/help/decisioning/use-decisioning-in-an-sms-message.md)
-      + {hide-from-toc}[在 Web 可视化编辑器中使用决策](/help/decisioning/use-decisioning-within-the-web-visual-editor.md)
+      + [在Web可视编辑器中使用决策](/help/decisioning/use-decisioning-within-the-web-visual-editor.md)
       + [使用决策对 Web 优惠进行个性化（教程）](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
       + [将 Experience Manager 内容片段与 Decisioning 结合使用](/help/decisioning/use-aem-content-fragments-with-ajo-decisioning.md)
     + 从外部触发器和交互触发决策 {#trigger}

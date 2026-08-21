@@ -6,9 +6,9 @@ level: Beginner
 breadcrumb-title: 忠诚度
 breadcrumb-url: /docs/journey-optimizer-learn/loyalty/overview
 auto-video-transcripts: true
-source-git-commit: 96600e2e66fc410a7f265824f3e05c7511b94d25
+source-git-commit: e168e56efe575659b5f48e97af77b899f8b6c962
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
@@ -29,5 +29,6 @@ ht-degree: 0%
   + [构建挑战内容卡](./apply-and-display-your-challenge/build-a-challenge-content-card.md)
   + [使用基于代码的体验渠道显示挑战内容](./apply-and-display-your-challenge/display-challenge-content-using-code-based-experience-channel.md)
   + [设置生命周期消息传送以应对您的挑战](./apply-and-display-your-challenge/set-up-lifecycle-messaging-for-your-challenge.md)
+  + [发布挑战并生成旅程](./apply-and-display-your-challenge/publish-a-challenge-and-generate-a-journey.md)
 + 分析和报告 {#analyze-and-report}
   + [使用质询报告衡量质询性能](./analyze-and-report/measure-performance-with-challenge-reports.md)
