@@ -23,4 +23,4 @@ ht-degree: 0%
 
 了解如何设置奖励提供商、创建奖励定义和配置奖励负载，以便Adobe Journey Optimizer可以通过您的外部奖励系统发布忠诚度奖励。
 
->[!VIDEO](https://video.tv.adobe.com/v/3497346/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497417/?captions=chi_hans&learn=on&enablevpops)
