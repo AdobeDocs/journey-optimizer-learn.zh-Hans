@@ -19,4 +19,4 @@ ht-degree: 0%
 
 快速模拟通过自动化关键流程简化了测试客户历程。 它可以生成测试用户档案、协调事件、加快等待时间并验证场景。 此工具有助于确保在发布之前复杂历程按预期运行，从而节省时间并提高准确性。
 
->[!VIDEO](https://video.tv.adobe.com/v/3497475/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497483/?captions=chi_hans&learn=on&enablevpops)

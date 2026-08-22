@@ -28,4 +28,4 @@ ht-degree: 0%
 
 了解如何使用HTML或JSON在应用程序中通过基于代码的体验来提升忠诚度、显示挑战进度和提供个性化内容。
 
->[!VIDEO](https://video.tv.adobe.com/v/3497465/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497473/?captions=chi_hans&learn=on&enablevpops)
