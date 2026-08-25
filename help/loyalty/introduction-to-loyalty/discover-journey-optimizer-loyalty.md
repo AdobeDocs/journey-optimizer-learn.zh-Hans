@@ -31,4 +31,4 @@ ht-degree: 0%
 
 了解如何使用Adobe Journey Optimizer Loyalty通过AI支持的见解、自适应gamification和统一的客户配置文件促进参与和忠诚度结果，将忠诚度数据转化为个性化体验。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496441/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496459/?captions=chi_hans&learn=on&enablevpops)

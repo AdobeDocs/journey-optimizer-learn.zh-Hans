@@ -31,4 +31,4 @@ ht-degree: 0%
 
 了解如何使用挑战报表和绩效仪表板衡量参与率、完成率、收入归因和整体忠诚度计划绩效。
 
->[!VIDEO](https://video.tv.adobe.com/v/3497534/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497567/?captions=chi_hans&learn=on&enablevpops)

@@ -31,4 +31,4 @@ ht-degree: 0%
 
 了解如何通过选择正确的挑战类型、配置受众和时间表、定义参与规则以及控制如何跟踪和奖励进度来设置忠诚度挑战。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496471/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496479/?captions=chi_hans&learn=on&enablevpops)

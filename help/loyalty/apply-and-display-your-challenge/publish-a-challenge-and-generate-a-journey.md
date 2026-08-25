@@ -33,4 +33,4 @@ ht-degree: 0%
 
 了解如何发布挑战并自动生成历程。 了解如何将挑战通信转换为历程编排，审查生成的历程结构，并使用其他条件、决策或优化逻辑对其进行自定义。
 
->[!VIDEO](https://video.tv.adobe.com/v/3498577/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3498585/?captions=chi_hans&learn=on&enablevpops)

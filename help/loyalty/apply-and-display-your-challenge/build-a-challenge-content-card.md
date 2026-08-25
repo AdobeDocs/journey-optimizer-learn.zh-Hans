@@ -32,4 +32,4 @@ ht-degree: 0%
 
 了解如何使用预建模板、图像、按钮和应用程序配置构建挑战内容信息卡，以提升忠诚度挑战并在应用程序中显示参与者的进度。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496529/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496537/?captions=chi_hans&learn=on&enablevpops)

@@ -31,4 +31,4 @@ ht-degree: 0%
 
 了解如何为忠诚度挑战的每个阶段配置多渠道消息，从邀请和参与消息到完成和奖励通知。
 
->[!VIDEO](https://video.tv.adobe.com/v/3497455/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497463/?captions=chi_hans&learn=on&enablevpops)
