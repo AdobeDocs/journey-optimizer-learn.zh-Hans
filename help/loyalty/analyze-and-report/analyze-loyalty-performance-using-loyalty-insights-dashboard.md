@@ -33,4 +33,4 @@ ht-degree: 0%
 
 探索忠诚度分析仪表板，了解AI生成的分析如何帮助您识别忠诚度计划绩效的重大变化、根据业务KPI排列调查结果的优先级，并对最重要的指标采取行动。
 
->[!VIDEO](https://video.tv.adobe.com/v/3502413/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502430/?captions=chi_hans&learn=on&enablevpops)
