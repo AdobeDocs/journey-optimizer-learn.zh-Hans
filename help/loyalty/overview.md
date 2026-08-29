@@ -386,7 +386,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./analyze-and-report/analyze-loyalty-performance-using-loyalty-insights-dashboard.md" title="使用忠诚度分析仪表板分析忠诚度表现" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502413/?format=jpeg&nocache=1787869054083" alt="使用忠诚度分析仪表板分析忠诚度表现"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502430/?captions=chi_hans&format=jpeg&nocache=1787869054083" alt="使用忠诚度分析仪表板分析忠诚度表现"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
