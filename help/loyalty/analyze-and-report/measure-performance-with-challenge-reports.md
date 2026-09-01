@@ -31,4 +31,4 @@ ht-degree: 0%
 
 使用挑战报表和功能板衡量忠诚度计划的参与率、完成率和收入。
 
->[!VIDEO](https://video.tv.adobe.com/v/3497534/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497567/?captions=chi_hans&learn=on&enablevpops)

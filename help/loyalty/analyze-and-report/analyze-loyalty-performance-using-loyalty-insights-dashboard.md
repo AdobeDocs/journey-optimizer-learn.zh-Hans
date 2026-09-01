@@ -19,4 +19,4 @@ ht-degree: 0%
 
 探索忠诚度分析仪表板，在该仪表板中，AI生成的分析可显示重大更改并按KPI排列结果的优先级。
 
->[!VIDEO](https://video.tv.adobe.com/v/3502413/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502430/?captions=chi_hans&learn=on&enablevpops)
