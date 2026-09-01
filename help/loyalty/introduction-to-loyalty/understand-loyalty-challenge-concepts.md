@@ -6,11 +6,17 @@ publish: true
 jira: KT-22490
 autotag-review: '2026-08-31T23:24:52.116Z'
 TQID: 'https://experienceleague.adobe.com/7Zfph4De6BNcMSk0oQ70f2nJ4PLExFoma-sJzdh2qYw'
-product_v2: id: cb954087-f4fc-4456-afb9-e939cabcdc79
-feature_v2: id: df64005d-8f9a-422e-ba4d-c6f6dc3454b4
-subfeature_v2: id: d48edf2f-7bae-4df0-a9d4-7cabfb867d23
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+feature_v2:
+  - id: df64005d-8f9a-422e-ba4d-c6f6dc3454b4
+subfeature_v2:
+  - id: d48edf2f-7bae-4df0-a9d4-7cabfb867d23
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 source-git-commit: ec6a72a4743d05e19d86970f54d15ef3a7eff842
 workflow-type: tm+mt
 source-wordcount: 702
@@ -95,7 +101,7 @@ ht-degree: 0%
 
 ![幻灯片屏幕快照](../../assets/kt-22490/Slide7.png)
 
-### 
+### &#x200B;
 
 
 
