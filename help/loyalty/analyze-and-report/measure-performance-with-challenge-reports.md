@@ -1,6 +1,6 @@
 ---
 title: 使用质询报告衡量质询性能
-description: 了解如何使用挑战报表和绩效仪表板衡量参与率、完成率、收入归因和整体忠诚度计划绩效。
+description: 使用挑战报表和功能板衡量忠诚度计划的参与率、完成率和收入。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -19,9 +19,9 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b37854eacf05b80bcb24c94fe9248cfe18c7ac02
+source-git-commit: 6494b51da77e23e184d33e235fd612700b2a801d
 workflow-type: tm+mt
-source-wordcount: 54
+source-wordcount: 44
 ht-degree: 0%
 
 ---
@@ -29,6 +29,6 @@ ht-degree: 0%
 
 # 使用质询报告衡量质询性能
 
-了解如何使用挑战报表和绩效仪表板衡量参与率、完成率、收入归因和整体忠诚度计划绩效。
+使用挑战报表和功能板衡量忠诚度计划的参与率、完成率和收入。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3497567/?captions=chi_hans&learn=on&enablevpops)
