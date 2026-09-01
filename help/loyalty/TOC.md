@@ -1,24 +1,24 @@
 ---
-user-guide-title: Journey Optimizer Loyalty入门
-user-guide-description: 了解如何载入Adobe Journey Optimizer Loyalty、配置挑战、应用和显示挑战并分析其性能。
+user-guide-title: Journey Optimizer忠诚度入门
+user-guide-description: 了解如何加入Adobe Journey Optimizer忠诚度、配置挑战、应用和显示挑战并分析其效果。
 role: User
 level: Beginner
 breadcrumb-title: 忠诚度
 breadcrumb-url: /docs/journey-optimizer-learn/loyalty/overview
 auto-video-transcripts: true
-source-git-commit: ec6a72a4743d05e19d86970f54d15ef3a7eff842
+source-git-commit: 3062d3cfc74a3e6c578d9c5282ec2ac07185033a
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
 
 
-# Journey Optimizer Loyalty入门 {#loyalty}
+# Journey Optimizer忠诚度入门 {#loyalty}
 
-+ [Journey Optimizer Loyalty营销人员入门](./overview.md)
-+ [了解Journey Optimizer Loyalty](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
-+ {hide-from-toc}[了解忠诚度挑战概念](./introduction-to-loyalty/understand-loyalty-challenge-concepts.md)
++ [开始使用面向营销人员的Journey Optimizer忠诚度](./overview.md)
++ 忠诚度简介 {#introduction}
+  + [了解Journey Optimizer忠诚度](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
 + 设置忠诚度 {#set-up-loyality}
   + [设置忠诚度奖励提供商](./set-up-loyalty/set-up-a-loyalty-reward-provider.md)
 + 配置挑战 {#configure-your-challenge}
