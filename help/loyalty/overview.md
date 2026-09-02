@@ -1,6 +1,6 @@
 ---
-title: Journey Optimizer忠诚度入门
-description: 了解如何加入Adobe Journey Optimizer忠诚度、配置挑战、应用和显示挑战并分析其效果。
+title: Journey Optimizer Loyalty入门
+description: 了解如何载入Adobe Journey Optimizer Loyalty、配置挑战、应用和显示挑战并分析其性能。
 topic: Get Started
 role: User
 level: Beginner
@@ -24,7 +24,7 @@ topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 356f2f8512bc4be640f00d5e9cbdd45d2ddb007c
+source-git-commit: fe7c7987788fc67bb5c7a58f61fa829f9e6146c1
 workflow-type: tm+mt
 source-wordcount: 1405
 ht-degree: 43%
@@ -32,7 +32,7 @@ ht-degree: 43%
 ---
 
 
-# Journey Optimizer忠诚度入门
+# Journey Optimizer Loyalty入门
 
 通过忠诚度挑战您可以创建极具吸引力的游戏化的忠诚度计划，以推动客户行为，深化品牌关系。 构建奖励客户特定行为的挑战，从购买和撰写评论到参与社交媒体和反向链接好友。
 
@@ -43,7 +43,7 @@ ht-degree: 43%
 <!--
 CARDS
 
-* https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/loyalty/discover-journey-optimizer-loyalty
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty
   {description = Understand what Journey Optimizer Loyalty is, where it sits under AJO, and the challenge lifecycle.}
 
 -->
@@ -53,8 +53,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/loyalty/discover-journey-optimizer-loyalty" title="了解Journey Optimizer忠诚度" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496459/?captions=chi_hans&format=jpeg&nocache=1787869052840" alt="了解Journey Optimizer忠诚度"
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/loyalty/discover-journey-optimizer-loyalty" title="了解Journey Optimizer Loyalty" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496459/?captions=chi_hans&format=jpeg&nocache=1787869052840" alt="了解Journey Optimizer Loyalty"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -62,11 +62,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/loyalty/discover-journey-optimizer-loyalty" target="_blank" rel="referrer" title="了解Journey Optimizer忠诚度">发现Journey Optimizer忠诚度</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/loyalty/discover-journey-optimizer-loyalty" target="_blank" rel="referrer" title="了解Journey Optimizer Loyalty">发现Journey Optimizer Loyalty</a>
                     </p>
-                    <p class="is-size-6">了解Journey Optimizer忠诚度是什么、它在AJO下的位置以及挑战生命周期。</p>
+                    <p class="is-size-6">了解Journey Optimizer Loyalty是什么、它在AJO下的位置以及挑战生命周期。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/loyalty/discover-journey-optimizer-loyalty" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/loyalty/discover-journey-optimizer-loyalty" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看</span>
                 </a>
             </div>
