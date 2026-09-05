@@ -43,7 +43,7 @@ ht-degree: 43%
 <!--
 CARDS
 
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty
+* https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty
   {description = Understand what Journey Optimizer Loyalty is, where it sits under AJO, and the challenge lifecycle.}
 
 -->
@@ -53,7 +53,7 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/loyalty/discover-journey-optimizer-loyalty" title="了解Journey Optimizer Loyalty" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/loyalty/discover-journey-optimizer-loyalty" title="了解Journey Optimizer Loyalty" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496459/?captions=chi_hans&format=jpeg&nocache=1787869052840" alt="了解Journey Optimizer Loyalty"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -62,11 +62,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/loyalty/discover-journey-optimizer-loyalty" target="_blank" rel="referrer" title="了解Journey Optimizer Loyalty">发现Journey Optimizer Loyalty</a>
+                        <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/loyalty/discover-journey-optimizer-loyalty" target="_blank" rel="referrer" title="了解Journey Optimizer Loyalty">发现Journey Optimizer Loyalty</a>
                     </p>
                     <p class="is-size-6">了解Journey Optimizer Loyalty是什么、它在AJO下的位置以及挑战生命周期。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/loyalty/discover-journey-optimizer-loyalty" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/loyalty/discover-journey-optimizer-loyalty" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看</span>
                 </a>
             </div>
