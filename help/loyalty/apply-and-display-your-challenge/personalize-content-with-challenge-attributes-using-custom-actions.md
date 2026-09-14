@@ -35,4 +35,4 @@ ht-degree: 0%
 
 了解如何使用自定义操作检索挑战数据，并使用它根据每位成员的挑战进度和奖励动态地个性化内容卡和基于代码的体验。
 
->[!VIDEO](https://video.tv.adobe.com/v/3503375/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3503392/?captions=chi_hans&learn=on&enablevpops)
