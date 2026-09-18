@@ -9,7 +9,7 @@ duration: 89
 last-substantial-update: 2024-10-08
 jira: KT-16298
 exl-id: 016488db-6ecb-4bab-a9b2-c65f1075411a
-source-git-commit: 46d45d93310e930dff2cc491b76b19658630811f
+source-git-commit: b01ac079dd907d420e91dae44e47d11660587e2d
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 100%
@@ -22,4 +22,4 @@ ht-degree: 100%
 
 有关详细信息，请参阅[内容试验入门](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/content-management/content-experiment/get-started-experiment)。
 
->[!SLIDE](understand-loyalty-challenge-concepts)
+>[!SLIDE](experimentation-agent-overview)
