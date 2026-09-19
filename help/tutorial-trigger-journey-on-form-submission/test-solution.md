@@ -5,24 +5,23 @@ feature: Journeys
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-12-25T00:00:00Z
+last-substantial-update: 2025-12-25
 jira: KT-20014
-source-git-commit: 319b1cd4a037807a944e5fb6438e47b5fcf4c1c4
+exl-id: 9b4a3e0c-d153-4a6b-a7de-b926bd669f6a
+source-git-commit: d4cc60f4448caec92f704026783e2bbe029427f5
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '144'
 ht-degree: 0%
-
 ---
-
 # 测试解决方案
 
 
 测试解决方案
->[!VIDEO](https://video.tv.adobe.com/v/3478556?captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3478546)
 
 ## 部署示例资源
 
-如果未安装Node.js，请从此处[下载并](https://nodejs.org/)安装它
+如果未安装Node.js，请从此处](https://nodejs.org/)下载并[安装它
 
 通过运行以下命令来验证安装：
 
@@ -50,15 +49,13 @@ ht-degree: 0%
 
 * 解压缩[project-root.zip](assets/project-root.zip)的内容，并将其放置到`trigger-journey`文件夹中。
 
-* 在`public`文件夹中创建名为`trigger-journey`的文件夹
+* 在`trigger-journey`文件夹中创建名为`public`的文件夹
 * 使用适当的值更新`.env`文件。 创建HTTP Source连接时，可通过下载的cURL命令获得这些值。
 * 将[index.zip](assets/index.zip)的内容解压缩到`public`文件夹中
 
 ## 运行服务器
 
 确保您位于`trigger-journey`目录中。
-执行命令`node server.js`
+执行命令 `node server.js`
 将浏览器指向[网页](http://localhost:3000/)
 填写并提交表单。 旅程会触发，并会向在表单中输入的电子邮件ID发送电子邮件。
-
-

@@ -5,25 +5,24 @@ feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-06-10T00:00:00Z
+last-substantial-update: 2025-06-10
 recommendations: noDisplay, noCatalog
 jira: KT-18258
-source-git-commit: c04a15418e31dc82597b7759386907013728bb0d
+exl-id: 23a9d36f-ac2c-42a5-b08d-79c7118920c9
+source-git-commit: b4cf9b677c6bc142e1013649db16b3a70b405052
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '260'
 ht-degree: 0%
-
 ---
-
 # 创建排名公式
 
 Adobe Journey Optimizer中的排名公式在Offer Decisioning过程中使用，尤其是在选择策略中，用于确定符合条件的优惠的优先级顺序。 资格筛选后，当多个选件符合给定用户档案的条件，但根据业务逻辑或用户档案上下文，只能呈现前一个（或少数个）时，排名公式就会起作用。
 
 * 登录到Journey Optimizer
 
-* 导航到&#x200B;_&#x200B;**决策 — >策略设置 — >排名公式 — >创建公式**&#x200B;_
+* 导航到&#x200B;_**决策 — >策略设置 — >排名公式 — >创建公式**_
 
-命名公式&#x200B;_&#x200B;**天气 — 相关 — 选件**&#x200B;_
+命名公式&#x200B;_**天气 — 相关 — 选件**_
 
 
 

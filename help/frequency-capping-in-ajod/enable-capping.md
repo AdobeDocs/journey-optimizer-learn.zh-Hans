@@ -5,15 +5,14 @@ feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2026-01-21T00:00:00Z
+last-substantial-update: 2026-01-21
 jira: KT-18526
-source-git-commit: bef6d831c639d40514552dae3ff20132626a4a09
+exl-id: 34027499-0037-4ea1-813b-51be15eafe24
+source-git-commit: d4cc60f4448caec92f704026783e2bbe029427f5
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '230'
 ht-degree: 0%
-
 ---
-
 # 为AJO营销活动启用频度上限
 
 要对选件应用频率封顶，请完成以下步骤：
@@ -47,5 +46,3 @@ ht-degree: 0%
 ## 发送展示和跟踪事件
 
 修改现有的JavaScript代码，以使用Adobe Web SDK捕获优惠展示和交互事件并将这些事件发送到Adobe Experience Platform。 请参阅此处提供的[示例代码。](capture-impression-click-events.md)
-
-

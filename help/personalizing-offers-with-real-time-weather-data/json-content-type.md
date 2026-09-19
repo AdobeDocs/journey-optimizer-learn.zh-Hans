@@ -1,20 +1,19 @@
 ---
 title: 在Adobe Journey Optimizer中交付包含JSON内容的Personalization
-description: 利用Adobe Journey Optimizer (AJO)中的JSON内容类型构建灵活的数据驱动型个性化体验。
+description: 在 Adobe Journey Optimizer（AJO）中利用 JSON 内容类型，构建灵活且以数据为驱动的个性化体验。
 feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-06-18T00:00:00Z
+last-substantial-update: 2025-06-18
 jira: KT-18387
 recommendations: noDisplay, noCatalog
-source-git-commit: 9f5b52063605832a9b00c05fb1a93bf60ec7686f
+exl-id: a09beca4-9266-4004-9831-d3c706b631a5
+source-git-commit: b4cf9b677c6bc142e1013649db16b3a70b405052
 workflow-type: tm+mt
-source-wordcount: '489'
-ht-degree: 0%
-
+source-wordcount: '501'
+ht-degree: 3%
 ---
-
 # 在Adobe Journey Optimizer中交付包含JSON内容的Personalization
 
 此部分作为附加资源提供，供希望更好地控制选件在前端呈现方式的高级用户使用。
