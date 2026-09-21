@@ -3,13 +3,11 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: e168e56efe575659b5f48e97af77b899f8b6c962
+source-git-commit: f63c9bad8aa86867296132baa3f2a3be58883a9d
 workflow-type: tm+mt
-source-wordcount: '1573'
-ht-degree: 99%
-
+source-wordcount: '1579'
+ht-degree: 98%
 ---
-
 
 # Journey Optimizer 教程 {#tutorials}
 
@@ -104,6 +102,7 @@ ht-degree: 99%
     + [为应用程序内消息配置内容试验](/help/experimentation/content-experiments-for-in-app-messages.md)
   + 实时活动 {#live-activities}
     + [iOS 实时活动](/help/channels/ios-live-activities.md)
+    + [为Android设置实时更新](/help/channels/android-live-updates.md)
   + 推送渠道{#push-channel}
     + [推送通知 - 概述](/help/channels/push-notifications-overview.md)
     + [配置和发送推送营销活动](/help/channels/create-a-push-campaign.md)
