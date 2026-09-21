@@ -15,7 +15,7 @@ Adobe Journey Optimizer支持两种主要移动平台上的实时活动：
 * **[iOS Live活动](/help/channels/ios-live-activities.md)**： iPhone锁屏界面和Dynamic Island上的丰富实时更新。
 * **[Android Live更新](/help/channels/android-live-updates.md)**： Android通知栏中的实时、持久更新。
 
-要配置Mobile SDK并使用API启动、更新和结束客户历程中的实时体验，请参阅[配置实时活动](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/live-activity/configure-live-activity/mobile-live-configuration-sdk){target="_blank"}。
+要配置Mobile SDK并使用API启动、更新和结束客户历程中的实时体验，请参阅[配置实时活动](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/channels/live-activity/configure-live-activity/mobile-live-configuration-sdk){target="_blank"}。
 
 ## 用例
 
