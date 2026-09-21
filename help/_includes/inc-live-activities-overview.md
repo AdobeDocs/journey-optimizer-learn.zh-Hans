@@ -1,5 +1,5 @@
 ---
-source-git-commit: 084d4d9457db32e30855cd6466439b1de96f2b68
+source-git-commit: fc279f2ff41f624e4a6a0c4c930cedfcc2745dc5
 workflow-type: tm+mt
 source-wordcount: '360'
 ht-degree: 3%
@@ -12,10 +12,10 @@ ht-degree: 3%
 
 Adobe Journey Optimizer支持两种主要移动平台上的实时活动：
 
-* **[iOS Live活动](/help/channels/ios-live-activities.md)** — iPhone锁屏界面和Dynamic Island上的实时丰富更新。
-* **[Android Live更新](/help/channels/android-live-updates.md)** — Android通知栏中的实时、持久更新。
+* **[iOS Live活动](/help/channels/ios-live-activities.md)**： iPhone锁屏界面和Dynamic Island上的丰富实时更新。
+* **[Android Live更新](/help/channels/android-live-updates.md)**： Android通知栏中的实时、持久更新。
 
-要配置Mobile SDK并使用API启动、更新和结束客户历程中的实时体验，请参阅[配置实时活动](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/channels/live-activity/configure-live-activity/mobile-live-configuration-sdk){target="_blank"}。
+要配置Mobile SDK并使用API启动、更新和结束客户历程中的实时体验，请参阅[配置实时活动](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/live-activity/configure-live-activity/mobile-live-configuration-sdk){target="_blank"}。
 
 ## 用例
 
@@ -30,7 +30,7 @@ Adobe Journey Optimizer支持两种主要移动平台上的实时活动：
 
 ## 当&#x200B;*不*&#x200B;使用实时活动时
 
-* 对于没有明确结尾的长期运行或开放状态 — 在基础进程完成后结束活动。
+* 对于没有明确结尾的长期运行或开放状态 — 在基础流程完成后结束活动。
 * 对于促销或营销内容 — 请改用推送通知、应用程序内消息或内容卡。
-* 当更新节奏很高时，频繁的更新可能会被OS限制或让用户感到噪音。
+* 当更新节奏很高时 — 频繁的更新可能会被操作系统限制或让用户感到噪音。
 * 如果您的应用程序不支持iOS Live活动或Android Live更新所需的最低操作系统版本。
