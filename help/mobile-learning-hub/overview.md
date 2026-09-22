@@ -6,15 +6,13 @@ role: User, Admin, Developer
 hide: false
 index: true
 jira: KT-19860
-last-substantial-update: 2025-12-18T00:00:00Z
+last-substantial-update: 2025-12-18
 exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+source-git-commit: 1b8691391bcbe2f8dfa8c8b7f98058933af11a15
 workflow-type: tm+mt
-source-wordcount: '944'
+source-wordcount: '973'
 ht-degree: 5%
-
 ---
-
 # Journey Optimizer — 移动学习中心
 
 通过 Adobe Journey Optimizer 快速启动或提升您的移动设备参与度策略。 移动学习中心为开发人员、管理员、营销人员和分析师提供了配置入站与出站移动渠道所需的一切，使他们能够将这些渠道无缝集成到强大的跨渠道营销活动和客户历程中。
@@ -34,9 +32,9 @@ Journey Optimizer支持入站和出站移动渠道：
 
 Adobe Journey Optimizer中的所有出站渠道在消息发送时强制实施自定义同意策略。 如果未授予对特定营销操作的同意，则将自动禁止显示该消息，以确保符合规范的投放。
 
-| ![推送通知](/help/mobile-learning-hub/assets/mobile-phone.webp){width=&quot;250&quot;， height=&quot;250&quot;}<br> **[推送通知](/help/mobile-learning-hub/channels/push-notifications-overview.md)** | ![SMS/MMS/RCS](/help/mobile-learning-hub/assets/SMS.png){width=&quot;250&quot;， height=&quot;250&quot;}<br> **[短信/彩信/RCS](/help/mobile-learning-hub/channels/sms-mms-rcs-overview.md)** | ![WhatsApp](/help/mobile-learning-hub/assets/whatsapp.webp){width=&quot;250&quot;， height=&quot;250&quot;}<br> **[WhatsApp](/help/mobile-learning-hub/channels/whatsapp-overview.md)** |
-|-------------------------------------|------------------------------------|-------------------------------|
-| 推送消息在应用程序外部发送，会立即吸引关注。 它们非常适用于对时间敏感的更新，并鼓励用户返回您的应用程序。 | 无需应用程序即可直接将消息发送到用户的手机。 非常适用于紧急警报、提醒和富媒体内容，如图像或视频。 | 通过广泛使用的消息传送应用程序提供对话渠道，从而允许个性化、双向通信和交互式营销活动。 |
+| ![推送通知](/help/mobile-learning-hub/assets/mobile-phone.webp){width=&quot;250&quot;， height=&quot;250&quot;}<br> **[推送通知](/help/mobile-learning-hub/channels/push-notifications-overview.md)** | ![SMS/MMS/RCS](/help/mobile-learning-hub/assets/SMS.png){width=&quot;250&quot;， height=&quot;250&quot;}<br> **[短信/彩信/RCS](/help/mobile-learning-hub/channels/sms-mms-rcs-overview.md)** | ![WhatsApp](/help/mobile-learning-hub/assets/whatsapp.webp){width=&quot;250&quot;， height=&quot;250&quot;}<br> **[WhatsApp](/help/mobile-learning-hub/channels/whatsapp-overview.md)** | ![实时活动](/help/mobile-learning-hub/assets/live-activities.png){width=&quot;250&quot;， height=&quot;250&quot;}<br> **[实时活动](/help/mobile-learning-hub/channels/live-activities-overview.md)** |
+|-------------------------------------|------------------------------------|-------------------------------|-------------------------------|
+| 推送消息在应用程序外部发送，会立即吸引关注。 它们非常适用于对时间敏感的更新，并鼓励用户返回您的应用程序。 | 无需应用程序即可直接将消息发送到用户的手机。 非常适用于紧急警报、提醒和富媒体内容，如图像或视频。 | 通过广泛使用的消息传送应用程序提供对话渠道，从而允许个性化、双向通信和交互式营销活动。 | 在Lock Screen、Dynamic Island或通知阴影上实时、持续更新，以便在活动进行时随时告知客户。 |
 
 ### 入站渠道
 

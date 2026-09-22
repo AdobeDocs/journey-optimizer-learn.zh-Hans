@@ -6,15 +6,13 @@ level: Beginner, Intermediate
 hide: false
 index: true
 jira: KT-19870
-last-substantial-update: 2025-12-18T00:00:00Z
+last-substantial-update: 2025-12-18
 exl-id: ea3ada11-8b2f-47d0-89d2-c22dc87f36be
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+source-git-commit: 084d4d9457db32e30855cd6466439b1de96f2b68
 workflow-type: tm+mt
-source-wordcount: '3509'
-ht-degree: 68%
-
+source-wordcount: '3622'
+ht-degree: 67%
 ---
-
 # 设计和交付
 
 了解如何使用Adobe Journey Optimizer构建和提供有影响力的移动通信。 了解如何创建、设计和发送各种消息类型，包括推送通知、应用程序内消息、内容卡、短信/彩信/RCS、WhatsApp营销消息，以及针对您的受众定制并针对移动参与度优化的基于代码的体验。
@@ -124,7 +122,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-in-push-notifications" target="_blank" rel="referrer" title="使用 AJO Decisioning 优化推送通知">通过 AJO 决策优化推送通知</a>
                     </p>
-                    <p class="is-size-6">使用 AJO Decisioning 通过个性化的推送通知增强参与度。 创建量身定制的优惠并分析营销活动效果。</p>
+                    <p class="is-size-6">使用 AJO Decisioning 通过个性化的推送通知增强参与度。 创建量身定制的优惠并分析营销活动绩效。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-in-push-notifications" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看</span>
@@ -273,6 +271,32 @@ CARDS
 | ![创建和配置内容卡&#x200B;](./assets/configuration.svg) [**创建和配置内容卡**](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/channels/content-card/create-content-card){target="_blank"} | ![设计内容卡&#x200B;](./assets/content-management.png){width="50"}[**设计内容卡**](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/channels/content-card/design-content-card){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
+>[!TAB 实时活动]
+
+### 实时活动
+
+>[!PREREQUISITES]
+>
+> 1. 验证该应用程序是否已与Mobile SDK集成并配置了Live Activity扩展（请参阅[配置实时活动](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/channels/live-activity/configure-live-activity/mobile-live-configuration-sdk){target="_blank"}）。
+> 2. 确保客户配置文件和受众区段准备好进行定位。
+
+#### iOS 实时活动
+
+了解如何通过 Adobe Journey Optimizer 配置 iOS 实时活动，在 iPhone 锁屏与灵动岛上呈现丰富的实时动态。
+
+>[!VIDEO](https://video.tv.adobe.com/v/3479874/?captions=chi_hans&learn=on&enablevpops)
+
+#### Android实时更新
+
+了解如何在Adobe Journey Optimizer中创建和提供Android Live更新，从而实现实时、永久的客户体验，以使用户在活动进行时了解最新信息。
+
+>[!VIDEO](https://video.tv.adobe.com/v/3503646/?learn=on&enablevpops)
+
+#### 产品文档
+
+| ![配置实时活动&#x200B;](./assets/configuration.svg) [**配置实时活动**](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/channels/live-activity/configure-live-activity/mobile-live-configuration-sdk){target="_blank"} |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
 >[!TAB 短信/彩信/RCS]
 
 ### 短信/彩信/RCS消息
@@ -307,7 +331,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-mms-messages-overview" target="_blank" rel="referrer" title="短信/彩信消息 - 概述">短信/彩信消息 - 概述</a>
                     </p>
-                    <p class="is-size-6">了解如何创建、计划和分发短信和彩信消息，以便在旅途中轻松联系客户。</p>
+                    <p class="is-size-6">了解如何创建、计划和分发短信和彩信消息，以便轻松随时随地联系客户。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-mms-messages-overview" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看</span>

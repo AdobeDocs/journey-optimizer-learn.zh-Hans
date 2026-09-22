@@ -7,15 +7,13 @@ level: Beginner, Intermediate
 hide: false
 index: true
 jira: KT-19869
-last-substantial-update: 2025-12-18T00:00:00Z
+last-substantial-update: 2025-12-18
 exl-id: d8ffe406-b54b-455f-bd41-7d1fef0a4714
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+source-git-commit: 084d4d9457db32e30855cd6466439b1de96f2b68
 workflow-type: tm+mt
-source-wordcount: '2976'
-ht-degree: 23%
-
+source-wordcount: '3810'
+ht-degree: 35%
 ---
-
 
 # 配置并启动
 
@@ -156,7 +154,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/zh-hans/docs/platform-learn/implement-mobile-sdk/overview" target="_blank" rel="referrer" title="在移动应用程序中实施Adobe Experience Cloud教程">在移动应用程序中实施 Adobe Experience Cloud 指南</a>
                     </p>
-                    <p class="is-size-6">了解如何实施Adobe Experience Cloud移动应用程序。 本教程将指导您在一个Swift或Android示例应用程序中实施Experience Cloud应用程序。</p>
+                    <p class="is-size-6">了解如何实施Adobe Experience Cloud移动应用程序。 本教程将指导您在Swift或Android示例应用程序中实施Experience Cloud应用程序。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hans/docs/platform-learn/implement-mobile-sdk/overview" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
@@ -192,9 +190,9 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://developer.adobe.com/client-sdks/home/getting-started/get-the-sdk" target="_blank" rel="referrer" title="获取Adobe Experience Platform Mobile SDK">Get the Adobe Experience Platform Mobile SDK</a>
+                        <a href="https://developer.adobe.com/client-sdks/home/getting-started/get-the-sdk" target="_blank" rel="referrer" title="获取Adobe Experience Platform Mobile SDK">获取Adobe Experience Platform Mobile SDK</a>
                     </p>
-                    <p class="is-size-6">A guide that explains how to install the Adobe Experience Platform Mobile SDK in your application.</p>
+                    <p class="is-size-6">本指南将介绍如何在应用程序中安装Adobe Experience Platform Mobile SDK。</p>
                 </div>
                 <a href="https://developer.adobe.com/client-sdks/home/getting-started/get-the-sdk" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
@@ -206,8 +204,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://developer.adobe.com/client-sdks/home/base/assurance" title="Adobe Experience Platform Assurance overview" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://developer.adobe.com/shared/images/adobe-social-share.png" alt="Adobe Experience Platform Assurance overview"
+                    <a href="https://developer.adobe.com/client-sdks/home/base/assurance" title="Adobe Experience Platform Assurance概述" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://developer.adobe.com/shared/images/adobe-social-share.png" alt="Adobe Experience Platform Assurance概述"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -215,9 +213,9 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://developer.adobe.com/client-sdks/home/base/assurance" target="_blank" rel="referrer" title="Adobe Experience Platform Assurance overview">Adobe Experience Platform Assurance overview</a>
+                        <a href="https://developer.adobe.com/client-sdks/home/base/assurance" target="_blank" rel="referrer" title="Adobe Experience Platform Assurance概述">Adobe Experience Platform Assurance概述</a>
                     </p>
-                    <p class="is-size-6">An overview for the Adobe Experience Platform Assurance mobile extension.</p>
+                    <p class="is-size-6">Adobe Experience Platform Assurance移动扩展概述。</p>
                 </div>
                 <a href="https://developer.adobe.com/client-sdks/home/base/assurance" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
@@ -228,17 +226,17 @@ CARDS
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-#### Mobile SDK readiness checklist
+#### 移动SDK准备清单
 
-Before handing the app to marketers, confirm in **[Assurance](https://developer.adobe.com/client-sdks/home/base/assurance/){target="_blank"}** that:
+在将应用程序交付给营销人员之前，请在&#x200B;**[Assurance](https://developer.adobe.com/client-sdks/home/base/assurance/){target="_blank"}**&#x200B;中确认：
 
 >[!SUCCESS]
 > 
-> [ ] Core SDK + Journey Optimizer extensions are loaded,\
-> [ ] Events are flowing on the correct datastream and datasets,\
-> [ ]Identity and consent are present on all key events,\
-> [ ] Push tokens and interactions are tracked, and\
-> [ ] At least one test in‑app message or content card has been displayed and recorded as an impression.
+> [ ]核心SDK + Journey Optimizer扩展已加载，\
+> [ ]事件正在正确的数据流和数据集中流动，\
+> [ ]所有关键事件上均存在身份和同意，\
+> [ ]个推送令牌和交互已跟踪，并且\
+> [ ]至少显示了一个测试应用程序内消息或内容卡并将其记录为展示。
 
 
 ### 内容卡
@@ -266,7 +264,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/channels/content-card/configure/content-card-lp" target="_blank" rel="referrer" title="在 Mobile SDK 中配置内容卡支持">Configure content cards support in Mobile SDK</a>
+                        <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/channels/content-card/configure/content-card-lp" target="_blank" rel="referrer" title="在 Mobile SDK 中配置内容卡支持">在Mobile SDK中配置内容卡支持</a>
                     </p>
                     <p class="is-size-6">了解如何使用消息传送SDK在移动应用程序中集成内容卡。</p>
                 </div>
@@ -278,6 +276,29 @@ CARDS
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
+### 实时活动
+
+实时活动会在iOS锁屏/动态岛和Android的通知栏上提供实时、持续的更新，以随着活动的进行（例如，正在准备的订单或正在传送的投放）。
+
+>[!PREREQUISITES]
+>
+>**iOS**
+>
+> * iOS 16.1+用于基本实时活动，iOS 17.2+用于一键启动支持，iOS 18+用于广播频道支持。
+> * Xcode 14.0+和Swift 5.7+。
+> * AEP Mobile SDK： iOS Messaging 5.11.0或更高版本，以及&#x200B;**AEPMessagingLiveActivity**&#x200B;扩展和Apple的&#x200B;**ActivityKit**。
+
+要为实时活动配置Mobile SDK，请执行以下操作：
+
+1. 将&#x200B;**AEPMessaging**、**AEPMessagingLiveActivity**&#x200B;和&#x200B;**ActivityKit**&#x200B;框架导入iOS项目。
+2. 在符合`LiveActivityAttributes`的结构中定义活动的属性，其中`liveActivityData`属性（`liveActivityID`用于单个用户，或者`channelID`用于广播）和`ContentState`结构用于随时间更新的动态内容。
+3. 在SDK初始化后，在AppDelegate中调用`Messaging.registerLiveActivity()`以启用令牌收集和生命周期管理。
+4. 实施`ActivityConfiguration`以定义锁屏界面和Dynamic Island的构件UI。
+5. 除了从Journey Optimizer远程启动、更新和结束活动之外，还可以选择通过应用程序代码在本地触发活动。
+6. 或者，实施`LiveActivityAssuranceDebuggable`以调试Adobe Assurance中的实时活动。
+
+有关完整的配置参考，包括Android设置，请参阅[配置实时活动](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/channels/live-activity/configure-live-activity/mobile-live-configuration-sdk){target="_blank"}。
 
 ### WhatsApp
 
@@ -338,8 +359,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" title="配置短信 API 凭据和渠道平面" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3418543?captions=chi_hans&format=jpeg&nocache=1765310599850" alt="配置短信 API 凭据和渠道平面"
+                    <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" title="配置短信 API 凭据和渠道表面" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3418543?captions=chi_hans&format=jpeg&nocache=1765310599850" alt="配置短信 API 凭据和渠道表面"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -349,7 +370,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" target="_blank" rel="referrer" title="配置短信 API 凭据和渠道平面">配置SMS API凭据和渠道界面</a>
                     </p>
-                    <p class="is-size-6">了解如何将 Journey Optimizer 连接到短信服务提供商，以及如何创建短信渠道平面。</p>
+                    <p class="is-size-6">了解如何将 Journey Optimizer 连接到短信服务提供商，以及如何创建短信渠道表面。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看</span>
@@ -594,8 +615,8 @@ CARDS
 
 * 您是否使用引导式渠道设置所需的最低&#x200B;**Mobile Core**&#x200B;和&#x200B;**Journey Optimizer**&#x200B;扩展版本？
 * 在&#x200B;**Assurance**&#x200B;中，在扩展和事件下：
-   * 您是否看到预期的扩展已加载？
-   * 是否要将事件发送到Edge Network并进行确认？
+  * 您是否看到预期的扩展已加载？
+  * 是否要将事件发送到Edge Network并进行确认？
 
 **如何修复**
 
@@ -617,8 +638,8 @@ CARDS
 
 * 是否有人更改了为Journey Optimizer跟踪创建的&#x200B;**系统架构或数据集**？
 * 在您的&#x200B;**数据流**&#x200B;中：
-   * 体验事件是否映射到&#x200B;**事件数据集**？
-   * 配置文件属性是否映射到&#x200B;**配置文件数据集**？
+  * 体验事件是否映射到&#x200B;**事件数据集**？
+  * 配置文件属性是否映射到&#x200B;**配置文件数据集**？
 
 **如何修复**
 
@@ -640,10 +661,10 @@ CARDS
 **检查内容**
 
 * 是否已为Edge Network **实施**&#x200B;身份并发送稳定的主ID（例如，登录ID）？
-* Is **Consent for Edge Network** implemented and updated when preferences change?
+* 首选项更改时，Edge Network **的**&#x200B;同意是否已实现并更新？
 * 在&#x200B;**Assurance**&#x200B;中：
-   * 出站事件是否包含同意值？
-   * 它们是否始终包含ECID和您的主ID？
+  * 出站事件是否包含同意值？
+  * 它们是否始终包含ECID和您的主ID？
 
 **如何修复**
 
@@ -664,16 +685,16 @@ CARDS
 **检查内容**
 
 * 应用程序是否使用Journey Optimizer扩展注册推送令牌：
-   * 首次安装时？
-   * 每次应用程序更新后？
-   * 每当操作系统刷新令牌时？
+  * 首次安装时？
+  * 每次应用程序更新后？
+  * 每当操作系统刷新令牌时？
 * 当用户打开或关闭通知时，您是否在Assurance中看到跟踪事件？
 
 **如何修复**
 
 * 添加或更正以下代码：
-   * 在创建或刷新令牌时，通过Journey Optimizer Mobile扩展注册令牌。
-   * 通过Mobile SDK发送推送交互事件（打开、取消、自定义操作）。
+  * 在创建或刷新令牌时，通过Journey Optimizer Mobile扩展注册令牌。
+  * 通过Mobile SDK发送推送交互事件（打开、取消、自定义操作）。
 * 使用Assurance确认注册和跟踪事件是否按预期触发。
 
 请参阅：Adobe Journey Optimizer中的[推送通知流程](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/channels/push/push-config/push-gs){target="_blank"}
@@ -690,19 +711,19 @@ CARDS
 
 * **Journey Optimizer移动消息传送/应用程序内扩展**&#x200B;和&#x200B;**消息传送SDK**&#x200B;是否已安装并在应用程序中注册？
 * 在您的&#x200B;**标记**&#x200B;配置中：
-   * 您是否有规则来触发对正确事件（例如，屏幕查看或自定义事件）的请求？
+  * 您是否有规则来触发对正确事件（例如，屏幕查看或自定义事件）的请求？
 * 在&#x200B;**Assurance**&#x200B;中：
-   * 当这些事件触发时，您是否看到应用程序内或内容卡决策请求发出？
-   * 您看到来自Edge Network的响应吗？
+  * 当这些事件触发时，您是否看到应用程序内或内容卡决策请求发出？
+  * 您看到来自Edge Network的响应吗？
 
 **如何修复**
 
 * 安装并注册所需的消息传递扩展。
 * 添加或更正触发目标事件（屏幕、自定义事件）决策的规则。
 * 对于内容卡片，请确保您：
-   * 通过消息传送SDK API获取卡。
-   * 在您的UI中呈现它们。
-   * 通过SDK跟踪交互。
+  * 通过消息传送SDK API获取卡。
+  * 在您的UI中呈现它们。
+  * 通过SDK跟踪交互。
 
 请参阅：
 * [创建并发送应用程序内消息](https://experienceleague.adobe.com/zh-hans/docs/platform-learn/implement-mobile-sdk/experience-cloud/journey-optimizer/journey-optimizer-inapp){target="_blank"}
