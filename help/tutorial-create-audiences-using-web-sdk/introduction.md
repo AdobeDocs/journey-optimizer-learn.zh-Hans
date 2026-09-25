@@ -5,16 +5,14 @@ feature: Audiences
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-04-30T00:00:00Z
+last-substantial-update: 2025-04-30
 jira: KT-17923
 exl-id: ebaa3aa5-0a08-43fd-8d06-8e4b5d8dee05
 source-git-commit: 163edfb3367d03729d68c9339ee2af4a0fe3a1b3
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '268'
 ht-degree: 0%
-
 ---
-
 # 使用Web SDK创建受众
 
 在本教程中，您将了解如何通过Web表单捕获用户偏好设置，实时将该数据发送到Adobe Experience Platform (AEP)，以及根据用户的选择动态地授予目标受众资格。 通过将Adobe Tags (Launch)、AEP Web SDK (Alloy.js)和Edge Segmentation整合在一起，您能够为对股票、债券或存款证(CD)感兴趣的客户带来即时的个性化机会。

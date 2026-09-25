@@ -5,24 +5,22 @@ feature: Audiences
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-05-19T00:00:00Z
+last-substantial-update: 2025-05-19
 recommendations: noDisplay, noCatalog
 jira: KT-18089
 exl-id: b7bad65d-c978-4981-a914-6cb039433c8b
 source-git-commit: 6927cade07790603e711f4e6e4c3f6982a56e6f5
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '342'
 ht-degree: 0%
-
 ---
-
 # 测试身份拼接
 
 此示例应用程序模拟了一个真实登录流程，在将CRM ID发送到Adobe Experience Platform (AEP)之前，将在服务器端验证用户凭据。 本地Node.js服务器用于安全地提供网页、处理基本身份验证逻辑以及避免可能会妨碍Adobe Launch或Web SDK功能的浏览器限制（例如阻止本地文件访问或缺少CORS标头）。 这种设置可确保体验更接近真实的生产环境。
 
 ## 安装节点.js
 
-如果未安装Node.js，请从此处[下载并](https://nodejs.org/)安装它
+如果未安装Node.js，请从此处[&#128279;](https://nodejs.org/)下载并安装它
 
 通过运行以下命令来验证安装：
 
