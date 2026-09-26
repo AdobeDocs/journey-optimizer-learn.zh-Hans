@@ -290,7 +290,7 @@ CARDS
 
 了解如何在Adobe Journey Optimizer中创建和提供Android Live更新，从而实现实时、永久的客户体验，以使用户在活动进行时了解最新信息。
 
->[!VIDEO](https://video.tv.adobe.com/v/3503646/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3503654/?captions=chi_hans&learn=on&enablevpops)
 
 #### 产品文档
 
