@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
 source-git-commit: f63c9bad8aa86867296132baa3f2a3be58883a9d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1579'
-ht-degree: 98%
+ht-degree: 100%
 ---
 
 # Journey Optimizer 教程 {#tutorials}
@@ -102,7 +102,7 @@ ht-degree: 98%
     + [为应用程序内消息配置内容试验](/help/experimentation/content-experiments-for-in-app-messages.md)
   + 实时活动 {#live-activities}
     + [iOS 实时活动](/help/channels/ios-live-activities.md)
-    + [为Android设置实时更新](/help/channels/android-live-updates.md)
+    + [为 Android 设置实时更新](/help/channels/android-live-updates.md)
   + 推送渠道{#push-channel}
     + [推送通知 - 概述](/help/channels/push-notifications-overview.md)
     + [配置和发送推送营销活动](/help/channels/create-a-push-campaign.md)
@@ -177,7 +177,7 @@ ht-degree: 98%
       + [使用决策功能对电子邮件进行个性化（教程）](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction){target="_blank"}
       + [在推送通知中使用决策功能](/help/decisioning/decisioning-in-push-notifications.md)
       + [在短信消息中使用决策功能](/help/decisioning/use-decisioning-in-an-sms-message.md)
-      + [在Web可视编辑器中使用决策](/help/decisioning/use-decisioning-within-the-web-visual-editor.md)
+      + [在 Web 可视化编辑器中使用决策](/help/decisioning/use-decisioning-within-the-web-visual-editor.md)
       + [使用决策对 Web 优惠进行个性化（教程）](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
       + [将 Experience Manager 内容片段与 Decisioning 结合使用](/help/decisioning/use-aem-content-fragments-with-ajo-decisioning.md)
     + 从外部触发器和交互触发决策 {#trigger}
