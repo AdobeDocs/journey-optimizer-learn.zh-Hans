@@ -1,21 +1,19 @@
 ---
 title: 在基于AJO代码的体验中使用可编辑的表单字段
-description: 了解如何使用Adobe Journey Optimizer基于代码的体验模板中的内联表单字段创建可编辑的内容块，从而为营销人员提供动态、可重复使用的营销活动内容。
+description: 了解如何在 Adobe Journey Optimizer 的基于代码的体验模板中，使用内联表单字段创建可编辑的内容区块，从而为市场人员提供可动态编辑、可复用的营销活动内容。
 feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-06-22T00:00:00Z
+last-substantial-update: 2025-06-22
 recommendations: noDisplay, noCatalog
 jira: KT-18416
 exl-id: 0ba695d6-becb-440d-b0d0-de5b51b42562
 source-git-commit: 65d91d4fb0e978e62e5d95bf40355dcb8d27efb9
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 1%
-
+source-wordcount: '221'
+ht-degree: 22%
 ---
-
 # 在基于AJO代码的体验中使用可编辑的表单字段
 
 在许多营销历程（尤其是在受监管的行业）中，包含法律免责声明至关重要，该声明可能因促销活动、地理位置或产品而异。 通过直接在AJO Personalization编辑器中使用[可编辑字段](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/form-fields-in-code-based-experiences)，营销人员和法律团队可以保持对免责声明文本的完全控制，而无需涉及开发人员或修改决策逻辑。
@@ -25,9 +23,9 @@ ht-degree: 1%
 ## 在个性化编辑器中插入可编辑字段
 
 - 打开在之前步骤中创建的营销活动。
-- 单击&#x200B;_&#x200B;**修改营销活动**&#x200B;_
-- 导航到&#x200B;_&#x200B;**内容**&#x200B;_&#x200B;选项卡
-- 单击&#x200B;_&#x200B;**编辑代码**&#x200B;_，并在个性化编辑器中使用以下语法插入一个名为legalDisclaimer的可编辑字段，该字段具有默认值
+- 单击&#x200B;_**修改营销活动**_
+- 导航到&#x200B;_**内容**_&#x200B;选项卡
+- 单击&#x200B;_**编辑代码**_，并在个性化编辑器中使用以下语法插入一个名为legalDisclaimer的可编辑字段，该字段具有默认值
 
 - `{{#inline "legalDisclaimer" name="Legal Disclaimer"}} Legal Disclaimer will go here {{/inline}}`
 

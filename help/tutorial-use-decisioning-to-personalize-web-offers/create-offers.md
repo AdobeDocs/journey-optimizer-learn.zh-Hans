@@ -5,17 +5,15 @@ feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-05-05T00:00:00Z
+last-substantial-update: 2025-05-05
 recommendations: noDisplay, noCatalog
 jira: KT-17728
 exl-id: d705992a-0d47-4bb9-b3d8-b925974e64cb
 source-git-commit: 82d82b3aac2bf91e259b01fd8c6b4d6065f9640a
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '234'
 ht-degree: 1%
-
 ---
-
 # 创建产品建议
 
 AJO中的优惠项表示一段个性化内容。 内容可以是交付给用户的促销活动、消息或推荐（基于决策逻辑）。

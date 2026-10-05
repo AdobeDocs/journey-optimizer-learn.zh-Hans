@@ -5,17 +5,15 @@ feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-05-30T00:00:00Z
+last-substantial-update: 2025-05-30
 recommendations: noDisplay, noCatalog
 jira: KT-18188
 exl-id: 7dd49746-bea6-4679-9d88-d8f9d2aa5b52
 source-git-commit: 82d82b3aac2bf91e259b01fd8c6b4d6065f9640a
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: '346'
 ht-degree: 0%
-
 ---
-
 # 使用邮政编码定位创建基于位置的选件
 
 在创建选件之前，已对选件项目架构进行了扩展，以包含一个新字段：zipCode 。 通过此自定义字段，可使用每个选件的目标邮政编码明确标记该选件，从而在决策期间实现基于位置的过滤和排名。
