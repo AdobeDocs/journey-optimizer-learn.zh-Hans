@@ -18,4 +18,4 @@ ht-degree: 100%
 
 收藏集用于按逻辑组管理产品建议，并且是构建决策管理活动所必需的。 您可使用动态收藏集根据标记对产品建议进行分组，使用静态收藏集手动整理产品建议。
 
->[!VIDEO](https://video.tv.adobe.com/v/329376?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/346685?captions=chi_hans&quality=12&learn=on){transcript=true}
