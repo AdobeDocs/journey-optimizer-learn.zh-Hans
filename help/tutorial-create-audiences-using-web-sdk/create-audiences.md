@@ -48,7 +48,7 @@ Adobe Experience Platform中的受众是指根据用户的操作、偏好或配�
   * 对CD感兴趣的客户
 
 
-* 确保将每个受众的评估方法设置为&#x200B;_**Edge**_以进行实时资格鉴定。
+* 确保将每个受众的评估方法设置为&#x200B;_&#x200B;**Edge**&#x200B;_以进行实时资格鉴定。
   ![边缘受众](assets/audience-edge.png)
 
 * 使用PreferredFinancialInstrument字段根据用户选择的投资利息（如股票、债券或CD）划分用户
@@ -62,7 +62,7 @@ Adobe Experience Platform中的受众是指根据用户的操作、偏好或配�
 
 >[!NOTE]
 >
->>如果PreferredFinancialInstrument字段在events选项卡中不可见，请单击设置图标并切换显示完整XDM架构。
+>&#x200B;>如果PreferredFinancialInstrument字段在events选项卡中不可见，请单击设置图标并切换显示完整XDM架构。
 
 
 

@@ -122,7 +122,7 @@ ht-degree: 2%
 
 1. 在以下文本字段中，添加一个您可以记住的&#x200B;*`<custom string value>`*。
 
-1. 要保存该值，请单击**[!UICONTROL 添加**] `<custom string value>`。
+1. 要保存该值，请单击&#x200B;**[!UICONTROL 添加**] `<custom string value>`。
 
    此自定义字符串值稍后将用于触发消息。
 
