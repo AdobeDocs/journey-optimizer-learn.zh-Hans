@@ -36,4 +36,4 @@ ht-degree: 100%
 
 了解如何为自动翻译设置翻译项目，以及为多语言消息中的手动翻译和自动翻译项目设置所需的语言。
  
->[!VIDEO](https://video.tv.adobe.com/v/3430661/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453553/?captions=chi_hans&learn=on)

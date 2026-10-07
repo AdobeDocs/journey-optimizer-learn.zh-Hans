@@ -35,4 +35,4 @@ ht-degree: 100%
 
 了解如何配置和分析内容试验以进行应用程序内消息 A/B 测试。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419898/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3445298/?captions=chi_hans&learn=on){transcript=true}

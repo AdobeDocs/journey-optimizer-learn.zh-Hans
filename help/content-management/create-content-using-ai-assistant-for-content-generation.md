@@ -38,4 +38,4 @@ ht-degree: 100%
 
 了解如何使用 AI 助手进行内容生成，为文本和图像生成主动内容变体建议。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434635/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434645/?captions=chi_hans&learn=on)
