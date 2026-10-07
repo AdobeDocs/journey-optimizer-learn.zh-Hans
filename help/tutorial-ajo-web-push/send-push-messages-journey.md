@@ -5,15 +5,28 @@ feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2026-01-21T00:00:00Z
+last-substantial-update: 2026-01-21T00:00:00.000Z
 jira: KT-18526
-source-git-commit: 676c21ca09e0df8d404b05081d71b147755d65d5
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: a984631b-2bae-4860-9b15-69c41a799dcb
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: a7a194a0-75e2-4913-8a83-14714fbf68e6
+    internal-label: Decisioning API
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '389'
 ht-degree: 0%
-
 ---
-
 # 在历程中发送推送消息
 
 根据价格下降事件触发历程支持与用户进行实时、行为导向的参与。 在现实场景中，此事件通常源自更新产品价格时的后端定价系统。 在本教程中，我们使用AEP标记通过Adobe数据层发送自定义price.drop事件来模拟该行为，包括产品详细信息，如名称和SKU。 此事件被摄取到Adobe Experience Platform中，并用作在Adobe Journey Optimizer中历程的进入触发器。 历程在收到消息后，可以立即向符合条件的用户发送个性化推送通知，告知他们价格下降情况并鼓励及时采取行动。

@@ -5,17 +5,30 @@ role: User
 level: Beginner
 doc-type: Tutorial
 feature: Decisioning
-last-substantial-update: 2025-05-05T00:00:00Z
+last-substantial-update: 2025-05-05T00:00:00.000Z
 recommendations: noDisplay, noCatalog
 jira: KT-17728
 exl-id: 72a67137-303d-4dfe-9b70-322c81e5fb27
-source-git-commit: 13c891c02a9a2da3ff742afaab7ceb449a417b5e
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: a984631b-2bae-4860-9b15-69c41a799dcb
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: a7a194a0-75e2-4913-8a83-14714fbf68e6
+    internal-label: Decisioning API
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '223'
 ht-degree: 0%
-
 ---
-
 # 创建网页以测试解决方案
 
 此网页用于测试通过Adobe Journey Optimizer Decisioning提供的个性化优惠。 它提供了一个受控环境，可以在其中触发sendEvent调用并呈现返回的选件内容，从而帮助验证端到端个性化设置并确保决策按预期工作。

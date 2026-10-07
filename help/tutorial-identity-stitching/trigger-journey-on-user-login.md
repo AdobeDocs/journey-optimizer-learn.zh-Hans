@@ -5,11 +5,26 @@ feature: Profiles
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-09-24
+last-substantial-update: 2025-09-24T00:00:00.000Z
 recommendations: noDisplay, noCatalog
 jira: KT-19287
 exl-id: c6d4f720-3780-4012-a2bd-8eae23599144
-source-git-commit: d4cc60f4448caec92f704026783e2bbe029427f5
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d2971708-e780-44bb-9e2a-72f139796afd
+    internal-label: Customer
+subfeature_v2:
+  - id: ef9a83ca-eefa-47cf-aa34-f1a34715583a
+    internal-label: Profiles
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 10%
@@ -20,8 +35,8 @@ ht-degree: 10%
 
 ## 创建电子邮件渠道配置
 
-* 登录到&#x200B;_&#x200B;**Journey Optimizer**&#x200B;_
-* 导航到&#x200B;_&#x200B;**管理 — >渠道 — >创建渠道配置**&#x200B;_
+* 登录到&#x200B;_**Journey Optimizer**_
+* 导航到&#x200B;_**管理 — >渠道 — >创建渠道配置**_
 * 从渠道列表中选择&#x200B;**电子邮件**。 提供有意义的名称和描述。
 * 填写电子邮件设置。
 * 提供如下所示的执行详细信息。 电子邮件将发送到存储在字段中的用户档案的电子邮件地址
@@ -30,8 +45,8 @@ ht-degree: 10%
 
 ## 创建事件
 
-* 登录到&#x200B;_&#x200B;**Journey Optimizer**&#x200B;_
-* 导航到&#x200B;_&#x200B;**管理 — >配置**&#x200B;_
+* 登录到&#x200B;_**Journey Optimizer**_
+* 导航到&#x200B;_**管理 — >配置**_
 * 单击事件信息卡的管理按钮，然后单击创建事件。 指定如下所示的值
 * ![历程事件](assets/journey-event1.png)
 
@@ -40,9 +55,9 @@ ht-degree: 10%
 
 ## 创建历程
 
-* 登录到&#x200B;_&#x200B;**Journey Optimizer**&#x200B;_
-* 导航到&#x200B;_&#x200B;**历程管理 — >历程->创建历程**&#x200B;_
-* 将&#x200B;_&#x200B;**UserLoggedIn**&#x200B;_&#x200B;事件拖放到画布上
+* 登录到&#x200B;_**Journey Optimizer**_
+* 导航到&#x200B;_**历程管理 — >历程->创建历程**_
+* 将&#x200B;_**UserLoggedIn**_&#x200B;事件拖放到画布上
 * 从操作菜单中拖放电子邮件。 配置电子邮件操作以使用之前创建的电子邮件渠道配置。
 * 发布历程。
 

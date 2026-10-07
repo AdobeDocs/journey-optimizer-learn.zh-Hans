@@ -6,13 +6,23 @@ role: User
 hide: true
 index: false
 exl-id: de51792e-2cac-410f-b32e-7d443721ff81
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: bb359667-ec7d-4d4b-8663-5850fc219d32
+    internal-label: Administration
+subfeature_v2:
+  - id: fdac7813-bd56-47ae-9f6d-fa94ad1c5dee
+    internal-label: Overview
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '2062'
 ht-degree: 0%
-
 ---
-
 # 现代忠诚度计划的财务建模
 
 ## 一个全面的、为首席财务官做好准备的框架，用于预测责任、奖励经济和增量价值。
@@ -31,25 +41,25 @@ ht-degree: 0%
 
 与此同时，忠诚度计划日益与更广泛的企业财务战略纠缠在一起。 航空公司将其忠诚度计划视为独立的资产负债表资产。 订阅平台使用忠诚度奖励来增加维系率。 零售商和QSR品牌依靠应用程序和忠诚度系统来推动个性化和盈利能力。 即使是在传统的忠诚度较高的行业（如保险、医疗保健、金融技术和家庭服务）之外，公司现在也使用忠诚度作为利润率优化杠杆。
 
-This growing importance means loyalty leaders must model their programs with the same rigor a CFO applies to forecasting revenue, margin, and financial risk. A program that appears successful on the surface (high enrollment, high redemption, strong engagement) can be financially destructive if the economics are misaligned. Conversely, a program that intentionally balances reward cost, tier uplift, partner economics, and incremental revenue can become one of the most profitable assets in the organization.
+这一日益增长的重要性意味着忠诚度主管必须以首席财务官在预测收入、利润和金融风险时同样严格的标准来模拟他们的计划。 一个表面上看起来成功的计划（高入学率、高赎回率、强参与度）如果经济偏离正轨，可能在财务上造成破坏。 相反，有意平衡奖励成本、层级提升、合作伙伴经济和递增收入的计划可以成为组织中利润率最高的资产之一。
 
-The challenge—and opportunity—is building a shared language and analytic foundation that allows loyalty, finance, and executive teams to make decisions using the same models and assumptions.
+难题和机遇在于建立一个共享的语言和分析基础，使忠诚度、财务和执行团队能够使用相同的模型和假设做出决策。
 
-## 2. The Five Foundations of Loyalty Economics
+## &#x200B;2. 忠诚经济学的五大基础
 
-An enterprise-grade loyalty model depends on understanding five foundational economic concepts: **liability, breakage, cost-per-point, incremental revenue, and tier economics**. These elements interact with one another in complex ways. Ignoring one distorts the entire program.
+企业级忠诚度模型取决于对五个基本经济概念的了解：**负债、中断、每点成本、增量收入和层级经济学**。 这些元素彼此之间的交互方式很复杂。 忽略一个会扭曲整个程序。
 
-### Liability (Deferred Financial Obligation)
+### 负债（递延财务责任）
 
-Liability represents the expected cost of fulfilling outstanding points or credits. In accounting terms, loyalty points are not &quot;free&quot;; they are a **deferred revenue obligation**, often recognized only when redeemed. Liability fluctuates based on both program design and customer behavior. For example, highly usable mobile apps increase redemption frequency, lowering breakage and raising liability. Adding high-value rewards can increase redemption attractiveness—and therefore elevate liability risk. Liability is not inherently bad; it simply must be modeled and forecast accurately.
+负债指履行未清积分或贷项的预期成本。 用会计术语来说，忠诚度积分不是“免费”的；它们是&#x200B;**递延收入义务**，通常仅在兑换时确认。 责任会因项目设计和客户行为而波动。 例如，高可用性的移动应用程序会增加赎回频率，降低破产程度，增加责任。 增加高价值回报可以增加赎回吸引力，从而提升负债风险。 负债本身并不坏；它只是必须准确建模并预测。
 
-### Breakage (Points That Will Never Be Redeemed)
+### 中断（永不兑换的点）
 
-Breakage affects both liability and reward cost. When breakage is high, liability shrinks—often creating positive P&amp;L effects. But high breakage can undermine loyalty trust and signal a failing user experience. Breakage is typically lower in digital-first ecosystems, where customers have better visibility into points and rewards. As mobile apps and email reminders improve transparency, brands should expect breakage to decline year over year—essentially causing natural &quot;liability inflation&quot; unless reward cost structures are optimized.
+破产对责任和回报成本都有影响。 当破损率较高时，赔偿责任会减少，通常会产生积极的P&amp;L效应。 但严重的破坏会削弱忠诚度的信任，并表明用户体验会失败。 在数字优先的生态系统中，崩溃率通常较低，客户可以更好地了解积分和回报。 随着移动应用和电子邮件提醒提高透明度，各品牌应该预计年内的破坏率会下降 — 除非优化奖励成本结构，否则实际上会引发自然的“责任膨胀”。
 
-### Cost-Per-Point (CPP)
+### 每点成本(CPP)
 
-Cost-per-point determines the marginal cost to the company when a point is redeemed. This cost depends heavily on the reward catalog. Cashback is expensive. 高利润率的专有商品更便宜。 如果体验的感知价值超过实际交付成本，则体验可能会非常经济高效。 CPP会影响方方面面，从责任到促销策略再到奖励目录策划。
+每点成本决定了兑换点时公司的边际成本。 此成本在很大程度上取决于奖励目录。 现金回赠很贵。 高利润率的专有商品更便宜。 如果体验的感知价值超过实际交付成本，则体验可能会非常经济高效。 CPP会影响方方面面，从责任到促销策略再到奖励目录策划。
 
 ### 增量收入（忠诚度ROI的核心）
 
@@ -92,7 +102,7 @@ Cost-per-point determines the marginal cost to the company when a point is redee
 
 ### &#x200B;3. 方案规划和敏感度分析
 
-Liability-sensitive programs must produce best-case, base-case, and worst-case scenarios. 例如，奖励目录变更或UX改进可能会使赎回频率隔夜增加一倍 — 负债敞口增加一倍。 财务团队需要基于情景的规划来防范意外情况。
+对责任敏感的程序必须产生最佳情形、基本情形和最坏情形。 例如，奖励目录变更或UX改进可能会使赎回频率隔夜增加一倍 — 负债敞口增加一倍。 财务团队需要基于情景的规划来防范意外情况。
 
 当忠诚的领导人能够以如此严格的程度进行责任分析时，这就会改变高管层的看法。 该计划从被视为成本中心，转变为被视为受管理的金融资产。
 

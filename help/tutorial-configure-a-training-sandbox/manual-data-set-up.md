@@ -1,6 +1,6 @@
 ---
 title: 手动设置数据结构
-description: 创建所需的身份命名空间并定义 Luma 样本数据结构。
+description: 创建所需的身份标识命名空间并定义 Luma 样本数据结构。
 feature: Sandboxes, Data Management, Application Settings
 doc-type: tutorial
 jira: KT-9382
@@ -8,33 +8,52 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: d848272dba814c300aa21110316b5b37ccb719ce
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: aeebb91a-f216-4d5f-8da1-3a7e6f696ed0
+    internal-label: Data management activity
+  - id: d556b755-390a-43f0-be32-a08cf6236126
+    internal-label: Configuration
+  - id: bb359667-ec7d-4d4b-8663-5850fc219d32
+    internal-label: Administration
+subfeature_v2:
+  - id: d2e8a157-b3b0-4143-9ff3-809bf400be56
+    internal-label: Sandboxes
+  - id: efb19423-4da4-4fd1-88d8-5ee8c71ae766
+    internal-label: Application settings
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '1011'
+source-wordcount: '1033'
 ht-degree: 100%
-
 ---
-
 # 手动设置数据
 
-在此部分中，您将创建所需的身份命名空间并通过创建[[!UICONTROL 架构]](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=zh-Hans)来定义 [!DNL Luma] 样本数据结构。
+在此部分中，您将创建所需的身份标识命名空间并通过创建[[!UICONTROL 架构]](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=zh-Hans)来定义 [!DNL Luma] 样本数据结构。
 
 >[!TIP]
 >在开始之前，请观看视频教程[映射标示](/help/data-management/map-identities.md)。
 
-## 步骤 1：创建身份命名空间
+## 步骤 1：创建身份标识命名空间
 
-在此步骤中，您将为 [!DNL Luma] 自定义身份字段（命名为 `lumaLoyaltyId`、`lumaCrmId` 和 `lumaProductSKU`）创建身份命名空间。身份命名空间在构建实时客户个人资料方面发挥着关键作用，因为同一命名空间的两个匹配值会让两个数据源形成身份图。
+在此步骤中，您将为 [!DNL Luma] 自定义身份标识字段（命名为 `lumaLoyaltyId`、`lumaCrmId` 和 `lumaProductSKU`）创建身份标识命名空间。 身份标识命名空间在构建实时客户轮廓方面发挥着关键作用，因为同一命名空间的两个匹配值会让两个数据源形成身份标识图。
 
 首先为 [!DNL Luma Loyalty ID] 架构创建[!UICONTROL 命名空间]：
 
-1. 在 Journey Optimizer 用户界面中，在左侧导航栏中转到&#x200B;**[!UICONTROL 客户]** > **[!UICONTROL 身份]**。
+1. 在 Journey Optimizer 用户界面中，在左侧导航栏中转到&#x200B;**[!UICONTROL 客户]** > **[!UICONTROL 身份标识]**。
 
-1. 选择&#x200B;**[!UICONTROL 创建身份命名空间]**。
+1. 选择&#x200B;**[!UICONTROL 创建身份标识命名空间]**。
 
 1. 提供以下详细信息：
 
-   | 显示名称 | 身份符号 | 类型 |
+   | 显示名称 | 身份标识符号 | 类型 |
    |---|---|---|
    | `Luma Loyalty ID` | `lumaLoyaltyId` | [!UICONTROL 跨设备 ID] |
 
@@ -44,7 +63,7 @@ ht-degree: 100%
 
 1. 按照相同的步骤再创建两个命名空间：
 
-   | 显示名称 | 身份符号 | 类型 |
+   | 显示名称 | 身份标识符号 | 类型 |
    |---|---|---|
    | `Luma CRM ID` | `lumaCrmId` | [!UICONTROL 跨设备 ID] |
    | `Luma Product SKU` | `lumaProductSKU` | [!UICONTROL 非人员标识符] |
@@ -81,13 +100,13 @@ ht-degree: 100%
 
 1. 选择右上角的&#x200B;**[!UICONTROL 创建架构]**。
 
-1. 从下拉菜单中，选择 **[!UICONTROL XDM 个人资料]**。
+1. 从下拉菜单中，选择 **[!UICONTROL XDM 轮廓]**。
 
    选择此选项，是因为您正在针对单个客户的属性（积分、状态等）进行建模。
 
 #### 添加现有字段组
 
-接下来，系统会提示您使用组将字段组添加到架构中。您必须添加现有字段组并创建字段组。
+接下来，系统会提示您使用组将字段组添加到架构中。 您必须添加现有字段组并创建字段组。
 
 1. 在[!UICONTROL 架构]页面上，如果字段组模式未自动打开，请选择&#x200B;**[!UICONTROL 添加]**。
 
@@ -99,7 +118,7 @@ ht-degree: 100%
 
    * **[!UICONTROL 个人联系方式]**，用于获取电子邮件地址和电话号码等基本联系信息。
 
-   * **[!UICONTROL 忠诚度详细信息]**，用于获取积分、加入日期或状态等忠诚度详细信息。忠诚度字段组在列表中排名靠后，因此找到它的最简便方式是进行搜索。
+   * **[!UICONTROL 忠诚度详细信息]**，用于获取积分、加入日期或状态等忠诚度详细信息。 忠诚度字段组在列表中排名靠后，因此找到它的最简便方式是进行搜索。
 
 1. 选择&#x200B;**[!UICONTROL 添加字段组]**，以便将所有三个字段组添加到架构。
 
@@ -113,7 +132,7 @@ ht-degree: 100%
 
 为帮助确保架构间的一致性，Adobe 建议在单个组中管理所有系统标识符：
 
-1. 从[!UICONTROL 字段组]下的&#x200B;**[!UICONTROL 组合]**&#x200B;部分，选择&#x200B;**[!UICONTROL 添加]**。
+1. 从[!UICONTROL 字段组]下的&#x200B;**[!UICONTROL 构成]**&#x200B;部分，选择&#x200B;**[!UICONTROL 添加]**。
 
 1. 选择&#x200B;**[!UICONTROL 创建新字段组]**。
 
@@ -127,7 +146,7 @@ ht-degree: 100%
 
 #### 将字段添加到新[!UICONTROL 字段组]
 
-新的空字段组将会添加到您的架构中。使用“+”按钮，您可以将新字段添加到层级中的任意位置。在此示例中，您必须在根级别添加字段：
+新的空字段组已添加到您的架构中。 使用“+”按钮，您可以将新字段添加到层级中的任意位置。 在这种情况下，您必须在根级别添加字段：
 
 1. 选择架构名称旁边的 **[!UICONTROL +]**。
 
@@ -156,11 +175,11 @@ ht-degree: 100%
 
 ![字段](./assets/add_fields.png)
 
-#### 设置身份
+#### 设置身份标识
 
-您现在已完成[!UICONTROL 命名空间]和 [!DNL Luma Loyalty schema] 的配置。在摄取数据之前，必须为身份字段添加标签。配合 [!UICONTROL Real-time Customer Profile] 使用的每个架构都必须指定主要身份，并且摄取的每条记录都必须具有该字段的值。
+您现在已完成[!UICONTROL 命名空间]和 [!DNL Luma Loyalty schema] 的配置。 在摄取数据之前，必须为身份标识字段添加标签。 配合 [!UICONTROL Real-time Customer Profile] 使用的每个架构都必须指定主要身份标识，并且摄取的每条记录都必须具有该字段的值。
 
-1. 设置&#x200B;**主要身份**：
+1. 设置&#x200B;**主要身份标识**：
 
    从 **[!DNL Luma Loyalty Schema]**：
 
@@ -168,17 +187,17 @@ ht-degree: 100%
 
    2. 选择 **[!DNL loyaltyId]** 字段。
 
-   3. 在&#x200B;**[!UICONTROL 字段属性]**&#x200B;中，启用&#x200B;**[!UICONTROL 身份]**&#x200B;复选框。
+   3. 在&#x200B;**[!UICONTROL 字段属性]**&#x200B;中，启用&#x200B;**[!UICONTROL 身份标识]**&#x200B;复选框。
 
-   4. 启用&#x200B;**[!UICONTROL 主要身份]**&#x200B;复选框。
+   4. 启用&#x200B;**[!UICONTROL 主要身份标识]**&#x200B;复选框。
 
-   5. 从&#x200B;**[!UICONTROL 身份命名空间]**&#x200B;下拉菜单中选择 `Luma Loyalty Id` 命名空间。
+   5. 从&#x200B;**[!UICONTROL 身份标识命名空间]**&#x200B;下拉菜单中选择 `Luma Loyalty Id` 命名空间。
 
    6. 选择&#x200B;**[!UICONTROL 应用]**。
 
-      ![主要身份](/help/tutorial-configure-a-training-sandbox/assets/primary_identity.png)
+      ![主要身份标识](/help/tutorial-configure-a-training-sandbox/assets/primary_identity.png)
 
-2. 设置&#x200B;**次要身份**：
+2. 设置&#x200B;**次要身份标识**：
 
    从 **[!DNL Luma Loyalty Schema]**：
 
@@ -186,17 +205,17 @@ ht-degree: 100%
 
    2. 选择 `crmId` 字段。
 
-   3. 在&#x200B;**[!UICONTROL 字段属性]**&#x200B;中，启用&#x200B;**[!UICONTROL 身份]**&#x200B;复选框。
+   3. 在&#x200B;**[!UICONTROL 字段属性]**&#x200B;中，启用&#x200B;**[!UICONTROL 身份标识]**&#x200B;复选框。
 
-   4. 从&#x200B;**[!UICONTROL 身份命名空间]**&#x200B;下拉菜单中选择 `Luma CRM Id` 命名空间。
+   4. 从&#x200B;**[!UICONTROL 身份标识命名空间]**&#x200B;下拉菜单中选择 `Luma CRM Id` 命名空间。
 
    5. 选择&#x200B;**[!UICONTROL 应用]**。
 
-#### 为个人资料启用并保存架构
+#### 为轮廓启用并保存架构
 
 1. 选择架构的顶级节点。
 
-1. 在[!UICONTROL 字段属性]中，启用&#x200B;**[!UICONTROL 个人资料]**。
+1. 在[!UICONTROL 字段属性]中，启用&#x200B;**[!UICONTROL 轮廓]**。
 
    架构应如下所示：
 
@@ -249,7 +268,7 @@ ht-degree: 100%
    | `stockQuantity` | `Product Stock Quantity` | [!UICONTROL 字符串] |
    | `url` | `Product URL` | [!UICONTROL 字符串] |
 
-1. 将 **[!DNL SKU]** 设置为主要身份。
+1. 将 **[!DNL SKU]** 设置为主要身份标识。
 1. 将&#x200B;**[!UICONTROL 显示名称]** `Luma Product Catalog Field Group` 添加到[!UICONTROL 字段组]。
 
 1. 选择&#x200B;**[!UICONTROL 保存]**。
@@ -309,7 +328,7 @@ ht-degree: 100%
 
       ![枚举](assets/enum.png)
 
-1. 使用 **[!DNL LumaProductSKU namespace]** 将 `inventory.Event.sku` 字段设置为&#x200B;**[!UICONTROL 主要身份]**。
+1. 使用 **[!DNL LumaProductSKU namespace]** 将 `inventory.Event.sku` 字段设置为&#x200B;**[!UICONTROL 主要身份标识]**。
 
 1. 选择 `sku` 字段并在 **[!DNL Luma Product catalog Schema]** 架构中定义其与 `product.sku` 字段的关系：
 
@@ -319,7 +338,7 @@ ht-degree: 100%
 
       1. **[!UICONTROL 引用架构]**：[!DNL Luma Product Catalog Schema]。
 
-      2. **[!UICONTROL 引用身份命名空间]**：[!DNL LumaProductSKU]。
+      2. **[!UICONTROL 引用身份标识命名空间]**：[!DNL LumaProductSKU]。
 
    3. 选择&#x200B;**[!UICONTROL 应用]**。
 
@@ -327,7 +346,7 @@ ht-degree: 100%
 
       ![SKU 关系](assets/sku_relationship.png)
 
-1. 为&#x200B;**个人资料**&#x200B;启用。
+1. 为&#x200B;**轮廓**&#x200B;启用。
 
 1. 选择[!UICONTROL 保存]以保存架构。
 
@@ -337,11 +356,11 @@ ht-degree: 100%
 
 | [!UICONTROL 显示名称] | [!DNL Luma CRM Schema] | [!DNL Luma Web Events Schema] | [!DNL Luma Test Profiles schema] | [!DNL Luma Offline Purchase Events Schema] |
 |  ---| ------- | ---- |----|----|
-| **[!UICONTROL 类]** | [!UICONTROL XDM 个人资料] | [!UICONTROL XDM 体验活动] | [!UICONTROL XDM 个人资料] | [IUICONTROL XDM ExperienceEvent] |
+| **[!UICONTROL 类]** | [!UICONTROL XDM 轮廓] | [!UICONTROL XDM 体验活动] | [!UICONTROL XDM 轮廓] | [IUICONTROL XDM ExperienceEvent] |
 | **[!UICONTROL 添加现有字段组]** | `Luma Identity Profile Field Group`<br>`Demographic Details`<br>`Personal Contact Details` | `Orchestration eventID`<br>`Consumer Experience Event`<br>`AEP Web SDK ExperienceEvent` | `Luma Identity Profile Field Group`<br>`Demographic Details`<br>`Personal Contact Details`<br>`Profile test details` | `Luma Identity Profile Field Group` <br>`Commerce Details` |
 | **[!UICONTROL 关系]** |  | `productListItems.SKU`：<br>引用架构 `Luma Product Catalog Schema` <br>[!DNL Reference identity namespace] `lumaProductSKU` |  | `productListItems.SKU`：<br>引用架构 `Luma Product Catalog Schema` <br>[!DNL Reference identity namespace] `lumaProductSKU` |
-| **[!UICONTROL 主要身份]​[!UICONTROL 命名空间]）** | `systemIdentifier.crmId` | | `systemIdentifier.crmId` | `systemIdentifier.LoyaltyId` |
-| **[!UICONTROL 为个人资料启用]** | 是 | 是 | 是 | 是 |
+| **[!UICONTROL 主要身份标识]&#x200B;[!UICONTROL 命名空间]）** | `systemIdentifier.crmId` | | `systemIdentifier.crmId` | `systemIdentifier.LoyaltyId` |
+| **[!UICONTROL 为轮廓启用]** | 是 | 是 | 是 | 是 |
 
 ## 后续步骤
 

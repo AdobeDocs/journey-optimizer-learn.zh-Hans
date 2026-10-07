@@ -5,17 +5,30 @@ feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-05-30T00:00:00Z
+last-substantial-update: 2025-05-30T00:00:00.000Z
 recommendations: noDisplay, noCatalog
 jira: KT-18188
 exl-id: eee1b86e-b33f-408e-9faf-90317bc5e861
-source-git-commit: 82d82b3aac2bf91e259b01fd8c6b4d6065f9640a
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: a984631b-2bae-4860-9b15-69c41a799dcb
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: a7a194a0-75e2-4913-8a83-14714fbf68e6
+    internal-label: Decisioning API
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: '346'
 ht-degree: 0%
-
 ---
-
 # 创建排名公式
 
 Adobe Journey Optimizer中的排名公式在Offer Decisioning过程中使用，尤其是在选择策略中，用于确定符合条件的优惠的优先级顺序。 资格筛选后，当多个选件符合给定用户档案的条件，但根据业务逻辑或用户档案上下文，只能呈现前一个（或少数个）时，排名公式就会起作用。
@@ -33,7 +46,7 @@ Adobe Journey Optimizer中的排名公式在Offer Decisioning过程中使用，�
 
 标准1
 
-此条件筛选决策项（优惠）**以仅包含**&#x200B;标记为“IncomeLevel”的优惠。
+此条件筛选决策项（优惠）**以仅包含**标记为“IncomeLevel”的优惠。
 然后，这些过滤的选件将根据您定义的其他逻辑继续执行下一步，例如排名或投放。
 ![criteria_one](assets/income-related-formula.png)
 

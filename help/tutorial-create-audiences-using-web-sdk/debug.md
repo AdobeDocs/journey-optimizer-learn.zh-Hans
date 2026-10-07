@@ -5,17 +5,30 @@ feature: Audiences
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-04-30T00:00:00Z
+last-substantial-update: 2025-04-30T00:00:00.000Z
 recommendations: noDisplay, noCatalog
 jira: KT-17923
 exl-id: 33b084ea-e712-4de0-8836-8795efaac7e2
-source-git-commit: 163edfb3367d03729d68c9339ee2af4a0fe3a1b3
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d2971708-e780-44bb-9e2a-72f139796afd
+    internal-label: Customer
+subfeature_v2:
+  - id: b32bb433-f8c6-4931-8e52-e657230a3bf2
+    internal-label: Audiences
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '408'
 ht-degree: 0%
-
 ---
-
 # 测试解决方案
 
 要验证实施，请首先打开包含偏好设置表单的网页。 使用浏览器的DevTools（“控制台”和“网络”选项卡）监控表单提交过程。 提交偏好设置（例如，选择“库存”）后，请确认AEP Web SDK (alloy.sendEvent)已成功触发，并且已将正确数据发送到Adobe Experience Platform。 在AEP中，导航到“受众”部分，并使用Edge Segmentation验证您的配置文件在几分钟内是否符合预期受众的条件（例如，“感兴趣的股票”）。 您还可以检查关联数据集中的传入事件数据，以确保它包含正确的首选项值。 对每个资产类别（股票、债券、CD）重复此过程，以确保完整的工作流正常运行。

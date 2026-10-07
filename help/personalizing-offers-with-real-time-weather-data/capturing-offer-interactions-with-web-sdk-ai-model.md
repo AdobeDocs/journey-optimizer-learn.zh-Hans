@@ -6,16 +6,29 @@ topic: Integrations
 role: User
 level: Beginner
 doc-type: Article
-last-substantial-update: 2025-07-08T00:00:00Z
+last-substantial-update: 2025-07-08T00:00:00.000Z
 jira: KT-18451
 exl-id: 3cb280b3-71e5-4e91-9252-5679d794d4c4
-source-git-commit: 6c4f33d1f55be298781cfb0958862f9710e3647a
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: a984631b-2bae-4860-9b15-69c41a799dcb
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: a7a194a0-75e2-4913-8a83-14714fbf68e6
+    internal-label: Decisioning API
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '698'
+source-wordcount: '708'
 ht-degree: 3%
-
 ---
-
 # 捕获与Adobe Web SDK的优惠交互以进行AI模型训练
 
 >[!NOTE]
@@ -24,7 +37,7 @@ ht-degree: 3%
 
 
 
-本文演示了如何通过直接在Adobe Experience Platform Web SDK代码中调用alloy(“sendEvent”……)来使用JavaScript捕获优惠交互事件（如展示次数或单击次数）。 数据被摄取到AEP中，并用于在Adobe Journey Optimizer (AJO)中训练AI模型，以根据实时行为对选件进行更智能的排名。
+本文演示了如何通过调用alloy(“sendEvent”……)来使用Adobe Experience Platform Web SDK捕获优惠交互事件（如展示次数或单击次数） 直接在JavaScript代码中查找。 数据被摄取到AEP中，并用于在Adobe Journey Optimizer (AJO)中训练AI模型，以根据实时行为对选件进行更智能的排名。
 
 要在Adobe Journey Optimizer中创建优惠排名的AI模型，您的数据集必须基于包含建议交互字段组的架构。 此字段组支持关键决策事件（如decisioning.propositionDisplay和decisioning.propositionInteract）以及必需字段（如incomdedPropositions、display和interact）。
 
@@ -41,7 +54,7 @@ ht-degree: 3%
 
 在Adobe Experience Platform中：
 
-- 打开您用于基于天气的选件的现有&#x200B;_&#x200B;**天气架构**&#x200B;_&#x200B;体验事件架构。
+- 打开您用于基于天气的选件的现有&#x200B;_**天气架构**_&#x200B;体验事件架构。
 
 - 添加字段组：
 体验事件 — 建议交互

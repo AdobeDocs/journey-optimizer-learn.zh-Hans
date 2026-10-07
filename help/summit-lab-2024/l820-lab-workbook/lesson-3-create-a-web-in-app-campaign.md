@@ -10,13 +10,26 @@ recommendations: noDisplay, noCatalog
 jira: KT-13983
 thumbnail: KT-13983.jpeg
 exl-id: 0f84adfb-edb1-47fa-b696-58eec2b33bb1
-source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d0a62d3c-b79e-47e4-929e-40ef3cffa037
+    internal-label: Communication channels
+subfeature_v2:
+  - id: cc5c44e2-54a1-4927-b794-442cd87d8f74
+    internal-label: In App channel
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '699'
-ht-degree: 2%
-
+source-wordcount: '778'
+ht-degree: 5%
 ---
-
 # 第3课 — 创建Web应用程序内营销活动
 
 现在，您已为该应用程序创建了移动体验，在本课程中，您将创建在Fréscopa网站上看到的其中一个体验。 您可以创建一个Web应用程序内促销活动。 您可以设计和自定义消息，并定义触发消息的触发器。
@@ -154,7 +167,7 @@ ht-degree: 2%
 
 **产品文档：**
 
-* [开始使用应用程序内频道](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/in-app/get-started-in-app)
-* [创建Web应用程序内消息](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/in-app/create-in-app-web)
-* [设计应用程序内内容](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/in-app/design-in-app)
-* [检查并发送应用程序内通知](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/in-app/send-in-app)
+* [应用程序内渠道入门](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
+* [创建 Web 应用程序内消息](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app-web)
+* [设计应用程序内内容](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
+* [检查并发送应用程序内通知](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)

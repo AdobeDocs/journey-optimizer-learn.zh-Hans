@@ -5,17 +5,30 @@ feature: Profiles
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-05-19T00:00:00Z
+last-substantial-update: 2025-05-19T00:00:00.000Z
 recommendations: noDisplay, noCatalog
 jira: KT-18089
 exl-id: 33c8c386-f417-45a8-83cf-7312d415b47a
-source-git-commit: 783cf83169c9e12e07bf4ffc162adfe1b0c33d8f
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d2971708-e780-44bb-9e2a-72f139796afd
+    internal-label: Customer
+subfeature_v2:
+  - id: ef9a83ca-eefa-47cf-aa34-f1a34715583a
+    internal-label: Profiles
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '305'
 ht-degree: 4%
-
 ---
-
 # 将示例CRM数据导入AEP配置文件数据集
 
 要开始身份拼接，请将示例CRM配置文件数据导入到Adobe Experience Platform中与启用了配置文件的架构绑定的数据集
@@ -28,8 +41,8 @@ ht-degree: 4%
 
 ## 创建启用配置文件的架构
 
-创建名为&#x200B;**_FinWiseProfileSchema_**&#x200B;的单个配置文件架构。 包括字段，如annualIncome、email、firstName、lastName和loyaltyStatus。
-添加标识字段&#x200B;**_crmid_**，如图所示。 将crmid字段标记为标识和主字段。
+创建名为&#x200B;**_FinWiseProfileSchema_**的单个配置文件架构。 包括字段，如annualIncome、email、firstName、lastName和loyaltyStatus。
+添加标识字段**_crmid_**，如图所示。 将crmid字段标记为标识和主字段。
 
 
 ![配置文件架构](assets/finwise-profile-schema.png)
@@ -51,7 +64,7 @@ ht-degree: 4%
 * 根据之前创建的&#x200B;**_FinWiseProfileSchema_**&#x200B;创建名为&#x200B;**_FinWiseCustomerDataSetWithAnnualIncome_**&#x200B;的数据集。请确保为配置文件启用该数据集。
 
 * 导航到连接 — >源 — >本地系统
-* 在本地文件上传下选择&#x200B;**_添加数据_**。 确保选择&#x200B;_&#x200B;**FinWiseCustomerDataSetWithAnnualIncome**&#x200B;_作为目标数据集。
+* 在本地文件上传下选择&#x200B;**_添加数据_**。 确保选择&#x200B;_**FinWiseCustomerDataSetWithAnnualIncome**_作为目标数据集。
   ![摄取 — csv](assets/ingest-csv-into-dataset.png)
 * 导航到下一个屏幕。 上传[csv文件](assets/finwise_profiles.csv)并验证映射
   ![映射](assets/mappings.png)

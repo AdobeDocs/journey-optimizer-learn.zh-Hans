@@ -10,13 +10,26 @@ recommendations: noDisplay, noCatalog
 jira: KT-14983
 thumbnail: KT-14983.jpeg
 exl-id: fe18eca7-229c-4867-ab34-1862bad63124
-source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d0a62d3c-b79e-47e4-929e-40ef3cffa037
+    internal-label: Communication channels
+subfeature_v2:
+  - id: cc5c44e2-54a1-4927-b794-442cd87d8f74
+    internal-label: In App channel
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '1432'
-ht-degree: 1%
-
+source-wordcount: '1520'
+ht-degree: 2%
 ---
-
 # 第2课 — 创建移动应用程序内促销活动
 
 在本课程中，您将创建并触发移动设备应用程序内消息。
@@ -33,7 +46,7 @@ ht-degree: 1%
 2. 使用以下详细信息登录：
    <br>
    **用户名：** L820+**`<your seat number>`**@adobeeventlab.com
-   **密码：**   Adobe2024！
+   **密码：** Adobe2024！
    <br>
 您可以在实验室计算机桌面上找到登录的详细信息。 使用Adobe ID和密码。
    ![桌面](/help/summit-lab-2024/l820-lab-workbook/assets/desk-top.png)
@@ -109,7 +122,7 @@ ht-degree: 1%
 
 1. 在以下文本字段中，添加一个您可以记住的&#x200B;*`<custom string value>`*。
 
-1. 要保存该值，请单击&#x200B;**[!UICONTROL 添加**] `<custom string value>`。
+1. 要保存该值，请单击**[!UICONTROL 添加**] `<custom string value>`。
 
    此自定义字符串值稍后将用于触发消息。
 
@@ -147,9 +160,9 @@ ht-degree: 1%
 
 #### 2.3.3.2创作消息并发布营销活动
 
-1. 在媒体部分中，粘贴以下URL： `https://t3.ftcdn.net/jpg/02/79/42/52/240_F_279425217_Hr9VBkknMr4fTpuZbxZXfcYdC7jSvGl2.jpg`
+1. 在媒体部分中，粘贴以下URL：  `https://t3.ftcdn.net/jpg/02/79/42/52/240_F_279425217_Hr9VBkknMr4fTpuZbxZXfcYdC7jSvGl2.jpg`
    <br>
-当您单击退出值字段时，您的图像应会显示。
+   当您单击退出值字段时，您的图像应会显示。
 
    预览中显示![个媒体](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-media.png)
 
@@ -320,7 +333,7 @@ ht-degree: 1%
 
 **产品文档：**
 
-* [开始使用应用程序内频道](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/in-app/get-started-in-app)
-* [创建移动应用程序内消息](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/in-app/create-in-app)
-* [设计应用程序内内容](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/in-app/design-in-app)
-* [检查并发送应用程序内通知](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/in-app/send-in-app)
+* [应用程序内渠道入门](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
+* [创建移动应用程序内消息](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app)
+* [设计应用程序内内容](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
+* [检查并发送应用程序内通知](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)

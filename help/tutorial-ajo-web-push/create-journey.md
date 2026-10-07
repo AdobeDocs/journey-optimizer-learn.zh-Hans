@@ -5,16 +5,26 @@ feature: Push
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2026-04-21T00:00:00Z
+last-substantial-update: 2026-04-21T00:00:00.000Z
 jira: KT-20879
 exl-id: 14342b47-5485-4f7f-9312-cff1ee0f8972
-source-git-commit: 676c21ca09e0df8d404b05081d71b147755d65d5
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: 66e1fd99-672d-5d64-aa58-eca107f0fbae
+    internal-label: Push
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '461'
+source-wordcount: '481'
 ht-degree: 0%
-
 ---
-
 # 创建历程
 
 在此步骤中，您将在Adobe Journey Optimizer中创建一个由自定义price.drop事件触发的历程。 收到此事件后，历程将实时启动并向已选择加入的用户发送推送通知，以启用事件驱动型参与。
@@ -29,7 +39,7 @@ ht-degree: 0%
 ## 添加PriceDropEvent
 
 将`PriceDropEvent`从事件部分拖到画布上。
-![价格下降事件](assets/add-price-drop-event.png)
+![降价事件](assets/add-price-drop-event.png)
 
 ## 添加推送操作
 
@@ -55,7 +65,7 @@ ht-degree: 0%
 要开始撰写邮件，请单击`Content`以打开内容选项卡，您可以在其中定义固定文本和从事件数据派生的动态字段。
 ![内容推送](assets/compose-message.png)
 
-指定推送消息的标题，然后打开个性化编辑器以撰写消息正文。 内容将动态包含价格下降的产品名称。 要实现此目的，请使用each [辅助函数](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/content-management/personalization/functions/helpers#each)
+指定推送消息的标题，然后打开个性化编辑器以撰写消息正文。 内容将动态包含价格下降的产品名称。 要实现此目的，请使用each [辅助函数](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/functions/helpers#each)
 对产品列表进行迭代，并在消息中呈现其名称。
 
 ## 撰写消息正文

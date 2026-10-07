@@ -9,13 +9,23 @@ duration: 0
 recommendations: noDisplay, noCatalog
 jira: KT-14980
 exl-id: 0f82d6a5-18c0-45f2-968e-a678fc2d5768
-source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: 66e1fd99-672d-5d64-aa58-eca107f0fbae
+    internal-label: Push
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '778'
-ht-degree: 2%
-
+source-wordcount: '825'
+ht-degree: 4%
 ---
-
 # 第4课 — 创建推送活动
 
 在上一个练习中，你是一个咖啡爱好者，一个弗雷斯科帕的顾客。 您通过其网站和Fréscopa应用程序与品牌互动，并收到许多事务型消息。 这些消息通过用户与网站或应用程序的交互触发。
@@ -147,7 +157,7 @@ ht-degree: 2%
 
 #### 通过添加收件人的名字对您发送的邮件进行个性化设置
 
-1. 单击&#x200B;**正文**&#x200B;字段旁边的&#x200B;**[!UICONTROL 个性化对话框]**。
+1. 单击&#x200B;**[!UICONTROL 正文]**&#x200B;字段旁边的&#x200B;**个性化对话框**。
 
    ![个性化按钮](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-personalization-button.png)
 
@@ -181,7 +191,7 @@ ht-degree: 2%
 
 +++
 
-### 4.2.4.查看和激活
+### 4.2.4. 审查和激活
 
 如果您对消息的内容感到满意，则可以激活消息：
 
@@ -211,7 +221,7 @@ ht-degree: 2%
 
 **产品文档：**
 
-* [推送通知入门](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/push/get-started-push)
-* [创建推送通知](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/push/create-push)
-* [设计推送通知](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/push/design-push)
-* [检查并发送推送通知](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/push/send-push)
+* [推送通知入门](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/get-started-push)
+* [创建推送通知](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/create-push)
+* [设计推送通知](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/design-push)
+* [检查并发送推送通知](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/send-push)

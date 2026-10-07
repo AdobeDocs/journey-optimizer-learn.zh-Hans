@@ -12,21 +12,28 @@ autotag-review: '2026-05-14T18:14:40.767Z'
 TQID: 'https://experienceleague.adobe.com/YBYN8Yt-f3p0qd4BimojR9hGU5R066QD2dP6q8fIrtM'
 product_v2:
   - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
 feature_v2:
   - id: b856530c-d60b-42d8-a19d-df2dfd7fe62a
+    internal-label: Access control
+  - id: d556b755-390a-43f0-be32-a08cf6236126
+    internal-label: Configuration
+subfeature_v2:
+  - id: d712382d-29ef-487a-93a7-cbebdd2ef24a
+    internal-label: Access management
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: a11fdf1d8bbe8ce33cc285950ba1fbdfbeb1466d
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: 60
+source-wordcount: '60'
 ht-degree: 100%
-
 ---
-
 # 配置基于属性的访问控制
 
 了解如何配置基于属性的访问控制以限制对特定 Experience Platform 资源的访问。 有关更多信息，请访问[访问控制文档](https://experienceleague.adobe.com/docs/experience-platform/access-control/abac/overview.html?lang=zh-Hans)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3451849?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345641?learn=on)

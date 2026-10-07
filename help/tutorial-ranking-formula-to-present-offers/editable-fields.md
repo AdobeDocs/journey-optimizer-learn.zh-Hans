@@ -5,11 +5,26 @@ feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-06-22
+last-substantial-update: 2025-06-22T00:00:00.000Z
 recommendations: noDisplay, noCatalog
 jira: KT-18416
 exl-id: 0ba695d6-becb-440d-b0d0-de5b51b42562
-source-git-commit: 65d91d4fb0e978e62e5d95bf40355dcb8d27efb9
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: a984631b-2bae-4860-9b15-69c41a799dcb
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: a7a194a0-75e2-4913-8a83-14714fbf68e6
+    internal-label: Decisioning API
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 22%
@@ -23,9 +38,9 @@ ht-degree: 22%
 ## 在个性化编辑器中插入可编辑字段
 
 - 打开在之前步骤中创建的营销活动。
-- 单击&#x200B;_&#x200B;**修改营销活动**&#x200B;_
-- 导航到&#x200B;_&#x200B;**内容**&#x200B;_&#x200B;选项卡
-- 单击&#x200B;_&#x200B;**编辑代码**&#x200B;_，并在个性化编辑器中使用以下语法插入一个名为legalDisclaimer的可编辑字段，该字段具有默认值
+- 单击&#x200B;_**修改营销活动**_
+- 导航到&#x200B;_**内容**_&#x200B;选项卡
+- 单击&#x200B;_**编辑代码**_，并在个性化编辑器中使用以下语法插入一个名为legalDisclaimer的可编辑字段，该字段具有默认值
 
 - `{{#inline "legalDisclaimer" name="Legal Disclaimer"}} Legal Disclaimer will go here {{/inline}}`
 

@@ -1,20 +1,33 @@
 ---
 title: AEP中的身份拼合
-description: 在已知用户(CRMID)和匿名Web访客(ECID)之间建立身份拼接，从而在Adobe Journey Optimizer (AJO)中实现统一的用户档案以实现实时个性化和优惠决策。
+description: 在已知用户（CRMID）与匿名网站访客（ECID）之间建立身份标识拼接，实现统一的轮廓，以便在 Adobe Journey Optimizer（AJO）中进行实时个性化和智能推荐决策。
 feature: Profiles
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-05-19T00:00:00Z
+last-substantial-update: 2025-05-19T00:00:00.000Z
 jira: KT-18089
 exl-id: d6a1201a-3779-4718-8ea8-b88f925f53b6
-source-git-commit: f3aeb66ca67448e7751ab2cd6d0bb6ce38f73530
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d2971708-e780-44bb-9e2a-72f139796afd
+    internal-label: Customer
+subfeature_v2:
+  - id: ef9a83ca-eefa-47cf-aa34-f1a34715583a
+    internal-label: Profiles
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '247'
-ht-degree: 0%
-
+source-wordcount: '252'
+ht-degree: 11%
 ---
-
 # AEP中的身份拼合
 
 在现代客户体验中，跨设备和渠道统一用户身份至关重要。 此用例演示了如何在Adobe Experience Platform (AEP)中实施身份拼接，方法是将已知CRM ID（在用户登录期间捕获）与Adobe Web SDK生成的匿名Experience Cloud ID (ECID)关联。 通过实时将这些身份拼合在一起，AEP可以构建更加完整的客户档案，该档案跨越匿名行为和经过身份验证的数据。 这可以在Adobe Journey Optimizer (AJO)等工具中实现更准确的受众分段、个性化和决策。

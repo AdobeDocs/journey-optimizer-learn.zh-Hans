@@ -8,13 +8,20 @@ role: Developer
 level: Beginner
 breadcrumb-url: /docs/journey-optimizer-learn/frequency-capping-in-ajod/introduction
 auto-video-transcripts: true
-source-git-commit: bef6d831c639d40514552dae3ff20132626a4a09
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 1%
-
 ---
-
 
 # 为通过Adobe Journey Optimizer Decisioning提供的选件启用频率封顶。{#frequency-capping-in-ajod}
 

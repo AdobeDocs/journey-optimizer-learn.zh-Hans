@@ -6,22 +6,35 @@ role: User
 level: Beginner
 doc-type: Tutorial
 recommendations: noDisplay, noCatalog
-last-substantial-update: 2025-07-18T00:00:00Z
+last-substantial-update: 2025-07-18T00:00:00.000Z
 jira: KT-18526
 exl-id: 7e6014b5-c5a6-467b-8e31-58c5d966464c
-source-git-commit: bef6d831c639d40514552dae3ff20132626a4a09
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: a984631b-2bae-4860-9b15-69c41a799dcb
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: a7a194a0-75e2-4913-8a83-14714fbf68e6
+    internal-label: Decisioning API
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '451'
+source-wordcount: '472'
 ht-degree: 0%
-
 ---
-
 # 捕获展示和交互事件
 
 要启用AJO Decisioning中的选件展示次数和点击次数报表，必须配置以下组件：
 >[!NOTE]
 >
-> [上一教程](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/create-schema-and-dataset)的创建架构和数据集部分中已完成这些先决条件
+> [上一教程](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/create-schema-and-dataset)的创建架构和数据集部分中已完成这些先决条件
 
 ## &#x200B;1. Adobe Experience Platform (AEP)中的数据集
 
@@ -29,15 +42,15 @@ ht-degree: 0%
 
 架构必须包括`Web Details`字段组，用于捕获页面URL、反向链接等。
 
-## 2.数据流配置
+## &#x200B;2. 数据流配置
 
 - 必须在Adobe Experience Platform中创建&#x200B;**数据流**。
 - 此数据流必须链接到上面配置的数据集，以确保所有Web SDK事件都被正确摄取到正确的目标中。
 
-## &#x200B;3. Adobe Experience Platform Tags资产
+## &#x200B;3. Adobe Experience Platform Tags属性
 
 - AEP Web SDK扩展已配置为使用在上一步中创建的数据流。
-- Experience Cloud ID服务已配置
+- 已配置Experience Cloud ID服务
 - 名称为ECID的数据元素将添加到属性中
 - 在呈现优惠的网站上实施。
 
