@@ -1,42 +1,52 @@
 ---
-title: Loyalty in an Omnichannel World
-description: Building a Unified, Predictive, Real-Time Loyalty Experience Across All Customer Touchpoints.
+title: 全渠道世界中的忠诚
+description: 在所有客户接触点构建统一、可预测、实时的忠诚度体验。
 feature: Overview
 role: User
 hide: true
 index: false
 exl-id: 73603f31-b60f-4062-8de2-636b20d2c039
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: bb359667-ec7d-4d4b-8663-5850fc219d32
+    internal-label: Administration
+subfeature_v2:
+  - id: fdac7813-bd56-47ae-9f6d-fa94ad1c5dee
+    internal-label: Overview
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '2186'
 ht-degree: 0%
-
 ---
+# 全渠道世界中的忠诚
 
-# Loyalty in an Omnichannel World
-
-## Building a Unified, Predictive, Real-Time Loyalty Experience Across All Customer Touchpoints
+## 在所有客户接触点构建统一、可预测、实时的忠诚度体验
 
 ### 执行摘要
 
-The modern customer journey is fractured, nonlinear, and intensely cross-channel. Consumers fluidly transition between mobile apps, desktop browsers, in-store experiences, call centers, email, SMS, push notifications, social channels, connected devices, and paid media retargeting. Yet most loyalty programs still operate using siloed systems, channel-centric incentives, and batch-based processing that cannot keep up with customer expectations of immediacy, continuity, and personalization. The result is a disjointed loyalty experience: email says a reward is available, while the app displays outdated information; in-store staff cannot see tier or benefit eligibility; push notifications fire out of sync with email journeys; customers receive conflicting offers; identity mismatches cause progress loss; and loyalty value is inconsistently visible across brand surfaces.
+现代客户历程是支离破碎的、非线性的，而且是强烈的跨渠道客户历程。 消费者在移动应用程序、桌面浏览器、店内体验、呼叫中心、电子邮件、短信、推送通知、社交渠道、连接设备和付费媒体重新定位之间流畅转换。 但大部分忠诚度计划仍然使用孤立的系统、以渠道为中心的激励和基于批次的处理，无法跟上客户对即时、连续性和个性化的期望。 这会造成忠诚度体验混乱：电子邮件表明存在奖励，而应用程序显示过期信息；店内员工看不到层级或福利资格；推送通知与电子邮件历程不同步；客户收到冲突的优惠；身份不匹配会导致进度损失；并且忠诚度值在品牌表面中的显示不一致。
 
-To thrive in this environment, brands must shift from channel-based loyalty marketing to **omnichannel loyalty orchestration** — a unified, continuous, data-driven system that recognizes the same customer everywhere, adapts to behavior in real time, and synchronizes messaging, rewards, and experience state across every touchpoint. Omnichannel loyalty is not a messaging strategy; it is an architectural redesign of how loyalty value travels with the customer through their entire lifecycle.
+要在此环境中蓬勃发展，品牌必须从基于渠道的忠诚度营销转变为&#x200B;**全渠道忠诚度编排** — 这是一个统一、连续、数据驱动的系统，它可以在任何地方识别同一客户，实时适应行为，并在每个接触点同步消息、奖励和体验状态。 全渠道忠诚度不是消息传递战略；而是对忠诚度价值在客户的整个生命周期中如何随客户一起流动进行体系结构重新设计。
 
-This article presents a comprehensive strategic and operational blueprint for building omnichannel loyalty at enterprise scale. It explains the systemic failures of legacy loyalty models, outlines the data and identity infrastructure required for real-time continuity, describes how to design loyalty journeys that operate across channels without conflict, analyzes the economic and emotional impact of omnichannel loyalty, and showcases real examples from Starbucks, Sephora, Delta, Walmart+, and Nike. Finally, it previews how AI will transform omnichannel loyalty through predictive channel selection, journey arbitration, real-time decisioning, micro-personalization, and autonomous orchestration.
+本文介绍了在企业层面建立全渠道忠诚度的全面战略和运营蓝图。 它解释了旧版忠诚度模型的系统性故障，概述了实时连续性所需的数据和身份基础架构，描述了如何设计跨渠道运行且无冲突的忠诚度历程，分析了全渠道忠诚度的经济和情感影响，并展示了来自星巴克、丝芙兰、达美、沃尔玛和耐克的真实示例。 最后，它预览了人工智能将如何通过预测渠道选择、历程仲裁、实时决策、微个性化和自主编排来转变全渠道忠诚度。
 
 
-## 1. The Modern Loyalty Crisis: Why Traditional Approaches Fail
+## &#x200B;1. 现代忠诚度危机：为什么传统方法会失败
 
-Most loyalty programs were built in an era dominated by email marketing and simple earn-and-burn structures. They assumed a linear customer journey and a single primary channel of communication. As customers spread their interactions across multiple devices, channels, and physical environments, these loyalty systems never evolved to match the complexity and velocity of modern behavior.
+大多数忠诚度计划建立在一个以电子邮件营销和简单的盈利和烧录结构为主导的时代。 他们假设客户历程是线性的，并且只有一个主要的沟通渠道。 随着客户将其交互分散到多个设备、渠道和物理环境中，这些忠诚度体系从不会进化到与现代行为的复杂性和速度相匹配。
 
-The first major failure point is **identity fragmentation**. A single customer might interact with the brand through an app login, a browser ID, a POS loyalty number, an email address, a phone number for SMS, and a cookie for web events. In many organizations, these identifiers remain disconnected, resulting in mistaken identity splits, duplicated profiles, incomplete loyalty histories, and broken progress state. A customer who completes a challenge in the app may not see it reflected on the website. A customer who redeems a reward in-store may still receive an email urging redemption. Identity fragmentation erodes trust and undermines the loyalty experience.
+第一个主要故障点是&#x200B;**标识碎片**。 单个客户可以通过应用程序登录、浏览器ID、POS忠诚度编号、电子邮件地址、短信电话号码和Web事件Cookie与品牌进行交互。 在许多组织中，这些标识符保持断开连接状态，这会导致错误的身份拆分、重复的用户档案、不完整的忠诚度历史以及损坏的进度状态。 在应用程序中完成质询的客户可能无法看到该质询反映在网站上。 在店内赎回奖励的顾客，仍可收到一封敦促赎回的电子邮件。 身份碎片化会侵蚀信任，破坏忠诚体验。
 
-The second failure point is **channel silos**. 大多数大型组织仍然由单独的团队负责电子邮件、移动营销、短信、Web个性化、客户支持和零售运营。 每个团队独立执行营销活动，针对渠道KPI（点击率、打开率、应用程序DAU、短信转化）而不是整体客户价值进行优化。 这会造成消息冲突、忠诚度可见性不一致以及疲劳用户的多个重叠联系流。
+第二个故障点是&#x200B;**通道孤岛**。 大多数大型组织仍然由单独的团队负责电子邮件、移动营销、短信、Web个性化、客户支持和零售运营。 每个团队独立执行营销活动，针对渠道KPI（点击率、打开率、应用程序DAU、短信转化）而不是整体客户价值进行优化。 这会造成消息冲突、忠诚度可见性不一致以及疲劳用户的多个重叠联系流。
 
-第三个失败点是基于&#x200B;**批处理的数据同步**。 Many enterprise loyalty systems still reconcile transactions, point earnings, reward balances, and behavioral events overnight or via delayed ETL processes. 但消费者希望他们的忠诚状态能立即反映现实。 If a reward is redeemed in-store, the app and website should refresh within seconds, not hours. 每天仅更新一次忠诚度余额与全渠道参与不兼容。
+第三个失败点是基于&#x200B;**批处理的数据同步**。 许多企业忠诚度系统仍会在一夜之间或通过延迟的ETL流程协调交易、点数收益、奖励余额和行为事件。 但消费者希望他们的忠诚状态能立即反映现实。 如果奖励在店内兑现，则应用程序和网站应在几秒钟内刷新，而不是几小时后刷新。 每天仅更新一次忠诚度余额与全渠道参与不兼容。
 
-The fourth failure point is **loyalty experiences that are not embedded across all customer touchpoints**. 许多项目仅在应用程序或电子邮件通信中显示忠诚度。 但客户参与到各个角落。 忠诚度值必须在主页、产品详细信息页面、购物车、推送通知、短信线程、数字回执、呼叫中心界面和实体商店标牌上可见。 当忠诚度不可见或呈现不一致时，客户会感知价值降低，参与度也会降低。
+第四个失败点是未嵌入到所有客户接触点的&#x200B;**忠诚度体验**。 许多项目仅在应用程序或电子邮件通信中显示忠诚度。 但客户参与到各个角落。 忠诚度值必须在主页、产品详细信息页面、购物车、推送通知、短信线程、数字回执、呼叫中心界面和实体商店标牌上可见。 当忠诚度不可见或呈现不一致时，客户会感知价值降低，参与度也会降低。
 
 这些故障的组合导致了所谓的&#x200B;**忠诚度不一致** — 客户期望的与品牌提供的之间的心理差距。 全渠道忠诚度通过将身份、数据、决策、历程编排和用户体验与单个连续叙述相结合而解决了此问题。
 

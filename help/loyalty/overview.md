@@ -33,10 +33,10 @@ topic_v2:
     internal-label: Optimization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 15d0be3f2fb94737746f3f7fb2d668838c124d36
+source-git-commit: a07c147cfaeb33372c1626a2c23b54c77c28f637
 workflow-type: tm+mt
-source-wordcount: '1658'
-ht-degree: 42%
+source-wordcount: '1946'
+ht-degree: 43%
 ---
 
 # Journey Optimizer Loyalty入门
@@ -110,18 +110,93 @@ CARDS
 
 ## 设置忠诚度
 
-本节介绍开始创建挑战之前所需的一次性设置。
+本节介绍在开始创建挑战（包括忠诚度数据摄取、绩效报告和奖励提供商）之前所需的一次性设置。
 
 
 <!--
 CARDS
 
+* ./set-up-loyalty/prepare-loyalty-data-structures.md
+    {description = Learn how to create XDM schemas and profile-enabled datasets in Adobe Experience Platform to receive loyalty member profile data and loyalty event data.}
+* ./set-up-loyalty/connect-and-map-loyalty-data.md
+    {description = Learn how to configure an HTTP API source connection and dataflows in Adobe Experience Platform, then map loyalty profile and event fields to your datasets.}
+* ./set-up-loyalty/verify-loyalty-data-and-configure-performance-reporting.md
+    {description = Learn how to test loyalty profile and event data ingestion, verify datasets and unified customer profiles, and configure Loyalty Performance settings.}
 * ./set-up-loyalty/set-up-a-loyalty-reward-provider.md
   {description = Learn how to set up a reward provider, create reward definitions, and configure reward payloads so Adobe Journey Optimizer can issue loyalty rewards through your external rewards system.}
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Prepare loyalty data structures">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./set-up-loyalty/prepare-loyalty-data-structures.md" title="准备忠诚度数据结构" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504120/?format=jpeg" alt="准备忠诚度数据结构"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./set-up-loyalty/prepare-loyalty-data-structures.md" target="_blank" rel="referrer" title="准备忠诚度数据结构">准备会员数据结构</a>
+                    </p>
+                    <p class="is-size-6">了解如何在Adobe Experience Platform中创建XDM架构和启用配置文件的数据集，以接收忠诚度会员配置文件数据和忠诚度事件数据。</p>
+                </div>
+                <a href="./set-up-loyalty/prepare-loyalty-data-structures.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Connect and map loyalty data">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./set-up-loyalty/connect-and-map-loyalty-data.md" title="连接并映射忠诚度数据" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504118/?format=jpeg" alt="连接并映射忠诚度数据"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./set-up-loyalty/connect-and-map-loyalty-data.md" target="_blank" rel="referrer" title="连接并映射忠诚度数据">连接并映射忠诚度数据</a>
+                    </p>
+                    <p class="is-size-6">了解如何在Adobe Experience Platform中配置HTTP API源连接和数据流，然后将忠诚度配置文件和事件字段映射到您的数据集。</p>
+                </div>
+                <a href="./set-up-loyalty/connect-and-map-loyalty-data.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Verify loyalty data and configure performance reporting">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./set-up-loyalty/verify-loyalty-data-and-configure-performance-reporting.md" title="验证忠诚度数据并配置绩效报表" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504119/?format=jpeg" alt="验证忠诚度数据并配置绩效报表"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./set-up-loyalty/verify-loyalty-data-and-configure-performance-reporting.md" target="_blank" rel="referrer" title="验证忠诚度数据并配置绩效报表">验证忠诚度数据并配置绩效报表</a>
+                    </p>
+                    <p class="is-size-6">了解如何测试忠诚度配置文件和事件数据摄取、验证数据集和统一的客户配置文件，以及配置忠诚度绩效设置。</p>
+                </div>
+                <a href="./set-up-loyalty/verify-loyalty-data-and-configure-performance-reporting.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Set up a loyalty reward provider">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">

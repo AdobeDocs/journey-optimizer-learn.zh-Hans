@@ -5,16 +5,29 @@ feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-05-05T00:00:00Z
+last-substantial-update: 2025-05-05T00:00:00.000Z
 jira: KT-17728
 exl-id: 382ee746-e8cd-4843-bfe9-913df8914136
-source-git-commit: 7d812f589172c5052a1e9bfcf6a99d0769a6c2c7
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: a984631b-2bae-4860-9b15-69c41a799dcb
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: a7a194a0-75e2-4913-8a83-14714fbf68e6
+    internal-label: Decisioning API
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '226'
-ht-degree: 2%
-
+source-wordcount: '239'
+ht-degree: 7%
 ---
-
 # 使用Decisioning个性化Web优惠
 
 本教程以之前使用Adobe Experience Platform (AEP) Web SDK创建的受众分段设置为基础。 在[之前的教程](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction)中，捕获了用户偏好设置(如股票、债券或存款证(CD)中的利息)，并将其用于在Experience Platform中将个人细分为目标受众。 本教程在此基础上再接再厉，使用Adobe Journey Optimizer (AJO) Decisioning实时为这些受众提供个性化的金融优惠，从而提高参与度和转化结果。

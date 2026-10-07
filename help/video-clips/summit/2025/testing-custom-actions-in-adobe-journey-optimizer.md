@@ -7,13 +7,14 @@ index: false
 hide: true
 recommendations: noCatalog, noDisplay
 exl-id: 6fddb230-2b86-4ec6-aa29-ccd57987b506
-source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 0%
-
 ---
-
 # 测试Adobe Journey Optimizer中的自定义操作
 
 了解如何直接在Adobe Journey Optimizer中测试自定义操作，而无需运行完整的历程，从而节省时间和精力。

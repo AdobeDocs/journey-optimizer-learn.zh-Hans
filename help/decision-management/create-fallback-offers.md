@@ -7,13 +7,23 @@ level: Beginner
 jira: KT-6780
 thumbnail: 329383.jpg
 exl-id: 77dad738-4046-410d-8886-e88f9c872320
-source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
-workflow-type: ht
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: 69102627-e6ba-56f5-ae85-9cc5357f529e
+    internal-label: Offers
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
+workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 100%
-
 ---
-
 # 创建后备产品建议
 
 了解如何为决策管理创建[后备产品建议](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/managing-offers-in-the-offer-library/creating-fallback-offers.html?lang=zh-Hans)。 后备产品建议是向不符合任何个性化产品建议条件的客户显示的默认产品建议。

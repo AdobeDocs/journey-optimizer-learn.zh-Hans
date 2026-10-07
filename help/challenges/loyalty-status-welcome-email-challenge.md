@@ -5,15 +5,25 @@ jira: KT-8109
 feature: Journeys
 role: User
 level: Beginner
-last-substantial-update: 2023-02-01T00:00:00Z
+last-substantial-update: 2023-02-01T00:00:00.000Z
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
-workflow-type: ht
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d998adac-2f81-400b-a669-d07bb196e4eb
+    internal-label: Journeys
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
+workflow-type: tm+mt
 source-wordcount: '443'
 ht-degree: 100%
-
 ---
-
 # 创建忠诚度状态欢迎电子邮件 - 挑战
 
 | 挑战 | 创建忠诚度状态欢迎电子邮件 |
@@ -26,13 +36,13 @@ ht-degree: 100%
 
 ## 案例
 
-Luma 提供忠诚度计划，作为吸引和留住客户的一种方式。 该计划提供了四个不同的等级：青铜、白银、黄金和白金。 每个忠诚度等级都会获得不同的奖励、折扣和其他特殊激励，作为对其重复业务的奖励。
+Luma 提供忠诚度计划，作为吸引和留住客户的一种方式。 该计划提供了四个不同的等级：青铜、白银、黄金和白金。 每个忠诚度等级都会获得不同的奖励、折扣和其他特殊激励，作为对其重复消费的奖励。
 
 为了强调白金等级的特殊地位，Luma 希望在客户达到白金等级时向客户发送欢迎电子邮件。
 
 ## 您的挑战
 
-该公司要求您设置一个历程，当客户达到白金忠诚度等级时，该历程会自动向客户发送欢迎电子邮件。
+您被要求设置一个历程，当客户达到白金忠诚度等级时，该历程会自动向客户发送欢迎电子邮件。
 
 >[!BEGINTABS]
 
@@ -48,7 +58,7 @@ Luma 提供忠诚度计划，作为吸引和留住客户的一种方式。 该�
 
    1. 客户应收到一封电子邮件，标有 `Luma - Platinum Status - Welcome`，主题行为 `Welcome to Platinum Status, {firstName}!`，且使用创意团队提供的电子邮件正文。 这是[!UICONTROL 事务性]电子邮件。
 
-   1. 上传 HTML 文件时，您会注意到电子邮件引用的是“钻石”状态，而不是“白金”状态。 请在[!UICONTROL 电子邮件设计工具]中更新电子邮件，而不是向创意团队请求新文件。
+   1. 上传 HTML 文件时，您会注意到电子邮件中提到的是“钻石”状态，而不是“白金”状态。 请在[!UICONTROL 电子邮件设计工具]中更新电子邮件，而不是向创意团队请求新文件。
 
 >[!TAB 成功标准]
 

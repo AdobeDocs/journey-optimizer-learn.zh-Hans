@@ -7,17 +7,40 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 6d5c21692c9761d3259bb106063239a310f4de6f
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: bb359667-ec7d-4d4b-8663-5850fc219d32
+    internal-label: Administration
+subfeature_v2:
+  - id: e30b0a1a-b594-47b8-af94-1e3a2be6df11
+    internal-label: Get started
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '1562'
+source-wordcount: '1552'
 ht-degree: 100%
-
 ---
-
 
 # Journey Optimizer 教程
 
-Journey Optimizer 使公司能够创建有黏性的情境式个性化客户体验。 它可在客户与品牌互动的整个历程中为客户提供无缝的指导，从接触的第一刻起直到客户离开，确保在每个接触点都能实现衔接并带来令人满意的体验。
+Journey Optimizer 使公司能够创建有黏性的情境式个性化客户体验。 它可在客户与品牌互动的整个历程中为客户提供无缝的指导，从接触的第一刻起直到客户离开网站，确保在每个接触点都能实现衔接并带来令人满意的体验。
 
 本用户指南包含有关 Adobe Journey Optimizer 特性和功能的视频和教程。 通过参加 [Journey Optimizer 挑战](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)实践您学到的知识。
 
@@ -54,7 +77,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/mobile-learning-hub/overview" target="_blank" rel="referrer" title="移动学习中心">移动学习中心</a>
                     </p>
-                    <p class="is-size-6">移动学习中心为开发人员、管理员、营销人员和分析师提供了配置入站与出站移动渠道所需的一切，使其能够将这些渠道无缝集成到强大的跨渠道营销活动和客户历程中。</p>
+                    <p class="is-size-6">移动学习中心为开发人员、管理员、营销人员和分析师提供了配置入站与出站移动渠道所需的一切，使其能够将这些渠道无缝集成到强大的跨渠道营销活动和历程中。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/mobile-learning-hub/overview" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>

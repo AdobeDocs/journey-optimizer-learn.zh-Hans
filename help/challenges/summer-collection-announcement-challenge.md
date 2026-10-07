@@ -1,30 +1,47 @@
 ---
 title: 创建夏季系列发布公告 - 挑战
-description: 向现有客户群的受众发送夏季系列发布公告，以推广新的 Luma 夏季系列。
+description: 向现有客户受众发送夏季系列发布公告，以推广新的 Luma 夏季系列。
 jira: KT-8109
 feature: Segments, Journeys, Email
 role: User
 level: Beginner
-last-substantial-update: 2023-02-01T00:00:00Z
+last-substantial-update: 2023-02-01T00:00:00.000Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: dc5c129309b9f1dfd6e392b8446b68c60111f82e
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d998adac-2f81-400b-a669-d07bb196e4eb
+    internal-label: Journeys
+  - id: fe338112-e2ce-4876-8989-fc4d497613f1
+    internal-label: Email
+  - id: fda7be7c-b81e-42c0-95a9-616e5b893c03
+    internal-label: Build expressions
+subfeature_v2:
+  - id: a9db6739-b0ee-4ac1-bf1b-d880e21c6a00
+    internal-label: Segments
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '1154'
 ht-degree: 100%
-
 ---
-
 # 创建夏季系列发布公告 - 挑战
 
 | 挑战 | 创建夏季系列发布公告 |
 |---|---|
 | 用户画像 | 历程管理者 |
-| 所需技能 | <ul><li>[创建区段](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=zh-Hans)</li><li> [导入和制作 HTML 电子邮件内容](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=zh-Hans)</li><li>[用例 - 读取区段](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment.html?lang=zh-hans)</li> |
+| 所需技能 | <ul><li>[创建区段](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=zh-Hans)</li><li> [导入和编辑 HTML 电子邮件内容](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=zh-Hans)</li><li>[用例 - 读取区段](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment.html?lang=zh-hans)</li> |
 | 可供下载的资源 | [季节系列电子邮件文件](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip) |
 
 {style="table-layout:auto"}
 
-## 案例
+## 故事
 
 一家虚构的运动服装公司 Luma 正在推广其最新的服装和装备系列，并提升来自现有客户的销售额。 Luma 将推出新的夏季系列，并希望专门针对不同的受众开展推广。
 
@@ -45,7 +62,7 @@ Luma 营销团队要求您在 Journey Optimizer 中实施一项夏季系列营�
 
 * 在 [!DNL Journey Optimizer] 中创建名为&#x200B;*活跃客户*&#x200B;的受众。
 * 该区段必须仅包含活跃的 Luma 客户。
-* 活跃客户是指在 Luma 的品牌忠诚度计划中拥有等级（青铜、白银、黄金或铂金）的客户。
+* 活跃客户是指在 Luma 的忠诚度计划中拥有等级（青铜、白银、黄金或铂金）的客户。
 
 
 >[!TAB 成功标准]
@@ -109,17 +126,17 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
       * 使用提供的 HTML 文件 `SeasonalCollectionEmail.html` 作为电子邮件正文。
    1. 等到两天后，再发送一封包含更多针对性内容的跟进电子邮件消息：
       * 男性客户应收到 **Luma 男士系列**&#x200B;电子邮件。
-         * 消息标题：*Luma 男士系列*
-         * 主题行：*（收件人的名字），欢迎探索男士新运动装备！*
-         * 电子邮件正文：将 `MensCollectionEmail.html` 用作电子邮件正文。
+        * 消息标题：*Luma 男士系列*
+        * 主题行：*（收件人的名字），欢迎探索男士新运动装备！*
+        * 电子邮件正文：将 `MensCollectionEmail.html` 用作电子邮件正文。
       * 女性客户应收到 **Luma 女士系列**&#x200B;电子邮件。
-         * 消息标题：*Luma 女士系列*
-         * 主题行：*（收件人的名字），欢迎探索 Luma 女士系列！*
-         * 电子邮件正文：`WomensCollectionEmail.html`
+        * 消息标题：*Luma 女士系列*
+        * 主题行：*（收件人的名字），欢迎探索 Luma 女士系列！*
+        * 电子邮件正文：`WomensCollectionEmail.html`
       * 其他客户应收到 **Luma 八折系列**&#x200B;电子邮件。
-         * 消息标题：*Luma 八折系列*
-         * 主题行：*（收件人的名字），畅享八折产品建议！*
-         * 电子邮件正文：`20OOffCollectionEmail.html`
+        * 消息标题：*Luma 八折系列*
+        * 主题行：*（收件人的名字），畅享八折产品建议！*
+        * 电子邮件正文：`20OOffCollectionEmail.html`
    1. 在发送上述有针对性的电子邮件后，等待两天时间，以等待客户打开电子邮件
    1. 如果有针对性的电子邮件未在 2 天内被客户打开，则发送 **Luma 八折系列电子邮件**&#x200B;作为最终的重定位尝试
 
@@ -175,7 +192,7 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 >在将历程设置为测试模式之前：
 >
 >1. 确保[!UICONTROL 读取区段活动]具有设置为 **Luma CRM id(lumaCrmId)** 的命名空间
->1. 对于每封电子邮件，覆盖电子邮件的默认电子邮件参数，以便将其发送到您的电子邮件地址：
+>1. 对于每封电子邮件，请覆盖其默认电子邮件参数，以便将其发送到您的电子邮件地址：
 >    * 通过单击眼睛符号显示隐藏值。
 >    * 在电子邮件参数中，单击 T 符号（启用参数覆盖）。
 >
@@ -196,10 +213,10 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
    * 男：Stanleigh Stooke，身份标识值： `4f34057d9d9e792c28ba18ecae378e98`
    * 未指定性别：Louise Petti，身份标识值：`d1f132f9f9502bba047a6ec86c4b61f9`
 
-1. 触发轮廓进入后，您应会收到第一封电子邮件。 应根据您选择的轮廓对标题进行个性化。
+1. 触发轮廓进入后，您应会收到第一封电子邮件。 应根据您选择的轮廓对页眉进行个性化。
 1. 历程应继续进入相应的分支，您应会收到相关电子邮件（例如，如果您选择 *Jenna*，您应会收到 *Luma 女士系列*&#x200B;电子邮件）。
 1. 打开第二封电子邮件，历程应该结束。
-1. 您可以为三个用户档案重复第 4 步 - 7. 以检查分支是否正常工作。
+1. 您可以为三个用户档案重复第 4 步 - 7. 对所有三个轮廓重复此操作，以检查分支是否正常工作。
 1. 要测试超时，请将等待时间设置为 30 秒，然后再次触发该条目。
 1. 请勿打开您收到的电子邮件（请勿预览电子邮件(!)）， 让等待时间耗尽。
 
@@ -207,10 +224,10 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 
 * Luma - 新季系列发布公告
 * 根据您使用的测试轮廓，您应会收到以下电子邮件之一：
-   * Leora：Luma 女士系列
-   * Stanleigh：Luma 男士系列
-   * Louise：Luma - 八折产品建议系列
-* 如果您未打开第二封电子邮件：Luma - 八折产品建议系列
+  * Leora：Luma 女士系列
+  * Stanleigh：Luma 男士系列
+  * Louise：Luma - 八折产品建议系列
+* 如果您未打开第二封电子邮件：Luma - 八折收藏集
 
 >[!TAB 检查您的工作]
 

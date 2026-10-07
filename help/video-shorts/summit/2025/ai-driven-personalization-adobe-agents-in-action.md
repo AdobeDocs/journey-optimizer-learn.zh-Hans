@@ -7,13 +7,14 @@ index: false
 hide: true
 recommendations: noCatalog, noDisplay
 exl-id: 28d2a04b-70b7-4809-876b-d7bf381c1b1f
-source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
-
 ---
-
 # AI驱动的Personalization：Adobe代理的实际操作
 
 了解Adobe的智能代理如何大规模编排超个性化的客户体验，从而解决预算紧张和内容生产瓶颈等难题。

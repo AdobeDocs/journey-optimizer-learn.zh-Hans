@@ -7,13 +7,14 @@ index: false
 hide: true
 recommendations: noCatalog, noDisplay
 exl-id: 00e6c6b4-745e-480c-a8d0-5b303f896326
-source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
-
 ---
-
 # 内容卡：移动应用程序的游戏改变器
 
 了解Adobe Journey Optimizer中的内容卡如何直接在您的应用程序中提供个性化的非侵入式内容，以提高参与度和转化率。

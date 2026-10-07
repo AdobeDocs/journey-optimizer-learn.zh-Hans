@@ -5,19 +5,29 @@ jira: KT-7531
 feature: Journeys
 role: User
 level: Beginner
-last-substantial-update: 2023-02-01T00:00:00Z
+last-substantial-update: 2023-02-01T00:00:00.000Z
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 7861e0ca17a616273f5ea1b4d850310f1f4ec8b8
-workflow-type: ht
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d998adac-2f81-400b-a669-d07bb196e4eb
+    internal-label: Journeys
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
+workflow-type: tm+mt
 source-wordcount: '688'
 ht-degree: 100%
-
 ---
-
 
 # 创建订单确认电子邮件
 
-| 挑战 | 创建订单确认事务型电子邮件 |
+| 挑战 | 创建订单确认交易型电子邮件 |
 |---|---|
 | 用户画像 | 历程管理者 |
 | 所需技能 | <ul><li>[使用消息编辑器创建电子邮件内容](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=zh-Hans)</li> <li>[使用上下文事件信息进行个性化](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=zh-Hans)</li><li>[使用辅助函数进行个性化](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=zh-Hans)</li></ul> |
@@ -27,7 +37,7 @@ ht-degree: 100%
 
 ## 案例
 
-Luma 即将推出其在线商店，希望确保良好的客户体验。 他们将在客户下订单后，发送订单确认电子邮件。
+Luma 即将推出其网络商店，希望确保良好的客户体验。 他们将在客户下订单后，发送订单确认电子邮件。
 
 ## 您的挑战
 
@@ -47,9 +57,9 @@ Luma 即将推出其在线商店，希望确保良好的客户体验。 他们�
 
    * 使用 `Luma - Order summary` 模板并对其进行修改：
 
-      * 删除 `You may also like` 部分
+     * 删除 `You may also like` 部分
 
-      * 在电子邮件底部添加取消订阅链接
+     * 在电子邮件底部添加取消订阅链接
 
 电子邮件的结构应如下所示：
 
@@ -57,7 +67,7 @@ Luma 即将推出其在线商店，希望确保良好的客户体验。 他们�
 <tr>
 <td>
   <div>
-     <strong>标题部分</strong>
+     <strong> 标题部分</strong>
       </div>
   </td>
   <td>
@@ -86,16 +96,16 @@ Luma 即将推出其在线商店，希望确保良好的客户体验。 他们�
   </td>
  <td>
   <div>
-     <strong>收货地址部分</strong>
+     <strong> 收货地址部分</strong>
       </div>
       <p>
       <li>名字和姓氏来自轮廓
       <li>将模板中的硬编码地址替换为<b>送货地址</b>
       <li>地址详细信息是事件中的上下文属性（街道 1、城市、邮政编码、州/省）
-      <li>移除<i>折扣、总计、到达时间</i></p>
+      <li> 移除<i>折扣、总计、到达时间</i></p>
   </td>
   <td>
-  <p>收货地址：</p>
+  <p> 收货地址：</p>
       <em>{firstName} {lastName}<br>
      {Street 1}<br>
      {City}, {State} {postalCode}<br></em></p>
@@ -124,7 +134,7 @@ Luma 即将推出其在线商店，希望确保良好的客户体验。 他们�
   <p>每个商品的布局应如下所示：
    <img alt="订单" src="./assets/c2-order.png"> 
 <p><b>将链接添加到购物车</b>
-<p>将 URL 中的订单 ID 替换为采购订单编号： 
+<p>将 URL 中的订单 ID 替换为采购订单编号：
    <i>https://luma.enablementadobe.com/content/luma/us/en/user/account/order-history/order-details.html?orderId=90845952-c2ea-4872-8466-5289183e4607</i>
 </td>
   </tr>
@@ -132,15 +142,15 @@ Luma 即将推出其在线商店，希望确保良好的客户体验。 他们�
 
 >[!TIP]
 >
->为了让您能够对历程进行故障排除，如果出现超时或出错的情况，最佳实践是为所有消息操作添加替代路径。
+>为了让您能够对历程进行故障排除，如果出现超时或出错的情况，最佳做法是为所有消息操作添加替代路径。
 
 >[!TAB 成功标准]
 
-触发您在测试模式下创建的历程，并向您自己发送电子邮件：
+在测试模式下触发您创建的历程，并向您自己发送电子邮件：
 
 1. 在切换到测试模式之前，覆盖电子邮件参数，以便向您的电子邮件地址发送测试电子邮件：
    1. 打开电子邮件详细信息视图。
-   1. 在电子邮件参数部分中，单击 T 符号（启用参数覆盖）
+   1. 在电子邮件参数部分中，单击 T 符号（启用参数覆盖
    1. 单击进入“地址”字段
    1. 在下一个屏幕上，在表达式编辑器中将您的电子邮件地址 *yourname@yourdomain* 添加到括号中，然后单击“确定”。
 1. 将历程置于测试模式
@@ -158,7 +168,7 @@ Luma 即将推出其在线商店，希望确保良好的客户体验。 他们�
 
 您应会收到个性化的购买确认电子邮件。
 
-* 主题行应具有测试轮廓的名字：Leora
+* 主题行应包含测试轮廓的名字：Leora
 
 * 电子邮件正文应如下所示：
 
@@ -179,7 +189,7 @@ Luma 即将推出其在线商店，希望确保良好的客户体验。 他们�
 
 **收货地址部分：**
 
-以下是您的代码所应显示的内容：
+您的代码应如下所示：
 
 ```javascript
 {{ profile.person.name.firstName }} {{ profile.person.name.lastName }}
@@ -189,11 +199,11 @@ Luma 即将推出其在线商店，希望确保良好的客户体验。 他们�
 
 *event.45481416* 不同于您使用的数字。
 
-提示：单独个性化每个行
+提示：单独个性化每一行
 
 **订单详情部分：**
 
-以下是您的代码所应显示的内容：
+您的代码应如下所示：
 
 标题：
 

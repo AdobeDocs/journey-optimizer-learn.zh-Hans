@@ -4,20 +4,30 @@ description: 挑战提供了一种场景和练习运用所学知识的必需要�
 feature: Journeys
 role: User
 level: Beginner
-last-substantial-update: 2023-02-01T00:00:00Z
+last-substantial-update: 2023-02-01T00:00:00.000Z
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
-workflow-type: ht
-source-wordcount: '547'
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d998adac-2f81-400b-a669-d07bb196e4eb
+    internal-label: Journeys
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
+workflow-type: tm+mt
+source-wordcount: '569'
 ht-degree: 100%
-
 ---
-
 # Journey Optimizer 挑战 - 简介和先决条件
 
 挑战提供了一种场景和练习运用所学知识的必需要求。 挑战可帮助您评估自己的技能水平并确定知识差距。
 
-此部分中的每个挑战都涉及您实施的一个独特用例。 目标受众（用户画像）和所需技能将列在每个挑战的开头。
+此部分中的每个挑战都针对一个由您实施的独特用例。 目标受众（用户画像）和所需技能将列在每个挑战的开头。
 
 ## 先决条件
 
@@ -45,7 +55,7 @@ ht-degree: 100%
 
 ## 案例
 
-Luma 是一家虚构的运动服装公司，在多个国家/地区开设店铺，在线开设网站，并提供移动应用。 Luma 使用 Adobe Journey Optimizer 为客户提供互联、情境式和个性化的体验。
+Luma 是一家虚构的运动服装公司，在多个国家/地区开设店铺，在线开设网站，并提供移动应用。 Luma 使用 Adobe Journey Optimizer 为客户提供互联、上下文和个性化的体验。
 
 Luma 正寻求推广其最新的服装和装备系列，并推动针对现有客户的销售。 您受雇负责在 Journey Optimizer 中实施 Luma 营销和客户保留活动。
 
@@ -82,7 +92,7 @@ Luma 正寻求推广其最新的服装和装备系列，并推动针对现有客
     <td>
     <div >
       <a>
-    <strong><a href="loyalty-status-welcome-email-challenge.md">创建忠诚度状态欢迎电子邮件</strong> 
+    <strong><a href="loyalty-status-welcome-email-challenge.md">创建忠诚度状态欢迎电子邮件</strong>
     </a>
     </div>
     <p>

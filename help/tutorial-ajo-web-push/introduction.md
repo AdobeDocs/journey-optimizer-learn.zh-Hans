@@ -5,16 +5,26 @@ feature: Push
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2026-04-21T00:00:00Z
+last-substantial-update: 2026-04-21T00:00:00.000Z
 jira: KT-20879
 exl-id: 5cda28e4-ea2f-4277-8951-a23525ca655a
-source-git-commit: 676c21ca09e0df8d404b05081d71b147755d65d5
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: 66e1fd99-672d-5d64-aa58-eca107f0fbae
+    internal-label: Push
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '405'
 ht-degree: 0%
-
 ---
-
 # Adobe Journey Optimizer中的Web推送
 
 Web推送通知是一种让用户实时重新参与的强大方法，本教程将指导您使用Adobe Journey Optimizer (AJO)实施这些通知。 首先，您可以使用Web SDK捕获推送通知的用户选择加入偏好设置，从而确保无缝且合规的订阅体验。 接下来，您将创建一个营销活动，向已选择加入的用户发送推送通知，从而实现基于受众的参与。 最后，您将了解如何利用AEP Tags触发自定义降价事件，该事件会在AJO中启动历程，并根据实时用户行为提供及时、个性化的推送通知。

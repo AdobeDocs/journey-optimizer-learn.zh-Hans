@@ -5,17 +5,30 @@ feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-05-30T00:00:00Z
+last-substantial-update: 2025-05-30T00:00:00.000Z
 recommendations: noDisplay, noCatalog
 jira: KT-18188
 exl-id: deb16dd5-23cd-495a-ac91-d22fd77f49bd
-source-git-commit: 640faaf9a316b2ab3e2e7774b2c30612cf1b1dbe
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: a984631b-2bae-4860-9b15-69c41a799dcb
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: a7a194a0-75e2-4913-8a83-14714fbf68e6
+    internal-label: Decisioning API
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '624'
-ht-degree: 1%
-
+source-wordcount: '741'
+ht-degree: 0%
 ---
-
 # 创建营销活动
 
 为了向网页上的用户提供个性化优惠，在Adobe Journey Optimizer中创建了一个营销活动，并配置了正确的渠道 — Web渠道。 此配置可确保通过实时决策将优惠提供给与网站交互的用户。
@@ -83,12 +96,12 @@ ht-degree: 1%
 
    要插入决策策略，请单击“操作”_&#x200B;**&#x200B;**&#x200B;_&#x200B;选项卡中的“编辑内容”**__**，然后单击“编辑代码”**__**&#x200B;以打开个性化编辑器。
 
-   选择左侧的&#x200B;_&#x200B;**决策策略**&#x200B;_&#x200B;图标，然后单击&#x200B;**添加决策策略**&#x200B;按钮以打开&#x200B;**创建决策策略**&#x200B;屏幕。为决策策略提供一个有意义的名称，并选择决策策略应返回的项目数。默认值为1。
-   单击&#x200B;**_下一步_**，然后将上一步中创建的选择策略添加到决策策略中，然后单击&#x200B;**下一步**&#x200B;以完成创建决策策略的过程。确保选择适当的后备优惠。
+   选择左侧的&#x200B;_&#x200B;**决策策略**&#x200B;_&#x200B;图标，然后单击&#x200B;**添加决策策略**&#x200B;按钮以打开&#x200B;**创建决策策略**&#x200B;屏幕。 为决策策略提供一个有意义的名称，并选择决策策略应返回的项目数。 默认值为1。
+   单击&#x200B;**_下一步_**，然后将上一步中创建的选择策略添加到决策策略中，然后单击&#x200B;**下一步**&#x200B;以完成创建决策策略的过程。 确保选择适当的后备优惠。
 
 6. **插入决策策略**
 
-   通过单击&#x200B;_&#x200B;**插入策略**&#x200B;_按钮插入新创建的决策策略。这会在右侧的个性化编辑器中插入for循环。
+   通过单击&#x200B;_&#x200B;**插入策略**&#x200B;_按钮插入新创建的决策策略。 这会在右侧的个性化编辑器中插入for循环。
    将光标置于每个循环之间的第二行，并通过向下钻取`tenant name`导航到选件来插入offerText
 
    在个性化编辑器中插入的决策策略

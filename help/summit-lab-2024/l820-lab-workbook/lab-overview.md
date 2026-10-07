@@ -8,15 +8,28 @@ doc-type: Tutorial
 duration: 0
 jira: KT-14977
 thumbnail: KT-14977.jpeg
-last-substantial-update: 2024-03-26T00:00:00Z
+last-substantial-update: 2024-03-26T00:00:00.000Z
 exl-id: e6d029f9-c936-427b-9d6e-4e296fd3c3ce
-source-git-commit: 1de5297037b9ec707fca7f28e65ae6149f7ad076
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: bb359667-ec7d-4d4b-8663-5850fc219d32
+    internal-label: Administration
+subfeature_v2:
+  - id: fdac7813-bd56-47ae-9f6d-fa94ad1c5dee
+    internal-label: Overview
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '505'
 ht-degree: 0%
-
 ---
-
 # 实验室工作簿
 
 ![Adobe Summit — 替换文本](/help/summit-lab-2024/l820-lab-workbook/assets/adobe-summit.png "Adobe Summit")
@@ -39,7 +52,7 @@ ht-degree: 0%
 >Adobe为您提供对各项功能的抢先访问，这些功能利用创新型人工智能技术。 请注意，这些功能仍在开发中，可能会产生意外或不准确的响应。 在将此功能推向市场时，我们欢迎您提供反馈。
 
 
-### 主要要点
+### 关键要点
 
 * 了解支持的各种移动体验。
 * 配置推送营销活动。

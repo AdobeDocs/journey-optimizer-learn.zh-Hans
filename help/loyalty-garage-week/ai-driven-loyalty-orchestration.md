@@ -5,13 +5,23 @@ feature: Overview
 role: User
 index: false
 exl-id: 726b5620-50a9-4ecf-8e62-a10358cc772b
-source-git-commit: 783cf83169c9e12e07bf4ffc162adfe1b0c33d8f
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: bb359667-ec7d-4d4b-8663-5850fc219d32
+    internal-label: Administration
+subfeature_v2:
+  - id: fdac7813-bd56-47ae-9f6d-fa94ad1c5dee
+    internal-label: Overview
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '6132'
 ht-degree: 0%
-
 ---
-
 # AI驱动的忠诚度编排
 
 ## 从RFM到实时Personalization
