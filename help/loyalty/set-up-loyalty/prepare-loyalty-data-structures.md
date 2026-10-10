@@ -34,4 +34,4 @@ ht-degree: 0%
 
 了解如何在Adobe Experience Platform中设置接收忠诚度会员和事件数据所需的XDM架构和启用配置文件的数据集。
 
->[!VIDEO](https://video.tv.adobe.com/v/3504120/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504146/?captions=chi_hans&learn=on)

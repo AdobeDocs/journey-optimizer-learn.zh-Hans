@@ -34,4 +34,4 @@ ht-degree: 0%
 
 了解如何创建HTTP API连接和数据流，然后将传入的忠诚度用户档案和事件字段映射到您的数据集。
 
->[!VIDEO](https://video.tv.adobe.com/v/3504118/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504137/?captions=chi_hans&learn=on)
