@@ -8,11 +8,9 @@ breadcrumb-url: /docs/journey-optimizer-learn/use-decisioning-to-personalize-web
 auto-video-transcripts: true
 source-git-commit: 1515e674301a7453d89c94de32143f2b837cac98
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 16%
-
+source-wordcount: '79'
+ht-degree: 15%
 ---
-
 
 # 使用Decisioning个性化Web优惠 {#use-decisioning-to-personalize-web-offers}
 
