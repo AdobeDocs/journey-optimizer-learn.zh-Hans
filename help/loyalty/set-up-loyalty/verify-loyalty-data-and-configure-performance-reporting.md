@@ -34,4 +34,4 @@ ht-degree: 0%
 
 了解如何将样本忠诚度配置文件和事件数据发送到Adobe Experience Platform，验证它是否显示在数据集和统一客户配置文件中，然后选择数据集并在“忠诚度绩效”设置中优先级KPI。
 
->[!VIDEO](https://video.tv.adobe.com/v/3504119/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504128/?captions=chi_hans&learn=on)
