@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: f63c9bad8aa86867296132baa3f2a3be58883a9d
-workflow-type: ht
-source-wordcount: '1579'
-ht-degree: 100%
+source-git-commit: cec289fc6f0240c67a5fe6a297ba9a1512d9005f
+workflow-type: tm+mt
+source-wordcount: '1583'
+ht-degree: 99%
 ---
 
 # Journey Optimizer 教程 {#tutorials}
@@ -78,6 +78,7 @@ ht-degree: 100%
   + [订阅和登陆页面](/help/profiles-audiences-subscriptions/subscriptions-and-landing-pages.md)
 + 渠道 {#channels}
   + [移动应用程序优化 - 概述](/help/channels/mobile-app-optimization-overview.md)
+  + [根据轮廓偏好或倾向分数优化渠道](/help/channels/channel-optimization.md)
   + 基于代码的体验渠道{#code-based-experience-channel}
     + [创建基于代码的体验营销活动](/help/channels/create-a-code-based-experience-campaign.md)
     + [将表单字段添加到基于代码的体验渠道模板](/help/channels/form-fields-in-code-based-experiences.md)
@@ -146,9 +147,10 @@ ht-degree: 100%
     + [用于内容生成的 AI 助手 - 概述](/help/content-management/ai-assistant-for-content-generation-overview.md)
     + [借助用于内容生成的 AI 助手创建内容](/help/content-management/create-content-using-ai-assistant-for-content-generation.md)
     + [品牌指南的创建和管理](/help/content-management/brand-guideline-creation-and-management.md)
-  + [根据轮廓偏好或倾向分数优化渠道](/help/channels/channel-optimization.md)
   + [使用 GenStudio 创建电子邮件](/help/content-management/create-an-email-using-genstudio.md)
-  + [在渠道创作中启用外部数据集成](/help/content-management/external-data-integrations-in-channel-authoring.md)
+  + 外部数据集成 {#external-data-integrations}
+    + [创建标准集成](/help/content-management/external-data-integrations/create-a-standard-integration.md)
+    + [创建浏览集成](/help/content-management/external-data-integrations/create-a-browsing-integration.md)
   + [在 Journey Optimizer 中创建符合品牌形象的内容 — 教程](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/create-on-brand-content/overview)
 + 个性化内容 {#personalize-content}
   + [个性化编辑器 - 概述](/help/personalize-content/personalization-editor-overview.md)
