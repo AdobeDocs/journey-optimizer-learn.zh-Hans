@@ -41,6 +41,6 @@ ht-degree: 19%
 
 了解如何在Adobe Journey Optimizer渠道创作中创建用于外部数据和内容的标准集成。 这有助于增强个性化，并改善出站渠道中的参与度。 观看下方视频，了解更多信息。
 
->[!VIDEO](https://video.tv.adobe.com/v/3484118/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3484128/?captions=chi_hans&learn=on&enablevpops)
 
 有关详细信息，请参阅[标准集成文档](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/content-management/combine/integrations/integrations-create)。
