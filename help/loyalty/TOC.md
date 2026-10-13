@@ -6,9 +6,9 @@ level: Beginner
 breadcrumb-title: 忠诚度
 breadcrumb-url: /docs/journey-optimizer-learn/loyalty/overview
 auto-video-transcripts: true
-source-git-commit: a07c147cfaeb33372c1626a2c23b54c77c28f637
+source-git-commit: 07cd7b44db7e534b5b7b3cf7b96fe7ce584047c3
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '177'
 ht-degree: 0%
 ---
 
@@ -19,6 +19,7 @@ ht-degree: 0%
   + [了解Journey Optimizer Loyalty](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
   + [了解忠诚度挑战概念](./introduction-to-loyalty/understand-loyalty-challenge-concepts.md)
 + 设置忠诚度 {#set-up-loyality}
+  + [探索忠诚度挑战的配置选项](./set-up-loyalty/explore-the-configuration-options-for-loyalty-challenges.md)
   + 设置忠诚度数据摄取 {#set-up-loyalty-data-ingestion}
     + [准备忠诚度数据结构](./set-up-loyalty/prepare-loyalty-data-structures.md)
     + [连接并映射忠诚度数据](./set-up-loyalty/connect-and-map-loyalty-data.md)
