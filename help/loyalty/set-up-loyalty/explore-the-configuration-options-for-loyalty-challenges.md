@@ -32,4 +32,4 @@ ht-degree: 0%
 
 探索支持忠诚度挑战的配置选项，包括全局设置、报告、奖励、事件映射、产品清单和排除项。 有关详细的设置指导，请观看有关奖励提供者和事件映射的专门视频。
 
->[!VIDEO](https://video.tv.adobe.com/v/3504405/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504422/?captions=chi_hans&learn=on&enablevpops)
