@@ -29,4 +29,4 @@ ht-degree: 0%
 
 了解Adobe Journey Optimizer的AI功能如何在不编写表达式语言的情况下将纯英语提示转换为旅程条件。 此视频演示如何使用忠诚度会员资格和休眠用户检查来创建更相关的客户路径。
 
->[!VIDEO](https://video.tv.adobe.com/v/3504894/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504902/?captions=chi_hans&learn=on&enablevpops)
