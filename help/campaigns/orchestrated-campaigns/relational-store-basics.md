@@ -28,7 +28,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
 ht-degree: 100%
 ---
@@ -36,4 +36,4 @@ ht-degree: 100%
 
 了解 Journey Optimizer 营销活动编排中使用的关系存储基本概念，包括架构设计、数据摄取、支持的源以及与实时档案存储的主要差异。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470224/?captions=chi_hans&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470214/?learn=on&enablevpops)

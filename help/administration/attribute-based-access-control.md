@@ -28,7 +28,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '60'
 ht-degree: 100%
 ---
@@ -36,4 +36,4 @@ ht-degree: 100%
 
 了解如何配置基于属性的访问控制以限制对特定 Experience Platform 资源的访问。 有关更多信息，请访问[访问控制文档](https://experienceleague.adobe.com/docs/experience-platform/access-control/abac/overview.html?lang=zh-Hans)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3451849?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345641?learn=on)

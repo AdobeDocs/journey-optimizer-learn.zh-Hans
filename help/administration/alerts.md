@@ -35,7 +35,7 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '114'
 ht-degree: 100%
 ---
@@ -50,6 +50,6 @@ ht-degree: 100%
 >
 >从 Journey Optimizer 访问警报时，默认情况下只显示特定于您的实时历程的警报。
 
->[!VIDEO](https://video.tv.adobe.com/v/3423917?captions=chi_hans&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/336218?quality=12&learn=on){transcript=true}
 
 有关更多信息，请参阅[产品文档](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/monitor/monitor-alerts-errors/alerts){target="_blank"}。

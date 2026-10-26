@@ -23,7 +23,7 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '96'
 ht-degree: 100%
 ---
@@ -32,4 +32,4 @@ ht-degree: 100%
 
 了解如何模拟使用 CSV 文件中的外部受众轮廓或联合受众构成（包括未存储在轮廓中的属性）的历程，如票据 ID 或旅行日期。 本视频介绍如何筛选受众、使用外部属性个性化消息、创建模拟用户和模拟受众数据，以在历程上线之前验证正确的路径。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496277/?captions=chi_hans&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496269/?learn=on&enablevpops)

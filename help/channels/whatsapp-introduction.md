@@ -27,7 +27,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '96'
 ht-degree: 100%
 ---
@@ -35,4 +35,4 @@ ht-degree: 100%
 
 此视频简要概述了将 WhatsApp 与 Adobe Journey Optimizer 集成的价值。 它强调了 WhatsApp 的全球覆盖和互动优势，并概述了关键前提条件，如设置 WhatsApp 商业账号、生成访问令牌以及创建消息模板。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470306/?captions=chi_hans&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470296/?learn=on&enablevpops)

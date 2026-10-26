@@ -24,7 +24,7 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '156'
 ht-degree: 100%
 ---
@@ -32,4 +32,4 @@ ht-degree: 100%
 
 在本视频中，您将学习如何有效使用 Adobe Journey Optimizer 中的所有时间报告，以揭示跨客户历程、营销活动和渠道的长期绩效洞察。 本视频将介绍如何浏览关键仪表盘、解读核心 KPI 指标、应用筛选条件与时间范围，并利用历程报告、营销活动报告及洞察构建器等工具进行深度分析与自定义报告，从而帮助营销人员和管理者将数据转化为实际行动。
 
->[!VIDEO](https://video.tv.adobe.com/v/3475797/?captions=chi_hans&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475653/?learn=on&enablevpops)

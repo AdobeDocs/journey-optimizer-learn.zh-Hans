@@ -28,7 +28,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '139'
 ht-degree: 100%
 ---
@@ -42,6 +42,6 @@ ht-degree: 100%
 >
 >观看此[教程](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)，了解如何在 Journey Optimizer 渠道中实施策略。
 
->[!VIDEO](https://video.tv.adobe.com/v/37121/?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/32977/?learn=on)
 
 有关如何在 Journey Optimizer 中[使用同意策略](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/privacy/consent/consent)的更多信息，请参阅产品文档。

@@ -26,7 +26,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '106'
 ht-degree: 100%
 ---
@@ -36,4 +36,4 @@ ht-degree: 100%
 
 了解如何为自动翻译设置翻译项目，以及为多语言消息中的手动翻译和自动翻译项目设置所需的语言。
  
->[!VIDEO](https://video.tv.adobe.com/v/3453553/?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430661/?learn=on)

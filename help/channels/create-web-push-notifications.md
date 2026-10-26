@@ -24,7 +24,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '86'
 ht-degree: 100%
 ---
@@ -32,4 +32,4 @@ ht-degree: 100%
 
 Web 推送允许网站直接向用户设备发送通知，即使浏览器处于后台也是如此。 了解如何在 Adobe Journey Optimizer 中创建和发送 Web 推送通知。 本教程将指导您选择渠道配置、创作消息、选择受众和发布营销活动，以拓展除移动设备之外的更多接触方式。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479351/?captions=chi_hans&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479341/?learn=on&enablevpops)

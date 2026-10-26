@@ -25,7 +25,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '90'
 ht-degree: 100%
 ---
@@ -33,4 +33,4 @@ ht-degree: 100%
 
 了解如何通过上传 CSV 文件来高效导入和激活受众。 了解如何使用 CSV 文件中的扩充属性个性化内容，确保为受众提供更加定制化的体验。
 
->[!VIDEO](https://video.tv.adobe.com/v/3444353/?captions=chi_hans&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444298/?learn=on&enablevpops)

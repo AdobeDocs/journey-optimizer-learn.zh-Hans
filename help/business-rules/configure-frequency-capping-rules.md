@@ -33,7 +33,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '144'
 ht-degree: 100%
 ---
@@ -41,6 +41,6 @@ ht-degree: 100%
 
 了解如何使用 Adobe Journey Optimizer 的业务规则设置频率上限并防止过度招揽客户。 此视频介绍如何创建全局和自定义规则集（例如，将所有电子邮件限制为每天发送一次，或单独为促销电子邮件设置上限），并演示如何将这些规则应用于营销活动以有效管理客户疲劳问题。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433405/?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433395/?learn=on)
 
 有关更多信息，请参阅[产品文档](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/configuration/frequency-rules)。

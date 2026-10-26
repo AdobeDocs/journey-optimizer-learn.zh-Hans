@@ -22,7 +22,7 @@ level_v2:
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
 ht-degree: 100%
 ---
@@ -30,4 +30,4 @@ ht-degree: 100%
 
 了解如何创建基于代码的体验活动，以扩展个性化，并支持服务器端、基于 API 或基于 SDK 的实施方法，从而与开发环境无缝集成。
 
->[!VIDEO](https://video.tv.adobe.com/v/3449463/?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428868/?learn=on)

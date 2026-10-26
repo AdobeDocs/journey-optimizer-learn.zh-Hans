@@ -28,7 +28,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '66'
 ht-degree: 100%
 ---
@@ -36,5 +36,5 @@ ht-degree: 100%
 
 了解历程画布中的内容决策活动如何让用户利用 Adobe Journey Optimizer 的决策功能来提供个性化内容产品建议。 使用此功能根据检索到的产品建议路由配置文件，或将产品建议发送到外部系统，从而提高历程的有效性和个性化水平。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479117/?captions=chi_hans&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479107/?learn=on&enablevpops)
 

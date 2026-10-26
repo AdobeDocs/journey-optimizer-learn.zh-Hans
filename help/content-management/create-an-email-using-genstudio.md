@@ -32,7 +32,7 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '142'
 ht-degree: 100%
 ---
@@ -46,6 +46,6 @@ ht-degree: 100%
 
 了解如何将电子邮件模板从 [!DNL Journey Optimizer] 导出到 [!DNL GenStudio for Performance Marketing]，如何在 [!DNL GenStudio] 中使用模板创建符合品牌标准的电子邮件并将这些电子邮件无缝导入回 [!DNL Journey Optimizer]。
 
->[!VIDEO](https://video.tv.adobe.com/v/3456059/?captions=chi_hans&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3456038/?learn=on&enablevpops)
 
 要了解有关 [!DNL GenStudio for Performance Marketing] 的更多信息，请访问[[!DNL Adobe GenStudio for Performance Marketing] 用户指南](https://experienceleague.adobe.com/zh-hans/docs/genstudio-for-performance-marketing/user-guide/home){target="_blank"}或查看 [Adobe GenStudio for Performance Marketing 教程](https://experienceleague.adobe.com/zh-hans/docs/genstudio-for-performance-marketing-learn/tutorials/overview)。

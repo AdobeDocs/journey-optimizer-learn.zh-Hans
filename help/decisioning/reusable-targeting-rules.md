@@ -25,7 +25,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '70'
 ht-degree: 100%
 ---
@@ -33,4 +33,4 @@ ht-degree: 100%
 
 了解如何在 Adobe Journey Optimizer 中创建、复制和应用可重用目标选择规则，从而根据客户所在区域、语言偏好及行为特征等属性高效开展个性化营销活动 – 既能节省时间，又能提升受众目标选择的精准度。
 
->[!VIDEO](https://video.tv.adobe.com/v/3476137/?captions=chi_hans&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3476127/?learn=on&enablevpops)

@@ -33,7 +33,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '150'
 ht-degree: 100%
 ---
@@ -45,4 +45,4 @@ ht-degree: 100%
 >
 >此视频演示了 Adobe Experience Platform 用户界面中的这项功能。 在 Journey Optimizer 用户界面左侧导航的“数据管理”部分中，提供了相同的功能。
 
->[!VIDEO](https://video.tv.adobe.com/v/3422787?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/29709?learn=on)

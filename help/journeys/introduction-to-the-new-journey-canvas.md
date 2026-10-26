@@ -27,7 +27,7 @@ level_v2:
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
 ht-degree: 100%
 ---
@@ -36,4 +36,4 @@ ht-degree: 100%
 
 了解 Adobe Journey Optimizer 中的全新历程画布体验。 此更新引入了现代渲染引擎，该引擎可支持历程画布，并使其与编排的营销活动和受众构成中已使用的体验保持一致。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496201/?captions=chi_hans&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496193/?learn=on&enablevpops)

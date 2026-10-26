@@ -30,7 +30,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '161'
 ht-degree: 100%
 ---
@@ -40,7 +40,7 @@ ht-degree: 100%
 
 了解如何在 iOS 移动营销应用程序示例中设置并验证推送渠道通知。
 
->[!VIDEO](https://video.tv.adobe.com/v/3449632/?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433053/?learn=on)
 
 有关详细信息，请参阅产品文档：
 

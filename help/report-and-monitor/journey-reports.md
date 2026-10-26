@@ -26,7 +26,7 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '70'
 ht-degree: 100%
 ---
@@ -34,4 +34,4 @@ ht-degree: 100%
 
 了解如何跟踪单个历程的绩效，以及用户如何与历程中的不同步骤进行交互，包括进入和退出统计数据、错误以及执行的操作。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471473/?captions=chi_hans&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470710/?learn=on&enablevpops)

@@ -30,7 +30,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '105'
 ht-degree: 100%
 ---
@@ -38,4 +38,4 @@ ht-degree: 100%
 
 了解如何在 Adobe Journey Optimizer 中配置电子邮件渠道。 该视频将逐步演示如何设置电子邮件配置，包括子域名、IP 池、取消订阅管理、发件人个性化、密送与种子列表、重试逻辑以及追踪参数。 它重点介绍合规性、可投放性和个性化，帮助优化营销电子邮件绩效。
 
->[!VIDEO](https://video.tv.adobe.com/v/3416657?captions=chi_hans&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/334343?quality=12&learn=on){transcript=true}

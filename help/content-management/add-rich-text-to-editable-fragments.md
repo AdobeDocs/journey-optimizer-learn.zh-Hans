@@ -32,7 +32,7 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '134'
 ht-degree: 100%
 ---
@@ -41,6 +41,6 @@ ht-degree: 100%
 
 了解如何使片段中的 HTML 组件可编辑，以便对内容和样式进行动态更新。 您将了解如何构建 HTML、配置内联可编辑字段并将它们与默认内容和 CSS 相关联，然后在实时营销活动环境中测试和验证改动。
 
->[!VIDEO](https://video.tv.adobe.com/v/3464378/?captions=chi_hans&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464363/?learn=on&enablevpops)
 
 有关此功能的更多信息，请参阅[产品文档](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/content-management/fragments/customizable-fragments){target="_blank"}。

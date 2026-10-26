@@ -20,7 +20,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '105'
 ht-degree: 100%
 ---
@@ -28,6 +28,6 @@ ht-degree: 100%
 
 了解如何为决策管理创建[放置环境](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-components/creating-placements.html?lang=zh-Hans)。 放置环境是产品建议的构建基块组件之一。 放置环境是内容类型和渠道的组合，例如电子邮件中的图像或网站上的 HTML 代码。
 
->[!VIDEO](https://video.tv.adobe.com/v/341378?captions=chi_hans&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329372?quality=12&learn=on){transcript=true}
 
 要详细了解如何使用 API 创建放置环境，请参阅[产品指南](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/placements/create.html?lang=zh-Hans)
