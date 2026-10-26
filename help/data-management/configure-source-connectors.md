@@ -33,4 +33,4 @@ ht-degree: 100%
 
 了解源连接器以及如何在 Journey Optimizer 中进行配置。
 
->[!VIDEO](https://video.tv.adobe.com/v/335919?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422581?captions=chi_hans&quality=12&learn=on){transcript=true}

@@ -30,4 +30,4 @@ ht-degree: 100%
 
 了解如何创建基于代码的体验活动，以扩展个性化，并支持服务器端、基于 API 或基于 SDK 的实施方法，从而与开发环境无缝集成。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428868/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449463/?captions=chi_hans&learn=on)

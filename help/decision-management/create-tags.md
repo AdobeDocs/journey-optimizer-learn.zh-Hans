@@ -28,6 +28,6 @@ ht-degree: 100%
 
 了解如何在 [!DNL Decision Management] 中[创建标记](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-components/creating-tags.html?lang=zh-Hans)。 标签是产品建议的可选构建基块组件。 它们可用于组织产品建议并将其分组到动态集合中。
 
->[!VIDEO](https://video.tv.adobe.com/v/329374?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/341362?captions=chi_hans&quality=12&learn=on){transcript=true}
 
 要详细了解如何使用 API 创建标记，请参阅[产品指南](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/tags/create.html?lang=zh-Hans)
