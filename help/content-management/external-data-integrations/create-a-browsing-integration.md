@@ -1,6 +1,6 @@
 ---
 title: 创建浏览集成
-description: 了解如何为外部API配置浏览集成、将其链接到标准集成，以及让营销人员在AJO编辑器中搜索、浏览和选择项目，而无需手动输入值。
+description: 了解如何为外部 API 配置浏览集成、将其链接到标准集成，并让营销人员能够在 AJO 编辑器中搜索、浏览和选择项目，而无需手动输入值。
 feature: Personalization, API, Channel Configuration
 role: Admin, User
 level: Intermediate
@@ -32,15 +32,15 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: 53fc4917e68a32d967633cf7188eabf997bfaf14
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '95'
-ht-degree: 0%
+ht-degree: 100%
 ---
 
 # 创建浏览集成
 
-了解如何为外部API配置浏览集成、将其链接到标准集成，以及让营销人员在AJO编辑器中搜索、浏览和选择项目，而无需手动输入值。
+了解如何为外部 API 配置浏览集成、将其链接到标准集成，并让营销人员能够在 AJO 编辑器中搜索、浏览和选择项目，而无需手动输入值。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3504295/?learn=on&enablevpops)
 
-有关详细信息，请参阅[浏览集成文档](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/content-management/combine/integrations/integrations-browsing)。
+有关更多信息，请参阅[浏览集成文档](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/content-management/combine/integrations/integrations-browsing)。

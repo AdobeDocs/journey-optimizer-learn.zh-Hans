@@ -1,6 +1,6 @@
 ---
 title: 创建标准集成
-description: 了解如何创建标准集成以在Adobe Journey Optimizer渠道创作中使用外部数据和内容，并增强出站渠道之间的个性化。
+description: 了解如何创建标准集成，以便在 Adobe Journey Optimizer 渠道创作中使用外部数据和内容，并增强跨出站渠道的个性化能力。
 feature: Personalization, API, Channel Configuration
 role: Admin, User
 level: Intermediate
@@ -33,14 +33,14 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: 53fc4917e68a32d967633cf7188eabf997bfaf14
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
-ht-degree: 19%
+ht-degree: 100%
 ---
 # 创建标准集成
 
-了解如何在Adobe Journey Optimizer渠道创作中创建用于外部数据和内容的标准集成。 这有助于增强个性化，并改善出站渠道中的参与度。 观看下方视频，了解更多信息。
+了解如何创建标准集成，以便在 Adobe Journey Optimizer 渠道创作中使用外部数据和内容。这有助于增强个性化，并改善出站渠道中的参与度。 观看下方视频，了解更多信息。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3484128/?captions=chi_hans&learn=on&enablevpops)
 
-有关详细信息，请参阅[标准集成文档](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/content-management/combine/integrations/integrations-create)。
+有关更多信息，请参阅[标准集成文档](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/content-management/combine/integrations/integrations-create)。

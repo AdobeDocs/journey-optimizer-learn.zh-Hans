@@ -19,7 +19,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '569'
 ht-degree: 100%
 ---
@@ -113,7 +113,7 @@ Luma 正寻求推广其最新的服装和装备系列，并推动针对现有客
   </td>
   <td>
       <a href="order-confirmation-challenge.md">
-    <strong><a href="order-confirmation-challenge.md">创建订单确认</strong>
+    <strong><a href="order-confirmation-challenge.md">创建订单确认</strong>
     </a>
     <div>
     <p>

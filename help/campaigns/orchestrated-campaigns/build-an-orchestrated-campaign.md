@@ -1,6 +1,6 @@
 ---
 title: 构建精心策划的营销活动
-description: 了解如何使用Adobe Journey Optimizer结合用于受众创建、数据操作和多渠道交付的工作流来设计和执行活动。
+description: 了解如何使用 Adobe Journey Optimizer 设计和执行营销活动，并借助工作流进行受众创建、数据操作和多渠道投放。
 feature: Campaigns
 role: User
 level: Beginner, Intermediate
@@ -10,9 +10,9 @@ last-substantial-update: 2026-05-02
 jira: KT-20991
 exl-id: e14a4923-fbfd-4fa7-9266-ef20d22d52e2
 source-git-commit: 0db5fb0d647929c7712b69531423c5c99e2dad90
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '89'
-ht-degree: 75%
+ht-degree: 100%
 ---
 # 构建精心策划的营销活动
 
