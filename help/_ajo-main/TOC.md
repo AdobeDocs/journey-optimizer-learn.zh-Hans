@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: 4d18b0b77c1a7dc115d58575ab46213493dad6aa
+source-git-commit: 53fb6e5aed7d0b3e1782490e938af5dbb5f61082
 workflow-type: tm+mt
 source-wordcount: '1604'
 ht-degree: 98%
@@ -12,7 +12,7 @@ ht-degree: 98%
 # Journey Optimizer 教程 {#tutorials}
 
 + [Journey Optimizer 教程](/help/_ajo-main/overview.md)
-+ {hide-from-toc}[Journey Optimizer中的CX Enterprise Coworker](/help/_ajo-main/coworker.md)
++ [Journey Optimizer中的CX Enterprise Coworker](/help/_ajo-main/coworker.md)
 + Journey Optimizer 简介 {#introduction-to-journey-optimizer}
   + [Journey Optimizer - 概述](/help/introduction/journey-optimizer-overview.md)
   + [Journey Optimizer 简介](/help/introduction/introduction.md)
@@ -276,7 +276,7 @@ ht-degree: 98%
     + [创建并发布战术手册实例](https://experienceleague.adobe.com/zh-hans/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + 练习、实验室和挑战 {#exercises-and-challenges}
   + [配置培训沙盒](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
-  + [挑战](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites){target="_blank"}
+  + {hide-from-toc}[挑战](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites){target="_blank"}
   + Summit Labs {#summit-labs}
     + [使用 Adobe Journey Optimizer (2024) 构建个性化的移动体验](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
     + [在 Adobe Journey Optimizer (2025) 中将编排扩展到全渠道参与](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
