@@ -39,4 +39,4 @@ ht-degree: 0%
 
 使用纯语言提示来创建、配置和启动CX Enterprise Coworker的忠诚度挑战。 在此视频中，了解如何设置受众、奖励和计划，自动设置历程以及查看挑战见解。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496528/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496546/?captions=chi_hans&learn=on&enablevpops)

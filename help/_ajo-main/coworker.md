@@ -111,13 +111,13 @@ CARDS
 * https://experienceleague.adobe.com/zh-hans/docs/coworker/content/chat/use-cases/journeys/create-journey-from-natural-language
   {title = Generate journeys from natural language}
   {description = Turn a plain-language prompt into a draft Journey Optimizer journey with Coworker.}
-  {image = https://video.tv.adobe.com/v/3496867?format=jpeg}
+  {image = https://video.tv.adobe.com/v/3496884?captions=chi_hans&format=jpeg}
   {cta = Watch}
 
 * https://experienceleague.adobe.com/zh-hans/docs/coworker/content/chat/use-cases/journeys/create-journey-from-image
   {title = Create a journey from an image}
   {description = Turn a flowchart image into a draft Journey Optimizer journey that you can review and edit.}
-  {image = https://video.tv.adobe.com/v/3504865?format=jpeg}
+  {image = https://video.tv.adobe.com/v/3504873?captions=chi_hans&format=jpeg}
   {cta = Watch}
 
 * https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/journeys/simulate-journey-using-coworker
@@ -129,13 +129,13 @@ CARDS
 * https://experienceleague.adobe.com/zh-hans/docs/coworker/content/chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker-feature-video
   {title = Create, simulate, and analyze cross-channel journeys}
   {description = Build a journey with email and SMS content. Simulate its paths and identify configuration issues with Coworker.}
-  {image = https://video.tv.adobe.com/v/3504706?format=jpeg}
+  {image = https://video.tv.adobe.com/v/3504714?captions=chi_hans&format=jpeg}
   {cta = Watch}
 
 * https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/journeys/create-loyalty-challenge
   {title = Create a loyalty challenge and surface insights}
   {description = Create loyalty challenges with Coworker. Configure audiences, rewards, and schedules, then review challenge insights.}
-  {image = https://video.tv.adobe.com/v/3496528?format=jpeg}
+  {image = https://video.tv.adobe.com/v/3496546?captions=chi_hans&format=jpeg}
   {cta = Watch}
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -145,7 +145,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/coworker/content/chat/use-cases/journeys/create-journey-from-natural-language" title="从自然语言生成历程" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496867?format=jpeg" alt="从自然语言生成历程"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496884?captions=chi_hans&format=jpeg" alt="从自然语言生成历程"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -168,7 +168,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/coworker/content/chat/use-cases/journeys/create-journey-from-image" title="从图像创建历程" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504865?format=jpeg" alt="从图像创建历程"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504873?captions=chi_hans&format=jpeg" alt="从图像创建历程"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -214,7 +214,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/coworker/content/chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker-feature-video" title="创建、模拟和分析跨渠道历程" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504706?format=jpeg" alt="创建、模拟和分析跨渠道历程"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504714?captions=chi_hans&format=jpeg" alt="创建、模拟和分析跨渠道历程"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -237,7 +237,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/journeys/create-loyalty-challenge" title="创建忠诚度挑战并显示见解" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496528?format=jpeg" alt="创建忠诚度挑战并显示见解"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496546?captions=chi_hans&format=jpeg" alt="创建忠诚度挑战并显示见解"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
