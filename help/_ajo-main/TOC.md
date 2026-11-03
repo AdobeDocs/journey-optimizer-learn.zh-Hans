@@ -3,15 +3,16 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: 05581307a9ec85afe92c517b69bf4f4921226d03
+source-git-commit: 4d18b0b77c1a7dc115d58575ab46213493dad6aa
 workflow-type: tm+mt
-source-wordcount: '1598'
-ht-degree: 99%
+source-wordcount: '1604'
+ht-degree: 98%
 ---
 
 # Journey Optimizer 教程 {#tutorials}
 
 + [Journey Optimizer 教程](/help/_ajo-main/overview.md)
++ Journey Optimizer中的{hide-from-toc}[CX Enterprise Coworker](/help/_ajo-main/coworker.md)
 + Journey Optimizer 简介 {#introduction-to-journey-optimizer}
   + [Journey Optimizer - 概述](/help/introduction/journey-optimizer-overview.md)
   + [Journey Optimizer 简介](/help/introduction/introduction.md)
