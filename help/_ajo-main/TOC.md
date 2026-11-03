@@ -12,7 +12,7 @@ ht-degree: 98%
 # Journey Optimizer 教程 {#tutorials}
 
 + [Journey Optimizer 教程](/help/_ajo-main/overview.md)
-+ Journey Optimizer中的{hide-from-toc}[CX Enterprise Coworker](/help/_ajo-main/coworker.md)
++ {hide-from-toc}[Journey Optimizer中的CX Enterprise Coworker](/help/_ajo-main/coworker.md)
 + Journey Optimizer 简介 {#introduction-to-journey-optimizer}
   + [Journey Optimizer - 概述](/help/introduction/journey-optimizer-overview.md)
   + [Journey Optimizer 简介](/help/introduction/introduction.md)
