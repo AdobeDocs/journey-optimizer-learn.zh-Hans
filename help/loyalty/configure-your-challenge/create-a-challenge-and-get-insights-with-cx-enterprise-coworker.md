@@ -1,6 +1,6 @@
 ---
-title: 利用CX Enterprise Co-worker提出忠诚度挑战并展示见解
-description: 了解如何使用CX Enterprise Co-worker创建、配置和启动使用自然语言的忠诚度挑战，包括受众、奖励、时间表和自动化历程设置。
+title: 借助CX Enterprise Coworker提出忠诚度挑战并展示见解
+description: 了解如何使用CX Enterprise Coworker在Adobe Journey Optimizer中创建和启动忠诚度挑战。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -29,16 +29,14 @@ topic_v2:
     internal-label: Customer experience
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: b37854eacf05b80bcb24c94fe9248cfe18c7ac02
+source-git-commit: 6b3d2ad0ea5d8f185d6c8482e2f4f92f4bb75ded
 workflow-type: tm+mt
-source-wordcount: 72
+source-wordcount: '72'
 ht-degree: 0%
-
 ---
 
+# 借助CX Enterprise Coworker提出忠诚度挑战并展示见解
 
-# 利用CX Enterprise Co-worker提出忠诚度挑战并展示见解
-
-了解如何使用CX Enterprise Co-worker创建、配置和启动使用自然语言的忠诚度挑战，包括受众、奖励、时间表和自动化历程设置。
+使用纯语言提示来创建、配置和启动CX Enterprise Coworker的忠诚度挑战。 在此视频中，了解如何设置受众、奖励和计划，自动设置历程以及查看挑战见解。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3496546/?captions=chi_hans&learn=on&enablevpops)
