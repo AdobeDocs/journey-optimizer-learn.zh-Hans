@@ -39,7 +39,7 @@ ht-degree: 100%
 
 了解您可以在基于 Adobe Experience Platform 的应用程序（例如 Real-Time Customer Data Platform、Journey Optimizer和 Customer Journey Analytics）中使用 AI Assistant 做什么。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429845/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3506287/?captions=chi_hans&learn=on)
 
 有关 Journey Optimizer 中支持的用例的更多信息，请参阅[使用 AI 助手](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/get-started/work-efficiently/ai-features)。 有关详细文档，请访问 [Adobe Experience Platform 中的 AI 助手](https://experienceleague.adobe.com/zh-hans/docs/experience-platform/ai-assistant/home)文档。
 

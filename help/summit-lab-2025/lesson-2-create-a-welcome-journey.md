@@ -35,6 +35,6 @@ ht-degree: 0%
 
 在本练习中，您将基于现有历程开始构建欢迎历程。 首先，定义准入标准，然后使用AI内容加速器首先构建构成电子邮件。
 
->[!VIDEO](https://video.tv.adobe.com/v/3457896/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3505850/?captions=chi_hans&learn=on&enablevpops)
 
 有关此主题的更多指导，请参阅[构建历程简介](/help/journeys/introduction-to-building-a-journey.md)和[用例 — 受众鉴别](/help/journeys/use-case-audience-qualification.md)。
