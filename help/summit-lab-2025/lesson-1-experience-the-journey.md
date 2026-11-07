@@ -33,4 +33,4 @@ ht-degree: 0%
 
 在本课程中，您将体验到新SecurFinancial客户的入门培训历程。
 
->[!VIDEO](https://video.tv.adobe.com/v/3457827/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3505816/?captions=chi_hans&learn=on&enablevpops)

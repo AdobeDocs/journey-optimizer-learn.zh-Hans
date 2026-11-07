@@ -187,7 +187,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction" title="在 Adobe Journey Optimizer 中将编排扩展到全渠道参与 - 简介" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457828/?format=jpeg&nocache=1770161593112" alt="在 Adobe Journey Optimizer 中将编排扩展到全渠道参与 - 简介"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3505725/?captions=chi_hans&format=jpeg&nocache=1770161593112" alt="在 Adobe Journey Optimizer 中将编排扩展到全渠道参与 - 简介"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

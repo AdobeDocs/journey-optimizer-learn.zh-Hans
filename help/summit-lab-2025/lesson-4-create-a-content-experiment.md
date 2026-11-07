@@ -39,7 +39,7 @@ ht-degree: 0%
 
 在本课程中，您将内容试验应用于推送消息。
 
->[!VIDEO](https://video.tv.adobe.com/v/3457924/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3505876/?captions=chi_hans&learn=on&enablevpops)
 
 
 有关此主题的更多指导，请参阅[试验 — 概述](/help/experimentation/introduction-to-experimentation.md)、[为电子邮件营销活动配置内容试验](/help/experimentation/content-experiments-for-emails.md)和[推送通知 — 概述](/help/channels/push-notifications-overview.md)。

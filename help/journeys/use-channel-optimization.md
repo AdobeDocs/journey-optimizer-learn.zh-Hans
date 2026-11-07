@@ -31,4 +31,4 @@ ht-degree: 0%
 
 了解如何使用操作组组合电子邮件、推送和短信，然后通过手动优先级、客户偏好设置或AI参与度分数来优化渠道选择。
 
->[!VIDEO](https://video.tv.adobe.com/v/3505310/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3505318/?captions=chi_hans&learn=on&enablevpops)

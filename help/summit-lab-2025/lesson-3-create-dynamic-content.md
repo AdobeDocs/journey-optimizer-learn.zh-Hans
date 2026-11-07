@@ -39,6 +39,6 @@ ht-degree: 0%
 
 在本练习中，您以将动态内容应用于短信为例，但它可以应用于所有渠道。
 
->[!VIDEO](https://video.tv.adobe.com/v/3457913/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3505859/?captions=chi_hans&learn=on&enablevpops)
 
 有关此主题的更多指导，请参阅[使用条件规则生成器创建动态内容](/help/personalize-content/create-dynamic-content.md)。
