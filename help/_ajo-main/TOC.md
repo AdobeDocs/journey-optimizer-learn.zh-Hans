@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 教程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
-source-git-commit: 75df71a17b6a7b1b60f88b45a9b82ecbe725233a
+source-git-commit: bc518d7987b6f50e782ed5302f25de6185cd20ed
 workflow-type: tm+mt
-source-wordcount: '1604'
+source-wordcount: '1600'
 ht-degree: 98%
 ---
 
@@ -14,8 +14,8 @@ ht-degree: 98%
 + [Journey Optimizer 教程](/help/_ajo-main/overview.md)
 + Journey Optimizer 简介 {#introduction-to-journey-optimizer}
   + [Journey Optimizer - 概述](/help/introduction/journey-optimizer-overview.md)
-  + [Journey Optimizer 简介](/help/introduction/introduction.md)
-  + [主要功能和用户界面](/help/introduction/key-capabilities-and-user-interface.md)
+  + {hide-from-toc}[Journey Optimizer 简介](/help/introduction/introduction.md)
+  + [主要功能](/help/introduction/key-capabilities.md)
   + {hide-from-toc}[架构](/help/introduction/architecture.md)
   + [面向营销人员的移动功能](/help/channels/mobile-capabilities.md)
   + [面向开发人员的移动功能](/help/channels/mobile-capabilities-for-developers.md)
@@ -276,7 +276,7 @@ ht-degree: 98%
     + [创建并发布战术手册实例](https://experienceleague.adobe.com/zh-hans/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + 练习、实验室和挑战 {#exercises-and-challenges}
   + [配置培训沙盒](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
-  + {hide-from-toc}[挑战target="_blank"](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
+  + {hide-from-toc}[挑战](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites){target="_blank"}
   + Summit Labs {#summit-labs}
     + [使用 Adobe Journey Optimizer (2024) 构建个性化的移动体验](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
     + [在 Adobe Journey Optimizer (2025) 中将编排扩展到全渠道参与](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
