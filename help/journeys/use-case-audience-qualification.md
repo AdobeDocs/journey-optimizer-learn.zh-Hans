@@ -5,7 +5,7 @@ jira: KT-7704
 thumbnail: 3425028.jpg
 feature: Journeys
 doc-type: feature video
-last-substantial-update: 2023-11-16T00:00:00.000Z
+last-substantial-update: 2026-11-13
 team: PM
 role: User
 level: Beginner
@@ -22,8 +22,8 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: ht
+source-git-commit: f932f4b5c72e3d231a2dbbe405a2e5e737a09f70
+workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 100%
 ---
@@ -31,4 +31,4 @@ ht-degree: 100%
 
 了解受众资格筛选历程的适用用例。 了解如何使用受众资格筛选构建历程以及可以应用的最佳做法。
 
->[!VIDEO](https://video.tv.adobe.com/v/3446214?captions=chi_hans&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3425028?quality=12&learn=on){transcript=true}
