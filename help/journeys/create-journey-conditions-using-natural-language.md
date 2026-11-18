@@ -1,6 +1,6 @@
 ---
 title: 使用自然语言创建历程条件
-description: 了解如何使用自然语言提示在Adobe Journey Optimizer中创建旅程条件。 使用AI检查忠诚度会员资格并识别休眠用户。
+description: 了解如何使用自然语言提示词在 Adobe Journey Optimizer 中创建历程条件。使用 AI 检查忠诚度会员资格并识别休眠用户。
 role: User
 level: Intermediate
 doc-type: Feature Video
@@ -20,13 +20,13 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: a56917f03581d014c45e777437f090dba863f4a2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
-ht-degree: 0%
+ht-degree: 100%
 ---
 
-# 使用自然语言创建旅程条件
+# 使用自然语言创建历程条件
 
-了解Adobe Journey Optimizer的AI功能如何在不编写表达式语言的情况下将纯英语提示转换为旅程条件。 此视频演示如何使用忠诚度会员资格和休眠用户检查来创建更相关的客户路径。
+了解 Adobe Journey Optimizer 的 AI 功能如何将通俗易懂的提示词转换为历程条件，而无需编写表达式语言。此视频演示如何使用忠诚度会员资格和休眠用户检查来创建更相关的客户路径。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3504902/?captions=chi_hans&learn=on&enablevpops)

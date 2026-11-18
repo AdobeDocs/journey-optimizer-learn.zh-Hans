@@ -1,6 +1,6 @@
 ---
-title: 使用渠道优化来联系他们参与的客户
-description: 了解如何使用操作组组合电子邮件、推送和短信，然后通过手动优先级、客户偏好设置或AI参与度分数来优化渠道选择。
+title: 利用渠道优化在客户活跃的地方触达他们
+description: 了解如何使用操作组将电子邮件、推送和短信结合起来，然后通过手动优先级、客户偏好或 AI 参与度分数来优化渠道选择。
 role: User
 level: Intermediate
 doc-type: Feature Video
@@ -22,13 +22,13 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: 05581307a9ec85afe92c517b69bf4f4921226d03
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '68'
-ht-degree: 0%
+ht-degree: 100%
 ---
 
-# 使用渠道优化来联系他们参与的客户
+# 利用渠道优化在客户活跃的地方触达他们
 
-了解如何使用操作组组合电子邮件、推送和短信，然后通过手动优先级、客户偏好设置或AI参与度分数来优化渠道选择。
+了解如何使用操作组将电子邮件、推送和短信结合起来，然后通过手动优先级、客户偏好或 AI 参与度分数来优化渠道选择。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3505318/?captions=chi_hans&learn=on&enablevpops)
