@@ -32,4 +32,4 @@ ht-degree: 100%
 
 了解 Adobe Journey Optimizer 的关键功能，从客户数据和受众到历程、渠道、内容、决策和忠诚度，以及 AI 可以在哪些方面为您的工作提供支持。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424995?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430322?captions=chi_hans&learn=on){transcript=true}
