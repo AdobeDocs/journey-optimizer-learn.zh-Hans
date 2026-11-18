@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 这些是 Journey Optimizer 教程。
 auto-video-transcripts: true
 source-git-commit: bc518d7987b6f50e782ed5302f25de6185cd20ed
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1600'
-ht-degree: 98%
+ht-degree: 100%
 ---
 
 # Journey Optimizer 教程 {#tutorials}
@@ -15,12 +15,12 @@ ht-degree: 98%
 + Journey Optimizer 简介 {#introduction-to-journey-optimizer}
   + [Journey Optimizer - 概述](/help/introduction/journey-optimizer-overview.md)
   + {hide-from-toc}[Journey Optimizer 简介](/help/introduction/introduction.md)
-  + [主要功能](/help/introduction/key-capabilities.md)
+  + [关键功能](/help/introduction/key-capabilities.md)
   + {hide-from-toc}[架构](/help/introduction/architecture.md)
   + [面向营销人员的移动功能](/help/channels/mobile-capabilities.md)
   + [面向开发人员的移动功能](/help/channels/mobile-capabilities-for-developers.md)
   + [通过 AI 助手获取帮助](/help/ai-agents/ai-assistant.md)
-+ [Journey Optimizer中的CX Enterprise Coworker](/help/_ajo-main/coworker.md)
++ [Journey Optimizer 中的 CX Enterprise Coworker](/help/_ajo-main/coworker.md)
 + [Journey Optimizer — 移动学习中心](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/mobile-learning-hub/overview){target="_blank"}
 + 营销活动 {#create-campaigns}
   + 操作营销活动 {#action-campaigns}
@@ -42,13 +42,13 @@ ht-degree: 98%
   + [全新历程画布简介](/help/journeys/introduction-to-the-new-journey-canvas.md)
   + [构建历程简介](/help/journeys/introduction-to-building-a-journey.md)
   + [使用 AI 分析和构建历程](/help/ai-agents/journey-agent-overview.md)
-  + [使用自然语言创建旅程条件](/help/journeys/create-journey-conditions-using-natural-language.md)
+  + [使用自然语言创建历程条件](/help/journeys/create-journey-conditions-using-natural-language.md)
   + [创建测试轮廓](/help/journeys/test-a-journey.md)
   + [使用外部受众模拟历程](/help/journeys/simulate-journeys-with-external-audiences.md)
   + [通过快速模拟加快历程测试](/help/journeys/accelerate-journey-testing-with-quick-simulation.md)
   + [发布历程](/help/journeys/publish-a-journey.md)
   + [内容决策活动](/help/journeys/content-decision-activity.md)
-  + [使用渠道优化来联系他们参与的客户](/help/journeys/use-channel-optimization.md)
+  + [利用渠道优化在客户活跃的地方触达他们](/help/journeys/use-channel-optimization.md)
   + [在历程中使用数据集查找](/help/journeys/lookup-dataset.md)
   + [掌握多属性筛选](/help/journeys/mastering-multi-attribute-filtering.md)
   + [在历程中使用联合受众进行多实体定位](/help/journeys/multi-entity-targeting-in-journeys.md)
@@ -276,7 +276,7 @@ ht-degree: 98%
     + [创建并发布战术手册实例](https://experienceleague.adobe.com/zh-hans/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + 练习、实验室和挑战 {#exercises-and-challenges}
   + [配置培训沙盒](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
-  + {hide-from-toc}[挑战target="_blank"](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
+  + {hide-from-toc}[挑战](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites){target="_blank"}
   + Summit Labs {#summit-labs}
     + [使用 Adobe Journey Optimizer (2024) 构建个性化的移动体验](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
     + [在 Adobe Journey Optimizer (2025) 中将编排扩展到全渠道参与](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}

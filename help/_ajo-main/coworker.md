@@ -1,7 +1,7 @@
 ---
 hide: true
-title: Journey Optimizer中的CX Enterprise Coworker
-description: 了解同事的对话式AI如何帮助您在Adobe Journey Optimizer中创建历程、模拟客户体验和管理忠诚度挑战。
+title: Journey Optimizer 中的 CX Enterprise Coworker
+description: 了解 Coworker 的对话式 AI 如何帮助您在 Adobe Journey Optimizer 中创建历程、模拟客户体验并管理忠诚度挑战。
 role: Leader, User, Developer, Admin
 level: Beginner
 doc-type: Catalog
@@ -29,34 +29,34 @@ topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
 source-git-commit: 57f70215cfd0c70b64679061089a853c244be391
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1197'
-ht-degree: 28%
+ht-degree: 100%
 ---
 
-# Journey Optimizer中的CX Enterprise Coworker
+# Journey Optimizer 中的 CX Enterprise Coworker
 
-Co-worker是Adobe的对话式人工智能，与CX Enterprise应用程序（如Adobe Journey Optimizer）集成。 它应用Adobe最佳实践来帮助您高效准确地工作。 用简单的语言描述您的任务。 您可以在注册后通过电子邮件请求欢迎历程，并在三天后进行跟进。 或者问，“从这个上传的流程图图像构建一个历程”，然后同事会规划工作。 它可以在您连接的Adobe应用程序中运行任务，并显示结果以供您审阅。
+Coworker 是 Adobe 的对话式 AI，与 Adobe Journey Optimizer 等 CX Enterprise 应用程序集成。它应用 Adobe 最佳实践来帮助您高效准确地工作。用通俗的语言描述您的任务。您可以在注册后通过电子邮件请求欢迎历程，并在三天后发送后续跟进邮件。或者问，“从这个上传的流程图图像构建一个历程”，然后 Coworker 会规划工作。它可以在您连接的 Adobe 应用程序中运行任务，并显示结果以供您审阅。
 
-对于Journey Optimizer而言，这意味着减少配置旅程步骤、准备模拟和设置忠诚度挑战所花费的时间，并增加用于审阅和批准同事所生成内容的时间。 您在每个步骤都由您控制，而同事负责计划、执行和跟进。
+对于 Journey Optimizer 而言，这意味着减少配置历程步骤、准备模拟和设置忠诚度挑战所花费的时间，并增加用于审阅和审批 Coworker 所生成内容的时间。每一步都由您掌控，而 Coworker 负责规划、执行和后续跟进。
 
-## 同事入门
+## 开始使用 Coworker
 
-新同事吗？ 从此处开始，全面了解它如何帮助您在Journey Optimizer和其他CX Enterprise应用程序中更高效地工作。
+初次使用 Coworker？ 从这里开始，全面了解它如何帮助您在 Journey Optimizer 及其他 CX Enterprise 应用程序中更高效地工作。
 
 <!--
 CARDS
 
-* https://experienceleague.adobe.com/zh-hans/docs/coworker/content/home
+* https://experienceleague.adobe.com/en/docs/coworker/content/home
   {title = CX Enterprise Coworker guide}
   {description = A full introduction to Coworker, its capabilities, and supported applications.}
-  {image = https://experienceleague.adobe.com/zh-hans/media_17fc8a012fc3b7ce5ef185f0ea427262b55a3b65f.jpg?width=400&format=pjpg&optimize=medium}
+  {image = https://experienceleague.adobe.com/en/media_17fc8a012fc3b7ce5ef185f0ea427262b55a3b65f.jpg?width=400&format=pjpg&optimize=medium}
   {cta = Get Started}
 
-* https://experienceleague.adobe.com/zh-hans/playlists/coworker-get-started-with-chat
+* https://experienceleague.adobe.com/en/playlists/coworker-get-started-with-chat
   {title = What can Coworker Chat do?}
   {description = Learn how Coworker Chat uses a conversational interface to plan, execute, and complete customer experience work across Adobe and connected systems in minutes.}
-  {image = https://experienceleague.adobe.com/zh-hans/media_17fc8a012fc3b7ce5ef185f0ea427262b55a3b65f.jpg?width=400&format=pjpg&optimize=medium}
+  {image = https://experienceleague.adobe.com/en/media_17fc8a012fc3b7ce5ef185f0ea427262b55a3b65f.jpg?width=400&format=pjpg&optimize=medium}
   {cta = Watch}
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -65,8 +65,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/zh-hans/docs/coworker/content/home" title="CX Enterprise Coworker指南" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hans/media_17fc8a012fc3b7ce5ef185f0ea427262b55a3b65f.jpg?width=400&format=pjpg&optimize=medium" alt="CX Enterprise Coworker指南"
+                    <a href="https://experienceleague.adobe.com/zh-hans/docs/coworker/content/home" title="CX Enterprise Coworker 指南" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/media_17fc8a012fc3b7ce5ef185f0ea427262b55a3b65f.jpg?width=400&amp;format=pjpg&amp;optimize=medium" alt="CX Enterprise Coworker 指南"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -74,12 +74,12 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hans/docs/coworker/content/home" target="_blank" rel="referrer" title="CX Enterprise Coworker指南">CX Enterprise Coworker指南</a>
+                        <a href="https://experienceleague.adobe.com/zh-hans/docs/coworker/content/home" target="_blank" rel="referrer" title="CX Enterprise Coworker 指南">CX Enterprise Coworker 指南</a>
                     </p>
-                    <p class="is-size-6">全面介绍Co-worker、其功能以及受支持的应用程序。</p>
+                    <p class="is-size-6">全面介绍 Coworker、其功能以及受支持的应用程序。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hans/docs/coworker/content/home" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">开始</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">快速入门</span>
                 </a>
             </div>
         </div>
@@ -89,7 +89,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/playlists/coworker-get-started-with-chat" title="Coworker 聊天可以做什么？" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hans/media_17fc8a012fc3b7ce5ef185f0ea427262b55a3b65f.jpg?width=400&format=pjpg&optimize=medium" alt="Coworker 聊天可以做什么？"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/media_17fc8a012fc3b7ce5ef185f0ea427262b55a3b65f.jpg?width=400&amp;format=pjpg&amp;optimize=medium" alt="Coworker 聊天可以做什么？"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -97,9 +97,9 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hans/playlists/coworker-get-started-with-chat" target="_blank" rel="referrer" title="Coworker 聊天可以做什么？">同事聊天功能是什么？</a>
+                        <a href="https://experienceleague.adobe.com/zh-hans/playlists/coworker-get-started-with-chat" target="_blank" rel="referrer" title="Coworker 聊天可以做什么？">Coworker 聊天可以做什么？</a>
                     </p>
-                    <p class="is-size-6">了解 Coworker 聊天如何使用对话界面在数分钟内跨 Adobe 系统和连接的系统规划、执行和完成客户体验工作。</p>
+                    <p class="is-size-6">了解 Coworker 聊天如何利用对话式界面在数分钟内跨 Adobe 系统和连接的系统规划、执行和完成客户体验工作。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hans/playlists/coworker-get-started-with-chat" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看</span>
@@ -110,32 +110,32 @@ CARDS
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-## Journey Optimizer在同事中
+## Coworker 中的 Journey Optimizer
 
-了解Co-worker如何改变您在Journey Optimizer中的工作方式：从提示或图像绘制历程、生成消息内容并指导您完成模拟和配置检查，所有这些都通过易于使用的聊天体验来实现。
+了解 Coworker 如何改变您在 Journey Optimizer 中的工作方式：通过提示词或图片起草历程、生成消息内容，并引导您完成模拟和配置检查——这一切都通过简单易用的聊天体验实现。
 
 <!--
 CARDS
 
-* https://experienceleague.adobe.com/zh-hans/docs/coworker/content/chat/use-cases/journeys/create-journey-from-natural-language
+* https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/journeys/create-journey-from-natural-language
   {title = Generate journeys from natural language}
   {description = Turn a plain-language prompt into a draft Journey Optimizer journey with Coworker.}
   {image = https://images-tv.adobe.com/mpcv3/13099/3496867/2dacfe4d-cdd2-4a33-8449-1fad8a3a310d/e8788cf105924012acd2a90d56bb1845_1793746003-1920x1080.jpg}
   {cta = Watch}
 
-* https://experienceleague.adobe.com/zh-hans/docs/coworker/content/chat/use-cases/journeys/create-journey-from-image
+* https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/journeys/create-journey-from-image
   {title = Create a journey from an image}
   {description = Turn a flowchart image into a draft Journey Optimizer journey that you can review and edit.}
   {image = https://images-tv.adobe.com/mpcv3/13968/3504865/d8195c30-94b5-4070-859b-b9dda5515d1d/9026fe8b165e4092b602fa898bba4d6f_1792796167-1920x1080.jpg}
   {cta = Watch}
 
-* https://experienceleague.adobe.com/zh-hans/docs/coworker/content/chat/use-cases/journeys/simulate-journey-using-coworker
+* https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/journeys/simulate-journey-using-coworker
   {title = Simulate a journey using Coworker}
   {description = Test journey paths with generated profiles and events. Review proof messages and path coverage before publishing.}
   {image = https://images-tv.adobe.com/mpcv3/14050/3507004/d8195c30-94b5-4070-859b-b9dda5515d1d/c41211c8bf714a43bc5bd2284b6b5a28_1793746064-1920x1080.jpg}
   {cta = Watch}
 
-* https://experienceleague.adobe.com/zh-hans/docs/coworker/content/chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker
+* https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker
   {title = Create, simulate, and analyze cross-channel journeys}
   {description = Build a journey with email and SMS content. Simulate its paths and identify configuration issues with Coworker.}
   {image = https://images-tv.adobe.com/mpcv3/13953/3504706/d8195c30-94b5-4070-859b-b9dda5515d1d/84c8ffc936c64926b227bea57502d15f_1792184436-1920x1080.jpg}
@@ -170,7 +170,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/zh-hans/docs/coworker/content/chat/use-cases/journeys/create-journey-from-natural-language" target="_blank" rel="referrer" title="从自然语言生成历程">从自然语言生成历程</a>
                     </p>
-                    <p class="is-size-6">将纯语言提示转换为与同事一起的Journey Optimizer历程草稿。</p>
+                    <p class="is-size-6">使用 Coworker 将通俗语言提示词转化为 Journey Optimizer 历程草稿。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hans/docs/coworker/content/chat/use-cases/journeys/create-journey-from-natural-language" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看</span>
@@ -193,7 +193,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/zh-hans/docs/coworker/content/chat/use-cases/journeys/create-journey-from-image" target="_blank" rel="referrer" title="从图像创建历程">从图像创建历程</a>
                     </p>
-                    <p class="is-size-6">将流程图图像转换为草稿Journey Optimizer历程，以供您查看和编辑。</p>
+                    <p class="is-size-6">将流程图图像转换为可供您审阅和编辑的 Journey Optimizer 历程草稿。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hans/docs/coworker/content/chat/use-cases/journeys/create-journey-from-image" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看</span>
@@ -205,8 +205,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/zh-hans/docs/coworker/content/chat/use-cases/journeys/simulate-journey-using-coworker" title="使用同事模拟历程" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://images-tv.adobe.com/mpcv3/14050/3507004/d8195c30-94b5-4070-859b-b9dda5515d1d/c41211c8bf714a43bc5bd2284b6b5a28_1793746064-1920x1080.jpg" alt="使用同事模拟历程"
+                    <a href="https://experienceleague.adobe.com/zh-hans/docs/coworker/content/chat/use-cases/journeys/simulate-journey-using-coworker" title="使用 Coworker 模拟历程" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://images-tv.adobe.com/mpcv3/14050/3507004/d8195c30-94b5-4070-859b-b9dda5515d1d/c41211c8bf714a43bc5bd2284b6b5a28_1793746064-1920x1080.jpg" alt="使用 Coworker 模拟历程"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -214,9 +214,9 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hans/docs/coworker/content/chat/use-cases/journeys/simulate-journey-using-coworker" target="_blank" rel="referrer" title="使用同事模拟历程">使用同事模拟历程</a>
+                        <a href="https://experienceleague.adobe.com/zh-hans/docs/coworker/content/chat/use-cases/journeys/simulate-journey-using-coworker" target="_blank" rel="referrer" title="使用 Coworker 模拟历程">使用 Coworker 模拟历程</a>
                     </p>
-                    <p class="is-size-6">使用生成的用户档案和事件测试历程路径。 在发布之前查看验证消息和路径覆盖范围。</p>
+                    <p class="is-size-6">使用生成的轮廓和事件测试历程路径。在发布之前审阅校样消息和路径覆盖范围。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hans/docs/coworker/content/chat/use-cases/journeys/simulate-journey-using-coworker" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看</span>
@@ -239,7 +239,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/zh-hans/docs/coworker/content/chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker" target="_blank" rel="referrer" title="创建、模拟和分析跨渠道历程">创建、模拟和分析跨渠道历程</a>
                     </p>
-                    <p class="is-size-6">使用电子邮件和短信内容构建历程。 模拟其路径并识别与Co-worker有关的配置问题。</p>
+                    <p class="is-size-6">使用电子邮件和短信内容构建历程。模拟其路径并识别与 Coworker 有关的配置问题。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hans/docs/coworker/content/chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看</span>
@@ -251,8 +251,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/coworker/using/chat/use-cases/journeys/journey-version-comparison" title="使用同事比较历程版本" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://images-tv.adobe.com/mpcv3/14061/3507163/d8195c30-94b5-4070-859b-b9dda5515d1d/7c8f011e10e54868b17e9fafbc38e28c_1793823976-1920x1080.jpg" alt="使用同事比较历程版本"
+                    <a href="https://experienceleague.adobe.com/zh-hans/docs/coworker/using/chat/use-cases/journeys/journey-version-comparison" title="使用 Coworker 比较历程版本" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://images-tv.adobe.com/mpcv3/14061/3507163/d8195c30-94b5-4070-859b-b9dda5515d1d/7c8f011e10e54868b17e9fafbc38e28c_1793823976-1920x1080.jpg" alt="使用 Coworker 比较历程版本"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -260,11 +260,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/coworker/using/chat/use-cases/journeys/journey-version-comparison" target="_blank" rel="referrer" title="使用同事比较历程版本">使用同事比较历程版本</a>
+                        <a href="https://experienceleague.adobe.com/zh-hans/docs/coworker/using/chat/use-cases/journeys/journey-version-comparison" target="_blank" rel="referrer" title="使用 Coworker 比较历程版本">使用 Coworker 比较历程版本</a>
                     </p>
-                    <p class="is-size-6">将历程版本与可视化比较和详细摘要进行比较。 识别对活动、分支和属性的更改，并跟踪何时进行更新。</p>
+                    <p class="is-size-6">通过可视化对比和详细摘要来比较历程版本。识别对活动、分支和属性所做的更改，并跟踪更新发生的时间。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/coworker/using/chat/use-cases/journeys/journey-version-comparison" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/zh-hans/docs/coworker/using/chat/use-cases/journeys/journey-version-comparison" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看</span>
                 </a>
             </div>
@@ -274,8 +274,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/journeys/create-loyalty-challenge" title="创建忠诚度挑战并显示见解" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://images-tv.adobe.com/mpcv3/13055/3496528/d8195c30-94b5-4070-859b-b9dda5515d1d/72c3012d74bf482fbd10758d4fc08a05_1785395630-1920x1080.jpg" alt="创建忠诚度挑战并显示见解"
+                    <a href="https://experienceleague.adobe.com/zh-hans/docs/coworker/content/chat/use-cases/journeys/create-loyalty-challenge" title="创建忠诚度挑战并显示洞察" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://images-tv.adobe.com/mpcv3/13055/3496528/d8195c30-94b5-4070-859b-b9dda5515d1d/72c3012d74bf482fbd10758d4fc08a05_1785395630-1920x1080.jpg" alt="创建忠诚度挑战并显示洞察"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -283,11 +283,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/journeys/create-loyalty-challenge" target="_blank" rel="referrer" title="创建忠诚度挑战并显示见解">创建忠诚度挑战并显示见解</a>
+                        <a href="https://experienceleague.adobe.com/zh-hans/docs/coworker/content/chat/use-cases/journeys/create-loyalty-challenge" target="_blank" rel="referrer" title="创建忠诚度挑战并显示洞察">创建忠诚度挑战并显示洞察</a>
                     </p>
-                    <p class="is-size-6">与同事一起创建忠诚度挑战。 配置受众、奖励和计划，然后查看挑战分析。</p>
+                    <p class="is-size-6">与 Coworker 一起创建忠诚度挑战。配置受众、奖励和计划，然后审阅挑战洞察。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/journeys/create-loyalty-challenge" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/zh-hans/docs/coworker/content/chat/use-cases/journeys/create-loyalty-challenge" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看</span>
                 </a>
             </div>
@@ -298,4 +298,4 @@ CARDS
 
 >[!AVAILABILITY]
 >
->忠诚度挑战管理需要Adobe Journey Optimizer Loyalty权利。 如果您需要访问权限，请联系您的Adobe客户团队。
+>忠诚度挑战管理需要 Adobe Journey Optimizer Loyalty 权限。如果您需要访问权限，请联系您的 Adobe 帐户团队。
