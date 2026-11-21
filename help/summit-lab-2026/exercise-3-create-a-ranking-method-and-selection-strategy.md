@@ -6,8 +6,8 @@ role: User
 level: Beginner, Intermediate
 doc-type: Tutorial
 duration:
-last-substantial-update: '2026-05-12T00:00:00.000Z'
-jira: KT-
+last-substantial-update: 2026-11-20
+jira: KT-23210
 index: false
 recommendations: noCatalog, noDisplay
 autotag-review: '2026-05-14T18:10:25.897Z'
@@ -34,7 +34,7 @@ level_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
+source-git-commit: 02a0931f8d9ae06241d6f78cee47c61ba70bd2bb
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 0%
@@ -44,4 +44,4 @@ ht-degree: 0%
 
 创建个性化的AI优化模型和基于规则的排名公式，然后将优惠收藏集、资格规则和排名方法组合到可重复使用的选择策略中。
 
->[!VIDEO](https://video.tv.adobe.com/v/XXXXXXX/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3508717/?learn=on&enablevpops)
