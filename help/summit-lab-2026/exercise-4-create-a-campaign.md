@@ -44,4 +44,4 @@ ht-degree: 0%
 
 在本练习中，您将选择策略链接到基于代码的体验，以实现实时Web横幅个性化。
 
->[!VIDEO](https://video.tv.adobe.com/v/3508540/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3508548/?captions=chi_hans&learn=on)
